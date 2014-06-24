@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> kodsnack - Kodsnack 38 - En stor hög håriga shellscript </title>
+
+  
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/poole.css">
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/syntax.css">
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="kodsnack" />
+</head>
+
+<body>
+
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+
+    <div class="sidebar-about">
+      <div class="sidebar-header">
+        <a href="http://kodsnack.github.io"><img src="http://kodsnack.github.io/kodsnack-sidebar.jpg"></a>
+      </div>
+      <p class="lead">
+       Podcast om kod, för kodare. På svenska. 
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+        <li><a href="/om/"> Om </a></li>
+      
+        <li><a href="/avsnitt/"> Avsnitt </a></li>
+      
+        <li><a href="http://feedpress.me/kodsnack"> Prenumerera (RSS) </a></li>
+      
+        <li><a href="http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en"> Prenumerera (iTunes) </a></li>
+      
+        <li><a href="https://twitter.com/KodSnack"> @kodsnack </a></li>
+      
+        <li><a href="https://plus.google.com/&#43;KodsnackSePodcast"> Google&#43; </a></li>
+      
+        <li><a href="http://freenode.net"> IRC: #kodsnack på freenode </a></li>
+      
+    </ul>
+
+    <div class="sidebar-copyright">
+    
+    <a href="https://github.com/kodsnack">github.com/kodsnack</a>
+    
+    </div>
+  </div>
+</div>
+
+
+    <div class="content container">
+<div class="post">
+  <h1>Kodsnack 38 - En stor hög håriga shellscript</h1>
+  <span class="post-date">2014-02-05 08:59</span>
+      
+
+<p>Vi snackar system med <a href="http://noa.resare.com">Noa Resare</a>; system för att bygga och integrera, system för att starta system, Linux, X, serverhallar och meddelandesystem. Som grädde på moset ID3-taggar osynliga för  CRC32.</p>
+
+<p><a href="http://noa.resare.com">Noa Resare</a> finns även på <a href="https://github.com/noaresare">Github</a> och <a href="https://twitter.com/blippie">Twitter</a>.</p>
+
+<h2 id="toc_0">Länkar</h2>
+
+<ul>
+<li><a href="http://kodsnack.se/blog/2012/11/19/kodsnack-8-byggare-bob">Kodsnack 8 - Byggare Bob</a> - vårt tidigare avsnitt om byggsystem</li>
+<li><a href="http://maven.apache.org">Maven</a> - byggsystem och mer därtill</li>
+<li><a href="http://jenkins-ci.org">Jenkins</a> - kontinuerlig integrationsserver</li>
+<li><a href="https://github.com/tru/git-client-plugin/commit/1a51b8ff8090d8163e6a85235baf93ae057246c2">Tobias patch till Jenkins</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Init">Initsystem</a> - program som startar andra program</li>
+<li><a href="http://en.wikipedia.org/wiki/Process_identifier">PID</a> - process-ID</li>
+<li><a href="http://upstart.ubuntu.com">Upstart</a> - Ubuntus init-ersättare</li>
+<li><a href="http://en.wikipedia.org/wiki/Lennart_Poettering">Lennart Poettering</a> - skapare av bland annat System D</li>
+<li><a href="http://www.redhat.com">Red hat</a></li>
+<li><a href="http://freedesktop.org/wiki/Software/systemd/">systemd</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Udev">udev</a> - enhetshanterare för linuxkärnan</li>
+<li><a href="http://www.debian.org">Debian</a> - anrik linuxdistribution</li>
+<li><a href="http://www.gnu.org/software/hurd/">GNU Hurd</a> GNUs ersättare för unixkärnan</li>
+<li><a href="http://fedoraproject.org">Fedora</a> - linuxdistribution från Red hat</li>
+<li><a href="http://en.wikipedia.org/wiki/Mir_(software%29">Mir</a></li>
+<li><a href="http://unity3d.com">Unity</a></li>
+<li><a href="http://m.youtube.com/watch?v=cQoQE_HDG8g">The real story of Wayland and X</a> - video.</li>
+<li><a href="http://en.wikipedia.org/wiki/Wayland_(display_server_protocol%29">Wayland</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cgroups">cgroups</a></li>
+<li><a href="http://www.freedesktop.org/wiki/Software/systemd/logind/">Logind</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Positioning_(marketing%29#Definitions">Positioning statement</a></li>
+<li><a href="http://labs.spotify.com">Spotify labs</a></li>
+<li><a href="http://noa.resare.com/2012/12/spotify-kernel-needle/">Spotify kernel patching</a></li>
+<li><a href="https://www.engineyard.com">Engine yard</a> - molnplattform för Ruby on rails och PHP</li>
+<li><a href="http://rubyonrails.org">Ruby on rails</a></li>
+<li><a href="http://www1.uk.gyron.net">Gyron</a> - driver datorhallar för bland annat Spotify</li>
+<li><a href="http://kodsnack.se/blog/2013/2/4/kodsnack-14-ramvrk">Kodsnack 14 - Ramvärk</a> - om stora ramverk kontra att skriva saker själv</li>
+<li><a href="http://en.wikipedia.org/wiki/Enterprise_Java_Beans">EJB</a> - Enterprise java beans</li>
+<li><a href="http://en.wikipedia.org/wiki/Inversion_of_control">Inversion of control</a></li>
+<li><a href="http://projects.spring.io/spring-framework/">Spring</a></li>
+<li><a href="http://en.wikipedia.org/wiki/OSGi">OSGI</a></li>
+<li><a href="http://www.rabbitmq.com">Rabbit MQ</a></li>
+<li><a href="http://rfc.zeromq.org/spec:23">ZMTP</a></li>
+<li><a href="https://github.com/spotify/netty-zmtp">Netty-ZMTP - Spotifys ZMTP-implementation</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol">AMQP</a></li>
+<li><a href="http://www.celeryproject.org">Celery</a> - pythonbibliotek för meddelandesystem.</li>
+<li><a href="https://github.com/spotify/sparkey">Sparkey</a> - key-value-store som batchskriver och läser billigt istället.</li>
+<li><a href="http://cassandra.apache.org">Cassandra</a> - öppen databas först utvecklad av Facebook</li>
+<li><a href="http://en.wikipedia.org/wiki/Berkeley_DB">Berkley DB</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cdb_(software%29">CDB</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Qmail">Qmail</a></li>
+<li><a href="http://fallabs.com/tokyocabinet/">Tokyo cabinet</a></li>
+<li><a href="http://www.daemonology.net/bsdiff/">BSDiff</a></li>
+<li>Googles diffimplementation (cougarette?)</li>
+<li><a href="http://en.wikipedia.org/wiki/ID3">ID3</a> - metadatacontainer ofta använd för mp3-filer</li>
+<li><a href="http://www.pkware.com/documents/casestudies/APPNOTE.TXT">Zipformatet</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Crc32">CRC32</a></li>
+<li><a href="http://noa.resare.com/2008/08/crc-32-reversal/">Noas CRC32-hack</a></li>
+</ul>
+
+</div>
+</div>
+
+  </body>
+</html>

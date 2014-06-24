@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> kodsnack - Kodsnack 24 - En bättre for-loop </title>
+
+  
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/poole.css">
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/syntax.css">
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="kodsnack" />
+</head>
+
+<body>
+
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+
+    <div class="sidebar-about">
+      <div class="sidebar-header">
+        <a href="http://kodsnack.github.io"><img src="http://kodsnack.github.io/kodsnack-sidebar.jpg"></a>
+      </div>
+      <p class="lead">
+       Podcast om kod, för kodare. På svenska. 
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+        <li><a href="/om/"> Om </a></li>
+      
+        <li><a href="/avsnitt/"> Avsnitt </a></li>
+      
+        <li><a href="http://feedpress.me/kodsnack"> Prenumerera (RSS) </a></li>
+      
+        <li><a href="http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en"> Prenumerera (iTunes) </a></li>
+      
+        <li><a href="https://twitter.com/KodSnack"> @kodsnack </a></li>
+      
+        <li><a href="https://plus.google.com/&#43;KodsnackSePodcast"> Google&#43; </a></li>
+      
+        <li><a href="http://freenode.net"> IRC: #kodsnack på freenode </a></li>
+      
+    </ul>
+
+    <div class="sidebar-copyright">
+    
+    <a href="https://github.com/kodsnack">github.com/kodsnack</a>
+    
+    </div>
+  </div>
+</div>
+
+
+    <div class="content container">
+<div class="post">
+  <h1>Kodsnack 24 - En bättre for-loop</h1>
+  <span class="post-date">2013-08-08 13:29</span>
+      
+
+<p>Vi snackar om programmeringsspråket Go och det driftsatta program Tobias skrivit i språket.</p>
+
+<h2 id="toc_0">Länkar</h2>
+
+<ul>
+<li><a href="http://www.daytona.se/podradiopriset/2013">Svenska poddradiopriset 2013 - rösta på Kodsnack!</a></li>
+<li><a href="http://testflightapp.com">Testflight</a> - kraschhanteringslösning för iOS och snart Android.
+[Hockeyapp]() - kraschhanteringslösning för Android, iOS, Windows phone och Mac.</li>
+<li><a href="https://code.google.com/p/google-breakpad/">Breakpad - kraschrapportering- och hanteringssystem från Google</a></li>
+<li><a href="https://wiki.mozilla.org/Socorro">Socorro - Mozillas serverdel för Breakpad</a></li>
+<li><a href="http://www.scala-lang.org">Scala</a></li>
+<li><a href="http://www.golang.org">Go</a></li>
+<li><a href="http://tour.golang.org/">Den officiella Go-genomgången</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Go_programming_language">Go på Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Core_dump#Windows_Memory_Dumps">Minidump - ett format för minnesdumpar</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Debug_symbol">Debugsymboler</a></li>
+<li><a href="http://golang.org/doc/effective_go.html#goroutines">Goroutines och channels - konstruktioner i Go för samtidighet</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Semaphore_(programming%29">Semafor</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mutex">Mutex</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anonymous_pipe">Pipe</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Conditional_(computer_programming%29">Condition</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Struct_(C_programming_language‰29">Struct i C</a></li>
+<li><a href="https://en.wikipedia.org/wiki/%3F:">Tertiäroperatorn</a></li>
+<li><a href="http://llvm.org/devmtg/2012-11/Gregor-Modules.pdf">Apples modulförslag för C-språk</a></li>
+<li><a href="http://plan9.bell-labs.com/plan9/">Plan 9</a></li>
+<li><a href="http://gcc.gnu.org/onlinedocs/gccgo/">GNUs gokompilator</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Memory_safety">Minnessäkerhet</a></li>
+<li><a href="http://www.sublimetext.com">Sublime text</a></li>
+<li><a href="http://www.xaprb.com/blog/2013/02/15/setting-up-a-go-build-system-in-sublime-text-2/">Att sätta upp ett byggsystem för Go i Sublime text</a></li>
+<li><a href="https://github.com/DisposaBoy/GoSublime">Gosublime - goutvecklingsplugins för Sublime text</a></li>
+<li><a href="http://www.rust-lang.org">Rust - programmeringsspråk från Mozilla</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ML_(programming_language%29">ML</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Haskell_(programming_language%29">Haskell</a></li>
+<li><a href="http://rob.pike.usesthis.com">Rob Pike berättar för the Setup hur han jobbar</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Acme_(https://en.wikipedia.org/wiki/Acme_(text_editor%29">Acme - den texteditor/IDE Rob Pike föredrar</a></li>
+<li><a href="http://www.youtube.com/watch?v=f6kdp27TYZs">Go concurrency patterns - presentation från Google I/O 2012</a></li>
+<li><a href="http://vimeo.com/71278954">Bret Victors tal the future of programming</a> och dess <a href="http://worrydream.com/#!/dbx">guldgruva av länkar och referenser</a></li>
+</ul>
+
+</div>
+</div>
+
+  </body>
+</html>

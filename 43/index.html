@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> kodsnack - Kodsnack 43 - Jätteprestanda i kod som gör helt fel grej </title>
+
+  
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/poole.css">
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/syntax.css">
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="kodsnack" />
+</head>
+
+<body>
+
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+
+    <div class="sidebar-about">
+      <div class="sidebar-header">
+        <a href="http://kodsnack.github.io"><img src="http://kodsnack.github.io/kodsnack-sidebar.jpg"></a>
+      </div>
+      <p class="lead">
+       Podcast om kod, för kodare. På svenska. 
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+        <li><a href="/om/"> Om </a></li>
+      
+        <li><a href="/avsnitt/"> Avsnitt </a></li>
+      
+        <li><a href="http://feedpress.me/kodsnack"> Prenumerera (RSS) </a></li>
+      
+        <li><a href="http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en"> Prenumerera (iTunes) </a></li>
+      
+        <li><a href="https://twitter.com/KodSnack"> @kodsnack </a></li>
+      
+        <li><a href="https://plus.google.com/&#43;KodsnackSePodcast"> Google&#43; </a></li>
+      
+        <li><a href="http://freenode.net"> IRC: #kodsnack på freenode </a></li>
+      
+    </ul>
+
+    <div class="sidebar-copyright">
+    
+    <a href="https://github.com/kodsnack">github.com/kodsnack</a>
+    
+    </div>
+  </div>
+</div>
+
+
+    <div class="content container">
+<div class="post">
+  <h1>Kodsnack 43 - Jätteprestanda i kod som gör helt fel grej</h1>
+  <span class="post-date">2014-03-26 19:11</span>
+      
+
+<p>Vi snackar spel, buggjakter, buggen i GnuTLS och varför inte fler undersökt säkerhetskod. Strul med ljudfiler gav oss sämre material än vanligt att arbeta med, vi ber om ursäkt om det låter lite burkigt här och där.</p>
+
+<h2 id="toc_0">Länkar</h2>
+
+<ul>
+<li><a href="https://developer.apple.com/library/mac/documentation/AnalysisTools/Reference/Instruments_User_Reference/ThreadStates/ThreadStates.html">Instruments - tråd- och låsvy</a></li>
+<li><a href="https://developer.apple.com/library/mac/documentation/AnalysisTools/Reference/Instruments_User_Reference/TimeProfilerInstrument/TimeProfilerInstrument.html">Instruments time profiler-instrument</a></li>
+<li><a href="http://bjoreman.com/images/tobiasThreads.png">Tobias debuggar trådar</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry pi</a> - öppen dator på ett kretskort</li>
+<li><a href="http://www.lehman.cuny.edu/cgi-bin/man-cgi?plockstat+1">plockstat</a></li>
+<li><a href="https://gist.github.com/tru/9397446">Litet exempel på data från plockstat</a></li>
+<li><a href="https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man3/localtime.3.html">OS X localtime_r</a> - tidshantering där alla delar ett lås</li>
+<li><a href="http://apple.stackexchange.com/questions/117844/clock-wont-keep-time-after-mavericks-installation">Diskussioner om tidsdragning på 10.9</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Network_Time_Protocol">ntp</a> - network time protocol</li>
+<li><a href="http://www.xcom.com/enemyunknown/entry">Xcom: enemy unknown</a> och <a href="http://en.wikipedia.org/wiki/UFO:_Enemy_Unknown">klassikern UFO: enemy unknown</a></li>
+<li><a href="https://www.telltalegames.com/walkingdead/">The walking dead</a></li>
+<li><a href="https://www.telltalegames.com">Telltale games</a></li>
+<li><a href="http://www.brokenagegame.com">Broken age</a> - ett nytt äventyrsspel i <a href="http://en.wikipedia.org/wiki/Point-and-click_adventure_game#Point-and-click_adventure">klassisk peka-och-klicka-stil</a> från <a href="http://en.wikipedia.org/wiki/Tim_Schafer">Tim Schafer</a>.</li>
+<li><a href="http://www.bjoreman.com/thoughts/doubleFineJourney.html">Ytterligare några av Fredriks tankar om Broken age</a>.</li>
+<li><a href="http://www.titanfall.com">Titanfall</a></li>
+<li><a href="http://en.wikipedia.org/wiki/First_person_shooterhttp://en.wikipedia.org/wiki/CounterStrike">FPS - first-person shooter</a></li>
+<li><a href="http://en.wikipedia.org/wiki/CounterStrike">Counterstrike</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Quake_3">Quake 3 arena</a></li>
+<li><a href="https://www.youtube.com/watch?v=pItOJfE_GYg">Far cry 3: blood dragon tutorial</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Unit_testing">Unit testing</a></li>
+<li><a href="http://crmsh.nongnu.org">crmsh</a> - programmet Kristoffer jobbar med</li>
+<li><a href="http://en.wikipedia.org/wiki/GnuTLS">GnuTLS</a></li>
+<li><a href="https://www.openssl.org">OpenSSL</a></li>
+<li><a href="http://blog.existentialize.com/the-story-of-the-gnutls-bug.html">Om buggen i GnuTLS</a></li>
+<li><a href="http://nmav.gnutls.org">Nikos Mavrogiannopoulos</a> och <a href="http://josefsson.org">Simon Josefsson</a> - männen bakom GnuTLS</li>
+<li><a href="http://www.tokyotimes.com/2012/a-mysterious-mind-from-japan-puzzles-mathematicians/">Shinichi Mochizuki - japansk matematiker som ingen förstår</a></li>
+<li><a href="http://www.ffmpeg.org">FFMPEG</a> - stor, spridd och fri plattform för att hantera ljud och film</li>
+<li><a href="http://en.wikipedia.org/wiki/Bitwise_operation#Bit_shifts">Bit shift</a> - att förändra binära tal genom att förskjuta deras siffror</li>
+<li><a href="http://en.wikipedia.org/wiki/Resource_Interchange_File_Formathttps://getpocket.com">RIFF-formatet</a></li>
+<li><a href="http://mag.newsweek.com/2014/03/14/bitcoin-satoshi-nakamoto.html">Satoshi Nakamoto</a> - mannen som, troligen, ligger bakom Bitcoin</li>
+<li><a href="https://getpocket.com">Pocket - program för att spara text och läsa senare</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Donald_Knuth">Donald Knuth</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Second-system_effect">Second system syndrome</a></li>
+<li><a href="https://www.suse.com">Suse</a> - ett lite äldre företag som är ganska stort.</li>
+</ul>
+
+</div>
+</div>
+
+  </body>
+</html>

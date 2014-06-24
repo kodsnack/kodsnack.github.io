@@ -7,40 +7,988 @@
     <language>sv</language>
     
     
-    <updated>Sun, 16 Sep 2012 09:30:00 UTC</updated>
+    <updated>Mon, 23 Jun 2014 17:26:14 UTC</updated>
     
     <item>
-      <title>1: Som att handla på IKEA</title>
-      <link>http://kodsnack.github.io/1/</link>
-      <pubDate>Sun, 16 Sep 2012 09:30:00 UTC</pubDate>
+      <title>Kodsnack 56 - Små små lösningar på små små problem</title>
+      <link>http://kodsnack.github.io/56/</link>
+      <pubDate>Mon, 23 Jun 2014 17:26:14 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/1/</guid>
+      <guid>http://kodsnack.github.io/56/</guid>
       <description>
 
-&lt;p&gt;Vi snackar bra och dåligt med plattformar vi utvecklat för och plattformar vi är nyfikna på.&lt;/p&gt;
+&lt;p&gt;Fredrik och Kristoffer snackar om utvecklingen av programmeringskonsten och undrar varför saker inte går snabbare framåt än de gör. Från webben där alla verkar återuppfinna elementarpartiklar om och om igen, via våra likformiga utvecklingsmiljöer till programmeringsspråk där vi återupptäcker Lisp med jämna mellanrum. Famlar vi fortfarande i blindo i väntan på att någon ska upptäcka elden? Vi hinner också med lästips kring Lisp och problemen med de som predikar entydiga och enkla Svar på alla problem.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.malmostartupstudio.se&#34;&gt;Malmö startup studio&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://macromates.com&#34;&gt;Textmate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Yegge&#34;&gt;Steve Yegge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://steve-yegge.blogspot.se/2006/12/parabola.html&#34;&gt;Den statiskt typade säkerhetsvakten på flygplatsen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://steve-yegge.blogspot.se/2006/03/execution-in-kingdom-of-nouns.html&#34;&gt;Execution in the kingdom of nouns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://steve-yegge.blogspot.com&#34;&gt;Steve Yegges blogg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/steveyegge2/blog-rants&#34;&gt;Äldre texter Steve Yegge skrev på Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://joearms.github.io&#34;&gt;Joe Armstrong&lt;/a&gt; - skaparen av programmeringsspråket &lt;a href=&#34;http://en.wikipedia.org/wiki/Erlang_(programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Rob_Pike&#34;&gt;Rob Pike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Emacs&#34;&gt;Emacs&lt;/a&gt; - familj av utbyggbara textredigerare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/js2-mode/&#34;&gt;js2-mode&lt;/a&gt; - javascriptläge för Emacs som Steve Yegge ligger bakom&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt; - javascriptbibliotek för användargränssnitt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/origami/&#34;&gt;Origami&lt;/a&gt; verktyg för att skapa gränssnittsprototyper&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hhvm.com&#34;&gt;HHVM&lt;/a&gt; - Facebooks virtuella maskin för &lt;a href=&#34;http://php.net/&#34;&gt;PHP&lt;/a&gt; och &lt;a href=&#34;http://hacklang.org/&#34;&gt;Hack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://randyluecke.tumblr.com/post/45915323813/im-done-with-the-web&#34;&gt;I&amp;rsquo;m done with the web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cappuccino.org/&#34;&gt;Cappuccino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/280-slides/jfgfmoonhalhgbpeoffnehkedjhgoeno&#34;&gt;280 slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Objective-J&#34;&gt;Objective-J&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/recipes/xcode_help-source_editor/ExploringandEvaluatingSwiftCodeinaPlayground/ExploringandEvaluatingSwiftCodeinaPlayground.html&#34;&gt;Playgrounds&lt;/a&gt; - interaktivt och visuellt verktyg för att experimentera med kod skriven i &lt;a href=&#34;http://en.wikipedia.org/wiki/Swift_(programming_language%29&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ECMAScript_5#ECMAScript.2C_4th_Edition&#34;&gt;ECMAScript 4&lt;/a&gt; - versionen som sköts i sank&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ECMAScript&#34;&gt;ECMAScript&lt;/a&gt; - det &amp;ldquo;officiella&amp;rdquo; namnet på språket vilket Javascript är en implementation av&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://addyosmani.com/writing-modular-js/&#34;&gt;Javascript och moduler&lt;/a&gt; är ett invecklat kapitel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/arguments&#34;&gt;Arguments-objektet&lt;/a&gt; i Javascript är &amp;ldquo;arraylikt&amp;rdquo; men faktiskt inte en array&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Swift_(programming_language%29&#34;&gt;Swift&lt;/a&gt; - nyligen släppt språk från Apple&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/First-class_function&#34;&gt;Första klassens funktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uk.answers.yahoo.com/question/index?qid=20071008093604AARl4Yg&#34;&gt;Allt är redan upptäckt&lt;/a&gt; - i sluten på 1800-talet. Tyvärr inte sant&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Memristor&#34;&gt;Memristorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Paradigm&#34;&gt;Paradigm&lt;/a&gt; - tydligt koncept eller tankemönster&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shared_memory_architecture&#34;&gt;Delat minnesutrymme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/System_6&#34;&gt;System 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_3&#34;&gt;Windows 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Actor_model&#34;&gt;Actormodellen&lt;/a&gt; för samtidig beräkning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Software_transactional_memory&#34;&gt;STM&lt;/a&gt; - software transactional memory&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Race_condition&#34;&gt;Race conditions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Leaky_abstraction&#34;&gt;Läckande abstraktioner&lt;/a&gt; - abstraktioner som inte döljer underliggande detaljer väl nog&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/facebook/hhvm#license&#34;&gt;Licensen för HHVM&lt;/a&gt; - PHP- och Zendlicenserna till största delen&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fall med mjukvarupatent till allmänhetens fördel&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tesla motors släpper patent … eller?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.uber.com&#34;&gt;Uber&lt;/a&gt; - taxi för rika&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.hcsw.org&#34;&gt;Doug Hoyte&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.letoverlambda.com&#34;&gt;Let over lambda&lt;/a&gt; - bok om Lisp&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.paulgraham.com/onlisptext.htmlhttp://www.paulgraham.com/onlisptext.html&#34;&gt;On Lisp&lt;/a&gt; - gratisboken Kristoffer rekommenderar att man läser före Let over lambda&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.instapaper.com&#34;&gt;Instapaper&lt;/a&gt; - läsa-senare-tjänst&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://mitpress.mit.edu/books/little-schemer&#34;&gt;The little schemer&lt;/a&gt; - en ovanlig och underbar liten bok om programmering&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Presentationer av Friedman&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/steveyegge2/ten-great-books&#34;&gt;Ten great books - Steve Yegge&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CAR_and_CDR&#34;&gt;CAR och CDR&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Guy_L._Steele,_Jr.&#34;&gt;Guy Steele&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html&#34;&gt;Common Lisp the language&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.gigamonkeys.com/book/&#34;&gt;Practical common Lisp&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AITR-474.pdf&#34;&gt;Rabbit - a compiler for Scheme&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf&#34;&gt;Tidernas första paper om Scheme&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vax&#34;&gt;VAX&lt;/a&gt; - gammal instruktionsarkitektur&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Netscape&#34;&gt;Netscape&lt;/a&gt; - företaget bakom den en gång stora och populära webbläsaren med samma namn&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Netscape&#34;&gt;W3C&lt;/a&gt; - World wide web consortium, arbetar bland annat med standarder för webben&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://worrydream.com&#34;&gt;Bret Victor&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Read–eval–print_loop&#34;&gt;REPL&lt;/a&gt; - read-eval-print loop&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Scrum_(software_development%29&#34;&gt;Scrum&lt;/a&gt; - populära sätt att filosofera kring mjukvaruutveckling&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://hypercritical.co/2014/04/27/creativity-inc&#34;&gt;Creativity, inc&lt;/a&gt; - bok om &lt;a href=&#34;http://en.wikipedia.org/wiki/Pixar&#34;&gt;Pixar&lt;/a&gt; och hur de försökt arbeta för att fortsätta utvecklas och frodas&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pixar&#34;&gt;Pixar&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object-oriented_design&#34;&gt;Objektorienterad design&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; - testdriven utveckling&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Richard_Feynman&#34;&gt;Richard Feynman&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cargo_cult_science&#34;&gt;Cargo cult science&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Robert_Cecil_Martin&#34;&gt;Robert Martin&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SOLID_(object-oriented_design%29&#34;&gt;SOLID-principerna&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Tage_Danielsson&#34;&gt;Tage Danielsson&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 55 - De stora spektaklen</title>
+      <link>http://kodsnack.github.io/55/</link>
+      <pubDate>Tue, 17 Jun 2014 14:21:03 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/55/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar konferenser, presentationer och lightning talks. Vad gör egentligen en konferens värd att åka på, hur mycket kod vill vi se i presentationsbilderna och ska folk verkligen få ställa frågor?&lt;/p&gt;
+
+&lt;p&gt;Sedan övergår vi till att diskutera vad som får programmeringsspråk att slå igenom och om dagens språkexplosion är bra eller dålig samt poängen med att ens hålla reda på hur populära språk är. Är det bra eller dåligt att behöva lära sig fler språk istället för att kunna fokusera på ett eller ett fåtal?&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se/jobs&#34;&gt;Cenito&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pycon.se&#34;&gt;Pycon.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/5/31/kodsnack-53-gr-en-python-5&#34;&gt;Vårt första avsnitt&lt;/a&gt; om Pycon.se&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lightning_talk&#34;&gt;Lightning talk&lt;/a&gt; - en mycket kort presentation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IRC&#34;&gt;IRC&lt;/a&gt; - Internet relay chat, ärevördigt system för textchatt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/pyconse/status/468763195147300864&#34;&gt;Kända finska uppfinningar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fosdem.org/&#34;&gt;FOSDEM&lt;/a&gt; - tvådagarskonferens i Belgien som vill uppmuntra spridningen av mjukvara med öppen källkod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xmms.org&#34;&gt;XMMS&lt;/a&gt; - mediespelare för unixsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Core_Foundation&#34;&gt;Core foundation&lt;/a&gt; - ett av Apples C-API:er för OS X och iOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/&#34;&gt;Alla presentationer&lt;/a&gt; från WWDC 2014. Den Fredrik pratar om har nummer 237 och heter &amp;ldquo;A strategy for great work&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com&#34;&gt;Meetup&lt;/a&gt; - utmärkt tjänst för att både hitta och organisera alla sorters träffar för likasinnade&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; - utvecklarkonferens i Malmö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gdceurope.com&#34;&gt;GDC&lt;/a&gt; - Game developers conference&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Square_enix&#34;&gt;Square Enix&lt;/a&gt; - företaget bakom &lt;a href=&#34;http://en.wikipedia.org/wiki/Final_Fantasy&#34;&gt;Final fantasy&lt;/a&gt; och många andra stora spel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cocoaheads.org&#34;&gt;Cocoaheads&lt;/a&gt; - gruppen för alla intresserade av utveckling på Apples plattformar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.footballaddicts.com&#34;&gt;Football addicts&lt;/a&gt; - göteborgsbaserade utvecklare av &lt;a href=&#34;http://www.footballaddicts.com/livescore-addicts/ff.html&#34;&gt;Forza football&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cenito.se/jobs&#34;&gt;Cenito&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/krig/parsnip&#34;&gt;Parsnip&lt;/a&gt; - Kristoffers kombinatoriska parser skriven i Python, och &lt;a href=&#34;https://github.com/krig/parsnip-slides&#34;&gt;bilderna&lt;/a&gt; till Kristoffers presentation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kripken/emscripten/wiki&#34;&gt;Emscripten&lt;/a&gt; - kompilerar C++ till Javascript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://schemers.org/&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.smlnj.org/sml.html&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ocaml.org/&#34;&gt;OCaml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Hash_map_%28C%2B%2B%29#Usage_example&#34;&gt;Hashmap i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Kernel_(operating_system%29&#34;&gt;Kernel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Moore%27s_law&#34;&gt;Moores lag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoreman.com/diary/2014/tinyComputing.html&#34;&gt;Fredriks text&lt;/a&gt; om små datorer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html&#34;&gt;TIOBE-indexet&lt;/a&gt; över populära språk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Assembly_language&#34;&gt;Assembler&lt;/a&gt; - lågnivåprogrammeringsspråk som ofta har en ett-till-ett-koppling mellan instruktioner och maskinkod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Visual_basic&#34;&gt;Visual basic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ActionScript&#34;&gt;Actionscript&lt;/a&gt; - dialekt av Javascrip som främst används i &lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_Flash_Player&#34;&gt;Flash&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_Integrated_Runtime&#34;&gt;AIR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_Flash_Player&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Closure_(computer_programming%29&#34;&gt;Closure&lt;/a&gt; - enkelt uttryckt en funktion tillsammans med omgivande miljö - en closure kan när den anropas nå värden som ligger utanför själva funktionen men som var nåbara när funktionen skapades&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://boredzo.org/pointers/&#34;&gt;Pekare i C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/dontusethiscode&#34;&gt;James Powell&lt;/a&gt; som på Pycon.se höll presentationen &lt;a href=&#34;http://www.pyohio.org/schedule/presentation/57/&#34;&gt;Generators will free your mind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubyonrails.org&#34;&gt;Ruby on rails&lt;/a&gt; - stilbildande ramverk för webbapplikationer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl&#34;&gt;Perl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Y-Combinator&#34;&gt;Jim Weirich - tal om the Y combinator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator&#34;&gt;Y combinator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Anonymous_function&#34;&gt;Lambdafunktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Turing_completeness&#34;&gt;Turingkomplett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/6900035/in-out-parameters-and-how-to-work-with-them-in-c&#34;&gt;In-out-parametrar&lt;/a&gt; - parametrar till en funktion som skickas som referenser och därför kan ändras av funktionen (och därmed returnera ett värde till anropande kod)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Actor_model&#34;&gt;Actor model&lt;/a&gt; - matematisk modell för samtidig beräkning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mitpress.mit.edu/books/little-schemer&#34;&gt;The little schemer&lt;/a&gt; - kanske den mest egensinniga bok om programmering som finns&lt;/li&gt;
+&lt;li&gt;Gang of four - &lt;a href=&#34;http://en.wikipedia.org/wiki/Gang_of_Four_(software%29&#34;&gt;Design patterns: elements of reusable object-oriented software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/shownotes&#34;&gt;Våra anteckningar på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt; - syntax för rena textfiler designad för att dels se bra ut som ren text, dels vara enkel att omvandla till HTML&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 54 - De har gått hela vägen till Haskell</title>
+      <link>http://kodsnack.github.io/54/</link>
+      <pubDate>Tue, 10 Jun 2014 07:47:24 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/54/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om programmeringsspråket Swift och lågnivågrafikramverket Metal - två av nyheterna Apple just presenterat på sin utvecklarkonferens &lt;a href=&#34;https://developer.apple.com/wwdc/&#34;&gt;WWDC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö startup studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö startup studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.malmostartupstudio.se/events/&#34;&gt;malmostartupstudio.se/events&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/apple-events/june-2014/&#34;&gt;Apples keynote&lt;/a&gt; - presentationen som inledde konferensen och presenterade vad Apple ansåg vara de viktigaste nyheterna&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://developer.apple.com/wwdc/&#34;&gt;WWDC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.macworld.com/article/2139282/apples-2014-wwdc-is-june-2-6-tickets-available-by-lottery.html&#34;&gt;WWDC-lotteriet&lt;/a&gt; - Apple lottade ut biljetterna till årets konferens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com/docs/git-bisect&#34;&gt;Git bisect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sqlite.org&#34;&gt;SQLite&lt;/a&gt; - liten och självpaketerad SQL-databasmotor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sync_(Unix%29&#34;&gt;fsync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.plex.tv/hc/en-us/articles/200288566-What-is-Plex-Pass&#34;&gt;Plex pass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/5/26/kodsnack-52-en-full-c-kompilator-som-sista-steget&#34;&gt;Förrförra programmet&lt;/a&gt; - &amp;ldquo;Femte elementet i en vektor&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2013/7/14/kodsnack-23-hur-vi-snackar-kod&#34;&gt;Hur vi spelar in Kodsnack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wetware_(brain%29&#34;&gt;Våtvara&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/5/31/kodsnack-53-gr-en-python-5&#34;&gt;Förra programmet&lt;/a&gt; - &amp;ldquo;Gör en Python 5&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Diffie-Hellman_key_exchange&#34;&gt;Diffie-Hellman-nyckelutbyte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/KodSnack&#34;&gt;Kodsnack på twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;Kodsnack på e-post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://macworld.idg.se/2.1038/1.564662/alla-nyheterna-i-os-x-yosemite-och-ios-8&#34;&gt;Andra som berättar&lt;/a&gt; om vad som är nytt i iOS 8 och Mac OS X Yosemite&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/&#34;&gt;Swift&lt;/a&gt; - Apples nysläppta programmeringsspråk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/staff/2005/09/1372/&#34;&gt;Avoiding Copland 2010&lt;/a&gt; - John Siracusas artikel från 2005 om att Apple måste skaffa sig ett språk med modern minneshantering&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Objective-C&#34;&gt;Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Smalltalk&#34;&gt;Smalltalk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NeXT&#34;&gt;NeXT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Objective-C#History&#34;&gt;Utvecklingen av Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Llvm&#34;&gt;LLVM&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Binary_compatible&#34;&gt;Binärkompatibilitet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cocoa_(API%29&#34;&gt;Cocoa&lt;/a&gt; - Apples centrala ramverk för OS X och iOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Functional_programming_language&#34;&gt;Funktionella språk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_programming_language&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ML_(programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.haskell.org/haskellwiki/Haskell&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://groovy.codehaus.org&#34;&gt;Groovy&lt;/a&gt; - dynamiskt språk som körs på Javas virtuella maskin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/F_Sharp_(programming_language%29&#34;&gt;F#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Include_directive&#34;&gt;Headerfiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org/docs/Modules.html&#34;&gt;Moduler för C&lt;/a&gt; och Objective-C&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://devstreaming.apple.com/videos/wwdc/2014/102xxw2o82y78a4/102/102_hd_platforms_state_of_the_union.mov?dl=1&#34;&gt;State of the union-presentationen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/&#34;&gt;Alla presentationer från WWDC 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/xcode/&#34;&gt;Xcode 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/programming-stories/swift-optionals-a10dcfd8aab5&#34;&gt;Swift optionals&lt;/a&gt; - Hur swift gör det svårare att dereferera null av misstag&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Monad_(functional_programming%29#The_Maybe_monad&#34;&gt;Maybe-monaden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Hibernate_(Java%29&#34;&gt;Hibernate&lt;/a&gt; - javabibliotek för att översätta mellan objektmodeller och relationsdatabaser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Named_parameter&#34;&gt;Namngivna parametrar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://joris.kluivers.nl/blog/2012/03/13/new-objectivec-literal-syntax/&#34;&gt;Syntaxen för dictionaries i Objective-C&lt;/a&gt; tillsammans med den för andra förändringar som skedde samtidigt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Automatic_Reference_Counting&#34;&gt;ARC&lt;/a&gt; - Apples modell för minneshantering. Används för både Objective-C och Swift&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Circular_reference&#34;&gt;Cirkulära referenser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java&#34;&gt;Sätt att läcka minne i Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erlang_(programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pattern_matching&#34;&gt;Pattern matching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Utf-8&#34;&gt;UTF-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Emoji&#34;&gt;Emoji&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.utf8everywhere.org&#34;&gt;utf8everywhere.org&lt;/a&gt; - propagerar och hjälper dig propagera för att UTF-8 ska användas … ja, överallt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Byte_code&#34;&gt;Bytekod&lt;/a&gt; - kod anpassad för effektiv körning av en tolk eller virtuell maskin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Compiled_language&#34;&gt;Kompilerade språk&lt;/a&gt; - språk som omvandlas till någon typ av maskinkod innan de körs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/clattner_llvm&#34;&gt;clattner_llvm&lt;/a&gt; - Chris Lattner på Twitter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://angularjs.org&#34;&gt;AngularJS&lt;/a&gt; - populärt javascriptramverk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bytearray.org/?p=5265&#34;&gt;Swift playgrounds&lt;/a&gt; - Artikel om Playgrounds&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Read-eval-print_loop&#34;&gt;Read-eval-print-loop&lt;/a&gt; - kommandoradsmiljö (oftast) i vilken man kan skriva in och köra programkod och direkt se resultatet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_machine&#34;&gt;Lispmaskiner&lt;/a&gt; - datorer byggda specifikt för att ha &lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_programming_language&#34;&gt;Lisp&lt;/a&gt; som sitt huvudspråk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://worrydream.com&#34;&gt;Bret Victor&lt;/a&gt; och hans &lt;a href=&#34;http://worrydream.com/#!/InventingOnPrinciple&#34;&gt;presentationer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lighttable.com&#34;&gt;Light table&lt;/a&gt; - utvecklingsmiljö för &lt;a href=&#34;http://clojure.org&#34;&gt;Clojure&lt;/a&gt;, &lt;a href=&#34;https://www.python.org&#34;&gt;Python&lt;/a&gt; och webbutveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/xcode/&#34;&gt;Nyheter i Xcode 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/Miscellaneous/Conceptual/MTLProgGuide/Introduction/Introduction.html&#34;&gt;Metal&lt;/a&gt; - Apples nya ramverk för 3d-programmering på iOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tim_Sweeney_(game_developer%29&#34;&gt;Tim Sweeney&lt;/a&gt; - grundare av &lt;a href=&#34;http://en.wikipedia.org/wiki/Epic_Games&#34;&gt;Epic games&lt;/a&gt; och utvecklare av &lt;a href=&#34;http://en.wikipedia.org/wiki/Unreal_Engine&#34;&gt;Unreal-motorn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ray_tracing_(graphics%29&#34;&gt;Ray tracing&lt;/a&gt; - teknik för att skapa 3d-grafik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/repi&#34;&gt;Johan Andersson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Frostbite_(game_engine%29&#34;&gt;Frostbite&lt;/a&gt; - spelmotor först utvecklad för spelen i &lt;a href=&#34;http://en.wikipedia.org/wiki/Battlefield_(series%29&#34;&gt;Battlefield-serien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_carmack&#34;&gt;John Carmack&lt;/a&gt; - 3d-spelprogrammeringsguru&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Direct_X&#34;&gt;DirectX&lt;/a&gt; - API-familj från Microsoft för effektiv hantering av spel och annan media&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 53 - Gör en Python 5</title>
+      <link>http://kodsnack.github.io/53/</link>
+      <pubDate>Tue, 03 Jun 2014 14:54:06 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/53/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer börjar berätta för Fredrik om sina öden och äventyr på svenska Pycon och tar med oss på en resa från datainsamling och bearbetning via kryptomysterier till Python 2 mot Python 3 och problemen med stora omstarter mellan versioner av mjukvara. Python 3 har stora problem med att vara något nytt och annorlunda som skiljer sig så mycket att den stora massan inte har anledning att byta till det. Samtidigt har utvecklarna  av språket gått vidare så att ingen gör något alls med det språk folk faktiskt använder. Det finns en risk att  man tappar det som gjorde ens skapelse värd att använda när man skriver om den för att bli modernare, mer generell eller vad man nu föresatt sig att göra.
+Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blaag.haard.se&#34;&gt;Fredrik Håård&lt;/a&gt; - huvudarrangören av Pycon.se&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pycon.org&#34;&gt;Pycon&lt;/a&gt; internationellt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ep2014.europython.eu/en/&#34;&gt;Europython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mali&#34;&gt;Mali&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Boko_Haram&#34;&gt;Boko haram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Pionen&#34;&gt;Bahnhofs datahall&lt;/a&gt; - tidigare civilförsvarsledningsplats - under Vita bergen i Stockholm&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/HelenaBengtsson&#34;&gt;Helena Bengtsson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Join_(SQL%29&#34;&gt;JOIN i databaser&lt;/a&gt; - kombinerar poster från flera tabeller&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.perl.org&#34;&gt;Perl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fax&#34;&gt;Fax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Optical_character_recognition&#34;&gt;OCR&lt;/a&gt; - optical character recognition&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.crummy.com/software/BeautifulSoup/&#34;&gt;Beautiful soup&lt;/a&gt; - pythonbibliotek för att få ut data ur webbsidor och annan mer eller mindre ostrukturerad data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kodsnack.se/blog/2012/10/12/kodsnack-5-kanelbullens-dag&#34;&gt;Kodsnack 5 - Kanelbullens dag&lt;/a&gt; nämnde också Beautiful soup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lvh.io&#34;&gt;Laurens Van Houtven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rackspace.com&#34;&gt;Rackspace&lt;/a&gt; - sysslar med moln och hosting och anställer Laurens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cryptography&#34;&gt;Kryptografi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/One-time_pad&#34;&gt;Engångsskiffer&lt;/a&gt; - teoretiskt perfekt kryptering med problem i verkligheten&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange&#34;&gt;Diffie-Hellman key exchange&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Man-in-the-middle_attack&#34;&gt;Man-in-the-middle-attack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.python.org/moin/Python2orPython3&#34;&gt;Python 2 och Python 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pypi.python.org/pypi&#34;&gt;PyPI&lt;/a&gt; - Python package index och &lt;a href=&#34;https://pypi.python.org/pypi/pip&#34;&gt;pip&lt;/a&gt; - ett program för att installera paket&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/History_of_Python&#34;&gt;Pythons historia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ascii&#34;&gt;ASCII&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Indexera över en sträng, i Python 2 och i Python 3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kennethreitz.org&#34;&gt;Kenneth Reitz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kennethreitz/requests&#34;&gt;Requests&lt;/a&gt; - modul för HTTP i Python, som Kenneth skrivit&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt; - den ännu inte släppta versionen av Perl&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Generator_(computer_programming%29&#34;&gt;Generatorer&lt;/a&gt; - funktioner som genererar data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt; - ett språk vi talat om förr&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000069.html&#34;&gt;Joel Spolsky om Netscapes omskrivning&lt;/a&gt; och att skriva om i allmänhet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp&#34;&gt;Winamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HaF-nRS_CWM&#34;&gt;It really whips the llama&amp;rsquo;s ass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp#Winamp3&#34;&gt;Winamp3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.winamp.com&#34;&gt;Det tycks fortfarande finnas lite liv i Winamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Aol&#34;&gt;AOL&lt;/a&gt; - som var stora förr i tiden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/IT-bubblan&#34;&gt;Dotcomkraschen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Guido_van_Rossum&#34;&gt;Guido van Rossum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hg.python.org/committers.txt&#34;&gt;Kärnutvecklare av Python 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/download/releases/2.7.2&#34;&gt;Python 2.7&lt;/a&gt; blir den sista av Python 2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTML5&#34;&gt;HTML 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xhtml&#34;&gt;XHTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xslt&#34;&gt;XSLT&lt;/a&gt; - språk för att omvandla XML-dokument till andra XML-dokument&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Http_2.0&#34;&gt;HTTP 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SPDY&#34;&gt;SPDY&lt;/a&gt; - Googles nätverksprotokoll som är basen för HTTP 2.0&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://insouciant.org/tech/http-slash-2-considerations-and-tradeoffs/&#34;&gt;HTTP/2 considerations and tradeoffs&lt;/a&gt; - lång redogörelse med gott om länkar&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 52 - Femte elementet i en vektor</title>
+      <link>http://kodsnack.github.io/52/</link>
+      <pubDate>Tue, 27 May 2014 07:41:24 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/52/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar problem med C++ och går sedan över till att diskutera kring FTL - Apples nya optimerande steg i Webkits javascriptmotor. Frustrationer ventileras över all tid som lagts på att göra Javascript snabbare och bättre och vissa likheter i situationen för C++ och Javascript noteras. Var lägger egentligen alla smarta utvecklare sin tid? Är det rätt att snabba upp javascript och skriva reklamanalys eller kunde vi göra bättre saker för att förbättra världen?&lt;/p&gt;
+
+&lt;p&gt;Vi avslutar med kommentarer på vårt förra avsnitt och tar upp vad vi utvecklare har eller inte har möjlighet att säga till om i rekryteringsprocessen.&lt;/p&gt;
+
+&lt;p&gt;Fredrik har ekoproblem med sitt ljud under de första tio minuterna, men det ordnade upp sig innan han hann säga för mycket.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö startup studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö startup studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/5/20/kodsnack-51-konsten-att-skeppa&#34;&gt;Tobias skeppaångest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se/&#34;&gt;Pycon Sverige&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Standard_Template_Library&#34;&gt;STL&lt;/a&gt; - standard template library - bibliotek för C++&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erase-remove_idiom&#34;&gt;Erase-remove&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/iterator/&#34;&gt;Iteratorer i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Function_overloading&#34;&gt;Överlagring av funktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.regehr.org/archives/213&#34;&gt;Odefiniereat beteende&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bjarne_Stroustrup&#34;&gt;Bjarne Stroustrup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Auto_ptr&#34;&gt;Autopekare&lt;/a&gt; - ett försök till atuomatiskt minneshanterade pekare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xbmc.org&#34;&gt;XBMC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linked_list&#34;&gt;Länkad lista&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sequence_container_(C%2B%2B%29#Vector&#34;&gt;Vektor&lt;/a&gt; - datastruktur i C++&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/performance/conceptual/managingmemory/articles/MallocDebug.html&#34;&gt;Malloc debug in OSX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/14045208/how-to-set-a-breakpoint-in-malloc-error-break-to-debug&#34;&gt;Breakpoint på malloc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/XPath&#34;&gt;Xpath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lxml.de&#34;&gt;LXML för Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö startup studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/User_experience&#34;&gt;User experience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.malmostartupstudio.se/events/&#34;&gt;Evenemang Malmö startup studio ordnar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.malmostartupstudio.se/event/malmo-innovation-week/&#34;&gt;Startup studio Malmö 5 juni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foocafe.org&#34;&gt;Foo café&lt;/a&gt; - mötesplats för utvecklare i Malmö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.malmostartupstudio.se/event/angularjs-seminarium/&#34;&gt;AngularJS-seminarie 17 juni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webkit.org&#34;&gt;Webkit&lt;/a&gt; - webbläsarmotor främst utvecklad av Apple&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Interpreted_language&#34;&gt;Interpreterande språk&lt;/a&gt; - språk som inte kompileras (omvandlas till maskinkod) innan körning utan tolkas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Just-in-time_compilation&#34;&gt;JIT - just in time&lt;/a&gt; - kompilering vid behov, medan ett program körs istället för innan det körs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_machine&#34;&gt;Virtuell maskin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Byte_code&#34;&gt;Bytekod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Buffer_overflow&#34;&gt;Buffer overflow&lt;/a&gt; - fel där ett program skriver över minne som egentligen ligger utanför det område utvecklaren avsett&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://benchmarksgame.alioth.debian.org/u32/benchmark.php?test=all&amp;amp;lang=java&amp;amp;lang2=python3&amp;amp;data=u32&#34;&gt;Java vs. Python&lt;/a&gt; - Illustrerar skillnaden JIT-kompilering kan göra.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qinsb.blogspot.se/2011/03/unladen-swallow-retrospective.html&#34;&gt;Unladen Swallow&lt;/a&gt; - Ett försök att implementera JIT för Python.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/&#34;&gt;Pyston&lt;/a&gt; - Ett nytt försök att implementera JIT för Python.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/v8/&#34;&gt;V8&lt;/a&gt; - Googles JIT-kompilerande javascriptmotor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.mozilla.org/JavaScript:TraceMonkey&#34;&gt;Tracemonkey&lt;/a&gt; - Mozillas JIT-kompilerande javascriptmotor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/&#34;&gt;Safaribloggen beskriver sin javascripthantering och introducerar FTL-JIT&lt;/a&gt; - det nya optimerande och LLVM-backade kompileringssteget för Javascript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2012.jsconf.eu/speaker/2012/08/29/javascripcore-s-dfg-jit.html&#34;&gt;DFG-JIT&lt;/a&gt; - tredje steget i webkits javascriptoptimering&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HotSpot&#34;&gt;Java hotspot&lt;/a&gt; - virtuell maskin för Java utvecklad av Oracle&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oracle.com/technetwork/middleware/jrockit/overview/index.html?ssSourceSiteId=otnjp&#34;&gt;JRockit&lt;/a&gt; - virtuell maskin för Java numera också utvecklad av Oracle&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_virtual_machine&#34;&gt;JVM - Java virtual machine&lt;/a&gt; - virtuell maskin gjord för att köra java-bytekod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://llvm.org&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Olika betydelser av förkortningen &lt;a href=&#34;http://en.wikipedia.org/wiki/FTL&#34;&gt;FTL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Intermediate_representation#Intermediate_representation&#34;&gt;Intermediate representation&lt;/a&gt; - tolkning av programkod som används som mellansteg vid till exempel kompilering eller optimering&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Deoptimization#Deoptimization&#34;&gt;Deoptimering&lt;/a&gt; - att vid behov minska prestanda - för att få korrekt resultat - i kod genom att övergå till en mindre optimerad version&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/65&#34;&gt;Accidental tech podcast 65&lt;/a&gt; diskuterar ämnet ingående&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JavaScript#History&#34;&gt;Javascripts ursprung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Smalltalk&#34;&gt;Smalltalk&lt;/a&gt; - tidigt objektorienterat och dynamiskt typat språk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dartlang.org&#34;&gt;Dart&lt;/a&gt; - språk från Google som kan kompilera till Javascript och vill vara ett bättre alternativ till detsamma&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JScript&#34;&gt;Jscript&lt;/a&gt; - Microsofts &amp;ldquo;dialekt&amp;rdquo; av ECMAScript (Javascript)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typescriptlang.org&#34;&gt;Typescript&lt;/a&gt; - ett superset av Javascript utvecklat av Microsoft.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://theoatmeal.com/comics/cat_vs_internet&#34;&gt;Kristoffers arga katt&lt;/a&gt; - Den här serien av The Oatmeal beskriver situationen väl.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://simpsons.wikia.com/wiki/The_Homer&#34;&gt;The Homer&lt;/a&gt; - bil designad av Homer Simpson&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.561947/fran-kravspec-till-leverans-i-kodsnack?articleRenderMode=listpostings#disqus_thread&#34;&gt;Kommentarer&lt;/a&gt; på förra avsnittet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NP-complete&#34;&gt;NP-kompletta problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 51  - Konsten att skeppa</title>
+      <link>http://kodsnack.github.io/51/</link>
+      <pubDate>Tue, 20 May 2014 09:59:40 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/51/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Tobias snackar om konsten att skeppa, varför det är så svårt att avsluta och leverera saker och hur det fungerar att skeppa saker i deras respektive arbeten. För- och nackdelar med korta och längre cykler för både leverans av program och internt arbete  avhandlas. Varför det är så svårt att tidsuppskatta, och vad händer när uppskattningar och önskningar krockar med verkligheten? Mot slutet kommer vi även in på risken att det går religion i hur man ska göra saker för att det inte finns så mycket rätt och fel i utveckling. Allra sist lite svar på återkoppling vi fått.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt; - veckans sponsorer&lt;/li&gt;
+&lt;li&gt;Fredrik &lt;a href=&#34;http://instagram.com/p/n-WmnvtWQJ/&#34;&gt;hade det bra i solen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Men andra har ännu mer &lt;a href=&#34;http://therecord.co/2014/04/11/nat_irons&#34;&gt;utförliga avsnittslänkar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Skeppa: att leverera (oftast till slutanvändare) en färdig version av ett program&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.suse.com&#34;&gt;Suse&lt;/a&gt; - tilverkare av öppen mjukvara&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Maintaina&amp;rdquo;: underhålla, att fortsätta sköta en version av ett program man redan släppt med buggfixar och andra förbättringar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Quality_assurance&#34;&gt;QA: quality assurance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Diff&#34;&gt;Diff&lt;/a&gt; - verktyg för filjämförelser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scrum_(software_development%29&#34;&gt;Scrum&lt;/a&gt; - metodik för mjukvaruutveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scrum_(software_development%29#Sprint&#34;&gt;Sprint&lt;/a&gt; - den grundläggande tidsperioden för utveckling i Scrum&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/60994/why-is-software-schedule-estimation-so-hard&#34;&gt;Det är svårt att tidsuppskatta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/gaming/2012/07/how-certification-requirements-are-holding-back-console-gaming/&#34;&gt;Certifieringsprocessen för konsollspel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ninety-ninety_rule&#34;&gt;De sista tio procenten tar nittio procent av tiden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000036.html&#34;&gt;Att skriva specifikationer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pragdave.me/blog/2014/03/04/time-to-kill-agile/&#34;&gt;Agile är dött&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mojang.com&#34;&gt;Minecrafts utvecklarblogg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cenito - veckans sponsor söker utvecklare. Titta in på &lt;a href=&#34;http://www.cenito.se/jobs&#34;&gt;cenito.se/jobs&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://angularjs.org&#34;&gt;AngularJS&lt;/a&gt; är ett populärt javascriptramverk från Google&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unity3d.com&#34;&gt;Unity&lt;/a&gt; är en motor för 3d-spel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Parabel_(liknelse%29&#34;&gt;Parabel&lt;/a&gt; - &amp;ldquo;en pedagogisk eller moralisk allegori med enkla motiv hämtade från åhörarens vardag&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qr.ae/KRRUI&#34;&gt;Berättelse om varför det är så svårt att tidsuppskatta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;irc://irc.freenode.net/kodsnack&#34;&gt;Kodsnacks IRC-kanal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stilldrinking.org/programming-sucks&#34;&gt;Programmering är Svårt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/55-dave-who-stinks&#34;&gt;Accidental tech podcast&lt;/a&gt; om att programmering är ett av de mest komplexa yrken man kan hålla på med. Uppföljning i &lt;a href=&#34;http://atp.fm/episodes/56-the-woodpecker&#34;&gt;avsnittet efter&lt;/a&gt;. Och &lt;a href=&#34;http://atp.fm/episodes/57-smorgasbord-of-pronunciation&#34;&gt;avsnittet efter det&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/siracusa&#34;&gt;John Siracusa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Testdriven utveckling - TDD - utvecklingsmetodik där man skriver test före koden de testar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://david.heinemeierhansson.com&#34;&gt;DHH - David Heinemeier Hansson&lt;/a&gt; - skaparen av bland annat &lt;a href=&#34;http://rubyonrails.org/&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html&#34;&gt;TDD är dött&lt;/a&gt; - DHH om testdriven utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Snake_oil&#34;&gt;Snake oil&lt;/a&gt; - begrepp för något med tveksamt eller svårbevisat värde&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.8thlight.com/uncle-bob/2014/04/25/MonogamousTDD.html&#34;&gt;Uncle Bob om TDD&lt;/a&gt; - Uncle Bob svarar DHH&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vim.org&#34;&gt;Vim&lt;/a&gt; - klassisk textredigerare som kan … allt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; -  klassisk textredigerare som kan … allt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eclipse.org&#34;&gt;Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thread_(computing&amp;amp;29&#34;&gt;Trådar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.golang.org/share-memory-by-communicating&#34;&gt;Samtidighet (concurrency) i Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Green_threads&#34;&gt;Gröna trådar&lt;/a&gt; - trådar som hanteras av en virtuell maskin istället för direkt av operativsystemet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Race_condition&#34;&gt;Race condition&lt;/a&gt; - situation där resultatet beror av ordningen på händelser man inte kan kontrollera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Semaphore_%28programming%29&#34;&gt;Semaforer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Singleton_pattern&#34;&gt;Singleton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;Node.js&lt;/a&gt; - servermiljö i och med Javascript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Communicating_sequential_processes&#34;&gt;CSP - Communicating sequential processes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Apples arbete med &lt;a href=&#34;https://developer.apple.com/library/mac/Documentation/Cocoa/Conceptual/Blocks/Articles/00_Introduction.html&#34;&gt;block&lt;/a&gt; och &lt;a href=&#34;https://developer.apple.com/library/ios/documentation/General/Conceptual/ConcurrencyProgrammingGuide/OperationQueues/OperationQueues.html&#34;&gt;dispatchköer&lt;/a&gt; för C&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Software_transactional_memory&#34;&gt;STM - Software transactional memory&lt;/a&gt; - minnesmodell för samtidighet som används av bland annat Clojure&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Message_queue&#34;&gt;Meddelandesystem och meddelandeköer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Out_of_order_execution&#34;&gt;Out of order execution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.azlyrics.com/lyrics/boniver/flume.html&#34;&gt;Flume&lt;/a&gt; - Bon Iver-låten där uttrycket is all maroon finns med&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 50.5 Ett nytt kapitel</title>
+      <link>http://kodsnack.github.io/50.5/</link>
+      <pubDate>Thu, 15 May 2014 06:40:46 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/50.5/</guid>
+      <description>
+
+&lt;p&gt;Vi som gör Kodsnack presenterar oss för nya lyssnare och berättar om nästa steg i programmets utveckling.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/33-a-30-minute-skip-button&#34;&gt;A 30 minute skip button&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://koru.se&#34;&gt;Kristoffer Grönlund&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.massive.se&#34;&gt;Massive entertainment&lt;/a&gt; - svensk spelstudio numera ägd av Ubisoft&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.suse.com&#34;&gt;Suse&lt;/a&gt; - tyskt företag som bland annat gör en &lt;a href=&#34;http://www.opensuse.org/en/&#34;&gt;linuxdistribution med samma namn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/krig&#34;&gt;Kristoffer på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://krig.itch.io/flappy-beard&#34;&gt;Flappy beard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://python.org&#34;&gt;Programmeringsspråket Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://c2.com/cgi/wiki?SyntacticallySignificantWhitespaceConsideredHarmful&#34;&gt;Significant whitespace&lt;/a&gt; - när mellanslag, tabb och liknande spelar roll för kodens tolkning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/57/tabs-versus-spaceswhat-is-the-proper-indentation-character-for-everything-in-e&#34;&gt;Kodformatteringsstrider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://legacy.python.org/dev/peps/pep-0008/&#34;&gt;Pythonstandarden för kodformattering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cocoaheads.org&#34;&gt;Cocoaheads&lt;/a&gt; - intresseförening för Mac- och iOS-utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoreman.com&#34;&gt;Fredrik Björeman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.timeedit.se&#34;&gt;TimeEdit&lt;/a&gt; - bygger schema- och resursbokningssystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;node.js&lt;/a&gt; - plattform för Javascript på serversidan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/cocoaheads-goteborg/&#34;&gt;Cocoaheads Göteborg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com&#34;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/tobiashieta/&#34;&gt;Tobias Hieta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://plexapp.com/&#34;&gt;Plex&lt;/a&gt; - tillverkare av mediecentermjukvara&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.golang.org&#34;&gt;Go&lt;/a&gt; - nytt och intressant programmeringsspråk från Google&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2012/9/16/kodsnack-1-som-att-handla-p-ikea&#34;&gt;Första avsnittet av Kodsnack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2012/11/19/kodsnack-8-byggare-bob&#34;&gt;Väldigt&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2013/1/30/kodsnack-12-merging-frodo&#34;&gt;nördiga&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2014/1/31/kodsnack-38-en-stor-hg-hriga-shellscript&#34;&gt;ämnen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2013/5/5/kodsnack-20-att-leka-cowboys-och-ingenjrer&#34;&gt;Kultur&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2013/8/23/kodsnack-25-tid-att-tnka-snett&#34;&gt;kring&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2014/1/12/kodsnack-35-intervju-med-marcin-de-kaminski&#34;&gt;programmering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se&#34;&gt;Computer Sweden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pressbyran.se&#34;&gt;Pressbyrån&lt;/a&gt; - säljer papperstidningar och magasin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.com&#34;&gt;IDG&lt;/a&gt; - International data group - stor utgivare av IT-relaterade tidningar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/MagnusAschan&#34;&gt;Magnus Aschan&lt;/a&gt; - chefredaktör på Techworld&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Active_Server_Pages&#34;&gt;ASP&lt;/a&gt; - Active server pages - gammalt språk för webbutveckling från Microsoft&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/IT-bubblan&#34;&gt;Dotcombubblan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/larsdddd/&#34;&gt;Lars Danielsson&lt;/a&gt; - journalist på Computer Sweden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se/2.2683/1.29705&#34;&gt;Systemutvecklingsnyhetsbrevet&lt;/a&gt; och Computer Swedens övriga nyhetsbrev&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Devops&#34;&gt;Devops&lt;/a&gt; - att fundera på sambandet och samarbetet mellan utvecklare och de som fokuserar på drift av system&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se&#34;&gt;kodsnack.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/kodsnack/&#34;&gt;Kodsnack är @kodsnack på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/techworldsweden/&#34;&gt;Techworld är @techworldsweden på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/ComputerSweden&#34;&gt;Computer Sweden är @computersweden på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/larsdddd/&#34;&gt;Lars Danielsson är @larsdddd på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/isallmaroon/&#34;&gt;Kristoffer är @isallmaroon på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/bjoreman/&#34;&gt;Fredrik är @bjoreman på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/tobiashieta/&#34;&gt;Tobias är @tobiashieta på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/MagnusAschan&#34;&gt;Magnus är @magnusaschan på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 50 - Error, error, error, långt ner i winsock.h</title>
+      <link>http://kodsnack.github.io/50/</link>
+      <pubDate>Tue, 13 May 2014 07:49:09 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/50/</guid>
+      <description>&lt;p&gt;Kristoffer och Tobias pratar om hur det är att använda Visual Studio i
+Windows 8 vilket osökt leder in på diskussioner om responsiva IDE-er,
+fulhack i C++, unit-tester, Gophercon 2014 och mycket annat.&lt;/p&gt;
+
+&lt;p&gt;Både Kristoffer och Tobias kommer vara på &lt;a href=&#34;http://2014.pycon.se/&#34;&gt;Pycon Sverige&lt;/a&gt;, som
+går av stapeln i Stockholm den 20 - 21 Maj. Kom gärna och snacka med
+oss i verkligheten!&lt;/p&gt;
+
+&lt;p&gt;Det här avsnittet av KodSnack sponsras av &lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö StartUp Studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Unit-test ramverk: &lt;a href=&#34;https://code.google.com/p/googletest/&#34;&gt;gtest&lt;/a&gt; och mockning: &lt;a href=&#34;https://code.google.com/p/googlemock/&#34;&gt;gmock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Typiskt fall av &lt;a href=&#34;http://stackoverflow.com/questions/1372480/c-redefinition-header-files&#34;&gt;Header Redefinition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DrDobbs om &lt;a href=&#34;http://www.drdobbs.com/cpp/c-compilation-speed/228701711&#34;&gt;C++ och kompileringstider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org/docs/Modules.html&#34;&gt;Clang Modules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/2976630/why-does-go-compile-so-quickly&#34;&gt;Varför är Go så snabbt på att kompilera?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://confreaks.com/events/gophercon2014&#34;&gt;Gophercon 2014 Videor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DLL_Hell&#34;&gt;DLL Hell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Chronicles-Black-Company-Glen-Cook/dp/0765319233&#34;&gt;Glen Cook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Peter_F._Hamilton&#34;&gt;Peter F. Hamilton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Mindstar-Rising-Mandel-Peter-Hamilton/dp/0812590562&#34;&gt;Mindstar Rising&lt;/a&gt; första delen av Greg Mandel triologin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Great-North-Road-Peter-Hamilton-ebook/dp/B00844Y4UQ/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid=&#34;&gt;Great North Road&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Neal_Stephenson&#34;&gt;Neal Stephenson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Snow_Crash&#34;&gt;Snow Crash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reamde&#34;&gt;Reamde!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se/&#34;&gt;Pycon Sverige&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 49 - Min första datorrelaterade bok</title>
+      <link>http://kodsnack.github.io/49/</link>
+      <pubDate>Tue, 06 May 2014 11:58:16 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/49/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar programmeringsböcker med utgångspunkt från vad Fredrik tycker efter att ha läst &lt;a href=&#34;http://shop.oreilly.com/product/0636920022862.do&#34;&gt;Version control with Git&lt;/a&gt;. Tobias rekommenderar en bok om Vi och vi diskuterar vad som skiljer en bra bok från referensdokumentation och vilt sökande på nätet. Via en diskussion av C#, Mono och Microsofts mobiler kommer vi slutligen till en diskussion om break, continue, goto och andra farliga saker man kan skriva i sin kod.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;, som både kan hjälpa dig med dina projekt och gärna hör av dig om du vill jobba med deras projekt.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lejonbragden.se&#34;&gt;Lejonbragden&lt;/a&gt; - loppet Fredrik skulle springa&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920022862.do&#34;&gt;Version control with Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/JonLoeliger&#34;&gt;Jon Loeliger&lt;/a&gt; och &lt;a href=&#34;https://twitter.com/matthewmccull&#34;&gt;Matthew McCullough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quora.com/GitHub/What-is-the-story-behind-GitHub’s-octocat-mascot&#34;&gt;Octocat&lt;/a&gt; - Githubs maskot&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com/book/en/Git-Internals-Plumbing-and-Porcelain&#34;&gt;Gits plumbing-kommandon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com/docs/git-rerere&#34;&gt;Git rerere&lt;/a&gt; - ett kommando &lt;a href=&#34;http://kodsnack.se/blog/2013/1/30/kodsnack-13-ett-verktyg-designat-fr-att-skjuta-sig-sjlv-i-foten-med&#34;&gt;Tobias berättat om tidigare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Kindle&#34;&gt;Kindle&lt;/a&gt; - läsplatta från Amazon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unit_testing&#34;&gt;Unit testing&lt;/a&gt; - att testa små delar kod individuellt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vi&#34;&gt;Vi&lt;/a&gt; - gammal och populär textredigerare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimdoc.sourceforge.net/htmldoc/repeat.html&#34;&gt;Vi-kommandot .&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/State_machine&#34;&gt;Tillståndsmaskin&lt;/a&gt; - en modell för att designa system där man ser systemet som en maskin som alltid befinner sig i ett av en uppsättning tillstånd och som växlar tillstånd efter uppsatta regler&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.uk/Practical-Vim-Thought-Pragmatic-Programmers-ebook/dp/B00I8W50SY/ref=sr_1_2?ie=UTF8&amp;amp;qid=1399231074&amp;amp;sr=8-2&amp;amp;keywords=vim+editor&#34;&gt;Practical Vim&lt;/a&gt; - en bok Tobias rekommenderar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://leanpub.com/oopinjavascript/&#34;&gt;Principles of object-oriented programming in Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nczonline.net&#34;&gt;Nicolas Zakas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nczonline.net&#34;&gt;Javascript the complete reference&lt;/a&gt; - en riktigt tjock bok&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596517748.do&#34;&gt;Javascript the good parts&lt;/a&gt; - en riktigt bra bok&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mitpress.mit.edu/sicp/full-text/book/book.html&#34;&gt;Structure and interpretation of computer programs&lt;/a&gt; - mycket klassisk programmeringsbok som även finns som &lt;a href=&#34;http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/&#34;&gt;filmad föreläsningsserie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eniac&#34;&gt;ENIAC&lt;/a&gt; - en av de första datorerna&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.uk/C-Programming-Language-4th-ebook/dp/B00DUW4BMS/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1399230910&amp;amp;sr=1-1&amp;amp;keywords=bjarne+stroustrup&#34;&gt;The C++ programming language&lt;/a&gt; - Bjarne Stroustrups C++-bok&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++11&#34;&gt;C++ 11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++11#Multithreading_memory_model&#34;&gt;C++ minnesmodell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B#Standardization&#34;&gt;C++ 98&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xamarin.com&#34;&gt;Xamarin&lt;/a&gt; - miljö som låter dig skriva kod i C# och använda den på många plattformar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Augmented_reality&#34;&gt;Augmented reality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft har &lt;a href=&#34;https://roslyn.codeplex.com&#34;&gt;öppnat källkoden för .nets kompilatorplattform Roslyn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.buildwindows.com&#34;&gt;Buildkonferensen&lt;/a&gt; - microsofts stora utvecklarkonferens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ecma-international.org/memento/TC49.htm&#34;&gt;TC49&lt;/a&gt; - ECMA-gruppen för bland annat C#&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_(software&#34;&gt;Mono&lt;/a&gt;) - öppna verktyg och miljöer för .net-kompatibel utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Novell&#34;&gt;Novell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Miguel_de_Icaza&#34;&gt;Miguel de Icaza&lt;/a&gt; - mannen bakom Gnome, GTK och Mono&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Microsoft Azure&lt;/a&gt; - molnplattformen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xaml&#34;&gt;XAML&lt;/a&gt; - XML-baserat språk för att definiera bland annat gränssnitt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions&#34;&gt;List comprehension i Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/18454/should-i-return-from-a-function-early-or-use-an-if-statement&#34;&gt;Early return&lt;/a&gt; - att gå ur en funktion tidigt om något oväntat uppstår&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cyclomatic_complexity&#34;&gt;Cyklomatisk komplexitet&lt;/a&gt; - mått på hur logiskt komplext ett stycke kod är&lt;/li&gt;
+&lt;li&gt;Dijkstra - &amp;ldquo;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.4846&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;Go to statement considered harmful&lt;/a&gt;&amp;ldquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt; - som vi just inlett ett samarbete med&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; 20-21 maj - pythonkonferens i Stockholm där du kan träffa både Kristoffer och Tobias&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 48 - Ragefork</title>
+      <link>http://kodsnack.github.io/48/</link>
+      <pubDate>Tue, 29 Apr 2014 12:09:45 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/48/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om &lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt; - &lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt;-utvecklarnas &lt;a href=&#34;(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology&#34;&gt;fork&lt;/a&gt;) av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.&lt;/p&gt;
+
+&lt;p&gt;Kristoffer och Tobias kommer att vara på Pycon i Stockholm 20 och 21 maj (2014) och vill mer än gärna höra av både er som ska vara där och er som har tips på personer att prata med och talare att lyssna på.&lt;/p&gt;
+
+&lt;p&gt;Det här avsnittet av Kodsnack sponsras av Cenito - Gå gärna till deras &lt;a href=&#34;http://cenito.se&#34;&gt;hemsida&lt;/a&gt; och lär dig mer om vad dom erbjuder, eller kolla in deras &lt;a href=&#34;http://cenito.se/job&#34;&gt;lediga tjänster&lt;/a&gt; och ansök idag!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cqLkUBZWLBc&#34;&gt;Avsnittet på Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opensslrampage.org&#34;&gt;OpenSSL Valhalla rampage&lt;/a&gt; - ren fork av OpenSSL som inte tänker dela med sig av ändringarna&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://heartbleed.com&#34;&gt;Heartbleedbuggen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/4/13/kodsnack-46-korthuset-vinglar&#34;&gt;Kodsnack 46 - Korthuset vinlgar&lt;/a&gt; - vårt avsnitt om Heartbleed&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org&#34;&gt;GNU&lt;/a&gt; - det Unix-lika operativsystemet som är helt fri mjukvara&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt; - BSD-baserat operativsystem som bland annat lägger stor vikt vid säkerhet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology&#34;&gt;Fork på Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;OpenSSL &lt;a href=&#34;http://marc.info/?l=openbsd-cvs&amp;amp;m=139773689013690&amp;amp;w=2&#34;&gt;använder ibland data ur privat nyckel för att generera slumptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/cstdio/snprintf/&#34;&gt;snprintf()&lt;/a&gt; - funktion som skriver formatterad text till en buffert&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opensslrampage.org/faq&#34;&gt;FAQ-sidan&lt;/a&gt; för OpenSSL Valhalla rampage, frågan om att saker inte bidras tillbaka till OpenSSL&lt;/li&gt;
+&lt;li&gt;Upstream - den eller de som ligger &amp;ldquo;ovanför&amp;rdquo; en själv i en kedja av att checka in källkod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/search/?query=openssl&#34;&gt;Diskussioner om OpenSSL&lt;/a&gt; i gruppen Kodapor på Facebook&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection&#34;&gt;GCC&lt;/a&gt; - populära kompilatorinfrastrukturer för C-språk
+*&lt;a href=&#34;http://arstechnica.com/information-technology/2014/04/openssl-code-beyond-repair-claims-creator-of-libressl-fork/&#34;&gt;Ars technica om beslutet att skapa LibreSSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openssl.org/source/license.html&#34;&gt;Licensen för OpenSSL&lt;/a&gt; - de använder sig av dubbla licenser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnutls.org&#34;&gt;GnuTLS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linuxfoundation.org/news-media/announcements/2014/04/amazon-web-services-cisco-dell-facebook-fujitsu-google-ibm-intel&#34;&gt;Friskt storföretagablod till OpenSSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opensource.org&#34;&gt;Open source initiative&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linuxfoundation.org&#34;&gt;Linux foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linus_torvalds&#34;&gt;Linus Torvalds&lt;/a&gt; är anställd av Linux foundation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS&#34;&gt;NSS&lt;/a&gt; - Network security services - säkerhetsbibliotek från Mozilla&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Too_big_to_fail&#34;&gt;Too big to fail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gnutls.org/contrib.html&#34;&gt;GNUTLS huvudutvecklare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Buffer_overflow&#34;&gt;Buffer overflow&lt;/a&gt; - klassisk bugg där ett program skriver data utanför den buffert det är menat att hålla sig till&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Buffer_overflow&#34;&gt;Go&lt;/a&gt; - ofta nämnt programmeringsspråk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rust-lang.org&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Web_2.0&#34;&gt;Web 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://groups.google.com/forum/#!topic/mozilla.dev.platform/foP6HNPtdg0&#34;&gt;Regressionsbuggar&lt;/a&gt; - tidigare lösta problem som återkommer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xbmc.org&#34;&gt;XBMC&lt;/a&gt; - mediaspelarmjukvara (utifrån vilken &lt;a href=&#34;http://www.plex.tv&#34;&gt;Plex&lt;/a&gt; byggs)&lt;a href=&#34;http://www.plex.tv&#34;&gt;http://www.plex.tv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Federal_Information_Processing_Standards&#34;&gt;FIPS&lt;/a&gt; - Federal information processing standards&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://libav.org&#34;&gt;Libav&lt;/a&gt; - mediebibliotek som är en fork av &lt;a href=&#34;http://www.ffmpeg.org&#34;&gt;FFMPEG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection#EGCS_Fork&#34;&gt;ECGS&lt;/a&gt; - fork av GCC som kom att överta rollen som officell version&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apache_Subversion&#34;&gt;Subversion&lt;/a&gt; - halvgammalt system för versionskontroll&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Concurrent_Versions_System&#34;&gt;CVS&lt;/a&gt; - ännu äldre system för versionskontroll&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Theo_de_Raadt&#34;&gt;Theo de Raadt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BlgdvSNpi60&amp;amp;feature=youtu.be&#34;&gt;TV ger en glimt av Theos serverfarm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Silicon_Graphics&#34;&gt;SGI&lt;/a&gt; - Silicon graphics - numera nedlagd tillverkare av kraftfulla datorer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vax&#34;&gt;VAX&lt;/a&gt; - instruktionsarkitektur skapad av &lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_Equipment_Corporation&#34;&gt;Digital&lt;/a&gt; på sjuttiotalet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gophercon.sourcegraph.com/post/83820197495/russ-cox-porting-the-go-compiler-from-c-to-go&#34;&gt;Att porta gokompilatorn till Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gophercon.com&#34;&gt;Gophercon&lt;/a&gt; - den första konferensen om Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pypy.org&#34;&gt;Pypy&lt;/a&gt; - pythontolk och just-in-time-kompilator som började som en pythontolk skriven i Python&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Assembly_language&#34;&gt;Assembler&lt;/a&gt; - lågnivåprogrammeringsspråk, ofta med ett-till-ett-förhållande mellan språket och maskinkodsinstruktioner&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Wozniak&#34;&gt;Steve Wozniak&lt;/a&gt; - medgrundare av Apple och ensam designer av hårdvaran i både Apple I och Apple II&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mainisusuallyafunction.blogspot.se/2014/02/x86-is-turing-complete-with-no-registers.html&#34;&gt;X86-instruktionssetet är turingkomplett&lt;/a&gt;, utan register&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reduced_instruction_set_computing&#34;&gt;RISC&lt;/a&gt; - designstrategi för processorer där man siktar på hög prestanda genom att använda enkla instruktioner&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; - pythonkonferens i Stockholm 20 och 21 maj 2014. Åk dit och träffa Kristoffer och Tobias! Och tipsa oss om ni vill att vi pratar med eller lyssnar på någon speciell person!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 47.5 - Man duckar för problemet</title>
+      <link>http://kodsnack.github.io/47.5/</link>
+      <pubDate>Tue, 22 Apr 2014 16:56:07 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/47.5/</guid>
+      <description>&lt;p&gt;Tobias och Kristoffer följer upp &lt;a href=&#34;http://kodsnack.se/blog/2014/4/10/kodsnack-46-internet-borde-kunna-lsa-det-problemet&#34;&gt;avsnitt 47&lt;/a&gt; om Github och Julie Ann Horwath med vad som hänt sedan dess och diskuterar både de inblandade i githubfallets svar, andras reaktioner och hur man kanske borde agera och reagera.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1823-results-of-the-github-investigation&#34;&gt;Githubs tillkännagivande&lt;/a&gt; av företagets egen undersökning efter att Horwath slutade&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tom.preston-werner.com/2014/04/21/farewell-github-hello-immersive-computing.html&#34;&gt;Tom Prestons-Werners bloggpost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Horwaths kommentarer via Twitter:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;I am not a victim. I&amp;rsquo;m someone that a company&amp;rsquo;s negligence pushed too far, for too long. I am living, breathing consequence.&amp;rdquo;&lt;a href=&#34;https://twitter.com/nrrrdcore/status/458354654598811648&#34;&gt;1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Hmmm still no mention of the man who bullied me out of our code base because I  fuck him. Too popular to be accountable, I guess.&amp;rdquo;&lt;a href=&#34;https://twitter.com/nrrrdcore/status/458347143086870528&#34;&gt;2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Oh excuse me, the recently promoted to lead the engineering team man who bullied me out of our code base.&amp;rdquo;&lt;a href=&#34;https://twitter.com/nrrrdcore/status/458347574672388096&#34;&gt;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/The_Infamy/status/458381409023836160&#34;&gt;Exempel&lt;/a&gt; på … &amp;ldquo;andra sidans&amp;rdquo; kommentarer och åsikter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/4/6/kodsnack-45-din-noja-fr-mark-zuckerberg&#34;&gt;Facebooks köp av Oculus&lt;/a&gt; har vi avhandlat förr&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 47 - Internet borde kunna lösa det problemet</title>
+      <link>http://kodsnack.github.io/47/</link>
+      <pubDate>Tue, 22 Apr 2014 07:00:23 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/47/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Tobias pratar Github, distributed denial of service-attacker och Githubs dominans som koddelningstjänst. Sedan pratar vi om händelserna kring Github och Julie Ann Horwath. Sist en kort och kärnfull urladdning kring byggsystem.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.github.com&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/krig&#34;&gt;Kristoffers projekt på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aosabook.org/en/git.html&#34;&gt;Gits arkitektur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net&#34;&gt;Sourceforge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/blog/today-we-offer-devshare-beta-a-sustainable-way-to-fund-open-source-software/&#34;&gt;Sourceforge och adware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.change.org/petitions/oracle-corporation-stop-bundling-ask-toolbar-with-the-java-installer&#34;&gt;Java och Ask toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ddos#Distributed_attack&#34;&gt;DDOS&lt;/a&gt; - distributed denial of service, en överbelastningsattack för att sätta en webbplats eller tjänst ur spel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1796-denial-of-service-attacks&#34;&gt;DDOS-attacker mot Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sha1&#34;&gt;SHA1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mainline_DHT&#34;&gt;Mainline DHT&lt;/a&gt; - distributed hash table som används av Bittorrent&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Security_Agency&#34;&gt;NSA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techcrunch.com/2014/03/16/popcorn-time-is-back/&#34;&gt;Popcorn time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://savannah.nongnu.org&#34;&gt;Savannah - GNUs svar på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clusterlabs.org&#34;&gt;Cluster labs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opensuse.org/en/&#34;&gt;Open Suse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/id-Software&#34;&gt;iD software på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.unrealengine.com/ue4-on-github&#34;&gt;Unreal engine 4 på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://julieannhorvath.com&#34;&gt;Julie Ann Horwath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techcrunch.com/2014/03/15/julie-ann-horvath-describes-sexism-and-intimidation-behind-her-github-exit/&#34;&gt;Hennes berättelse på Techcrunch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1800-update-on-julie-horvath-s-departure&#34;&gt;Githubs respons på Julie Anns redogörelse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brogrammer&#34;&gt;Brogrammer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eric_Schmidt&#34;&gt;Eric Schmidt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Larry_Page&#34;&gt;Larry Page&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Sergey_Brin&#34;&gt;Sergey Brin&lt;/a&gt;, kompisarna som grundade Google&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitorious.org&#34;&gt;Gitorious&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qt-project.org&#34;&gt;QT&lt;/a&gt; - stort applikationsramverk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gitlab.com&#34;&gt;Gitlab&lt;/a&gt; - öppet githanteringsverktyg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com&#34;&gt;Google code&lt;/a&gt; - Gogoles tjänst för koddelande&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://savannah.nongnu.org/projects/crmsh/&#34;&gt;CRM shell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Automake&#34;&gt;Automake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cmake&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/1471994/what-is-setup-py&#34;&gt;setup.py - distverktyg för Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/M4_(computer_language%29&#34;&gt;M4&lt;/a&gt; - makrobearbetningsspråk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Makefile&#34;&gt;Makefile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.boost.org/boost-build2/doc/html/bbv2/jam.html&#34;&gt;Bjam - boosts skriptspråk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/gyp/w/list&#34;&gt;Gyp - generate your projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Declarative_programming&#34;&gt;Deklarativ programmering&lt;/a&gt; - att beskriva vad som ska göra snarare än hur&lt;/li&gt;
+&lt;li&gt;[JSON - Javascript object notation](), ett format för dataöverföring som är ett subset av Javascript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;: Det har kommit fram mer information om GitHub Julie-Ann&amp;rsquo;s historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/&#34;&gt;uppföljningen här&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 46 - Korthuset vinglar</title>
+      <link>http://kodsnack.github.io/46/</link>
+      <pubDate>Tue, 15 Apr 2014 04:49:52 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/46/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar om Heartbleed - den ovanligt allvarliga buggen som nyligen upptäckts i OpenSSL. Därifrån kommer undran varför hela SSL-upplägget med certifikat och rotcertfikat fungerar (snarare inte fungerar) som det gör. Vi hoppas att fler vågar lära sig, experimentera med och rent av utveckla kod omkring kryptering. Vi undrar varför det inte decentraliseras mer. Och så en del om problemen med att spela in sina diskussioner och höra sig själv i efterhand.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openssl.org&#34;&gt;OpenSSL&lt;/a&gt; - säkerhetsmjukvaran i vilken buggen kallad Heartbleed har upptäckts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; - amerikanskt krypto- säkerhets- och integritetsspecialist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chuck_Norris_meme&#34;&gt;Chuck Norris-memes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.schneierfacts.com&#34;&gt;Schneier-memes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.heartbleed.com&#34;&gt;Heartbleed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2014/04/heartbleed.html&#34;&gt;Schneiers post om Heartbleed &lt;/a&gt; - buggen är elva på tiogradiga skalan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2009/11/beyond_security.html&#34;&gt;Schneier om säkerhetsteater&lt;/a&gt; &lt;a href=&#34;https://www.schneier.com/blog/archives/2012/11/on_the_ineffect_1.html&#34;&gt;på flygplatser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fear_mongering&#34;&gt;Fear mongering&lt;/a&gt; - att använda rädsla för att påverka&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Https&#34;&gt;HTTPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Man-in-the-middle_attack&#34;&gt;Man in the middle-attacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xkcd.com/1354/&#34;&gt;Serien XKCD förklarar Heartbleed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Private_key&#34;&gt;Privata nycklar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.cloudflare.com/answering-the-critical-question-can-you-get-private-ssl-keys-using-heartbleed&#34;&gt;Vad kan man hitta genom att utnyttja Heartbleed?&lt;/a&gt; - artikeln jag hittade med de som försökte få ut privata nycklar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.co.uk/2014/04/google-services-updated-to-address.html&#34;&gt;Googles uppdateringar efter Heartbleed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://status.twitter.com/post/82109064906/ssl-security-update&#34;&gt;Twitter säger sig vara opåverkade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dailymail.co.uk/news/article-2602069/Google-Facebook-Paypal-insist-internet-passwords-secure-heartbleed-bug-alert.html&#34;&gt;… liksom Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://staff.tumblr.com/post/82113034874/urgent-security-update&#34;&gt;Men Tumblr säger byt lösenord …&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1818-security-heartbleed-vulnerability&#34;&gt;… precis som Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gotofail.com&#34;&gt;Gotofail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.garage4hackers.com/entry.php?b=2551&#34;&gt;Koden för Heartbleedbuggen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Heartbeat_message&#34;&gt;Heartbeat-meddelande&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/865987/do-i-need-to-heartbeat-to-keep-a-tcp-connection-open&#34;&gt;TCP heartbeat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bounds_checking&#34;&gt;Bounds check&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xkcd.com/327/&#34;&gt;Den sedelärande historien om Bobby tables - också från serien XKCD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.peereboom.us/assl/assl/html/openssl.html&#34;&gt;Kritik - från 2009 - av hur OpenSSL är skrivet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnutls.org&#34;&gt;GNUTLS&lt;/a&gt; - alternativ till OpenSSL, som hade &lt;a href=&#34;http://kodsnack.se/blog/2014/3/15/kodsnack-43-jtteprestanda-i-kod-som-gr-helt-fel-grej&#34;&gt;sin egen bugg&lt;/a&gt; helt nyligen.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Root_certificate&#34;&gt;Rotcertifikat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.tau.ac.il/~tromer/acoustic/&#34;&gt;Akustikanalys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Social_engineering_(security%29&#34;&gt;Social engineering&lt;/a&gt; - social manipulation, att lura människor istället för att överlista eller hitta hål i tekniska lösningar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zero-day_exploit&#34;&gt;Zero-day exploit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://filippo.io/Heartbleed/&#34;&gt;Verktyg för att undersöka om webbplatser åtgärdat buggen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/titanous/heartbleeder&#34;&gt;Heartbleeder - kod för att testa din sårbarhet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gp.se/nyheter/varlden/1.2337649-heartbleed-buggen-varre-an-vantat&#34;&gt;Nyheter om Heartbleed i vanliga tidningar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DNSSEC&#34;&gt;DNSSEC&lt;/a&gt; - säkring av domännamnsserversystemet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cr.yp.to/talks/2009.08.10/slides.pdf&#34;&gt;Kritik mot DNSSEC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Darwinism&#34;&gt;Darwinism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RSA_(cryptosystem%29&#34;&gt;RSA-kryptering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Certificate_Authority&#34;&gt;CA - certificate authority - utgivare av certifikat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Napster&#34;&gt;Napster&lt;/a&gt; - tidig fildelningstjänst för musik som stämdes ihjäl&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent&#34;&gt;Bittorrent&lt;/a&gt; - känt och välanvänt protokoll för fildelning utan en central server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Waste_(computer_program%29&#34;&gt;Waste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp&#34;&gt;Winamp&lt;/a&gt; - klassiskt mp3-spelarprogram&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Justin_Frankel&#34;&gt;Justin Frankel&lt;/a&gt; - mannen bakom både Waste, Winamp och &lt;a href=&#34;http://en.wikipedia.org/wiki/Gnutella&#34;&gt;Gnutella&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Aol&#34;&gt;AOL&lt;/a&gt; - medieföretaget som förr i tiden var stora på uppringd internetuppkoppling (helst till AOLs egna lilla inhängnad) i USA&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openssh.com&#34;&gt;OpenSSH&lt;/a&gt; - som inte har något med OpenSSL eller Heartbleed att göra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Händelser efter inspelning&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html&#34;&gt;NSA Said to Exploit Heartbleed Bug for Intelligence for Years&lt;/a&gt; - artikel som kom strax efter att avsnittet spelades in&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudflarechallenge.com/heartbleed&#34;&gt;Bekräftelse att det går att komma över privata nycklar&lt;/a&gt; genom att utnyttja Heartbleed&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 45 - Din noja för Mark Zuckerberg</title>
+      <link>http://kodsnack.github.io/45/</link>
+      <pubDate>Wed, 09 Apr 2014 19:46:11 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/45/</guid>
+      <description>
+
+&lt;p&gt;Vi talar ut om vår oro och våra förhoppningar kring VR och Facebooks köp av Oculus VR.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com&#34;&gt;Oculus VR&lt;/a&gt; - företag som tillverkade VR-headsets&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_reality&#34;&gt;Virtual reality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/zuck/posts/10101319050523971&#34;&gt;Facebook köper Oculus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game&#34;&gt;Oculus kickstarter&lt;/a&gt; som fick ihop drygt 2,4 miljoner dollar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.oculusvr.com&#34;&gt;Oculus utvecklarsektion&lt;/a&gt; - kräver inloggning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://theriftlist.com&#34;&gt;Coola saker folk gjort med Oculus SDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_Carmack&#34;&gt;John Carmack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/blog/john-carmack-joins-oculus-as-cto/&#34;&gt;John Carmack börjar på Oculus VR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mighty_Ducks_3&#34;&gt;D3: the mighty ducks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Electronic_Entertainment_Expo&#34;&gt;E3 - Electronic entertainment expo&lt;/a&gt; - mässa för dator- och TV-spelsindustrin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Game_Developers_Conference&#34;&gt;GDC - Game developers conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/dk2/&#34;&gt;Oculus developer kit 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.altdevblogaday.com/2013/02/22/latency-mitigation-strategies/&#34;&gt;John Carmack om strategier för att minska fördröjningar i VR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/blog/oculus-joins-facebook/&#34;&gt;Oculus eget blogginlägg om uppköpet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/3/25/5547800/facebook-virtual-reality-oculus-interview&#34;&gt;Intervju med Palmer Luckey om köpet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.shareholder.com/visitors/event/build3/stage/stage.cfm?mediaid=63723&amp;amp;mediauserid=0&#34;&gt;Facebook om köpet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mark_Zuckerberg&#34;&gt;Mark Zuckerberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=open+and+connected&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#34;&gt;Mer öppet och sammankopplat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.facebook.com/projects/&#34;&gt;Saker Facebook släppt som öppen källkod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook&#34;&gt;Företag Facebook köpt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/PalmerLuckey&#34;&gt;Palmer Luckey&lt;/a&gt; - som var VD på Oculus VR&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.us.playstation.com/2014/03/18/introducing-project-morpheus/&#34;&gt;Project Morpheus&lt;/a&gt; - Sonys VR-headset&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.avegant.com&#34;&gt;Glyph&lt;/a&gt; - ett möjligt alternativ till Oculus?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://assayviaessay.blogspot.se/2014/03/virtual-spaces-real-data.html&#34;&gt;Inlägg som fångar många av Kristoffers och andras tankar kring köpet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/3/26/5549342/virtual-reality-fans-should-love-facebook-at-least-for-now&#34;&gt;En mer positiv syn på saken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.myspace.com&#34;&gt;Myspace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mike_Abrash&#34;&gt;Mike Abrash&lt;/a&gt; - &lt;a href=&#34;http://www.oculusvr.com/blog/introducing-michael-abrash-oculus-chief-scientist/http://en.wikipedia.org/wiki/Mike_Abrash&#34;&gt;numera &amp;ldquo;Oculus chief scientist&amp;rdquo;&lt;/a&gt; på Facebook&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/blog/welcome-atman-binstock-chief-architect/&#34;&gt;Atman Binstock&lt;/a&gt; - också tidigare Valve-anställd som växlat till att jobba med Oculus&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Doom_(video_game%29&#34;&gt;Doom&lt;/a&gt; - stilbildande actionspel i förstaperson&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Jolla&#34;&gt;Jolla&lt;/a&gt; - finskt mobilföretag&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ubuntu_Edge&#34;&gt;Ubuntu edge&lt;/a&gt; &amp;ldquo;koncepttelefon&amp;rdquo; från Ubuntu som inte nådde&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/stop&#34;&gt;Douglas Bowman&lt;/a&gt; - designern som &lt;a href=&#34;http://stopdesign.com/archive/2009/03/20/goodbye-google.html&#34;&gt;slutade på Google efter att ha försökt ändra den blå nyansen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Neal_Stephenson&#34;&gt;Neil Stepenson&lt;/a&gt; författare till bland annat &lt;a href=&#34;http://en.wikipedia.org/wiki/Snow_Crash&#34;&gt;Snow crash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metaverse&#34;&gt;Metaverse&lt;/a&gt; - begrepp för en virtuell delad värld, myntat i Snow crash&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nsa.gov&#34;&gt;NSA&lt;/a&gt; - USAs nationella säkerhetsorganisation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/press/oculus-vr-closes-16m-series-a-to-bring-consumer-virtual-reality-platform-to-market/&#34;&gt;Tidigare investerare i Oculus VR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt; - dator- och mjukvaruföretag Steve Jobs grundade och drev 1985 - 1996&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.instagram.com&#34;&gt;Instagram&lt;/a&gt; - Facebooks fotodelningstjänst&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Jobs&#34;&gt;Steve Jobs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 44 - Strandade på en öde ö</title>
+      <link>http://kodsnack.github.io/44/</link>
+      <pubDate>Mon, 31 Mar 2014 18:31:27 UTC</pubDate>
+      
+      <guid>http://kodsnack.github.io/44/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias snackar arbetsverktyg; saker, program och tjänster vi inte kan eller vill vara utan när vi kodar.&lt;/p&gt;
+
+&lt;p&gt;Som grädde på moset en historia om delade pekare i C++ och de där buggarna man bara inte kan förstå att man inte upptäckt för längesen.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/macbook-air/specs/macbook-air-core-2-duo-1.6-11-late-2010-specs.html&#34;&gt;Elvatums Macbook air (sent 2010)&lt;/a&gt; - Fredriks privata dator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2012/11/19/kodsnack-8-byggare-bob&#34;&gt;Kodsnack 8 - Byggare Bok&lt;/a&gt; - allt om byggsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Multi-core_processor&#34;&gt;Cores - processorkärnor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Compiler&#34;&gt;Kompilatorer&lt;/a&gt; - program som omvandlar källkod från en form (ett språk) till en anann (ett annat språk eller binärkod för en viss plattform)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.4-15-late-2011-unibody-thunderbolt-specs.html&#34;&gt;Macbook pro (sent 2011)&lt;/a&gt; - Fredriks jobbdator och Tobias sekundära jobbdator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/imac/specs/imac-core-i7-3.5-27-inch-aluminum-late-2013-specs.html&#34;&gt;27-tums iMac (sent 2013)&lt;/a&gt; - Tobias huvudsakliga arbetsdator&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.sublimetext.com&#34;&gt;Sublime text&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jslint.com&#34;&gt;JSLint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubyonrails.org&#34;&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNOME&#34;&gt;GNOME&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/File:GNOME-escritorio-1.x.png&#34;&gt;GNOME 1 anno 1999&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.libsdl.org&#34;&gt;SDL - Simple DirectMedia layer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lua.org&#34;&gt;LUA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.python.org&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eveonline.com&#34;&gt;EVE Online&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Visual_studio#Visual_Studio_6.0_.281998.29&#34;&gt;Visual Studio 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://queue.acm.org/detail.cfm?id=2349257&#34;&gt;A generation lost in the bazaar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://clojure.org/&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://is.gd/1M2Qqo&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.paulgraham.com/rootsoflisp.html&#34;&gt;The roots of lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/REPL&#34;&gt;Read-eval-print-loop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_Phone_8&#34;&gt;Windows phone 8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org&#34;&gt;Eclipse&lt;/a&gt; - mycket spridd utvecklingsmiljö för Java (med mera)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/idea/&#34;&gt;IntelliJ IDEA&lt;/a&gt; - Jetbrains utvecklingsmiljö för Java&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/xcode/&#34;&gt;Xcode&lt;/a&gt; - Apples utvecklingsmiljö, främst för Objective-C men även C och C++&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Terminal_emulator&#34;&gt;Terminalemulator&lt;/a&gt; - program som ger en textterminal i ett fönster&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Z_shell&#34;&gt;Z shell&lt;/a&gt; - populärt och kraftfullt kommandoskal&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Solaris_(operating_system%29&#34;&gt;Solaris&lt;/a&gt; - operativsystem från början utvecklat av &lt;a href=&#34;http://en.wikipedia.org/wiki/Sun_Microsystems&#34;&gt;Sun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tcsh&#34;&gt;tcsh&lt;/a&gt; - skal som är en utbyggnad av &lt;a href=&#34;http://en.wikipedia.org/wiki/C_shell&#34;&gt;C shell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Grep&#34;&gt;Grep&lt;/a&gt; - sökkommando&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh&#34;&gt;Oh-my-zsh&lt;/a&gt; - samling av inställningar, teman med mera för Z shell&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bash_(Unix_shell&#34;&gt;Bash&lt;/a&gt;) - skal som är standardvalet på Linux och Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iterm2.com/#/section/home&#34;&gt;iTerm2&lt;/a&gt; - terminalprogram för OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNOME_Terminal&#34;&gt;GNOME terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Windows powershell&lt;/a&gt; - modernt skal för Windows från Microsoft&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com&#34;&gt;Dropbox&lt;/a&gt; - filsynkning mellan enheter, som fungerar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Icloud&#34;&gt;iCloud&lt;/a&gt; - Apples paraplynamn för ett stort antal molntjänster som säkerhetskopiering, foto- och datasynkronisering med mera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bittorrent.com/sync&#34;&gt;Bittorrent sync&lt;/a&gt; - filsynkning mellan enheter, som … oftast … fungerar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qt-project.org/wiki/Category:Tools::QtCreator&#34;&gt;QT creator&lt;/a&gt; - Tobias favoritmiljö för C++, just nu i alla fall&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt; - kompilatorframsida för Objective-C, C och C++&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.swig.org/article_cpp.html&#34;&gt;Parsnings- och kompileringsproblemen med C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lldb.llvm.org&#34;&gt;LLDB&lt;/a&gt; - debugger för LLVM och &lt;a href=&#34;http://en.wikipedia.org/wiki/Instruments_(application%29&#34;&gt;Instruments&lt;/a&gt; - analysverktyg för Xcode&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; - utvecklare av många populära utvecklingsmiljöer för olika språk och plattformar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/objc/&#34;&gt;Appcode&lt;/a&gt; - Jetbrains IDE för Objective-C-utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ikea.com/se/sv/catalog/products/90088946/&#34;&gt;IKEAS skrivbord Galant i höj- och sänkbar modell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hag.se/produkter/hag-capisco/hag-capisco-8107/&#34;&gt;Håg capisco&lt;/a&gt; - skrivbordsstolen som får Tobias varmaste rekommendationer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bafab.se/se/&#34;&gt;Firmor&lt;/a&gt; som &lt;a href=&#34;http://kontorsutvecklarna.se/begagnade-mobler/&#34;&gt;säljer möbler&lt;/a&gt; från konkursbon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Treadmill_desk&#34;&gt;Skrivbord och rullband i förening&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www1.euro.dell.com/se/sv/hemanvandare/Peripherals/dell-u2713hm/pd.aspx?refid=dell-u2713hm&amp;amp;cs=sedhs1&amp;amp;s=dhs&#34;&gt;Fredriks jobbildskärm från Dell&lt;/a&gt; 2560x1440&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://subversion.apache.org&#34;&gt;Subversion&lt;/a&gt; - ett äldre och mer centraliserat (jämfört med Git) versionskontrollsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aosabook.org/en/git.html&#34;&gt;Gits design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gitlab.com&#34;&gt;Gitlab&lt;/a&gt; - en klon av Github som finns gratis och går att köra själv&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Model_M_keyboard&#34;&gt;IBM model M&lt;/a&gt; stort, tungt och klassiskt tangentbord som &lt;a href=&#34;http://www.bjoreman.com/main.php?mainId=142&#34;&gt;Fredrik gillar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.trulyergonomic.com/store/index.php&#34;&gt;Truly ergonomic&lt;/a&gt; - Tobias tangentbord&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://store.apple.com/se/product/MC184S/B/apple-wireless-keyboard?fnode=5b3abcc454654c56a0e1d775d3d6376db8041083c9ce7e2898d21e1eb184a3ad6e0cfc3bf2491a37e86048c22a77079570707acc4e2677e2a7d412cfb3146608&#34;&gt;Apples trådlösa tangentbord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://store.apple.com/se/product/MC380Z/A/magic-trackpad?fnode=5b3abcc454654c56a0e1d775d3d6376db8041083c9ce7e2898d21e1eb184a3ad6e0cfc3bf2491a37e86048c22a77079570707acc4e2677e2a7d412cfb3146608&#34;&gt;Apple magic trackpad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoreman.com/thoughts/magicTrackpad.html&#34;&gt;Fredrik om varför han använder trackpad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++&#34;&gt;C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries%29&#34;&gt;Boost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/memory/shared_ptr/&#34;&gt;Delade pekare - shared pointer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/a/15604573&#34;&gt;Allokering och deallokering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/new/operator%20new/&#34;&gt;new-operatorn i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Stack och heap]() - minnesareor där man kan lagra saker.&lt;/li&gt;
+&lt;li&gt;[Scope]() - hur länge någonting lever&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/a/24922&#34;&gt;Minneshantering i C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/4064286/c-const-keyword-explanation&#34;&gt;const-nyckelordet i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_reference&#34;&gt;Call by reference&lt;/a&gt; - att anropa en funktion och skicka in en referens till ett värde istället för en kopia av värdet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reference_counting&#34;&gt;Reference counting&lt;/a&gt; - ett sätt att hantera minne när man skriver program&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Garbage_collection_(computer_science%29&#34;&gt;Garbage collection&lt;/a&gt; - automatisk minneshantering&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://courses.cms.caltech.edu/cs11/material/cpp/donnie/cpp-ops.html&#34;&gt;Operatoröverlagring i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Locale&#34;&gt;Locale&lt;/a&gt; - information om datum, tid med mera som är specifik för ett visst land eller en viss region&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;irc://irc.freenode.net/kodsnack&#34;&gt;Kodsnacks IRC-kanal&lt;/a&gt; - #kodsnack på irc.freenode.net&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://plasmasturm.org/log/6debug/&#34;&gt;Sex stadier av felsökning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_Gruber&#34;&gt;John Gruber&lt;/a&gt; - skribent i applevärlden och mannen bakom &lt;a href=&#34;http://daringfireball.net&#34;&gt;Daring fireball&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

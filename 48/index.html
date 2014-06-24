@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> kodsnack - Kodsnack 48 - Ragefork </title>
+
+  
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/poole.css">
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/syntax.css">
+  <link rel="stylesheet" href="http://kodsnack.github.io/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="kodsnack" />
+</head>
+
+<body>
+
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+
+    <div class="sidebar-about">
+      <div class="sidebar-header">
+        <a href="http://kodsnack.github.io"><img src="http://kodsnack.github.io/kodsnack-sidebar.jpg"></a>
+      </div>
+      <p class="lead">
+       Podcast om kod, för kodare. På svenska. 
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+        <li><a href="/om/"> Om </a></li>
+      
+        <li><a href="/avsnitt/"> Avsnitt </a></li>
+      
+        <li><a href="http://feedpress.me/kodsnack"> Prenumerera (RSS) </a></li>
+      
+        <li><a href="http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en"> Prenumerera (iTunes) </a></li>
+      
+        <li><a href="https://twitter.com/KodSnack"> @kodsnack </a></li>
+      
+        <li><a href="https://plus.google.com/&#43;KodsnackSePodcast"> Google&#43; </a></li>
+      
+        <li><a href="http://freenode.net"> IRC: #kodsnack på freenode </a></li>
+      
+    </ul>
+
+    <div class="sidebar-copyright">
+    
+    <a href="https://github.com/kodsnack">github.com/kodsnack</a>
+    
+    </div>
+  </div>
+</div>
+
+
+    <div class="content container">
+<div class="post">
+  <h1>Kodsnack 48 - Ragefork</h1>
+  <span class="post-date">2014-04-29 12:09</span>
+      
+
+<p>Vi snackar om <a href="http://www.libressl.org">LibreSSL</a> - <a href="http://www.openbsd.org">OpenBSD</a>-utvecklarnas <a href="(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology">fork</a>) av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.</p>
+
+<p>Kristoffer och Tobias kommer att vara på Pycon i Stockholm 20 och 21 maj (2014) och vill mer än gärna höra av både er som ska vara där och er som har tips på personer att prata med och talare att lyssna på.</p>
+
+<p>Det här avsnittet av Kodsnack sponsras av Cenito - Gå gärna till deras <a href="http://cenito.se">hemsida</a> och lär dig mer om vad dom erbjuder, eller kolla in deras <a href="http://cenito.se/job">lediga tjänster</a> och ansök idag!</p>
+
+<h2 id="toc_0">Länkar</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=cqLkUBZWLBc">Avsnittet på Youtube</a></li>
+<li><a href="http://opensslrampage.org">OpenSSL Valhalla rampage</a> - ren fork av OpenSSL som inte tänker dela med sig av ändringarna</li>
+<li><a href="http://heartbleed.com">Heartbleedbuggen</a></li>
+<li><a href="http://kodsnack.se/blog/2014/4/13/kodsnack-46-korthuset-vinglar">Kodsnack 46 - Korthuset vinlgar</a> - vårt avsnitt om Heartbleed</li>
+<li><a href="http://www.libressl.org">LibreSSL</a></li>
+<li><a href="http://www.gnu.org">GNU</a> - det Unix-lika operativsystemet som är helt fri mjukvara</li>
+<li><a href="http://www.openbsd.org">OpenBSD</a> - BSD-baserat operativsystem som bland annat lägger stor vikt vid säkerhet</li>
+<li><a href="https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology">Fork på Wikipedia</a></li>
+<li>OpenSSL <a href="http://marc.info/?l=openbsd-cvs&amp;m=139773689013690&amp;w=2">använder ibland data ur privat nyckel för att generera slumptal</a></li>
+<li><a href="http://www.cplusplus.com/reference/cstdio/snprintf/">snprintf()</a> - funktion som skriver formatterad text till en buffert</li>
+<li><a href="http://opensslrampage.org/faq">FAQ-sidan</a> för OpenSSL Valhalla rampage, frågan om att saker inte bidras tillbaka till OpenSSL</li>
+<li>Upstream - den eller de som ligger &ldquo;ovanför&rdquo; en själv i en kedja av att checka in källkod</li>
+<li><a href="https://www.facebook.com/groups/utvecklare.stockholm/search/?query=openssl">Diskussioner om OpenSSL</a> i gruppen Kodapor på Facebook</li>
+<li><a href="http://en.wikipedia.org/wiki/Clang">Clang</a> och <a href="http://en.wikipedia.org/wiki/GNU_Compiler_Collection">GCC</a> - populära kompilatorinfrastrukturer för C-språk
+*<a href="http://arstechnica.com/information-technology/2014/04/openssl-code-beyond-repair-claims-creator-of-libressl-fork/">Ars technica om beslutet att skapa LibreSSL</a></li>
+<li><a href="https://www.openssl.org/source/license.html">Licensen för OpenSSL</a> - de använder sig av dubbla licenser</li>
+<li><a href="http://www.gnutls.org">GnuTLS</a></li>
+<li><a href="http://www.linuxfoundation.org/news-media/announcements/2014/04/amazon-web-services-cisco-dell-facebook-fujitsu-google-ibm-intel">Friskt storföretagablod till OpenSSL</a></li>
+<li><a href="http://opensource.org">Open source initiative</a></li>
+<li><a href="http://www.linuxfoundation.org">Linux foundation</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Linus_torvalds">Linus Torvalds</a> är anställd av Linux foundation</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS">NSS</a> - Network security services - säkerhetsbibliotek från Mozilla</li>
+<li><a href="http://en.wikipedia.org/wiki/Too_big_to_fail">Too big to fail</a></li>
+<li><a href="http://gnutls.org/contrib.html">GNUTLS huvudutvecklare</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Buffer_overflow">Buffer overflow</a> - klassisk bugg där ett program skriver data utanför den buffert det är menat att hålla sig till</li>
+<li><a href="http://en.wikipedia.org/wiki/Buffer_overflow">Go</a> - ofta nämnt programmeringsspråk</li>
+<li><a href="http://www.rust-lang.org">Rust</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Web_2.0">Web 2.0</a></li>
+<li><a href="https://groups.google.com/forum/#!topic/mozilla.dev.platform/foP6HNPtdg0">Regressionsbuggar</a> - tidigare lösta problem som återkommer.</li>
+<li><a href="http://xbmc.org">XBMC</a> - mediaspelarmjukvara (utifrån vilken <a href="http://www.plex.tv">Plex</a> byggs)<a href="http://www.plex.tv">http://www.plex.tv</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Federal_Information_Processing_Standards">FIPS</a> - Federal information processing standards</li>
+<li><a href="http://libav.org">Libav</a> - mediebibliotek som är en fork av <a href="http://www.ffmpeg.org">FFMPEG</a></li>
+<li><a href="http://en.wikipedia.org/wiki/GNU_Compiler_Collection#EGCS_Fork">ECGS</a> - fork av GCC som kom att överta rollen som officell version</li>
+<li><a href="http://en.wikipedia.org/wiki/Apache_Subversion">Subversion</a> - halvgammalt system för versionskontroll</li>
+<li><a href="http://en.wikipedia.org/wiki/Concurrent_Versions_System">CVS</a> - ännu äldre system för versionskontroll</li>
+<li><a href="http://en.wikipedia.org/wiki/Theo_de_Raadt">Theo de Raadt</a></li>
+<li><a href="https://www.youtube.com/watch?v=BlgdvSNpi60&amp;feature=youtu.be">TV ger en glimt av Theos serverfarm</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Silicon_Graphics">SGI</a> - Silicon graphics - numera nedlagd tillverkare av kraftfulla datorer</li>
+<li><a href="http://en.wikipedia.org/wiki/Vax">VAX</a> - instruktionsarkitektur skapad av <a href="http://en.wikipedia.org/wiki/Digital_Equipment_Corporation">Digital</a> på sjuttiotalet</li>
+<li><a href="http://gophercon.sourcegraph.com/post/83820197495/russ-cox-porting-the-go-compiler-from-c-to-go">Att porta gokompilatorn till Go</a></li>
+<li><a href="http://gophercon.com">Gophercon</a> - den första konferensen om Go</li>
+<li><a href="http://pypy.org">Pypy</a> - pythontolk och just-in-time-kompilator som började som en pythontolk skriven i Python</li>
+<li><a href="http://en.wikipedia.org/wiki/Assembly_language">Assembler</a> - lågnivåprogrammeringsspråk, ofta med ett-till-ett-förhållande mellan språket och maskinkodsinstruktioner</li>
+<li><a href="http://en.wikipedia.org/wiki/Steve_Wozniak">Steve Wozniak</a> - medgrundare av Apple och ensam designer av hårdvaran i både Apple I och Apple II</li>
+<li><a href="http://mainisusuallyafunction.blogspot.se/2014/02/x86-is-turing-complete-with-no-registers.html">X86-instruktionssetet är turingkomplett</a>, utan register</li>
+<li><a href="http://en.wikipedia.org/wiki/Reduced_instruction_set_computing">RISC</a> - designstrategi för processorer där man siktar på hög prestanda genom att använda enkla instruktioner</li>
+<li><a href="http://2014.pycon.se">Pycon</a> - pythonkonferens i Stockholm 20 och 21 maj 2014. Åk dit och träffa Kristoffer och Tobias! Och tipsa oss om ni vill att vi pratar med eller lyssnar på någon speciell person!</li>
+</ul>
+
+</div>
+</div>
+
+  </body>
+</html>
