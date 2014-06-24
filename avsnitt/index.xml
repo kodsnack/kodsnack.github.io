@@ -3,7 +3,7 @@
   <channel>
       <title>Avsnitts on kodsnack </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://kodsnack.github.io/avsnitt/index.xml</link>
+    <link>http://kodsnack.se/avsnitt/index.xml</link>
     <language>sv</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Kodsnack 56 - Små små lösningar på små små problem</title>
-      <link>http://kodsnack.github.io/56/</link>
+      <link>http://kodsnack.se/56/</link>
       <pubDate>Mon, 23 Jun 2014 17:26:14 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/56/</guid>
+      <guid>http://kodsnack.se/56/</guid>
       <description>
 
 &lt;p&gt;Fredrik och Kristoffer snackar om utvecklingen av programmeringskonsten och undrar varför saker inte går snabbare framåt än de gör. Från webben där alla verkar återuppfinna elementarpartiklar om och om igen, via våra likformiga utvecklingsmiljöer till programmeringsspråk där vi återupptäcker Lisp med jämna mellanrum. Famlar vi fortfarande i blindo i väntan på att någon ska upptäcka elden? Vi hinner också med lästips kring Lisp och problemen med de som predikar entydiga och enkla Svar på alla problem.&lt;/p&gt;
@@ -93,10 +93,10 @@
     
     <item>
       <title>Kodsnack 55 - De stora spektaklen</title>
-      <link>http://kodsnack.github.io/55/</link>
+      <link>http://kodsnack.se/55/</link>
       <pubDate>Tue, 17 Jun 2014 14:21:03 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/55/</guid>
+      <guid>http://kodsnack.se/55/</guid>
       <description>
 
 &lt;p&gt;Vi snackar konferenser, presentationer och lightning talks. Vad gör egentligen en konferens värd att åka på, hur mycket kod vill vi se i presentationsbilderna och ska folk verkligen få ställa frågor?&lt;/p&gt;
@@ -159,10 +159,10 @@
     
     <item>
       <title>Kodsnack 54 - De har gått hela vägen till Haskell</title>
-      <link>http://kodsnack.github.io/54/</link>
+      <link>http://kodsnack.se/54/</link>
       <pubDate>Tue, 10 Jun 2014 07:47:24 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/54/</guid>
+      <guid>http://kodsnack.se/54/</guid>
       <description>
 
 &lt;p&gt;Vi snackar om programmeringsspråket Swift och lågnivågrafikramverket Metal - två av nyheterna Apple just presenterat på sin utvecklarkonferens &lt;a href=&#34;https://developer.apple.com/wwdc/&#34;&gt;WWDC&lt;/a&gt;.&lt;/p&gt;
@@ -251,10 +251,10 @@
     
     <item>
       <title>Kodsnack 53 - Gör en Python 5</title>
-      <link>http://kodsnack.github.io/53/</link>
+      <link>http://kodsnack.se/53/</link>
       <pubDate>Tue, 03 Jun 2014 14:54:06 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/53/</guid>
+      <guid>http://kodsnack.se/53/</guid>
       <description>
 
 &lt;p&gt;Kristoffer börjar berätta för Fredrik om sina öden och äventyr på svenska Pycon och tar med oss på en resa från datainsamling och bearbetning via kryptomysterier till Python 2 mot Python 3 och problemen med stora omstarter mellan versioner av mjukvara. Python 3 har stora problem med att vara något nytt och annorlunda som skiljer sig så mycket att den stora massan inte har anledning att byta till det. Samtidigt har utvecklarna  av språket gått vidare så att ingen gör något alls med det språk folk faktiskt använder. Det finns en risk att  man tappar det som gjorde ens skapelse värd att använda när man skriver om den för att bli modernare, mer generell eller vad man nu föresatt sig att göra.&lt;/p&gt;
@@ -317,10 +317,10 @@
     
     <item>
       <title>Kodsnack 52 - Femte elementet i en vektor</title>
-      <link>http://kodsnack.github.io/52/</link>
+      <link>http://kodsnack.se/52/</link>
       <pubDate>Tue, 27 May 2014 07:41:24 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/52/</guid>
+      <guid>http://kodsnack.se/52/</guid>
       <description>
 
 &lt;p&gt;Vi snackar problem med C++ och går sedan över till att diskutera kring FTL - Apples nya optimerande steg i Webkits javascriptmotor. Frustrationer ventileras över all tid som lagts på att göra Javascript snabbare och bättre och vissa likheter i situationen för C++ och Javascript noteras. Var lägger egentligen alla smarta utvecklare sin tid? Är det rätt att snabba upp javascript och skriva reklamanalys eller kunde vi göra bättre saker för att förbättra världen?&lt;/p&gt;
@@ -393,10 +393,10 @@
     
     <item>
       <title>Kodsnack 51  - Konsten att skeppa</title>
-      <link>http://kodsnack.github.io/51/</link>
+      <link>http://kodsnack.se/51/</link>
       <pubDate>Tue, 20 May 2014 09:59:40 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/51/</guid>
+      <guid>http://kodsnack.se/51/</guid>
       <description>
 
 &lt;p&gt;Kristoffer och Tobias snackar om konsten att skeppa, varför det är så svårt att avsluta och leverera saker och hur det fungerar att skeppa saker i deras respektive arbeten. För- och nackdelar med korta och längre cykler för både leverans av program och internt arbete  avhandlas. Varför det är så svårt att tidsuppskatta, och vad händer när uppskattningar och önskningar krockar med verkligheten? Mot slutet kommer vi även in på risken att det går religion i hur man ska göra saker för att det inte finns så mycket rätt och fel i utveckling. Allra sist lite svar på återkoppling vi fått.&lt;/p&gt;
@@ -459,10 +459,10 @@
     
     <item>
       <title>Kodsnack 50.5 Ett nytt kapitel</title>
-      <link>http://kodsnack.github.io/50.5/</link>
+      <link>http://kodsnack.se/50.5/</link>
       <pubDate>Thu, 15 May 2014 06:40:46 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/50.5/</guid>
+      <guid>http://kodsnack.se/50.5/</guid>
       <description>
 
 &lt;p&gt;Vi som gör Kodsnack presenterar oss för nya lyssnare och berättar om nästa steg i programmets utveckling.&lt;/p&gt;
@@ -517,10 +517,10 @@
     
     <item>
       <title>Kodsnack 50 - Error, error, error, långt ner i winsock.h</title>
-      <link>http://kodsnack.github.io/50/</link>
+      <link>http://kodsnack.se/50/</link>
       <pubDate>Tue, 13 May 2014 07:49:09 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/50/</guid>
+      <guid>http://kodsnack.se/50/</guid>
       <description>
 
 &lt;p&gt;Kristoffer och Tobias pratar om hur det är att använda Visual Studio i
@@ -557,10 +557,10 @@ oss i verkligheten!&lt;/p&gt;
     
     <item>
       <title>Kodsnack 49 - Min första datorrelaterade bok</title>
-      <link>http://kodsnack.github.io/49/</link>
+      <link>http://kodsnack.se/49/</link>
       <pubDate>Tue, 06 May 2014 11:58:16 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/49/</guid>
+      <guid>http://kodsnack.se/49/</guid>
       <description>
 
 &lt;p&gt;Vi snackar programmeringsböcker med utgångspunkt från vad Fredrik tycker efter att ha läst &lt;a href=&#34;http://shop.oreilly.com/product/0636920022862.do&#34;&gt;Version control with Git&lt;/a&gt;. Tobias rekommenderar en bok om Vi och vi diskuterar vad som skiljer en bra bok från referensdokumentation och vilt sökande på nätet. Via en diskussion av C#, Mono och Microsofts mobiler kommer vi slutligen till en diskussion om break, continue, goto och andra farliga saker man kan skriva i sin kod.&lt;/p&gt;
@@ -615,10 +615,10 @@ oss i verkligheten!&lt;/p&gt;
     
     <item>
       <title>Kodsnack 48 - Ragefork</title>
-      <link>http://kodsnack.github.io/48/</link>
+      <link>http://kodsnack.se/48/</link>
       <pubDate>Tue, 29 Apr 2014 12:09:45 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/48/</guid>
+      <guid>http://kodsnack.se/48/</guid>
       <description>
 
 &lt;p&gt;Vi snackar om &lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt; - &lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt;-utvecklarnas &lt;a href=&#34;(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology&#34;&gt;fork&lt;/a&gt;) av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.&lt;/p&gt;
@@ -683,10 +683,10 @@ oss i verkligheten!&lt;/p&gt;
     
     <item>
       <title>Kodsnack 47.5 - Man duckar för problemet</title>
-      <link>http://kodsnack.github.io/47.5/</link>
+      <link>http://kodsnack.se/47.5/</link>
       <pubDate>Tue, 22 Apr 2014 16:56:07 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/47.5/</guid>
+      <guid>http://kodsnack.se/47.5/</guid>
       <description>
 
 &lt;p&gt;Tobias och Kristoffer följer upp &lt;a href=&#34;http://kodsnack.se/blog/2014/4/10/kodsnack-46-internet-borde-kunna-lsa-det-problemet&#34;&gt;avsnitt 47&lt;/a&gt; om Github och Julie Ann Horwath med vad som hänt sedan dess och diskuterar både de inblandade i githubfallets svar, andras reaktioner och hur man kanske borde agera och reagera.&lt;/p&gt;
@@ -708,10 +708,10 @@ oss i verkligheten!&lt;/p&gt;
     
     <item>
       <title>Kodsnack 47 - Internet borde kunna lösa det problemet</title>
-      <link>http://kodsnack.github.io/47/</link>
+      <link>http://kodsnack.se/47/</link>
       <pubDate>Tue, 22 Apr 2014 07:00:23 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/47/</guid>
+      <guid>http://kodsnack.se/47/</guid>
       <description>
 
 &lt;p&gt;Kristoffer och Tobias pratar Github, distributed denial of service-attacker och Githubs dominans som koddelningstjänst. Sedan pratar vi om händelserna kring Github och Julie Ann Horwath. Sist en kort och kärnfull urladdning kring byggsystem.&lt;/p&gt;
@@ -766,10 +766,10 @@ oss i verkligheten!&lt;/p&gt;
     
     <item>
       <title>Kodsnack 46 - Korthuset vinglar</title>
-      <link>http://kodsnack.github.io/46/</link>
+      <link>http://kodsnack.se/46/</link>
       <pubDate>Tue, 15 Apr 2014 04:49:52 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/46/</guid>
+      <guid>http://kodsnack.se/46/</guid>
       <description>
 
 &lt;p&gt;Fredrik och Kristoffer snackar om Heartbleed - den ovanligt allvarliga buggen som nyligen upptäckts i OpenSSL. Därifrån kommer undran varför hela SSL-upplägget med certifikat och rotcertfikat fungerar (snarare inte fungerar) som det gör. Vi hoppas att fler vågar lära sig, experimentera med och rent av utveckla kod omkring kryptering. Vi undrar varför det inte decentraliseras mer. Och så en del om problemen med att spela in sina diskussioner och höra sig själv i efterhand.&lt;/p&gt;
@@ -835,10 +835,10 @@ oss i verkligheten!&lt;/p&gt;
     
     <item>
       <title>Kodsnack 45 - Din noja för Mark Zuckerberg</title>
-      <link>http://kodsnack.github.io/45/</link>
+      <link>http://kodsnack.se/45/</link>
       <pubDate>Wed, 09 Apr 2014 19:46:11 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/45/</guid>
+      <guid>http://kodsnack.se/45/</guid>
       <description>
 
 &lt;p&gt;Vi talar ut om vår oro och våra förhoppningar kring VR och Facebooks köp av Oculus VR.&lt;/p&gt;
@@ -891,10 +891,10 @@ oss i verkligheten!&lt;/p&gt;
     
     <item>
       <title>Kodsnack 44 - Strandade på en öde ö</title>
-      <link>http://kodsnack.github.io/44/</link>
+      <link>http://kodsnack.se/44/</link>
       <pubDate>Mon, 31 Mar 2014 18:31:27 UTC</pubDate>
       
-      <guid>http://kodsnack.github.io/44/</guid>
+      <guid>http://kodsnack.se/44/</guid>
       <description>
 
 &lt;p&gt;Fredrik och Tobias snackar arbetsverktyg; saker, program och tjänster vi inte kan eller vill vara utan när vi kodar.&lt;/p&gt;
