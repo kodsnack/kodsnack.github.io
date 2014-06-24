@@ -129,70 +129,35 @@ på &lt;a href=&#34;http://kri.gs/&#34;&gt;kri.gs&lt;/a&gt;.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Software_transactional_memory&#34;&gt;STM&lt;/a&gt; - software transactional memory&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Race_condition&#34;&gt;Race conditions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Leaky_abstraction&#34;&gt;Läckande abstraktioner&lt;/a&gt; - abstraktioner som inte döljer underliggande detaljer väl nog&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/facebook/hhvm#license&#34;&gt;Licensen för HHVM&lt;/a&gt; - PHP- och Zendlicenserna till största delen&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Fall med mjukvarupatent till allmänhetens fördel&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Tesla motors släpper patent … eller?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.uber.com&#34;&gt;Uber&lt;/a&gt; - taxi för rika&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.hcsw.org&#34;&gt;Doug Hoyte&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.letoverlambda.com&#34;&gt;Let over lambda&lt;/a&gt; - bok om Lisp&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.paulgraham.com/onlisptext.htmlhttp://www.paulgraham.com/onlisptext.html&#34;&gt;On Lisp&lt;/a&gt; - gratisboken Kristoffer rekommenderar att man läser före Let over lambda&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.instapaper.com&#34;&gt;Instapaper&lt;/a&gt; - läsa-senare-tjänst&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://mitpress.mit.edu/books/little-schemer&#34;&gt;The little schemer&lt;/a&gt; - en ovanlig och underbar liten bok om programmering&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Presentationer av Friedman&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/steveyegge2/ten-great-books&#34;&gt;Ten great books - Steve Yegge&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CAR_and_CDR&#34;&gt;CAR och CDR&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Guy_L._Steele,_Jr.&#34;&gt;Guy Steele&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html&#34;&gt;Common Lisp the language&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.gigamonkeys.com/book/&#34;&gt;Practical common Lisp&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AITR-474.pdf&#34;&gt;Rabbit - a compiler for Scheme&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf&#34;&gt;Tidernas första paper om Scheme&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vax&#34;&gt;VAX&lt;/a&gt; - gammal instruktionsarkitektur&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Netscape&#34;&gt;Netscape&lt;/a&gt; - företaget bakom den en gång stora och populära webbläsaren med samma namn&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Netscape&#34;&gt;W3C&lt;/a&gt; - World wide web consortium, arbetar bland annat med standarder för webben&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://worrydream.com&#34;&gt;Bret Victor&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Read–eval–print_loop&#34;&gt;REPL&lt;/a&gt; - read-eval-print loop&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Scrum_(software_development%29&#34;&gt;Scrum&lt;/a&gt; - populära sätt att filosofera kring mjukvaruutveckling&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://hypercritical.co/2014/04/27/creativity-inc&#34;&gt;Creativity, inc&lt;/a&gt; - bok om &lt;a href=&#34;http://en.wikipedia.org/wiki/Pixar&#34;&gt;Pixar&lt;/a&gt; och hur de försökt arbeta för att fortsätta utvecklas och frodas&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pixar&#34;&gt;Pixar&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object-oriented_design&#34;&gt;Objektorienterad design&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; - testdriven utveckling&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Richard_Feynman&#34;&gt;Richard Feynman&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cargo_cult_science&#34;&gt;Cargo cult science&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Robert_Cecil_Martin&#34;&gt;Robert Martin&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SOLID_(object-oriented_design%29&#34;&gt;SOLID-principerna&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Tage_Danielsson&#34;&gt;Tage Danielsson&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/facebook/hhvm#license&#34;&gt;Licensen för HHVM&lt;/a&gt; - PHP- och Zendlicenserna till största delen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uber.com&#34;&gt;Uber&lt;/a&gt; - taxi för rika&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hcsw.org&#34;&gt;Doug Hoyte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.letoverlambda.com&#34;&gt;Let over lambda&lt;/a&gt; - bok om Lisp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.paulgraham.com/onlisptext.html&#34;&gt;On Lisp&lt;/a&gt; - gratisboken Kristoffer rekommenderar att man läser före Let over lambda&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instapaper.com&#34;&gt;Instapaper&lt;/a&gt; - läsa-senare-tjänst&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mitpress.mit.edu/books/little-schemer&#34;&gt;The little schemer&lt;/a&gt; - en ovanlig och underbar liten bok om programmering&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/steveyegge2/ten-great-books&#34;&gt;Ten great books - Steve Yegge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CAR_and_CDR&#34;&gt;CAR och CDR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Guy_L._Steele,_Jr.&#34;&gt;Guy Steele&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html&#34;&gt;Common Lisp the language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gigamonkeys.com/book/&#34;&gt;Practical common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AITR-474.pdf&#34;&gt;Rabbit - a compiler for Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf&#34;&gt;Tidernas första paper om Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vax&#34;&gt;VAX&lt;/a&gt; - gammal instruktionsarkitektur&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Netscape&#34;&gt;Netscape&lt;/a&gt; - företaget bakom den en gång stora och populära webbläsaren med samma namn&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Netscape&#34;&gt;W3C&lt;/a&gt; - World wide web consortium, arbetar bland annat med standarder för webben&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://worrydream.com&#34;&gt;Bret Victor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Read–eval–print_loop&#34;&gt;REPL&lt;/a&gt; - read-eval-print loop&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Scrum_(software_development%29&#34;&gt;Scrum&lt;/a&gt; - populära sätt att filosofera kring mjukvaruutveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hypercritical.co/2014/04/27/creativity-inc&#34;&gt;Creativity, inc&lt;/a&gt; - bok om &lt;a href=&#34;http://en.wikipedia.org/wiki/Pixar&#34;&gt;Pixar&lt;/a&gt; och hur de försökt arbeta för att fortsätta utvecklas och frodas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pixar&#34;&gt;Pixar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object-oriented_design&#34;&gt;Objektorienterad design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; - testdriven utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Richard_Feynman&#34;&gt;Richard Feynman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cargo_cult_science&#34;&gt;Cargo cult science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Robert_Cecil_Martin&#34;&gt;Robert Martin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SOLID_(object-oriented_design%29&#34;&gt;SOLID-principerna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Tage_Danielsson&#34;&gt;Tage Danielsson&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
