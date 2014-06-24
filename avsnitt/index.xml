@@ -292,8 +292,9 @@
       <guid>http://kodsnack.github.io/53/</guid>
       <description>
 
-&lt;p&gt;Kristoffer börjar berätta för Fredrik om sina öden och äventyr på svenska Pycon och tar med oss på en resa från datainsamling och bearbetning via kryptomysterier till Python 2 mot Python 3 och problemen med stora omstarter mellan versioner av mjukvara. Python 3 har stora problem med att vara något nytt och annorlunda som skiljer sig så mycket att den stora massan inte har anledning att byta till det. Samtidigt har utvecklarna  av språket gått vidare så att ingen gör något alls med det språk folk faktiskt använder. Det finns en risk att  man tappar det som gjorde ens skapelse värd att använda när man skriver om den för att bli modernare, mer generell eller vad man nu föresatt sig att göra.
-Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Kristoffer börjar berätta för Fredrik om sina öden och äventyr på svenska Pycon och tar med oss på en resa från datainsamling och bearbetning via kryptomysterier till Python 2 mot Python 3 och problemen med stora omstarter mellan versioner av mjukvara. Python 3 har stora problem med att vara något nytt och annorlunda som skiljer sig så mycket att den stora massan inte har anledning att byta till det. Samtidigt har utvecklarna  av språket gått vidare så att ingen gör något alls med det språk folk faktiskt använder. Det finns en risk att  man tappar det som gjorde ens skapelse värd att använda när man skriver om den för att bli modernare, mer generell eller vad man nu föresatt sig att göra.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
 
@@ -555,7 +556,9 @@ Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&
       <pubDate>Tue, 13 May 2014 07:49:09 UTC</pubDate>
       
       <guid>http://kodsnack.github.io/50/</guid>
-      <description>&lt;p&gt;Kristoffer och Tobias pratar om hur det är att använda Visual Studio i
+      <description>
+
+&lt;p&gt;Kristoffer och Tobias pratar om hur det är att använda Visual Studio i
 Windows 8 vilket osökt leder in på diskussioner om responsiva IDE-er,
 fulhack i C++, unit-tester, Gophercon 2014 och mycket annat.&lt;/p&gt;
 
@@ -564,6 +567,8 @@ går av stapeln i Stockholm den 20 - 21 Maj. Kom gärna och snacka med
 oss i verkligheten!&lt;/p&gt;
 
 &lt;p&gt;Det här avsnittet av KodSnack sponsras av &lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö StartUp Studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Unit-test ramverk: &lt;a href=&#34;https://code.google.com/p/googletest/&#34;&gt;gtest&lt;/a&gt; och mockning: &lt;a href=&#34;https://code.google.com/p/googlemock/&#34;&gt;gmock&lt;/a&gt;&lt;/li&gt;
@@ -717,7 +722,11 @@ oss i verkligheten!&lt;/p&gt;
       <pubDate>Tue, 22 Apr 2014 16:56:07 UTC</pubDate>
       
       <guid>http://kodsnack.github.io/47.5/</guid>
-      <description>&lt;p&gt;Tobias och Kristoffer följer upp &lt;a href=&#34;http://kodsnack.se/blog/2014/4/10/kodsnack-46-internet-borde-kunna-lsa-det-problemet&#34;&gt;avsnitt 47&lt;/a&gt; om Github och Julie Ann Horwath med vad som hänt sedan dess och diskuterar både de inblandade i githubfallets svar, andras reaktioner och hur man kanske borde agera och reagera.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Tobias och Kristoffer följer upp &lt;a href=&#34;http://kodsnack.se/blog/2014/4/10/kodsnack-46-internet-borde-kunna-lsa-det-problemet&#34;&gt;avsnitt 47&lt;/a&gt; om Github och Julie Ann Horwath med vad som hänt sedan dess och diskuterar både de inblandade i githubfallets svar, andras reaktioner och hur man kanske borde agera och reagera.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/blog/1823-results-of-the-github-investigation&#34;&gt;Githubs tillkännagivande&lt;/a&gt; av företagets egen undersökning efter att Horwath slutade&lt;/li&gt;
@@ -800,6 +809,8 @@ oss i verkligheten!&lt;/p&gt;
 
 &lt;p&gt;Fredrik och Kristoffer snackar om Heartbleed - den ovanligt allvarliga buggen som nyligen upptäckts i OpenSSL. Därifrån kommer undran varför hela SSL-upplägget med certifikat och rotcertfikat fungerar (snarare inte fungerar) som det gör. Vi hoppas att fler vågar lära sig, experimentera med och rent av utveckla kod omkring kryptering. Vi undrar varför det inte decentraliseras mer. Och så en del om problemen med att spela in sina diskussioner och höra sig själv i efterhand.&lt;/p&gt;
 
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.openssl.org&#34;&gt;OpenSSL&lt;/a&gt; - säkerhetsmjukvaran i vilken buggen kallad Heartbleed har upptäckts&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; - amerikanskt krypto- säkerhets- och integritetsspecialist&lt;/li&gt;
@@ -848,7 +859,7 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.openssh.com&#34;&gt;OpenSSH&lt;/a&gt; - som inte har något med OpenSSL eller Heartbleed att göra&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Händelser efter inspelning&lt;/h2&gt;
+&lt;h2 id=&#34;toc_1&#34;&gt;Händelser efter inspelning&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html&#34;&gt;NSA Said to Exploit Heartbleed Bug for Intelligence for Years&lt;/a&gt; - artikel som kom strax efter att avsnittet spelades in&lt;/li&gt;
