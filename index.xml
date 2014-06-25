@@ -332,6 +332,12 @@ på &lt;a href=&#34;http://kri.gs/&#34;&gt;kri.gs&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;.&lt;/p&gt;
 
+&lt;figure&gt;
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YEBfamv-_do&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;figcaption&gt;&lt;h4&gt;En video som förklarar Diffie-Hellman-algoritmen, tack
+till Mattias Örnhall som mailade länken till oss!&lt;/h4&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -785,7 +791,13 @@ oss i verkligheten!&lt;/p&gt;
       <guid>http://kodsnack.se/47/</guid>
       <description>
 
-&lt;p&gt;Kristoffer och Tobias pratar Github, distributed denial of service-attacker och Githubs dominans som koddelningstjänst. Sedan pratar vi om händelserna kring Github och Julie Ann Horwath. Sist en kort och kärnfull urladdning kring byggsystem.&lt;/p&gt;
+&lt;p&gt;Kristoffer och Tobias pratar Github, distributed denial of
+service-attacker och Githubs dominans som koddelningstjänst. Sedan
+pratar vi om händelserna kring Github och Julie Ann Horwath. Sist en
+kort och kärnfull urladdning kring byggsystem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uppdatering:&lt;/strong&gt; Det har kommit fram mer information om GitHub Julie-Ann&amp;rsquo;s
+historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/&#34;&gt;uppföljningen här&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
 
