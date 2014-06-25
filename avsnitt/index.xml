@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Avsnitt on kodsnack </title>
+      <title>Avsnitts on kodsnack </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://kodsnack.se/avsnitt/index.xml</link>
     <language>sv</language>
