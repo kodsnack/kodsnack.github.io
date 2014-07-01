@@ -7,7 +7,208 @@
     <language>sv</language>
     
     
-    <updated>Mon, 23 Jun 2014 17:26:14 UTC</updated>
+    <updated>Tue, 01 Jul 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 57 - Utvecklarnas utvecklarkonferens</title>
+      <link>http://kodsnack.se/57/</link>
+      <pubDate>Tue, 01 Jul 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/57/</guid>
+      <description>
+
+&lt;p&gt;Vi tar hjälp av riktiga experter för att försöka bearbeta intrycken från WWDC. David Rönnqvist, Joachim Bengtsson och Johan Larsson pratar förbättringar för utvecklare, känslan av ett nytt Apple och förstås en hel del Swift. Varför skrev Apple ett eget språk, vilka är våra favoritaspekter av språket? Vad mer kan Apple göra för att förbättra App store för utvecklare?&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/nevyn&#34;&gt;Joachim Bengtsson (@nevyn)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/davidronnqvist&#34;&gt;David Rönnqvist (@davidronnqvist)&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.twitter.com/kottkrig&#34;&gt;Johan Larsson (@kottkrig)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lookback.io&#34;&gt;Lookback&lt;/a&gt; - se hur folk faktiskt använder din app&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mac_OS_X_Leopard&#34;&gt;Leopard&lt;/a&gt; - Mac OS X 10.5&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Core_Animation&#34;&gt;Core animation&lt;/a&gt; - appleramverk för att animera gränssnitt&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/SceneKit/Reference/SceneKit_Framework/index.html&#34;&gt;Scene kit&lt;/a&gt; - appleramverk för 3D-grafik&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.scenekitbook.com&#34;&gt;3D graphics with Scene kit&lt;/a&gt; - Davids bok om Scene kit&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/CocoaHeads-Stockholm/&#34;&gt;Cocoaheads Stockholm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://slashat.se&#34;&gt;Slashat&lt;/a&gt; - sveriges största teknikpodcast&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/Slashat&#34;&gt;Slashat-appen&lt;/a&gt; på Github&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/kottkrig&#34;&gt;Johan på Github&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/wwdc/&#34;&gt;WWDC 2014&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=t4OEsI0Sc_s&#34;&gt;Iphoneintroduktionen 2007&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL6E1645BADEB54E16&#34;&gt;Back to the Mac-eventet 2010&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZIQ5zGOo6qE&#34;&gt;WWDC 2013 - öppningspresentationen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=203&#34;&gt;Healthkit&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=213&#34;&gt;Homekit&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.apple.com/creativity-apps/mac/&#34;&gt;iWork&lt;/a&gt; - Apples svit av produktivitetsapplikationer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/gruber/status/473507289953861632&#34;&gt;Word on the street: The truly big stuff did not leak.&lt;/a&gt; - John Gruber före WWDC 2014&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.macrumors.com/roundup/iwatch/&#34;&gt;iWatch&lt;/a&gt; - klockan det länge ryktats att Apple utvecklar&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.apple.com/osx/preview/&#34;&gt;Yosemite&lt;/a&gt; - 2014 års version av Mac OS X&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://rack.3.mshcdn.com/media/ZgkyMDE0LzA2LzA1LzY1L2ZpbmRyZS43N2MyNi5qcGcKcAl0aHVtYgk4NTB4ODUwPgplCWpwZw/f785dd47/c13/findre.jpg&#34;&gt;Nya glada Finder&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/swift/&#34;&gt;Swift&lt;/a&gt; - Apples nya programmeringsspråk&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/indexhtml#//apple_ref/doc/uid/TP40014214&#34;&gt;Extensions&lt;/a&gt; - Apples lösning för att låta applikationer på iOS och OS X samarbeta på ett säkert sätt&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunesconnect.apple.com&#34;&gt;iTunes connect&lt;/a&gt; - Apples tjänst för alla som vill sälja saker genom deras butiker (App store, iTunes och iBooks)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=302&#34;&gt;Nyheter i iTunes connect&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/support/appstore/TestFlight/&#34;&gt;Testflight&lt;/a&gt; - System för hantering av betatester&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Software_development_kit&#34;&gt;SDK&lt;/a&gt; - software development kit&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://support.google.com/googleplay/android-developer/answer/3131213?hl=en&#34;&gt;Betatestning och gradvis utrullning&lt;/a&gt; av nya versioner av appar på Android&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/NotificationCenter.html&#34;&gt;Notiswidgets&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html&#34;&gt;Att utveckla tangentbord för iOS 8&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=205&#34;&gt;Video om extensions&lt;/a&gt; - &amp;ldquo;Creating extensions for iOS and OS X&amp;rdquo;. Se även &lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=217&#34;&gt;del två&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/FileProvider.html#//apple_ref/doc/uid/TP40014214-CH18-SW1&#34;&gt;Storage provider&lt;/a&gt; - typ av extension som låter en app agera lagrings- och hämtningsplats för filer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IOS_jailbreaking&#34;&gt;Jailbreak&lt;/a&gt; - att gå runt systemets inbyggda begräsningar för att till exempel kunna installera vilken mjukvara som helst&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/macosx/conceptual/bpsystemstartup/chapters/CreatingXPCServices.html&#34;&gt;XPC&lt;/a&gt; - API i OS X för kommunikation mellan processer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com&#34;&gt;Dropbox&lt;/a&gt; - tjänst för lagring av filer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.box.com&#34;&gt;Box&lt;/a&gt; - tjänst för lagring av filer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/icloud/documentation/cloudkit-storage/&#34;&gt;Cloudkit&lt;/a&gt; - Apples senaste API för att låta appar lagra data i molnet&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://onedrive.live.com/about/sv-se/&#34;&gt;One drive&lt;/a&gt; - Microsofts tjänst för molnbaserad fillagring&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=102&#34;&gt;Utvecklarkeynoten&lt;/a&gt; - &amp;ldquo;Platforms state of the union&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/General/Conceptual/iCloudDesignGuide/Chapters/DesignForCoreDataIniCloud.html&#34;&gt;iCloud Core data&lt;/a&gt; - API för att låta applikationer byggda på Core data synkronisera sömlöst med molnet&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/Photos/Reference/Photos_Framework/index.html&#34;&gt;Photokit&lt;/a&gt; - Nytt ramverk för att arbeta med foto och video&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Craig_Federighi&#34;&gt;Craig Federighi&lt;/a&gt; basar över både Mac OS X och iOS utveckling&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.apple.com/ios/ios8/continuity/&#34;&gt;Continuity&lt;/a&gt; - Fördjupad kommunikation mellan Apples olika enheter&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Representational_state_transfer&#34;&gt;REST-API&lt;/a&gt; - API som definieras av och arbetar med HTTP-standardens anrop&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Type_system#Type_checking&#34;&gt;Statisk och dynamisk typning&lt;/a&gt; - Två inriktningar till att kontrollera att data i program är av förväntad typ&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lua_(programming_language%29&#34;&gt;LUA&lt;/a&gt; - programmeringsspråk&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Generic_programming&#34;&gt;Generic programming&lt;/a&gt; - Ger möjlighet att skriva generella funktioner som kan arbeta med många olika typer av data&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/690903/why-does-objective-c-use-yes-and-no-instead-of-1-and-0&#34;&gt;YES och NO&lt;/a&gt; - Används i Objective-C istället för 1 och 0 när man arbetar med boolska värden&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Foreach_loop#Swift&#34;&gt;&amp;hellip; och .. vid iteration&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/24001778/do-swift-based-apps-work-on-os-x-10-9-ios-7-and-lower&#34;&gt;Bakåtkompatibilitet&lt;/a&gt; - Swift stöds bara för iOS 7 och framåt, så det går inte att använda för projekt med höga krav på bakåtkompatibilitet&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=402&#34;&gt;Introduktion till Swift&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Binary_code_compatibility&#34;&gt;Binärkompatibilitet&lt;/a&gt; innebär i fallet Swift att ett program kompilerat med en tidig version av Swift fortfarande kommer att fortsätta fungera och köra även när nyare versioner av språket släppts&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://devforums.apple.com/message/989931#989931&#34;&gt;Lattnerpost om binärkompatibilitet&lt;/a&gt; på utvecklarforumet (inloggning krävs)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/InteractingWithObjective-CAPIs.html#//apple_ref/doc/uid/TP40014216-CH4-XID_26&#34;&gt;Att blanda Swift med C-språken&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.rubymotion.com&#34;&gt;Rubymotion&lt;/a&gt; - Utveckla för iOS och OS X i Ruby&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ARM_architecture&#34;&gt;ARM&lt;/a&gt; - familj av instruktionsuppsättningsarkitekturer (säg det fem gånger snabbt) för processorer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.imore.com/debug-33-ken-ferry-auto-layout-passbook-and-understudy&#34;&gt;Debug 33: Ken Ferry on Auto Layout, Passbook, and Understudy&lt;/a&gt; - vid 1:14:00 pratas om hur Chris Lattner utvecklar: “[Chris Lattner] has this attitude towards incremental change that I think is very useful which is that: the way that you get something done is that first you figure out where you want to be, which might be somewhere totally different from where you are (and that’s fine) but then you figure out a path to get from where you are to where you want to be and the path is to the greatest extend incremental and you don’t just throw it out and write again because that’s not going to work.”&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt; - Mannen bakom Swift, LLVM och Clang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blocks_(C_language_extension%29&#34;&gt;Block&lt;/a&gt; - utbyggnad av C för att stödja &lt;a href=&#34;http://en.wikipedia.org/wiki/Closure_(computer_science%29&#34;&gt;closures&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Automatic_Reference_Counting&#34;&gt;ARC&lt;/a&gt; - Automatic reference counting, minneshanteringsteknik som används på Apples plattformar&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Closure_(computer_science%29&#34;&gt;Closures&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/clattner_llvm/status/474082459860992000&#34;&gt;Lattners tweet&lt;/a&gt; att det här är en startpunkt&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/se/app/wwdc/id640199958?mt=8&#34;&gt;WWDC-appen&lt;/a&gt; - ett trevligt sätt att se alla presentationer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/swift_programming_language/Extensions.html#//apple_ref/doc/uid/TP40014097-CH24-XID_191&#34;&gt;Extensions i Swift&lt;/a&gt; - categories i Objective-C, sätt att lägga ny funktionalitet till existerande klasser, strukturer och uppräkningstyper&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Monkey_patch&#34;&gt;Monkey patching&lt;/a&gt; - att förändra körande kod utan att förändra källkoden&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/recipes/xcode_help-source_editor/ExploringandEvaluatingSwiftCodeinaPlayground/ExploringandEvaluatingSwiftCodeinaPlayground.html&#34;&gt;Playgrounds&lt;/a&gt; - interaktiv miljö för Swift&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@rrridges/swift-optionals-a10dcfd8aab5&#34;&gt;Optionals&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/6317889/what-does-synchronized-do&#34;&gt;Synchronized&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/cocoa/reference/foundation/Classes/NSLock_Class/Reference/Reference.html&#34;&gt;NSLock&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bugreport.apple.com&#34;&gt;Radar&lt;/a&gt; - Apples bugghanteringssystem&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cocoasamurai.blogspot.se/2009/09/guide-to-blocks-grand-central-dispatch.html&#34;&gt;Dispatchblock&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/hh191443.aspx&#34;&gt;Asynkronisitet i C#&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.gevent.org&#34;&gt;Gevent&lt;/a&gt; för Python&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/swift_programming_language/Closures.html#//apple_ref/doc/uid/TP40014097-CH11-XID_126&#34;&gt;Trailing closures&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Future_(programming%29&#34;&gt;Future&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.mikeash.com/pyblog/friday-qa-2010-02-26-futures.html&#34;&gt;Att bygga futures ovanpå GCD&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.564782/swift-skapar-nya-mojligheter-for-framtiden&#34;&gt;Fredriks krönika om det nya Apple&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qPS4J3aJzkQ&#34;&gt;Hårskämt på WWDC&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://oleb.net/blog/2014/06/apple-lifted-beta-nda/&#34;&gt;NDA&lt;/a&gt; - WWDC i år är väldigt mycket mindre hemligt än tidigare år&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.imore.com/debug-33-ken-ferry-auto-layout-passbook-and-understudy&#34;&gt;Debug 33: Ken Ferry on Auto Layout, Passbook, and Understudy&lt;/a&gt; - vid 0:28:30  pratas det om att “the AppKit group and UIKit group now sit next to each other”&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://appleinsider.com/articles/14/06/09/apple-alters-app-store-rules-starts-denying-apps-for-incentivized-ads-sharing&#34;&gt;Apple nekar appar&lt;/a&gt; där man kan se reklam mot belöningar i spelet&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11&#34;&gt;Swiftboken&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/AVFoundation/Reference/AVAudioEngine_Class/index.html&#34;&gt;AVAudioEngine&lt;/a&gt; - &lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=502&#34;&gt;video&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=419&#34;&gt;Interaktiva animationer-presentation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=603&#34;&gt;Metal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/SecondTutorial.html&#34;&gt;Storyboards&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/mac/samplecode/ViewController/Introduction/Intro.html#//apple_ref/doc/uid/DTS10004233&#34;&gt;Nya view controllers på Mac&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=216&#34;&gt;Nya storleks-API:er för iOS&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/userexperience/conceptual/AutolayoutPG/Introduction/Introduction.html&#34;&gt;Auto layout&lt;/a&gt; - System för att mer automatiskt anpassa gränssnitt för olika skärm- och fönsterstorlekar&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.scenekitbook.com&#34;&gt;scenekitbook.com&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/CocoaHeads-Stockholm/&#34;&gt;Cocoaheads Stockholm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 56 - Små små lösningar på små små problem</title>
@@ -905,86 +1106,6 @@ historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt; - dator- och mjukvaruföretag Steve Jobs grundade och drev 1985 - 1996&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.instagram.com&#34;&gt;Instagram&lt;/a&gt; - Facebooks fotodelningstjänst&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Jobs&#34;&gt;Steve Jobs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 44 - Strandade på en öde ö</title>
-      <link>http://kodsnack.se/44/</link>
-      <pubDate>Mon, 31 Mar 2014 18:31:27 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/44/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Tobias snackar arbetsverktyg; saker, program och tjänster vi inte kan eller vill vara utan när vi kodar.&lt;/p&gt;
-
-&lt;p&gt;Som grädde på moset en historia om delade pekare i C++ och de där buggarna man bara inte kan förstå att man inte upptäckt för längesen.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/macbook-air/specs/macbook-air-core-2-duo-1.6-11-late-2010-specs.html&#34;&gt;Elvatums Macbook air (sent 2010)&lt;/a&gt; - Fredriks privata dator&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2012/11/19/kodsnack-8-byggare-bob&#34;&gt;Kodsnack 8 - Byggare Bok&lt;/a&gt; - allt om byggsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Multi-core_processor&#34;&gt;Cores - processorkärnor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Compiler&#34;&gt;Kompilatorer&lt;/a&gt; - program som omvandlar källkod från en form (ett språk) till en anann (ett annat språk eller binärkod för en viss plattform)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.4-15-late-2011-unibody-thunderbolt-specs.html&#34;&gt;Macbook pro (sent 2011)&lt;/a&gt; - Fredriks jobbdator och Tobias sekundära jobbdator&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/imac/specs/imac-core-i7-3.5-27-inch-aluminum-late-2013-specs.html&#34;&gt;27-tums iMac (sent 2013)&lt;/a&gt; - Tobias huvudsakliga arbetsdator&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sublimetext.com&#34;&gt;Sublime text&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org&#34;&gt;Eclipse&lt;/a&gt; - mycket spridd utvecklingsmiljö för Java (med mera)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/idea/&#34;&gt;IntelliJ IDEA&lt;/a&gt; - Jetbrains utvecklingsmiljö för Java&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/xcode/&#34;&gt;Xcode&lt;/a&gt; - Apples utvecklingsmiljö, främst för Objective-C men även C och C++&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Terminal_emulator&#34;&gt;Terminalemulator&lt;/a&gt; - program som ger en textterminal i ett fönster&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Z_shell&#34;&gt;Z shell&lt;/a&gt; - populärt och kraftfullt kommandoskal&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Solaris_(operating_system%29&#34;&gt;Solaris&lt;/a&gt; - operativsystem från början utvecklat av &lt;a href=&#34;http://en.wikipedia.org/wiki/Sun_Microsystems&#34;&gt;Sun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tcsh&#34;&gt;tcsh&lt;/a&gt; - skal som är en utbyggnad av &lt;a href=&#34;http://en.wikipedia.org/wiki/C_shell&#34;&gt;C shell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Grep&#34;&gt;Grep&lt;/a&gt; - sökkommando&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh&#34;&gt;Oh-my-zsh&lt;/a&gt; - samling av inställningar, teman med mera för Z shell&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://git-scm.com&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bash_(Unix_shell&#34;&gt;Bash&lt;/a&gt;) - skal som är standardvalet på Linux och Mac OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.iterm2.com/#/section/home&#34;&gt;iTerm2&lt;/a&gt; - terminalprogram för OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNOME_Terminal&#34;&gt;GNOME terminal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Windows powershell&lt;/a&gt; - modernt skal för Windows från Microsoft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com&#34;&gt;Dropbox&lt;/a&gt; - filsynkning mellan enheter, som fungerar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Icloud&#34;&gt;iCloud&lt;/a&gt; - Apples paraplynamn för ett stort antal molntjänster som säkerhetskopiering, foto- och datasynkronisering med mera&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bittorrent.com/sync&#34;&gt;Bittorrent sync&lt;/a&gt; - filsynkning mellan enheter, som … oftast … fungerar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qt-project.org/wiki/Category:Tools::QtCreator&#34;&gt;QT creator&lt;/a&gt; - Tobias favoritmiljö för C++, just nu i alla fall&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt; - kompilatorframsida för Objective-C, C och C++&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.swig.org/article_cpp.html&#34;&gt;Parsnings- och kompileringsproblemen med C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lldb.llvm.org&#34;&gt;LLDB&lt;/a&gt; - debugger för LLVM och &lt;a href=&#34;http://en.wikipedia.org/wiki/Instruments_(application%29&#34;&gt;Instruments&lt;/a&gt; - analysverktyg för Xcode&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; - utvecklare av många populära utvecklingsmiljöer för olika språk och plattformar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/objc/&#34;&gt;Appcode&lt;/a&gt; - Jetbrains IDE för Objective-C-utveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ikea.com/se/sv/catalog/products/90088946/&#34;&gt;IKEAS skrivbord Galant i höj- och sänkbar modell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.hag.se/produkter/hag-capisco/hag-capisco-8107/&#34;&gt;Håg capisco&lt;/a&gt; - skrivbordsstolen som får Tobias varmaste rekommendationer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bafab.se/se/&#34;&gt;Firmor&lt;/a&gt; som &lt;a href=&#34;http://kontorsutvecklarna.se/begagnade-mobler/&#34;&gt;säljer möbler&lt;/a&gt; från konkursbon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Treadmill_desk&#34;&gt;Skrivbord och rullband i förening&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www1.euro.dell.com/se/sv/hemanvandare/Peripherals/dell-u2713hm/pd.aspx?refid=dell-u2713hm&amp;amp;cs=sedhs1&amp;amp;s=dhs&#34;&gt;Fredriks jobbildskärm från Dell&lt;/a&gt; 2560x1440&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://subversion.apache.org&#34;&gt;Subversion&lt;/a&gt; - ett äldre och mer centraliserat (jämfört med Git) versionskontrollsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://aosabook.org/en/git.html&#34;&gt;Gits design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gitlab.com&#34;&gt;Gitlab&lt;/a&gt; - en klon av Github som finns gratis och går att köra själv&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Model_M_keyboard&#34;&gt;IBM model M&lt;/a&gt; stort, tungt och klassiskt tangentbord som &lt;a href=&#34;http://www.bjoreman.com/main.php?mainId=142&#34;&gt;Fredrik gillar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.trulyergonomic.com/store/index.php&#34;&gt;Truly ergonomic&lt;/a&gt; - Tobias tangentbord&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://store.apple.com/se/product/MC184S/B/apple-wireless-keyboard?fnode=5b3abcc454654c56a0e1d775d3d6376db8041083c9ce7e2898d21e1eb184a3ad6e0cfc3bf2491a37e86048c22a77079570707acc4e2677e2a7d412cfb3146608&#34;&gt;Apples trådlösa tangentbord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://store.apple.com/se/product/MC380Z/A/magic-trackpad?fnode=5b3abcc454654c56a0e1d775d3d6376db8041083c9ce7e2898d21e1eb184a3ad6e0cfc3bf2491a37e86048c22a77079570707acc4e2677e2a7d412cfb3146608&#34;&gt;Apple magic trackpad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bjoreman.com/thoughts/magicTrackpad.html&#34;&gt;Fredrik om varför han använder trackpad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++&#34;&gt;C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries%29&#34;&gt;Boost&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/memory/shared_ptr/&#34;&gt;Delade pekare - shared pointer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/a/15604573&#34;&gt;Allokering och deallokering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/new/operator%20new/&#34;&gt;new-operatorn i C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[Stack och heap]() - minnesareor där man kan lagra saker.&lt;/li&gt;
-&lt;li&gt;[Scope]() - hur länge någonting lever&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/a/24922&#34;&gt;Minneshantering i C&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/4064286/c-const-keyword-explanation&#34;&gt;const-nyckelordet i C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_reference&#34;&gt;Call by reference&lt;/a&gt; - att anropa en funktion och skicka in en referens till ett värde istället för en kopia av värdet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reference_counting&#34;&gt;Reference counting&lt;/a&gt; - ett sätt att hantera minne när man skriver program&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Garbage_collection_(computer_science%29&#34;&gt;Garbage collection&lt;/a&gt; - automatisk minneshantering&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://courses.cms.caltech.edu/cs11/material/cpp/donnie/cpp-ops.html&#34;&gt;Operatoröverlagring i C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Locale&#34;&gt;Locale&lt;/a&gt; - information om datum, tid med mera som är specifik för ett visst land eller en viss region&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;irc://irc.freenode.net/kodsnack&#34;&gt;Kodsnacks IRC-kanal&lt;/a&gt; - #kodsnack på irc.freenode.net&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://plasmasturm.org/log/6debug/&#34;&gt;Sex stadier av felsökning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_Gruber&#34;&gt;John Gruber&lt;/a&gt; - skribent i applevärlden och mannen bakom &lt;a href=&#34;http://daringfireball.net&#34;&gt;Daring fireball&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
