@@ -7,7 +7,59 @@
     <language>sv</language>
     
     
-    <updated>Tue, 01 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 08 Jul 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 58 - Bara statisk HTML</title>
+      <link>http://kodsnack.se/58/</link>
+      <pubDate>Tue, 08 Jul 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/58/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Fredrik snackar om den nya inkarnationen av kodsnack.se och tekniken bakom. Vi följer också upp kring Lisp och lyssnares rättelser av vad vi sagt. Lisp är mer maskinnära än man kanske tror. Vi patar program som genererar statiska webbplatser och deras nytta både att använda och bygga. Mot slutet blir det uppföljning om och minnen av PHP blandat med lättnaden i att generera sin webbplats statiskt och alla bekymmer man slipper genom att göra så.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; - program och syntax för att generera HTML från dokument i ren text&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/site/tree/master/content/avsnitt&#34;&gt;Kodsnacks avsnittsanteckningar på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://help.squarespace.com/guides/can-i-export-my-site&#34;&gt;Export från Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wordpress&#34;&gt;Wordpess&lt;/a&gt; - populärt bloggverktyg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/FLAC&#34;&gt;FLAC&lt;/a&gt; - Free lossless audio codec&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/squarespace&#34;&gt;Squarespace på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slack.com&#34;&gt;Slack&lt;/a&gt; - chatt med mera för arbetsgrupper&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.libsyn.com&#34;&gt;Libsyn&lt;/a&gt; - plattform för att publicera poddradioprogram&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.libsynpro.com/api&#34;&gt;Libsyns API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://auphonic.com&#34;&gt;Auphonic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Static_web_page&#34;&gt;Statisk webbplats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/47/&#34;&gt;Snack tidigare om Github-monokultur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - Virtual private server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.crummy.com/software/BeautifulSoup/&#34;&gt;Beautiful soup&lt;/a&gt; - pythonbibliotek för att utvinna data ur exempelvis webbsidor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Rss&#34;&gt;RSS&lt;/a&gt; - Standard för publikation av nyheter eller annat innehåll från webbplatser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugo.spf13.com&#34;&gt;Hugo&lt;/a&gt; - statisk webbplatsgenerator skriven i Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; - populär statisk webbplatsgenerator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hyde.github.io&#34;&gt;Hyde&lt;/a&gt; - Jekyll i Python&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.getpelican.com&#34;&gt;Pelican&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docutils.sourceforge.net/rst.html&#34;&gt;Restructured text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.methods.co.nz/asciidoc/&#34;&gt;ASCIIdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spanish_language_in_the_United_States&#34;&gt;Spanskans utbredning i USA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.567252/kodsnack--lisp-i-alla-programmeringssprak?articleRenderMode=listpostings#disqus_thread&#34;&gt;Kommentarer och diskussion&lt;/a&gt; på Techworld kring Lisp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Word_%28computer_architecture%29&#34;&gt;Ord&lt;/a&gt; - Den naturliga dataenheten i en viss processordesign&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cons_cell&#34;&gt;cons-cell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;Templates-biblioteket&lt;/a&gt; som följer med Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codekata.com&#34;&gt;Kodkata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/donmelton/magneto&#34;&gt;Magneto&lt;/a&gt; - &lt;a href=&#34;http://donmelton.com&#34;&gt;Don Melton&lt;/a&gt;s generator för statiska webbplatser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://servicesangle.com/blog/2011/08/31/qa-with-yukihiro-matz-matsumoto-the-creator-of-ruby/&#34;&gt;Ruby vill göra programmerare glada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Active_Server_Pages&#34;&gt;ASP&lt;/a&gt; - Active server pages - tidig microsoftteknik för dynamiska webbplatser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CAPTCHA&#34;&gt;CAPTCHA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zdnet.com/ready-or-not-here-come-the-new-internet-top-level-domain-names-7000025744/&#34;&gt;Nya toppdomäner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/site/issues&#34;&gt;Rapportera fel i anteckningar eller avsnitt här&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 57 - Utvecklarnas utvecklarkonferens</title>
@@ -1053,75 +1105,6 @@ historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com
 &lt;/ul&gt;
 
 &lt;p&gt;: Det har kommit fram mer information om GitHub Julie-Ann&amp;rsquo;s historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/&#34;&gt;uppföljningen här&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 46 - Korthuset vinglar</title>
-      <link>http://kodsnack.se/46/</link>
-      <pubDate>Tue, 15 Apr 2014 04:49:52 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/46/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar om Heartbleed - den ovanligt allvarliga buggen som nyligen upptäckts i OpenSSL. Därifrån kommer undran varför hela SSL-upplägget med certifikat och rotcertfikat fungerar (snarare inte fungerar) som det gör. Vi hoppas att fler vågar lära sig, experimentera med och rent av utveckla kod omkring kryptering. Vi undrar varför det inte decentraliseras mer. Och så en del om problemen med att spela in sina diskussioner och höra sig själv i efterhand.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openssl.org&#34;&gt;OpenSSL&lt;/a&gt; - säkerhetsmjukvaran i vilken buggen kallad Heartbleed har upptäckts&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; - amerikanskt krypto- säkerhets- och integritetsspecialist&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chuck_Norris_meme&#34;&gt;Chuck Norris-memes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.schneierfacts.com&#34;&gt;Schneier-memes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.heartbleed.com&#34;&gt;Heartbleed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2014/04/heartbleed.html&#34;&gt;Schneiers post om Heartbleed &lt;/a&gt; - buggen är elva på tiogradiga skalan&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2009/11/beyond_security.html&#34;&gt;Schneier om säkerhetsteater&lt;/a&gt; &lt;a href=&#34;https://www.schneier.com/blog/archives/2012/11/on_the_ineffect_1.html&#34;&gt;på flygplatser&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fear_mongering&#34;&gt;Fear mongering&lt;/a&gt; - att använda rädsla för att påverka&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Https&#34;&gt;HTTPS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Man-in-the-middle_attack&#34;&gt;Man in the middle-attacker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xkcd.com/1354/&#34;&gt;Serien XKCD förklarar Heartbleed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Private_key&#34;&gt;Privata nycklar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.cloudflare.com/answering-the-critical-question-can-you-get-private-ssl-keys-using-heartbleed&#34;&gt;Vad kan man hitta genom att utnyttja Heartbleed?&lt;/a&gt; - artikeln jag hittade med de som försökte få ut privata nycklar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.co.uk/2014/04/google-services-updated-to-address.html&#34;&gt;Googles uppdateringar efter Heartbleed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://status.twitter.com/post/82109064906/ssl-security-update&#34;&gt;Twitter säger sig vara opåverkade&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dailymail.co.uk/news/article-2602069/Google-Facebook-Paypal-insist-internet-passwords-secure-heartbleed-bug-alert.html&#34;&gt;… liksom Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://staff.tumblr.com/post/82113034874/urgent-security-update&#34;&gt;Men Tumblr säger byt lösenord …&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1818-security-heartbleed-vulnerability&#34;&gt;… precis som Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gotofail.com&#34;&gt;Gotofail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.garage4hackers.com/entry.php?b=2551&#34;&gt;Koden för Heartbleedbuggen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Heartbeat_message&#34;&gt;Heartbeat-meddelande&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/865987/do-i-need-to-heartbeat-to-keep-a-tcp-connection-open&#34;&gt;TCP heartbeat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bounds_checking&#34;&gt;Bounds check&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xkcd.com/327/&#34;&gt;Den sedelärande historien om Bobby tables - också från serien XKCD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.peereboom.us/assl/assl/html/openssl.html&#34;&gt;Kritik - från 2009 - av hur OpenSSL är skrivet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnutls.org&#34;&gt;GNUTLS&lt;/a&gt; - alternativ till OpenSSL, som hade &lt;a href=&#34;http://kodsnack.se/blog/2014/3/15/kodsnack-43-jtteprestanda-i-kod-som-gr-helt-fel-grej&#34;&gt;sin egen bugg&lt;/a&gt; helt nyligen.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Root_certificate&#34;&gt;Rotcertifikat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cs.tau.ac.il/~tromer/acoustic/&#34;&gt;Akustikanalys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Social_engineering_(security%29&#34;&gt;Social engineering&lt;/a&gt; - social manipulation, att lura människor istället för att överlista eller hitta hål i tekniska lösningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zero-day_exploit&#34;&gt;Zero-day exploit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://filippo.io/Heartbleed/&#34;&gt;Verktyg för att undersöka om webbplatser åtgärdat buggen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/titanous/heartbleeder&#34;&gt;Heartbleeder - kod för att testa din sårbarhet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gp.se/nyheter/varlden/1.2337649-heartbleed-buggen-varre-an-vantat&#34;&gt;Nyheter om Heartbleed i vanliga tidningar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DNSSEC&#34;&gt;DNSSEC&lt;/a&gt; - säkring av domännamnsserversystemet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cr.yp.to/talks/2009.08.10/slides.pdf&#34;&gt;Kritik mot DNSSEC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Darwinism&#34;&gt;Darwinism&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RSA_(cryptosystem%29&#34;&gt;RSA-kryptering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Certificate_Authority&#34;&gt;CA - certificate authority - utgivare av certifikat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Napster&#34;&gt;Napster&lt;/a&gt; - tidig fildelningstjänst för musik som stämdes ihjäl&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent&#34;&gt;Bittorrent&lt;/a&gt; - känt och välanvänt protokoll för fildelning utan en central server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Waste_(computer_program%29&#34;&gt;Waste&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp&#34;&gt;Winamp&lt;/a&gt; - klassiskt mp3-spelarprogram&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Justin_Frankel&#34;&gt;Justin Frankel&lt;/a&gt; - mannen bakom både Waste, Winamp och &lt;a href=&#34;http://en.wikipedia.org/wiki/Gnutella&#34;&gt;Gnutella&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Aol&#34;&gt;AOL&lt;/a&gt; - medieföretaget som förr i tiden var stora på uppringd internetuppkoppling (helst till AOLs egna lilla inhängnad) i USA&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.openssh.com&#34;&gt;OpenSSH&lt;/a&gt; - som inte har något med OpenSSL eller Heartbleed att göra&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Händelser efter inspelning&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html&#34;&gt;NSA Said to Exploit Heartbleed Bug for Intelligence for Years&lt;/a&gt; - artikel som kom strax efter att avsnittet spelades in&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cloudflarechallenge.com/heartbleed&#34;&gt;Bekräftelse att det går att komma över privata nycklar&lt;/a&gt; genom att utnyttja Heartbleed&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

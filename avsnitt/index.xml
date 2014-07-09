@@ -7,7 +7,59 @@
     <language>sv</language>
     
     
-    <updated>Tue, 01 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 08 Jul 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 58 - Bara statisk HTML</title>
+      <link>http://kodsnack.se/58/</link>
+      <pubDate>Tue, 08 Jul 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/58/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Fredrik snackar om den nya inkarnationen av kodsnack.se och tekniken bakom. Vi följer också upp kring Lisp och lyssnares rättelser av vad vi sagt. Lisp är mer maskinnära än man kanske tror. Vi patar program som genererar statiska webbplatser och deras nytta både att använda och bygga. Mot slutet blir det uppföljning om och minnen av PHP blandat med lättnaden i att generera sin webbplats statiskt och alla bekymmer man slipper genom att göra så.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; - program och syntax för att generera HTML från dokument i ren text&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/site/tree/master/content/avsnitt&#34;&gt;Kodsnacks avsnittsanteckningar på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://help.squarespace.com/guides/can-i-export-my-site&#34;&gt;Export från Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wordpress&#34;&gt;Wordpess&lt;/a&gt; - populärt bloggverktyg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/FLAC&#34;&gt;FLAC&lt;/a&gt; - Free lossless audio codec&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/squarespace&#34;&gt;Squarespace på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slack.com&#34;&gt;Slack&lt;/a&gt; - chatt med mera för arbetsgrupper&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.libsyn.com&#34;&gt;Libsyn&lt;/a&gt; - plattform för att publicera poddradioprogram&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.libsynpro.com/api&#34;&gt;Libsyns API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://auphonic.com&#34;&gt;Auphonic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Static_web_page&#34;&gt;Statisk webbplats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/47/&#34;&gt;Snack tidigare om Github-monokultur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - Virtual private server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.crummy.com/software/BeautifulSoup/&#34;&gt;Beautiful soup&lt;/a&gt; - pythonbibliotek för att utvinna data ur exempelvis webbsidor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Rss&#34;&gt;RSS&lt;/a&gt; - Standard för publikation av nyheter eller annat innehåll från webbplatser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugo.spf13.com&#34;&gt;Hugo&lt;/a&gt; - statisk webbplatsgenerator skriven i Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; - populär statisk webbplatsgenerator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hyde.github.io&#34;&gt;Hyde&lt;/a&gt; - Jekyll i Python&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.getpelican.com&#34;&gt;Pelican&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docutils.sourceforge.net/rst.html&#34;&gt;Restructured text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.methods.co.nz/asciidoc/&#34;&gt;ASCIIdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spanish_language_in_the_United_States&#34;&gt;Spanskans utbredning i USA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.567252/kodsnack--lisp-i-alla-programmeringssprak?articleRenderMode=listpostings#disqus_thread&#34;&gt;Kommentarer och diskussion&lt;/a&gt; på Techworld kring Lisp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Word_%28computer_architecture%29&#34;&gt;Ord&lt;/a&gt; - Den naturliga dataenheten i en viss processordesign&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cons_cell&#34;&gt;cons-cell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;Templates-biblioteket&lt;/a&gt; som följer med Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codekata.com&#34;&gt;Kodkata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/donmelton/magneto&#34;&gt;Magneto&lt;/a&gt; - &lt;a href=&#34;http://donmelton.com&#34;&gt;Don Melton&lt;/a&gt;s generator för statiska webbplatser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://servicesangle.com/blog/2011/08/31/qa-with-yukihiro-matz-matsumoto-the-creator-of-ruby/&#34;&gt;Ruby vill göra programmerare glada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Active_Server_Pages&#34;&gt;ASP&lt;/a&gt; - Active server pages - tidig microsoftteknik för dynamiska webbplatser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CAPTCHA&#34;&gt;CAPTCHA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zdnet.com/ready-or-not-here-come-the-new-internet-top-level-domain-names-7000025744/&#34;&gt;Nya toppdomäner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/site/issues&#34;&gt;Rapportera fel i anteckningar eller avsnitt här&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 57 - Utvecklarnas utvecklarkonferens</title>
@@ -1050,62 +1102,6 @@ historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html&#34;&gt;NSA Said to Exploit Heartbleed Bug for Intelligence for Years&lt;/a&gt; - artikel som kom strax efter att avsnittet spelades in&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cloudflarechallenge.com/heartbleed&#34;&gt;Bekräftelse att det går att komma över privata nycklar&lt;/a&gt; genom att utnyttja Heartbleed&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 45 - Din noja för Mark Zuckerberg</title>
-      <link>http://kodsnack.se/45/</link>
-      <pubDate>Wed, 09 Apr 2014 19:46:11 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/45/</guid>
-      <description>
-
-&lt;p&gt;Vi talar ut om vår oro och våra förhoppningar kring VR och Facebooks köp av Oculus VR.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com&#34;&gt;Oculus VR&lt;/a&gt; - företag som tillverkade VR-headsets&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_reality&#34;&gt;Virtual reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/zuck/posts/10101319050523971&#34;&gt;Facebook köper Oculus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game&#34;&gt;Oculus kickstarter&lt;/a&gt; som fick ihop drygt 2,4 miljoner dollar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.oculusvr.com&#34;&gt;Oculus utvecklarsektion&lt;/a&gt; - kräver inloggning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://theriftlist.com&#34;&gt;Coola saker folk gjort med Oculus SDK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_Carmack&#34;&gt;John Carmack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/blog/john-carmack-joins-oculus-as-cto/&#34;&gt;John Carmack börjar på Oculus VR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mighty_Ducks_3&#34;&gt;D3: the mighty ducks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Electronic_Entertainment_Expo&#34;&gt;E3 - Electronic entertainment expo&lt;/a&gt; - mässa för dator- och TV-spelsindustrin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Game_Developers_Conference&#34;&gt;GDC - Game developers conference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/dk2/&#34;&gt;Oculus developer kit 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.altdevblogaday.com/2013/02/22/latency-mitigation-strategies/&#34;&gt;John Carmack om strategier för att minska fördröjningar i VR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/blog/oculus-joins-facebook/&#34;&gt;Oculus eget blogginlägg om uppköpet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/3/25/5547800/facebook-virtual-reality-oculus-interview&#34;&gt;Intervju med Palmer Luckey om köpet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.shareholder.com/visitors/event/build3/stage/stage.cfm?mediaid=63723&amp;amp;mediauserid=0&#34;&gt;Facebook om köpet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mark_Zuckerberg&#34;&gt;Mark Zuckerberg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=open+and+connected&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#34;&gt;Mer öppet och sammankopplat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.facebook.com/projects/&#34;&gt;Saker Facebook släppt som öppen källkod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook&#34;&gt;Företag Facebook köpt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/PalmerLuckey&#34;&gt;Palmer Luckey&lt;/a&gt; - som var VD på Oculus VR&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.us.playstation.com/2014/03/18/introducing-project-morpheus/&#34;&gt;Project Morpheus&lt;/a&gt; - Sonys VR-headset&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.avegant.com&#34;&gt;Glyph&lt;/a&gt; - ett möjligt alternativ till Oculus?&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://assayviaessay.blogspot.se/2014/03/virtual-spaces-real-data.html&#34;&gt;Inlägg som fångar många av Kristoffers och andras tankar kring köpet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/3/26/5549342/virtual-reality-fans-should-love-facebook-at-least-for-now&#34;&gt;En mer positiv syn på saken&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.myspace.com&#34;&gt;Myspace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mike_Abrash&#34;&gt;Mike Abrash&lt;/a&gt; - &lt;a href=&#34;http://www.oculusvr.com/blog/introducing-michael-abrash-oculus-chief-scientist/http://en.wikipedia.org/wiki/Mike_Abrash&#34;&gt;numera &amp;ldquo;Oculus chief scientist&amp;rdquo;&lt;/a&gt; på Facebook&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/blog/welcome-atman-binstock-chief-architect/&#34;&gt;Atman Binstock&lt;/a&gt; - också tidigare Valve-anställd som växlat till att jobba med Oculus&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Doom_(video_game%29&#34;&gt;Doom&lt;/a&gt; - stilbildande actionspel i förstaperson&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Jolla&#34;&gt;Jolla&lt;/a&gt; - finskt mobilföretag&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ubuntu_Edge&#34;&gt;Ubuntu edge&lt;/a&gt; &amp;ldquo;koncepttelefon&amp;rdquo; från Ubuntu som inte nådde&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/stop&#34;&gt;Douglas Bowman&lt;/a&gt; - designern som &lt;a href=&#34;http://stopdesign.com/archive/2009/03/20/goodbye-google.html&#34;&gt;slutade på Google efter att ha försökt ändra den blå nyansen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Neal_Stephenson&#34;&gt;Neil Stepenson&lt;/a&gt; författare till bland annat &lt;a href=&#34;http://en.wikipedia.org/wiki/Snow_Crash&#34;&gt;Snow crash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metaverse&#34;&gt;Metaverse&lt;/a&gt; - begrepp för en virtuell delad värld, myntat i Snow crash&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nsa.gov&#34;&gt;NSA&lt;/a&gt; - USAs nationella säkerhetsorganisation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oculusvr.com/press/oculus-vr-closes-16m-series-a-to-bring-consumer-virtual-reality-platform-to-market/&#34;&gt;Tidigare investerare i Oculus VR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt; - dator- och mjukvaruföretag Steve Jobs grundade och drev 1985 - 1996&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.instagram.com&#34;&gt;Instagram&lt;/a&gt; - Facebooks fotodelningstjänst&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Jobs&#34;&gt;Steve Jobs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
