@@ -7,7 +7,95 @@
     <language>sv</language>
     
     
-    <updated>Tue, 08 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 15 Jul 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 59 - Lära sig nya saker eller att bara skeppa</title>
+      <link>http://kodsnack.se/59/</link>
+      <pubDate>Tue, 15 Jul 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/59/</guid>
+      <description>
+
+&lt;p&gt;Varför snackar vi inte mer Microsoft? Efter kommentarer från lyssnare diskuterar vi varför vi inte pratar mer om andra ämnen än vi gör, lite om filosofin bakom hur vi gör Kodsnack och bjuder in alla att höra av sig till oss.&lt;/p&gt;
+
+&lt;p&gt;Vill du sponsra Kodsnack? Vill du vara gäst i Kodsnack? Vill du tipsa oss om något?&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;Hör av dig&lt;/a&gt;! Vi läser och tar till oss av all återkoppling vi får.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi om hur utvecklingen går framåt. Det händer hela tiden nya saker. Blir det vi har lärt oss omodernt och oanvändbart? Behöver man hänga med i varje ny trend för att fortsätta göra nytta?&lt;/p&gt;
+
+&lt;p&gt;Vilken typ av utvecklare är du? Vi snackar växelverkan mellan jobb och fritid när det kommer till att lära sig nya saker och att hitta den linje som passar en själv mellan pragmatism och att lära sig något nytt.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.se/2.1085/1.568296/kodsnack--wwdc-i-backspegeln?articleRenderMode=listpostings#comment-1463335794&#34;&gt;Kommentaren om att vi inte har fler perspektiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/17/&#34;&gt;IKEA-design rakt av&lt;/a&gt; - avsnittet där vi pratar Microsoft och Windows med &lt;a href=&#34;http://irisclasson.com&#34;&gt;Iris Classon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.se/2.1085/1.568296/kodsnack--wwdc-i-backspegeln?articleRenderMode=listpostings#comment-1463350727&#34;&gt;Förslaget att döpa om oss&lt;/a&gt; till  &lt;a href=&#34;http://appsnack.se&#34;&gt;Appsnack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roslyn.codeplex.com&#34;&gt;Roslyn&lt;/a&gt; - .nets numera öppna kompilatorplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typescriptlang.org&#34;&gt;Typescript&lt;/a&gt; - utbyggnad av Javascript som kompilerar till Javascript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://the-pastry-box-project.net/ed-finkler/2014-july-6&#34;&gt;The developer&amp;rsquo;s dystopian future&lt;/a&gt; - artikel om att hänga med i utvecklingen som programmerare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://the-pastry-box-project.net/baker/ed-finkler&#34;&gt;Ed Finkler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.566128/kodsnack--vad-ar-en-konferens-vard?articleRenderMode=listpostings#comment-1439149591&#34;&gt;Kommentar på De stora spektaklen&lt;/a&gt; - avsnittet om konferenser - av abc…åäö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/humansofnewyork&#34;&gt;The humans of New York&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com&#34;&gt;Bootstrap&lt;/a&gt; - ramverk för att bygga flexibla webbplatser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com&#34;&gt;Node.js&lt;/a&gt; - javascriptbaserad serverplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marco.org&#34;&gt;Marco Arment&lt;/a&gt; - utvecklare av iOS-applikationer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://angularjs.org&#34;&gt;Angular JS&lt;/a&gt; - javascriptramverk för webbapplikationer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WebObjects&#34;&gt;Web objects&lt;/a&gt; - applikationsserver ursprungligen skapad av &lt;a href=&#34;http://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt; och som fortfarande driver Apples webbutiker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/29/&#34;&gt;Att lära sig gå&lt;/a&gt; - ett av våra tidigare avsnitt på ämnet Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Manual_memory_management&#34;&gt;Manuell minneshantering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Core_dump&#34;&gt;Core dump&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.567252/kodsnack--lisp-i-alla-programmeringssprak?articleRenderMode=listpostings&#34;&gt;Kommentarerna kring Lisp&lt;/a&gt; och vad som är ett programmeringsspråk&lt;/li&gt;
+&lt;li&gt;Novellen Tobias läste med dystopisk framtid&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cobol&#34;&gt;Cobol&lt;/a&gt; - programmeringsspråk designat 1959&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_matrix&#34;&gt;Matrix&lt;/a&gt; - stilbildande science fiction-film från 1999&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Warhammer_Fantasy_%28disambiguation%29&#34;&gt;Warhammer&lt;/a&gt; (fantasy) - fantasyvärld och ett flertal spel som utspelar sig i densamma&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Warhammer_40,000&#34;&gt;Warhammer 40000&lt;/a&gt; - figurslagspel i en mycket dystopisk framtid&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://warhammer40k.wikia.com/wiki/Tech-priest&#34;&gt;Tech priest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Marco Arments podcasts - &lt;a href=&#34;http://atp.fm&#34;&gt;Accidental tech podcast&lt;/a&gt; och &lt;a href=&#34;http://5by5.tv/buildanalyze&#34;&gt;Build and analyze&lt;/a&gt; (numera nedlagd)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B11&#34;&gt;C++ 11&lt;/a&gt; - den senaste C++-standarden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B14&#34;&gt;C++ 14&lt;/a&gt; - nästa standard för C++&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Alternativa titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kan du någonting som du hör att vi inte pratar om?&lt;/li&gt;
+&lt;li&gt;Om .net hade kommit ut igår&lt;/li&gt;
+&lt;li&gt;En miljö där inte vi känner oss bekväma&lt;/li&gt;
+&lt;li&gt;Jag känner mig hela tiden som en fisk i fel vatten&lt;/li&gt;
+&lt;li&gt;Vi är inte objektiva och breda&lt;/li&gt;
+&lt;li&gt;Vi pratar om sånt vi tycker är intressant&lt;/li&gt;
+&lt;li&gt;Färgat av vilka vi är&lt;/li&gt;
+&lt;li&gt;Det finns ju en begränsad mängd tid&lt;/li&gt;
+&lt;li&gt;Vi är ganska lätta att få intresserade&lt;/li&gt;
+&lt;li&gt;Saker som är lite nördiga&lt;/li&gt;
+&lt;li&gt;Remixer av gamla lösningar&lt;/li&gt;
+&lt;li&gt;Det beror väldigt mycket på vilken typ av utvecklare man är&lt;/li&gt;
+&lt;li&gt;I min C++-vardag&lt;/li&gt;
+&lt;li&gt;Lära sig nya saker eller att bara skeppa&lt;/li&gt;
+&lt;li&gt;Utveckling börjar som en hobby&lt;/li&gt;
+&lt;li&gt;En annan typ av utvecklare än den jag är&lt;/li&gt;
+&lt;li&gt;Lära om alla koncept från början&lt;/li&gt;
+&lt;li&gt;Jag lärde mig aldrig assembler&lt;/li&gt;
+&lt;li&gt;Koncept som över huvud taget inte ens finns&lt;/li&gt;
+&lt;li&gt;Ett häftigt partytrick&lt;/li&gt;
+&lt;li&gt;Hum om vad som finns på nivåerna under en&lt;/li&gt;
+&lt;li&gt;En diskussion som jag tycker är otroligt tråkig&lt;/li&gt;
+&lt;li&gt;Datorerna är lite magi&lt;/li&gt;
+&lt;li&gt;Religiösa nomenklaturer kring det hela&lt;/li&gt;
+&lt;li&gt;Det finns en mystik och en magi kring det hela&lt;/li&gt;
+&lt;li&gt;Utveckling ska ske, till varje pris&lt;/li&gt;
+&lt;li&gt;Man gör det inte i drift&lt;/li&gt;
+&lt;li&gt;En sån otroligt hård pragmatisk linje&lt;/li&gt;
+&lt;li&gt;Om man vågar släppa sargen lite ibland&lt;/li&gt;
+&lt;li&gt;Det finns ändå en slags utveckling&lt;/li&gt;
+&lt;li&gt;Programmerare som ser programmering som ett jobb&lt;/li&gt;
+&lt;li&gt;Vi bits inte&lt;/li&gt;
+&lt;li&gt;Kristoffer kan bitas&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 58 - Bara statisk HTML</title>
@@ -865,7 +953,7 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;Microsoft har &lt;a href=&#34;https://roslyn.codeplex.com&#34;&gt;öppnat källkoden för .nets kompilatorplattform Roslyn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.buildwindows.com&#34;&gt;Buildkonferensen&lt;/a&gt; - microsofts stora utvecklarkonferens&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.ecma-international.org/memento/TC49.htm&#34;&gt;TC49&lt;/a&gt; - ECMA-gruppen för bland annat C#&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_(software&#34;&gt;Mono&lt;/a&gt;) - öppna verktyg och miljöer för .net-kompatibel utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_(software%29&#34;&gt;Mono&lt;/a&gt; - öppna verktyg och miljöer för .net-kompatibel utveckling&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Novell&#34;&gt;Novell&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Miguel_de_Icaza&#34;&gt;Miguel de Icaza&lt;/a&gt; - mannen bakom Gnome, GTK och Mono&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Microsoft Azure&lt;/a&gt; - molnplattformen&lt;/li&gt;
@@ -888,7 +976,7 @@ oss i verkligheten!&lt;/p&gt;
       <guid>http://kodsnack.se/48/</guid>
       <description>
 
-&lt;p&gt;Vi snackar om &lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt; - &lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt;-utvecklarnas &lt;a href=&#34;(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology&#34;&gt;fork&lt;/a&gt;) av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.&lt;/p&gt;
+&lt;p&gt;Vi snackar om &lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt; - &lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt;-utvecklarnas &lt;a href=&#34;(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology%29&#34;&gt;fork&lt;/a&gt; av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.&lt;/p&gt;
 
 &lt;p&gt;Kristoffer och Tobias kommer att vara på Pycon i Stockholm 20 och 21 maj (2014) och vill mer än gärna höra av både er som ska vara där och er som har tips på personer att prata med och talare att lyssna på.&lt;/p&gt;
 
@@ -1030,79 +1118,10 @@ historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com
 &lt;li&gt;&lt;a href=&#34;http://www.boost.org/boost-build2/doc/html/bbv2/jam.html&#34;&gt;Bjam - boosts skriptspråk&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://code.google.com/p/gyp/w/list&#34;&gt;Gyp - generate your projects&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Declarative_programming&#34;&gt;Deklarativ programmering&lt;/a&gt; - att beskriva vad som ska göra snarare än hur&lt;/li&gt;
-&lt;li&gt;[JSON - Javascript object notation](), ett format för dataöverföring som är ett subset av Javascript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://json.org&#34;&gt;JSON - Javascript object notation&lt;/a&gt;, ett format för dataöverföring som är ett subset av Javascript&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;: Det har kommit fram mer information om GitHub Julie-Ann&amp;rsquo;s historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/&#34;&gt;uppföljningen här&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 46 - Korthuset vinglar</title>
-      <link>http://kodsnack.se/46/</link>
-      <pubDate>Tue, 15 Apr 2014 04:49:52 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/46/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar om Heartbleed - den ovanligt allvarliga buggen som nyligen upptäckts i OpenSSL. Därifrån kommer undran varför hela SSL-upplägget med certifikat och rotcertfikat fungerar (snarare inte fungerar) som det gör. Vi hoppas att fler vågar lära sig, experimentera med och rent av utveckla kod omkring kryptering. Vi undrar varför det inte decentraliseras mer. Och så en del om problemen med att spela in sina diskussioner och höra sig själv i efterhand.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openssl.org&#34;&gt;OpenSSL&lt;/a&gt; - säkerhetsmjukvaran i vilken buggen kallad Heartbleed har upptäckts&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; - amerikanskt krypto- säkerhets- och integritetsspecialist&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chuck_Norris_meme&#34;&gt;Chuck Norris-memes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.schneierfacts.com&#34;&gt;Schneier-memes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.heartbleed.com&#34;&gt;Heartbleed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2014/04/heartbleed.html&#34;&gt;Schneiers post om Heartbleed &lt;/a&gt; - buggen är elva på tiogradiga skalan&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2009/11/beyond_security.html&#34;&gt;Schneier om säkerhetsteater&lt;/a&gt; &lt;a href=&#34;https://www.schneier.com/blog/archives/2012/11/on_the_ineffect_1.html&#34;&gt;på flygplatser&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fear_mongering&#34;&gt;Fear mongering&lt;/a&gt; - att använda rädsla för att påverka&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Https&#34;&gt;HTTPS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Man-in-the-middle_attack&#34;&gt;Man in the middle-attacker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xkcd.com/1354/&#34;&gt;Serien XKCD förklarar Heartbleed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Private_key&#34;&gt;Privata nycklar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.cloudflare.com/answering-the-critical-question-can-you-get-private-ssl-keys-using-heartbleed&#34;&gt;Vad kan man hitta genom att utnyttja Heartbleed?&lt;/a&gt; - artikeln jag hittade med de som försökte få ut privata nycklar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.co.uk/2014/04/google-services-updated-to-address.html&#34;&gt;Googles uppdateringar efter Heartbleed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://status.twitter.com/post/82109064906/ssl-security-update&#34;&gt;Twitter säger sig vara opåverkade&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dailymail.co.uk/news/article-2602069/Google-Facebook-Paypal-insist-internet-passwords-secure-heartbleed-bug-alert.html&#34;&gt;… liksom Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://staff.tumblr.com/post/82113034874/urgent-security-update&#34;&gt;Men Tumblr säger byt lösenord …&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1818-security-heartbleed-vulnerability&#34;&gt;… precis som Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gotofail.com&#34;&gt;Gotofail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.garage4hackers.com/entry.php?b=2551&#34;&gt;Koden för Heartbleedbuggen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Heartbeat_message&#34;&gt;Heartbeat-meddelande&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/865987/do-i-need-to-heartbeat-to-keep-a-tcp-connection-open&#34;&gt;TCP heartbeat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bounds_checking&#34;&gt;Bounds check&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xkcd.com/327/&#34;&gt;Den sedelärande historien om Bobby tables - också från serien XKCD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.peereboom.us/assl/assl/html/openssl.html&#34;&gt;Kritik - från 2009 - av hur OpenSSL är skrivet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnutls.org&#34;&gt;GNUTLS&lt;/a&gt; - alternativ till OpenSSL, som hade &lt;a href=&#34;http://kodsnack.se/blog/2014/3/15/kodsnack-43-jtteprestanda-i-kod-som-gr-helt-fel-grej&#34;&gt;sin egen bugg&lt;/a&gt; helt nyligen.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Root_certificate&#34;&gt;Rotcertifikat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cs.tau.ac.il/~tromer/acoustic/&#34;&gt;Akustikanalys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Social_engineering_(security%29&#34;&gt;Social engineering&lt;/a&gt; - social manipulation, att lura människor istället för att överlista eller hitta hål i tekniska lösningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zero-day_exploit&#34;&gt;Zero-day exploit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://filippo.io/Heartbleed/&#34;&gt;Verktyg för att undersöka om webbplatser åtgärdat buggen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/titanous/heartbleeder&#34;&gt;Heartbleeder - kod för att testa din sårbarhet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gp.se/nyheter/varlden/1.2337649-heartbleed-buggen-varre-an-vantat&#34;&gt;Nyheter om Heartbleed i vanliga tidningar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DNSSEC&#34;&gt;DNSSEC&lt;/a&gt; - säkring av domännamnsserversystemet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cr.yp.to/talks/2009.08.10/slides.pdf&#34;&gt;Kritik mot DNSSEC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Darwinism&#34;&gt;Darwinism&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RSA_(cryptosystem%29&#34;&gt;RSA-kryptering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Certificate_Authority&#34;&gt;CA - certificate authority - utgivare av certifikat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Napster&#34;&gt;Napster&lt;/a&gt; - tidig fildelningstjänst för musik som stämdes ihjäl&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent&#34;&gt;Bittorrent&lt;/a&gt; - känt och välanvänt protokoll för fildelning utan en central server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Waste_(computer_program%29&#34;&gt;Waste&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp&#34;&gt;Winamp&lt;/a&gt; - klassiskt mp3-spelarprogram&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Justin_Frankel&#34;&gt;Justin Frankel&lt;/a&gt; - mannen bakom både Waste, Winamp och &lt;a href=&#34;http://en.wikipedia.org/wiki/Gnutella&#34;&gt;Gnutella&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Aol&#34;&gt;AOL&lt;/a&gt; - medieföretaget som förr i tiden var stora på uppringd internetuppkoppling (helst till AOLs egna lilla inhängnad) i USA&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.openssh.com&#34;&gt;OpenSSH&lt;/a&gt; - som inte har något med OpenSSL eller Heartbleed att göra&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Händelser efter inspelning&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html&#34;&gt;NSA Said to Exploit Heartbleed Bug for Intelligence for Years&lt;/a&gt; - artikel som kom strax efter att avsnittet spelades in&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cloudflarechallenge.com/heartbleed&#34;&gt;Bekräftelse att det går att komma över privata nycklar&lt;/a&gt; genom att utnyttja Heartbleed&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

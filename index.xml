@@ -7,7 +7,95 @@
     <language>sv</language>
     
     
-    <updated>Tue, 08 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 15 Jul 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 59 - Lära sig nya saker eller att bara skeppa</title>
+      <link>http://kodsnack.se/59/</link>
+      <pubDate>Tue, 15 Jul 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/59/</guid>
+      <description>
+
+&lt;p&gt;Varför snackar vi inte mer Microsoft? Efter kommentarer från lyssnare diskuterar vi varför vi inte pratar mer om andra ämnen än vi gör, lite om filosofin bakom hur vi gör Kodsnack och bjuder in alla att höra av sig till oss.&lt;/p&gt;
+
+&lt;p&gt;Vill du sponsra Kodsnack? Vill du vara gäst i Kodsnack? Vill du tipsa oss om något?&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;Hör av dig&lt;/a&gt;! Vi läser och tar till oss av all återkoppling vi får.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi om hur utvecklingen går framåt. Det händer hela tiden nya saker. Blir det vi har lärt oss omodernt och oanvändbart? Behöver man hänga med i varje ny trend för att fortsätta göra nytta?&lt;/p&gt;
+
+&lt;p&gt;Vilken typ av utvecklare är du? Vi snackar växelverkan mellan jobb och fritid när det kommer till att lära sig nya saker och att hitta den linje som passar en själv mellan pragmatism och att lära sig något nytt.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.se/2.1085/1.568296/kodsnack--wwdc-i-backspegeln?articleRenderMode=listpostings#comment-1463335794&#34;&gt;Kommentaren om att vi inte har fler perspektiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/17/&#34;&gt;IKEA-design rakt av&lt;/a&gt; - avsnittet där vi pratar Microsoft och Windows med &lt;a href=&#34;http://irisclasson.com&#34;&gt;Iris Classon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.se/2.1085/1.568296/kodsnack--wwdc-i-backspegeln?articleRenderMode=listpostings#comment-1463350727&#34;&gt;Förslaget att döpa om oss&lt;/a&gt; till  &lt;a href=&#34;http://appsnack.se&#34;&gt;Appsnack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roslyn.codeplex.com&#34;&gt;Roslyn&lt;/a&gt; - .nets numera öppna kompilatorplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typescriptlang.org&#34;&gt;Typescript&lt;/a&gt; - utbyggnad av Javascript som kompilerar till Javascript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://the-pastry-box-project.net/ed-finkler/2014-july-6&#34;&gt;The developer&amp;rsquo;s dystopian future&lt;/a&gt; - artikel om att hänga med i utvecklingen som programmerare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://the-pastry-box-project.net/baker/ed-finkler&#34;&gt;Ed Finkler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.566128/kodsnack--vad-ar-en-konferens-vard?articleRenderMode=listpostings#comment-1439149591&#34;&gt;Kommentar på De stora spektaklen&lt;/a&gt; - avsnittet om konferenser - av abc…åäö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/humansofnewyork&#34;&gt;The humans of New York&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com&#34;&gt;Bootstrap&lt;/a&gt; - ramverk för att bygga flexibla webbplatser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com&#34;&gt;Node.js&lt;/a&gt; - javascriptbaserad serverplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marco.org&#34;&gt;Marco Arment&lt;/a&gt; - utvecklare av iOS-applikationer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://angularjs.org&#34;&gt;Angular JS&lt;/a&gt; - javascriptramverk för webbapplikationer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WebObjects&#34;&gt;Web objects&lt;/a&gt; - applikationsserver ursprungligen skapad av &lt;a href=&#34;http://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt; och som fortfarande driver Apples webbutiker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/29/&#34;&gt;Att lära sig gå&lt;/a&gt; - ett av våra tidigare avsnitt på ämnet Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Manual_memory_management&#34;&gt;Manuell minneshantering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Core_dump&#34;&gt;Core dump&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.567252/kodsnack--lisp-i-alla-programmeringssprak?articleRenderMode=listpostings&#34;&gt;Kommentarerna kring Lisp&lt;/a&gt; och vad som är ett programmeringsspråk&lt;/li&gt;
+&lt;li&gt;Novellen Tobias läste med dystopisk framtid&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cobol&#34;&gt;Cobol&lt;/a&gt; - programmeringsspråk designat 1959&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_matrix&#34;&gt;Matrix&lt;/a&gt; - stilbildande science fiction-film från 1999&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Warhammer_Fantasy_%28disambiguation%29&#34;&gt;Warhammer&lt;/a&gt; (fantasy) - fantasyvärld och ett flertal spel som utspelar sig i densamma&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Warhammer_40,000&#34;&gt;Warhammer 40000&lt;/a&gt; - figurslagspel i en mycket dystopisk framtid&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://warhammer40k.wikia.com/wiki/Tech-priest&#34;&gt;Tech priest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Marco Arments podcasts - &lt;a href=&#34;http://atp.fm&#34;&gt;Accidental tech podcast&lt;/a&gt; och &lt;a href=&#34;http://5by5.tv/buildanalyze&#34;&gt;Build and analyze&lt;/a&gt; (numera nedlagd)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B11&#34;&gt;C++ 11&lt;/a&gt; - den senaste C++-standarden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B14&#34;&gt;C++ 14&lt;/a&gt; - nästa standard för C++&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Alternativa titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kan du någonting som du hör att vi inte pratar om?&lt;/li&gt;
+&lt;li&gt;Om .net hade kommit ut igår&lt;/li&gt;
+&lt;li&gt;En miljö där inte vi känner oss bekväma&lt;/li&gt;
+&lt;li&gt;Jag känner mig hela tiden som en fisk i fel vatten&lt;/li&gt;
+&lt;li&gt;Vi är inte objektiva och breda&lt;/li&gt;
+&lt;li&gt;Vi pratar om sånt vi tycker är intressant&lt;/li&gt;
+&lt;li&gt;Färgat av vilka vi är&lt;/li&gt;
+&lt;li&gt;Det finns ju en begränsad mängd tid&lt;/li&gt;
+&lt;li&gt;Vi är ganska lätta att få intresserade&lt;/li&gt;
+&lt;li&gt;Saker som är lite nördiga&lt;/li&gt;
+&lt;li&gt;Remixer av gamla lösningar&lt;/li&gt;
+&lt;li&gt;Det beror väldigt mycket på vilken typ av utvecklare man är&lt;/li&gt;
+&lt;li&gt;I min C++-vardag&lt;/li&gt;
+&lt;li&gt;Lära sig nya saker eller att bara skeppa&lt;/li&gt;
+&lt;li&gt;Utveckling börjar som en hobby&lt;/li&gt;
+&lt;li&gt;En annan typ av utvecklare än den jag är&lt;/li&gt;
+&lt;li&gt;Lära om alla koncept från början&lt;/li&gt;
+&lt;li&gt;Jag lärde mig aldrig assembler&lt;/li&gt;
+&lt;li&gt;Koncept som över huvud taget inte ens finns&lt;/li&gt;
+&lt;li&gt;Ett häftigt partytrick&lt;/li&gt;
+&lt;li&gt;Hum om vad som finns på nivåerna under en&lt;/li&gt;
+&lt;li&gt;En diskussion som jag tycker är otroligt tråkig&lt;/li&gt;
+&lt;li&gt;Datorerna är lite magi&lt;/li&gt;
+&lt;li&gt;Religiösa nomenklaturer kring det hela&lt;/li&gt;
+&lt;li&gt;Det finns en mystik och en magi kring det hela&lt;/li&gt;
+&lt;li&gt;Utveckling ska ske, till varje pris&lt;/li&gt;
+&lt;li&gt;Man gör det inte i drift&lt;/li&gt;
+&lt;li&gt;En sån otroligt hård pragmatisk linje&lt;/li&gt;
+&lt;li&gt;Om man vågar släppa sargen lite ibland&lt;/li&gt;
+&lt;li&gt;Det finns ändå en slags utveckling&lt;/li&gt;
+&lt;li&gt;Programmerare som ser programmering som ett jobb&lt;/li&gt;
+&lt;li&gt;Vi bits inte&lt;/li&gt;
+&lt;li&gt;Kristoffer kan bitas&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 58 - Bara statisk HTML</title>
@@ -936,7 +1024,7 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;Microsoft har &lt;a href=&#34;https://roslyn.codeplex.com&#34;&gt;öppnat källkoden för .nets kompilatorplattform Roslyn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.buildwindows.com&#34;&gt;Buildkonferensen&lt;/a&gt; - microsofts stora utvecklarkonferens&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.ecma-international.org/memento/TC49.htm&#34;&gt;TC49&lt;/a&gt; - ECMA-gruppen för bland annat C#&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_(software&#34;&gt;Mono&lt;/a&gt;) - öppna verktyg och miljöer för .net-kompatibel utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_(software%29&#34;&gt;Mono&lt;/a&gt; - öppna verktyg och miljöer för .net-kompatibel utveckling&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Novell&#34;&gt;Novell&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Miguel_de_Icaza&#34;&gt;Miguel de Icaza&lt;/a&gt; - mannen bakom Gnome, GTK och Mono&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Microsoft Azure&lt;/a&gt; - molnplattformen&lt;/li&gt;
@@ -959,7 +1047,7 @@ oss i verkligheten!&lt;/p&gt;
       <guid>http://kodsnack.se/48/</guid>
       <description>
 
-&lt;p&gt;Vi snackar om &lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt; - &lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt;-utvecklarnas &lt;a href=&#34;(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology&#34;&gt;fork&lt;/a&gt;) av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.&lt;/p&gt;
+&lt;p&gt;Vi snackar om &lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt; - &lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt;-utvecklarnas &lt;a href=&#34;(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology%29&#34;&gt;fork&lt;/a&gt; av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.&lt;/p&gt;
 
 &lt;p&gt;Kristoffer och Tobias kommer att vara på Pycon i Stockholm 20 och 21 maj (2014) och vill mer än gärna höra av både er som ska vara där och er som har tips på personer att prata med och talare att lyssna på.&lt;/p&gt;
 
@@ -1041,70 +1129,6 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/The_Infamy/status/458381409023836160&#34;&gt;Exempel&lt;/a&gt; på … &amp;ldquo;andra sidans&amp;rdquo; kommentarer och åsikter&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/4/6/kodsnack-45-din-noja-fr-mark-zuckerberg&#34;&gt;Facebooks köp av Oculus&lt;/a&gt; har vi avhandlat förr&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 47 - Internet borde kunna lösa det problemet</title>
-      <link>http://kodsnack.se/47/</link>
-      <pubDate>Tue, 22 Apr 2014 07:00:23 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/47/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Tobias pratar Github, distributed denial of
-service-attacker och Githubs dominans som koddelningstjänst. Sedan
-pratar vi om händelserna kring Github och Julie Ann Horwath. Sist en
-kort och kärnfull urladdning kring byggsystem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Uppdatering:&lt;/strong&gt; Det har kommit fram mer information om GitHub Julie-Ann&amp;rsquo;s
-historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/&#34;&gt;uppföljningen här&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.github.com&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/krig&#34;&gt;Kristoffers projekt på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://aosabook.org/en/git.html&#34;&gt;Gits arkitektur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sourceforge.net&#34;&gt;Sourceforge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/blog/today-we-offer-devshare-beta-a-sustainable-way-to-fund-open-source-software/&#34;&gt;Sourceforge och adware&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.change.org/petitions/oracle-corporation-stop-bundling-ask-toolbar-with-the-java-installer&#34;&gt;Java och Ask toolbar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ddos#Distributed_attack&#34;&gt;DDOS&lt;/a&gt; - distributed denial of service, en överbelastningsattack för att sätta en webbplats eller tjänst ur spel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1796-denial-of-service-attacks&#34;&gt;DDOS-attacker mot Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sha1&#34;&gt;SHA1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mainline_DHT&#34;&gt;Mainline DHT&lt;/a&gt; - distributed hash table som används av Bittorrent&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Security_Agency&#34;&gt;NSA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techcrunch.com/2014/03/16/popcorn-time-is-back/&#34;&gt;Popcorn time&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://savannah.nongnu.org&#34;&gt;Savannah - GNUs svar på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://clusterlabs.org&#34;&gt;Cluster labs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.opensuse.org/en/&#34;&gt;Open Suse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/id-Software&#34;&gt;iD software på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.unrealengine.com/ue4-on-github&#34;&gt;Unreal engine 4 på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://julieannhorvath.com&#34;&gt;Julie Ann Horwath&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techcrunch.com/2014/03/15/julie-ann-horvath-describes-sexism-and-intimidation-behind-her-github-exit/&#34;&gt;Hennes berättelse på Techcrunch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1800-update-on-julie-horvath-s-departure&#34;&gt;Githubs respons på Julie Anns redogörelse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brogrammer&#34;&gt;Brogrammer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eric_Schmidt&#34;&gt;Eric Schmidt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Larry_Page&#34;&gt;Larry Page&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Sergey_Brin&#34;&gt;Sergey Brin&lt;/a&gt;, kompisarna som grundade Google&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitorious.org&#34;&gt;Gitorious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qt-project.org&#34;&gt;QT&lt;/a&gt; - stort applikationsramverk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gitlab.com&#34;&gt;Gitlab&lt;/a&gt; - öppet githanteringsverktyg&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bitbucket.org&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.google.com&#34;&gt;Google code&lt;/a&gt; - Gogoles tjänst för koddelande&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://savannah.nongnu.org/projects/crmsh/&#34;&gt;CRM shell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Automake&#34;&gt;Automake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cmake&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/1471994/what-is-setup-py&#34;&gt;setup.py - distverktyg för Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/M4_(computer_language%29&#34;&gt;M4&lt;/a&gt; - makrobearbetningsspråk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Makefile&#34;&gt;Makefile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.boost.org/boost-build2/doc/html/bbv2/jam.html&#34;&gt;Bjam - boosts skriptspråk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/gyp/w/list&#34;&gt;Gyp - generate your projects&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Declarative_programming&#34;&gt;Deklarativ programmering&lt;/a&gt; - att beskriva vad som ska göra snarare än hur&lt;/li&gt;
-&lt;li&gt;[JSON - Javascript object notation](), ett format för dataöverföring som är ett subset av Javascript&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;: Det har kommit fram mer information om GitHub Julie-Ann&amp;rsquo;s historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/&#34;&gt;uppföljningen här&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
