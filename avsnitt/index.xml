@@ -7,7 +7,118 @@
     <language>sv</language>
     
     
-    <updated>Tue, 15 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 22 Jul 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 60 - Nu måste jag stämpla in och vrida på kugghjulen</title>
+      <link>http://kodsnack.se/60/</link>
+      <pubDate>Tue, 22 Jul 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/60/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar om att ha förebilder, om att skeppa saker och om den kanske överdrivna tonvikten kring att skeppa. Om varför &amp;ldquo;övergivna&amp;rdquo; projekt faktiskt inte alls är något negativt utan bara något att vara glad och tacksam för. Det är lätt att imponeras över de som kan brinna för och fokusera på en enda sak, men vi är inte alla sådana personer. Koppling mellan stresskänsla och intresse och att kunna inspireras istället för att tryckas ned av folk som kan mer än en själv på ett område. Mot slutet blir det lite snack om OpenGLs märkliga utveckling till att bli mer hårdvarunära och charmen i när folk verkligen går till botten med och lär sig utnyttja precis allt i en maskin.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rodemic.com/accessories/psa1&#34;&gt;PSA1 - Kristoffers nya mikrofonstativ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rodemic.com&#34;&gt;Røde&lt;/a&gt; - mikrofontillverkare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages&#34;&gt;Statisk typning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lithuania&#34;&gt;Litauen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://optics.org/news/4/2/35&#34;&gt;Litauens bredbandstäckning&lt;/a&gt; - &amp;ldquo;In terms of household penetration, the dominant fiber nation remains Lithuania, which already has 100% coverage of FTTH and over 31% of homes connected to fiber.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mattgemmell.com/confessions-of-an-ex-developer/&#34;&gt;Matt Gemmel följer upp&lt;/a&gt; med egna tankar utifrån &lt;a href=&#34;https://the-pastry-box-project.net/ed-finkler/2014-july-6&#34;&gt;Ed Finklers artikel&lt;/a&gt; som vi diskuterade i &lt;a href=&#34;http://www.kodsnack.se/59&#34;&gt;förra avsnittet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.ycombinator.com&#34;&gt;Hacker news&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wwdc&#34;&gt;WWDC&lt;/a&gt; - Apples årliga utvecklarkonferens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_D._Carmack&#34;&gt;John Carmack&lt;/a&gt; - storhet inom 3D-motorer för spel&lt;/li&gt;
+&lt;li&gt;Douglas Adams &lt;a href=&#34;http://refspace.com/quotes/Douglas_Adams/Q905&#34;&gt;ville vara John Cleese&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Silmarillion&#34;&gt;Silmarillion&lt;/a&gt; - Tolkiens huvudprojekt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Christopher_Tolkien&#34;&gt;Cristopher Tolkien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Donald_knuth&#34;&gt;Donald Knuth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Literate_programming&#34;&gt;Literate programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wildermuth.com/hwpod&#34;&gt;Hello world podcast&lt;/a&gt; - många intervjuer med programmerare och hur de börjat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.caseyliss.com&#34;&gt;Casey Liss&lt;/a&gt; - en tredjedel av &lt;a href=&#34;http://www.atp.fm&#34;&gt;Accidental tech podcast&lt;/a&gt; och något överraskad av det jobb som kan komma med att släppa öppen källkod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cliss/accidentalbot&#34;&gt;Accidental bot&lt;/a&gt; Caseys showbot för ATP&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Office_Assistant&#34;&gt;Clippy&lt;/a&gt; - den gemformade assistenten som irriterat folk i många versioner av Office&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Newspeak&#34;&gt;Newspeak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oss-watch.ac.uk/resources/pullrequest&#34;&gt;Pull request&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack&#34;&gt;Kodsnack på Github&lt;/a&gt; - om du vill föreslå ändringar, tillägg eller annat på webbplatsen, gör begäran mot &lt;a href=&#34;https://github.com/kodsnack/site&#34;&gt;site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://minecraft.net&#34;&gt;Minecraft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenGL&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Immediate_mode_%28computer_graphics%29&#34;&gt;Immediate mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vertex_%28computer_graphics%29&#34;&gt;Vertex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Normal_%28geometry%29&#34;&gt;Normal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Matrix_multiplication&#34;&gt;Matrismultiplikation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unity_%28game_engine%29&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unreal_Engine&#34;&gt;Unreal engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=603&#34;&gt;Metal&lt;/a&gt; - Apples ramverk för lågninvå-3D&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://archive.arstechnica.com/reviews/1q00/playstation2/m-ee-1.html&#34;&gt;Arkitekturen i Playstation 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance&#34;&gt;Baldur&amp;rsquo;s gate: dark alliance&lt;/a&gt; - actionspel för Playstation 2 som hade &lt;a href=&#34;http://en.wikipedia.org/wiki/Full-screen_anti-aliasing#Full-scene_anti-aliasing&#34;&gt;helskärmsantialiasing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZsRRCnque2E&#34;&gt;Commodore 64 på 64 minuter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Thinking-Parallel-Programming&#34;&gt;Guy Steele om att programmera med hålkort&lt;/a&gt;, bland annat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perlin_noise&#34;&gt;Perlin noise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Simplex_noise&#34;&gt;Simplex noise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Elite_%28video_game%29&#34;&gt;Elite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Realtime_strategy_game&#34;&gt;RTS&lt;/a&gt; - realtidsstrategi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Command_%26_Conquer:_Tiberian_Sun&#34;&gt;Command &amp;amp; conquer: tiberian sun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Voxel&#34;&gt;Voxlar&lt;/a&gt; - volympixlar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brütal_Legend&#34;&gt;Brütal legend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/mac_mini/specs/mac-mini-core-i5-2.3-mid-2011-specs.html&#34;&gt;Mac mini (mitten av 2011)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Full_Throttle_%281995_video_game%29&#34;&gt;Full throttle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Psychonauts&#34;&gt;Psychonauts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tim_Schafer&#34;&gt;Tim Schafer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se&#34;&gt;kodsnack.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;Kodsnack på IRC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ents&#34;&gt;Enter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Alternativa titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det är guld prissatt men guld värt&lt;/li&gt;
+&lt;li&gt;Vill man byta inställning måste man skruva, ratta och dra i delar&lt;/li&gt;
+&lt;li&gt;Så får man äta upp sin hatt&lt;/li&gt;
+&lt;li&gt;En i varje hörn som fräser åt varandra&lt;/li&gt;
+&lt;li&gt;Det är helt sjukt vad produktiv den mannen är&lt;/li&gt;
+&lt;li&gt;Allting är ju så svårt&lt;/li&gt;
+&lt;li&gt;Som att försöka läsa hela Wikipedia&lt;/li&gt;
+&lt;li&gt;Bara göra andra saker istället&lt;/li&gt;
+&lt;li&gt;Jag tror att jag bara är fel slags person&lt;/li&gt;
+&lt;li&gt;De som är jättebra på bara en grej&lt;/li&gt;
+&lt;li&gt;Småprojekten jag påtar och petar med&lt;/li&gt;
+&lt;li&gt;Då internet inte var på hela tiden&lt;/li&gt;
+&lt;li&gt;Jag laddade ner allt jag kunde hitta på hela internet&lt;/li&gt;
+&lt;li&gt;Varje dag kan jag lära mig något nytt&lt;/li&gt;
+&lt;li&gt;(Jag var nog inte en) mer koncentrerad människa då&lt;/li&gt;
+&lt;li&gt;Allt är en hierarki och en tävling&lt;/li&gt;
+&lt;li&gt;Samla energi från det, och väx&lt;/li&gt;
+&lt;li&gt;Någon annan som man tror att man skulle vilja vara&lt;/li&gt;
+&lt;li&gt;Mer John Carmack än John Carmack&lt;/li&gt;
+&lt;li&gt;Grön plupp för dagen&lt;/li&gt;
+&lt;li&gt;Dagen är grå&lt;/li&gt;
+&lt;li&gt;De yttre markeringarna för produktion&lt;/li&gt;
+&lt;li&gt;Det finns ju något positivt i att göra saker färdiga&lt;/li&gt;
+&lt;li&gt;Hans första konfrontation med pull requests och patchar&lt;/li&gt;
+&lt;li&gt;Efter-skeppa-stadiet&lt;/li&gt;
+&lt;li&gt;Varför ska alla andra jobba för dig?&lt;/li&gt;
+&lt;li&gt;Överhanden i mängden oväsen&lt;/li&gt;
+&lt;li&gt;Påtvingad optimism&lt;/li&gt;
+&lt;li&gt;En helt personlig grej&lt;/li&gt;
+&lt;li&gt;Inte emot kommentarer generellt&lt;/li&gt;
+&lt;li&gt;Allt det där är ju sånt jag inte tycker om&lt;/li&gt;
+&lt;li&gt;Vi gör ju det här på vår fritid&lt;/li&gt;
+&lt;li&gt;Det är inte så att vi hatar er&lt;/li&gt;
+&lt;li&gt;Mer närhet till GPUn&lt;/li&gt;
+&lt;li&gt;En lokal rymd&lt;/li&gt;
+&lt;li&gt;Strax till vänster om nollpunkten&lt;/li&gt;
+&lt;li&gt;Exekvera e:et i hello world&lt;/li&gt;
+&lt;li&gt;Hoppa och titta på block&lt;/li&gt;
+&lt;li&gt;Att bygga spel är väldigt mycket tråkigt gojs&lt;/li&gt;
+&lt;li&gt;Inte fråga om man får fråga frågan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 59 - Lära sig nya saker eller att bara skeppa</title>
@@ -1058,70 +1169,6 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/The_Infamy/status/458381409023836160&#34;&gt;Exempel&lt;/a&gt; på … &amp;ldquo;andra sidans&amp;rdquo; kommentarer och åsikter&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/4/6/kodsnack-45-din-noja-fr-mark-zuckerberg&#34;&gt;Facebooks köp av Oculus&lt;/a&gt; har vi avhandlat förr&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 47 - Internet borde kunna lösa det problemet</title>
-      <link>http://kodsnack.se/47/</link>
-      <pubDate>Tue, 22 Apr 2014 07:00:23 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/47/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Tobias pratar Github, distributed denial of
-service-attacker och Githubs dominans som koddelningstjänst. Sedan
-pratar vi om händelserna kring Github och Julie Ann Horwath. Sist en
-kort och kärnfull urladdning kring byggsystem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Uppdatering:&lt;/strong&gt; Det har kommit fram mer information om GitHub Julie-Ann&amp;rsquo;s
-historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/&#34;&gt;uppföljningen här&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.github.com&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/krig&#34;&gt;Kristoffers projekt på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://aosabook.org/en/git.html&#34;&gt;Gits arkitektur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sourceforge.net&#34;&gt;Sourceforge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/blog/today-we-offer-devshare-beta-a-sustainable-way-to-fund-open-source-software/&#34;&gt;Sourceforge och adware&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.change.org/petitions/oracle-corporation-stop-bundling-ask-toolbar-with-the-java-installer&#34;&gt;Java och Ask toolbar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ddos#Distributed_attack&#34;&gt;DDOS&lt;/a&gt; - distributed denial of service, en överbelastningsattack för att sätta en webbplats eller tjänst ur spel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1796-denial-of-service-attacks&#34;&gt;DDOS-attacker mot Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sha1&#34;&gt;SHA1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mainline_DHT&#34;&gt;Mainline DHT&lt;/a&gt; - distributed hash table som används av Bittorrent&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Security_Agency&#34;&gt;NSA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techcrunch.com/2014/03/16/popcorn-time-is-back/&#34;&gt;Popcorn time&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://savannah.nongnu.org&#34;&gt;Savannah - GNUs svar på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://clusterlabs.org&#34;&gt;Cluster labs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.opensuse.org/en/&#34;&gt;Open Suse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/id-Software&#34;&gt;iD software på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.unrealengine.com/ue4-on-github&#34;&gt;Unreal engine 4 på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://julieannhorvath.com&#34;&gt;Julie Ann Horwath&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techcrunch.com/2014/03/15/julie-ann-horvath-describes-sexism-and-intimidation-behind-her-github-exit/&#34;&gt;Hennes berättelse på Techcrunch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1800-update-on-julie-horvath-s-departure&#34;&gt;Githubs respons på Julie Anns redogörelse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brogrammer&#34;&gt;Brogrammer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eric_Schmidt&#34;&gt;Eric Schmidt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Larry_Page&#34;&gt;Larry Page&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Sergey_Brin&#34;&gt;Sergey Brin&lt;/a&gt;, kompisarna som grundade Google&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitorious.org&#34;&gt;Gitorious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qt-project.org&#34;&gt;QT&lt;/a&gt; - stort applikationsramverk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gitlab.com&#34;&gt;Gitlab&lt;/a&gt; - öppet githanteringsverktyg&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bitbucket.org&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.google.com&#34;&gt;Google code&lt;/a&gt; - Gogoles tjänst för koddelande&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://savannah.nongnu.org/projects/crmsh/&#34;&gt;CRM shell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Automake&#34;&gt;Automake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cmake&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/1471994/what-is-setup-py&#34;&gt;setup.py - distverktyg för Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/M4_(computer_language%29&#34;&gt;M4&lt;/a&gt; - makrobearbetningsspråk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Makefile&#34;&gt;Makefile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.boost.org/boost-build2/doc/html/bbv2/jam.html&#34;&gt;Bjam - boosts skriptspråk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/gyp/w/list&#34;&gt;Gyp - generate your projects&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Declarative_programming&#34;&gt;Deklarativ programmering&lt;/a&gt; - att beskriva vad som ska göra snarare än hur&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://json.org&#34;&gt;JSON - Javascript object notation&lt;/a&gt;, ett format för dataöverföring som är ett subset av Javascript&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;: Det har kommit fram mer information om GitHub Julie-Ann&amp;rsquo;s historia sen vi spelade in avsnittet. Läs &lt;a href=&#34;http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns/&#34;&gt;uppföljningen här&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -7,7 +7,118 @@
     <language>sv</language>
     
     
-    <updated>Tue, 15 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 22 Jul 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 60 - Nu måste jag stämpla in och vrida på kugghjulen</title>
+      <link>http://kodsnack.se/60/</link>
+      <pubDate>Tue, 22 Jul 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/60/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar om att ha förebilder, om att skeppa saker och om den kanske överdrivna tonvikten kring att skeppa. Om varför &amp;ldquo;övergivna&amp;rdquo; projekt faktiskt inte alls är något negativt utan bara något att vara glad och tacksam för. Det är lätt att imponeras över de som kan brinna för och fokusera på en enda sak, men vi är inte alla sådana personer. Koppling mellan stresskänsla och intresse och att kunna inspireras istället för att tryckas ned av folk som kan mer än en själv på ett område. Mot slutet blir det lite snack om OpenGLs märkliga utveckling till att bli mer hårdvarunära och charmen i när folk verkligen går till botten med och lär sig utnyttja precis allt i en maskin.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rodemic.com/accessories/psa1&#34;&gt;PSA1 - Kristoffers nya mikrofonstativ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rodemic.com&#34;&gt;Røde&lt;/a&gt; - mikrofontillverkare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages&#34;&gt;Statisk typning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lithuania&#34;&gt;Litauen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://optics.org/news/4/2/35&#34;&gt;Litauens bredbandstäckning&lt;/a&gt; - &amp;ldquo;In terms of household penetration, the dominant fiber nation remains Lithuania, which already has 100% coverage of FTTH and over 31% of homes connected to fiber.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mattgemmell.com/confessions-of-an-ex-developer/&#34;&gt;Matt Gemmel följer upp&lt;/a&gt; med egna tankar utifrån &lt;a href=&#34;https://the-pastry-box-project.net/ed-finkler/2014-july-6&#34;&gt;Ed Finklers artikel&lt;/a&gt; som vi diskuterade i &lt;a href=&#34;http://www.kodsnack.se/59&#34;&gt;förra avsnittet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.ycombinator.com&#34;&gt;Hacker news&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wwdc&#34;&gt;WWDC&lt;/a&gt; - Apples årliga utvecklarkonferens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_D._Carmack&#34;&gt;John Carmack&lt;/a&gt; - storhet inom 3D-motorer för spel&lt;/li&gt;
+&lt;li&gt;Douglas Adams &lt;a href=&#34;http://refspace.com/quotes/Douglas_Adams/Q905&#34;&gt;ville vara John Cleese&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Silmarillion&#34;&gt;Silmarillion&lt;/a&gt; - Tolkiens huvudprojekt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Christopher_Tolkien&#34;&gt;Cristopher Tolkien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Donald_knuth&#34;&gt;Donald Knuth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Literate_programming&#34;&gt;Literate programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wildermuth.com/hwpod&#34;&gt;Hello world podcast&lt;/a&gt; - många intervjuer med programmerare och hur de börjat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.caseyliss.com&#34;&gt;Casey Liss&lt;/a&gt; - en tredjedel av &lt;a href=&#34;http://www.atp.fm&#34;&gt;Accidental tech podcast&lt;/a&gt; och något överraskad av det jobb som kan komma med att släppa öppen källkod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cliss/accidentalbot&#34;&gt;Accidental bot&lt;/a&gt; Caseys showbot för ATP&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Office_Assistant&#34;&gt;Clippy&lt;/a&gt; - den gemformade assistenten som irriterat folk i många versioner av Office&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Newspeak&#34;&gt;Newspeak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oss-watch.ac.uk/resources/pullrequest&#34;&gt;Pull request&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack&#34;&gt;Kodsnack på Github&lt;/a&gt; - om du vill föreslå ändringar, tillägg eller annat på webbplatsen, gör begäran mot &lt;a href=&#34;https://github.com/kodsnack/site&#34;&gt;site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://minecraft.net&#34;&gt;Minecraft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenGL&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Immediate_mode_%28computer_graphics%29&#34;&gt;Immediate mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vertex_%28computer_graphics%29&#34;&gt;Vertex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Normal_%28geometry%29&#34;&gt;Normal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Matrix_multiplication&#34;&gt;Matrismultiplikation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unity_%28game_engine%29&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unreal_Engine&#34;&gt;Unreal engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=603&#34;&gt;Metal&lt;/a&gt; - Apples ramverk för lågninvå-3D&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://archive.arstechnica.com/reviews/1q00/playstation2/m-ee-1.html&#34;&gt;Arkitekturen i Playstation 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance&#34;&gt;Baldur&amp;rsquo;s gate: dark alliance&lt;/a&gt; - actionspel för Playstation 2 som hade &lt;a href=&#34;http://en.wikipedia.org/wiki/Full-screen_anti-aliasing#Full-scene_anti-aliasing&#34;&gt;helskärmsantialiasing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZsRRCnque2E&#34;&gt;Commodore 64 på 64 minuter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.infoq.com/presentations/Thinking-Parallel-Programming&#34;&gt;Guy Steele om att programmera med hålkort&lt;/a&gt;, bland annat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perlin_noise&#34;&gt;Perlin noise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Simplex_noise&#34;&gt;Simplex noise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Elite_%28video_game%29&#34;&gt;Elite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Realtime_strategy_game&#34;&gt;RTS&lt;/a&gt; - realtidsstrategi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Command_%26_Conquer:_Tiberian_Sun&#34;&gt;Command &amp;amp; conquer: tiberian sun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Voxel&#34;&gt;Voxlar&lt;/a&gt; - volympixlar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brütal_Legend&#34;&gt;Brütal legend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/mac_mini/specs/mac-mini-core-i5-2.3-mid-2011-specs.html&#34;&gt;Mac mini (mitten av 2011)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Full_Throttle_%281995_video_game%29&#34;&gt;Full throttle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Psychonauts&#34;&gt;Psychonauts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tim_Schafer&#34;&gt;Tim Schafer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se&#34;&gt;kodsnack.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;Kodsnack på IRC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ents&#34;&gt;Enter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Alternativa titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det är guld prissatt men guld värt&lt;/li&gt;
+&lt;li&gt;Vill man byta inställning måste man skruva, ratta och dra i delar&lt;/li&gt;
+&lt;li&gt;Så får man äta upp sin hatt&lt;/li&gt;
+&lt;li&gt;En i varje hörn som fräser åt varandra&lt;/li&gt;
+&lt;li&gt;Det är helt sjukt vad produktiv den mannen är&lt;/li&gt;
+&lt;li&gt;Allting är ju så svårt&lt;/li&gt;
+&lt;li&gt;Som att försöka läsa hela Wikipedia&lt;/li&gt;
+&lt;li&gt;Bara göra andra saker istället&lt;/li&gt;
+&lt;li&gt;Jag tror att jag bara är fel slags person&lt;/li&gt;
+&lt;li&gt;De som är jättebra på bara en grej&lt;/li&gt;
+&lt;li&gt;Småprojekten jag påtar och petar med&lt;/li&gt;
+&lt;li&gt;Då internet inte var på hela tiden&lt;/li&gt;
+&lt;li&gt;Jag laddade ner allt jag kunde hitta på hela internet&lt;/li&gt;
+&lt;li&gt;Varje dag kan jag lära mig något nytt&lt;/li&gt;
+&lt;li&gt;(Jag var nog inte en) mer koncentrerad människa då&lt;/li&gt;
+&lt;li&gt;Allt är en hierarki och en tävling&lt;/li&gt;
+&lt;li&gt;Samla energi från det, och väx&lt;/li&gt;
+&lt;li&gt;Någon annan som man tror att man skulle vilja vara&lt;/li&gt;
+&lt;li&gt;Mer John Carmack än John Carmack&lt;/li&gt;
+&lt;li&gt;Grön plupp för dagen&lt;/li&gt;
+&lt;li&gt;Dagen är grå&lt;/li&gt;
+&lt;li&gt;De yttre markeringarna för produktion&lt;/li&gt;
+&lt;li&gt;Det finns ju något positivt i att göra saker färdiga&lt;/li&gt;
+&lt;li&gt;Hans första konfrontation med pull requests och patchar&lt;/li&gt;
+&lt;li&gt;Efter-skeppa-stadiet&lt;/li&gt;
+&lt;li&gt;Varför ska alla andra jobba för dig?&lt;/li&gt;
+&lt;li&gt;Överhanden i mängden oväsen&lt;/li&gt;
+&lt;li&gt;Påtvingad optimism&lt;/li&gt;
+&lt;li&gt;En helt personlig grej&lt;/li&gt;
+&lt;li&gt;Inte emot kommentarer generellt&lt;/li&gt;
+&lt;li&gt;Allt det där är ju sånt jag inte tycker om&lt;/li&gt;
+&lt;li&gt;Vi gör ju det här på vår fritid&lt;/li&gt;
+&lt;li&gt;Det är inte så att vi hatar er&lt;/li&gt;
+&lt;li&gt;Mer närhet till GPUn&lt;/li&gt;
+&lt;li&gt;En lokal rymd&lt;/li&gt;
+&lt;li&gt;Strax till vänster om nollpunkten&lt;/li&gt;
+&lt;li&gt;Exekvera e:et i hello world&lt;/li&gt;
+&lt;li&gt;Hoppa och titta på block&lt;/li&gt;
+&lt;li&gt;Att bygga spel är väldigt mycket tråkigt gojs&lt;/li&gt;
+&lt;li&gt;Inte fråga om man får fråga frågan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 59 - Lära sig nya saker eller att bara skeppa</title>
@@ -366,10 +477,10 @@ pratar om sånt vi är intresserade av för tillfället, och ibland har vi
 gäster som pratar med oss.&lt;/p&gt;
 
 &lt;p&gt;För frågor om annonsering och innehåll använd e-postadressen:
-&lt;a href=&#34;info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Vi finns även på IRC på irc.freenode.net. Kanalen heter
-&lt;a href=&#34;irc://irc.freenode.net/kodsnack&#34;&gt;#kodsnack&lt;/a&gt;. Vi rekommenderar
+&lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;#kodsnack&lt;/a&gt;. Vi rekommenderar
 naturligtvis att man IRC-ar från en skalserver som kör
 &lt;a href=&#34;http://tmux.sourceforge.net/&#34;&gt;tmux&lt;/a&gt; och
 &lt;a href=&#34;http://www.irssi.org/&#34;&gt;irssi&lt;/a&gt;!&lt;/p&gt;
@@ -410,7 +521,7 @@ iPhone, iPad.&lt;/p&gt;
 
 &lt;p&gt;Kristoffer lärde sig programmera på en Commodore 64 med drömmar om att
 en dag bli spelutvecklare. Efter att ha levt drömmen på Massive i
-Malmö i ett antal år växte intressed för fri mjukvara, och numera
+Malmö i ett antal år växte intresset för fri mjukvara, och numera
 jobbar han på &lt;a href=&#34;http://suse.com/&#34;&gt;SUSE&lt;/a&gt; där han hackar på diverse projekt relaterade till
 High Availability.&lt;/p&gt;
 
@@ -1103,31 +1214,6 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://mainisusuallyafunction.blogspot.se/2014/02/x86-is-turing-complete-with-no-registers.html&#34;&gt;X86-instruktionssetet är turingkomplett&lt;/a&gt;, utan register&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reduced_instruction_set_computing&#34;&gt;RISC&lt;/a&gt; - designstrategi för processorer där man siktar på hög prestanda genom att använda enkla instruktioner&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; - pythonkonferens i Stockholm 20 och 21 maj 2014. Åk dit och träffa Kristoffer och Tobias! Och tipsa oss om ni vill att vi pratar med eller lyssnar på någon speciell person!&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 47.5 - Man duckar för problemet</title>
-      <link>http://kodsnack.se/47.5/</link>
-      <pubDate>Tue, 22 Apr 2014 16:56:07 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/47.5/</guid>
-      <description>
-
-&lt;p&gt;Tobias och Kristoffer följer upp &lt;a href=&#34;http://kodsnack.se/blog/2014/4/10/kodsnack-46-internet-borde-kunna-lsa-det-problemet&#34;&gt;avsnitt 47&lt;/a&gt; om Github och Julie Ann Horwath med vad som hänt sedan dess och diskuterar både de inblandade i githubfallets svar, andras reaktioner och hur man kanske borde agera och reagera.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blog/1823-results-of-the-github-investigation&#34;&gt;Githubs tillkännagivande&lt;/a&gt; av företagets egen undersökning efter att Horwath slutade&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tom.preston-werner.com/2014/04/21/farewell-github-hello-immersive-computing.html&#34;&gt;Tom Prestons-Werners bloggpost&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Horwaths kommentarer via Twitter:&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;I am not a victim. I&amp;rsquo;m someone that a company&amp;rsquo;s negligence pushed too far, for too long. I am living, breathing consequence.&amp;rdquo;&lt;a href=&#34;https://twitter.com/nrrrdcore/status/458354654598811648&#34;&gt;1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Hmmm still no mention of the man who bullied me out of our code base because I  fuck him. Too popular to be accountable, I guess.&amp;rdquo;&lt;a href=&#34;https://twitter.com/nrrrdcore/status/458347143086870528&#34;&gt;2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Oh excuse me, the recently promoted to lead the engineering team man who bullied me out of our code base.&amp;rdquo;&lt;a href=&#34;https://twitter.com/nrrrdcore/status/458347574672388096&#34;&gt;3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/The_Infamy/status/458381409023836160&#34;&gt;Exempel&lt;/a&gt; på … &amp;ldquo;andra sidans&amp;rdquo; kommentarer och åsikter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/4/6/kodsnack-45-din-noja-fr-mark-zuckerberg&#34;&gt;Facebooks köp av Oculus&lt;/a&gt; har vi avhandlat förr&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
