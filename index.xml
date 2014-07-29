@@ -7,7 +7,110 @@
     <language>sv</language>
     
     
-    <updated>Tue, 22 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 29 Jul 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 61 - Det blir inga landskap, det blir webbservrar och sliders</title>
+      <link>http://kodsnack.se/61/</link>
+      <pubDate>Tue, 29 Jul 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/61/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer firar årets varmaste dag med att snacka kablar, kaffe och koffein. Sedan snackar vi lite mer om Kristoffers minecraftinspirerade sommarprojekt, problemen kring att generera intressant och varierad terräng för sitt spel och svårigheterna för spel med öppna världar att lyckas leva upp till sina löften.&lt;/p&gt;
+
+&lt;p&gt;På slutet lite om Swifts nyligen presenterade åtkomstmodell och vad vi tycker om den.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.569644/&#34;&gt;Diskutera gärna avsnittet på Techworld&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lightning_%28connector%29&#34;&gt;Lightning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dr_pepper&#34;&gt;Dr Pepper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Jolt_Cola&#34;&gt;Jolt cola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fulcola.se&#34;&gt;Fulcola&lt;/a&gt; - testar coladrycker av de flesta slag&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vilnius&#34;&gt;Vilnius&lt;/a&gt; - Litauens huvudstad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fritz-kola.de/aboutus/&#34;&gt;Fritz-kola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.voltcola.com&#34;&gt;Volt cola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://proguitarshop.com/andyscorner/the-lawsuit-era&#34;&gt;Japanska gitarrer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lejonbragden.se&#34;&gt;Femtiokilometerslopp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gongfu_tea_ceremony&#34;&gt;Gongfu-teceremoni&lt;/a&gt; - små kannor, små koppar, mycket varmt vatten och flera bryggningar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/A/B_testing&#34;&gt;A/B-test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tebloggen.blogspot.se/2008/09/te-och-tnder.html&#34;&gt;Te - bra för tänderna?&lt;/a&gt; - Tandläkaren säger ja&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.expressen.se/nyheter/tedrickande-farligt-for-tanderna/&#34;&gt;Te - dåligt för tänderna?&lt;/a&gt; - Expressen säger nej?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dentalmagazinet.se/nyheter/te-bra-for-munhalsan/&#34;&gt;Te - bra för munhälsan!&lt;/a&gt; - &amp;hellip;enligt tandläkare?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Rooibos&#34;&gt;Rooibos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Coffee_roasting&#34;&gt;Kafferostning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Kaffesurrogat&#34;&gt;Kaffesubstitut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Cikoria&#34;&gt;Cikoria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pu-erh_tea&#34;&gt;Pu-erh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Minecraft&#34;&gt;Minecraft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://i.dailymail.co.uk/i/pix/2012/05/25/article-2149899-134A6372000005DC-843_964x619.jpg&#34;&gt;Vilda västern-stenformationer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://home.cogeco.ca/~byoung1/http/home.cogeco.ca/~byoung1/IMAGES/LOOK-AT-MOUNTAINS.jpg&#34;&gt;Kinesiska landskap med träd på toppen av berg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/36579366&#34;&gt;Bret Victoriga gränssnitt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://json.org&#34;&gt;JSON&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wiktionary.org/wiki/yak_shaving&#34;&gt;Jakrakning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Realtime_strategy_game&#34;&gt;RTS - realtidsstrategispel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ultima_Underworld&#34;&gt;Ultima underworld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Goblin&#34;&gt;Goblin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Skyrim&#34;&gt;Skyrim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!&#34;&gt;Sid Meier&amp;rsquo;s pirates!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Elite_%28video_game%29&#34;&gt;Elite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wing_Commander:_Privateer&#34;&gt;Wing commander privateer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wing_Commander_%28video_game%29&#34;&gt;Wing commander&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Voxel&#34;&gt;Voxel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Quake_%28video_game%29&#34;&gt;Quake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sand_mandala&#34;&gt;Sandmandalas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Peer-to-peer&#34;&gt;Peer-to-peer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/No_Man%27s_Sky&#34;&gt;No man&amp;rsquo;s sky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RRpDn5qPp3s&#34;&gt;No man&amp;rsquo;s sky-trailer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spore_%282008_video_game%29&#34;&gt;Spore&lt;/a&gt; - gudaspel från 2008&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Will_Wright_%28game_designer%29&#34;&gt;Wil Wright&lt;/a&gt; - amerikansk spelskapare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Asteroids_%28video_game%29&#34;&gt;Asteroids&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Black_%26_White_%28video_game%29&#34;&gt;Black &amp;amp; white&lt;/a&gt; - gudaspel från 2001&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Peter_Molyneux&#34;&gt;Peter Molyneux&lt;/a&gt; - brittisk spelskapare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Normal_mapping&#34;&gt;Normalmappning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/blog/?id=5&#34;&gt;Swifts åtkomstmodell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/ref/spec#Exported_identifiers&#34;&gt;Gos åtkomstmodell&lt;/a&gt; - &amp;ldquo;public&amp;rdquo; motsvaras av stor bokstav&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/blog/&#34;&gt;Apples swiftblogg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://duramecho.com/ComputerInformation/WhyHowCppConst.html&#34;&gt;const i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.cppreference.com/w/cpp/language/const_cast&#34;&gt;const_cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dagens varmaste år&lt;/li&gt;
+&lt;li&gt;Man får lite mer utdelning på kaffe&lt;/li&gt;
+&lt;li&gt;Du är en Dr Pepper-människa&lt;/li&gt;
+&lt;li&gt;Vanlig sockercola&lt;/li&gt;
+&lt;li&gt;Min kodarcoladryck&lt;/li&gt;
+&lt;li&gt;Jag kan uppskatta ritual&lt;/li&gt;
+&lt;li&gt;När det blir dåligt så är det ens eget fel&lt;/li&gt;
+&lt;li&gt;Inte riktigt lika brun smak som kaffe&lt;/li&gt;
+&lt;li&gt;Klämma in kaffekopparna under armhålorna&lt;/li&gt;
+&lt;li&gt;Jag har varit lite periodare&lt;/li&gt;
+&lt;li&gt;Mystiska kinesiska teer&lt;/li&gt;
+&lt;li&gt;Riktigt tedrickarte&lt;/li&gt;
+&lt;li&gt;Nästan lika starkt som kaffe&lt;/li&gt;
+&lt;li&gt;Min hobbyminecraftklon&lt;/li&gt;
+&lt;li&gt;Världen är deterministiskt genererad&lt;/li&gt;
+&lt;li&gt;Det här Bret Victoriga&lt;/li&gt;
+&lt;li&gt;Det blir inga landskap, det blir webbservrar och sliders&lt;/li&gt;
+&lt;li&gt;Vi vet inte om det finns en jak därunder&lt;/li&gt;
+&lt;li&gt;Jag jagar jaken&lt;/li&gt;
+&lt;li&gt;Jakjakt&lt;/li&gt;
+&lt;li&gt;Nu är det lite för sent att spela det&lt;/li&gt;
+&lt;li&gt;Varenda sten är ditplacerad&lt;/li&gt;
+&lt;li&gt;Du har ett oändligt universum&lt;/li&gt;
+&lt;li&gt;Normalmappade monster&lt;/li&gt;
+&lt;li&gt;Sliders för sliders skull&lt;/li&gt;
+&lt;li&gt;Jag använder inte public och private om jag inte måste&lt;/li&gt;
+&lt;li&gt;Jag är inte riktigt objektorienterad heller&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 60 - Nu måste jag stämpla in och vrida på kugghjulen</title>
@@ -1146,74 +1249,6 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;Dijkstra - &amp;ldquo;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.4846&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;Go to statement considered harmful&lt;/a&gt;&amp;ldquo;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt; - som vi just inlett ett samarbete med&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; 20-21 maj - pythonkonferens i Stockholm där du kan träffa både Kristoffer och Tobias&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 48 - Ragefork</title>
-      <link>http://kodsnack.se/48/</link>
-      <pubDate>Tue, 29 Apr 2014 12:09:45 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/48/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar om &lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt; - &lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt;-utvecklarnas &lt;a href=&#34;(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology%29&#34;&gt;fork&lt;/a&gt; av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.&lt;/p&gt;
-
-&lt;p&gt;Kristoffer och Tobias kommer att vara på Pycon i Stockholm 20 och 21 maj (2014) och vill mer än gärna höra av både er som ska vara där och er som har tips på personer att prata med och talare att lyssna på.&lt;/p&gt;
-
-&lt;p&gt;Det här avsnittet av Kodsnack sponsras av Cenito - Gå gärna till deras &lt;a href=&#34;http://cenito.se&#34;&gt;hemsida&lt;/a&gt; och lär dig mer om vad dom erbjuder, eller kolla in deras &lt;a href=&#34;http://cenito.se/job&#34;&gt;lediga tjänster&lt;/a&gt; och ansök idag!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cqLkUBZWLBc&#34;&gt;Avsnittet på Youtube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://opensslrampage.org&#34;&gt;OpenSSL Valhalla rampage&lt;/a&gt; - ren fork av OpenSSL som inte tänker dela med sig av ändringarna&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://heartbleed.com&#34;&gt;Heartbleedbuggen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/4/13/kodsnack-46-korthuset-vinglar&#34;&gt;Kodsnack 46 - Korthuset vinlgar&lt;/a&gt; - vårt avsnitt om Heartbleed&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnu.org&#34;&gt;GNU&lt;/a&gt; - det Unix-lika operativsystemet som är helt fri mjukvara&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt; - BSD-baserat operativsystem som bland annat lägger stor vikt vid säkerhet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology&#34;&gt;Fork på Wikipedia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;OpenSSL &lt;a href=&#34;http://marc.info/?l=openbsd-cvs&amp;amp;m=139773689013690&amp;amp;w=2&#34;&gt;använder ibland data ur privat nyckel för att generera slumptal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/cstdio/snprintf/&#34;&gt;snprintf()&lt;/a&gt; - funktion som skriver formatterad text till en buffert&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://opensslrampage.org/faq&#34;&gt;FAQ-sidan&lt;/a&gt; för OpenSSL Valhalla rampage, frågan om att saker inte bidras tillbaka till OpenSSL&lt;/li&gt;
-&lt;li&gt;Upstream - den eller de som ligger &amp;ldquo;ovanför&amp;rdquo; en själv i en kedja av att checka in källkod&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/search/?query=openssl&#34;&gt;Diskussioner om OpenSSL&lt;/a&gt; i gruppen Kodapor på Facebook&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection&#34;&gt;GCC&lt;/a&gt; - populära kompilatorinfrastrukturer för C-språk
-*&lt;a href=&#34;http://arstechnica.com/information-technology/2014/04/openssl-code-beyond-repair-claims-creator-of-libressl-fork/&#34;&gt;Ars technica om beslutet att skapa LibreSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openssl.org/source/license.html&#34;&gt;Licensen för OpenSSL&lt;/a&gt; - de använder sig av dubbla licenser&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnutls.org&#34;&gt;GnuTLS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.linuxfoundation.org/news-media/announcements/2014/04/amazon-web-services-cisco-dell-facebook-fujitsu-google-ibm-intel&#34;&gt;Friskt storföretagablod till OpenSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://opensource.org&#34;&gt;Open source initiative&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.linuxfoundation.org&#34;&gt;Linux foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linus_torvalds&#34;&gt;Linus Torvalds&lt;/a&gt; är anställd av Linux foundation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS&#34;&gt;NSS&lt;/a&gt; - Network security services - säkerhetsbibliotek från Mozilla&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Too_big_to_fail&#34;&gt;Too big to fail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gnutls.org/contrib.html&#34;&gt;GNUTLS huvudutvecklare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Buffer_overflow&#34;&gt;Buffer overflow&lt;/a&gt; - klassisk bugg där ett program skriver data utanför den buffert det är menat att hålla sig till&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Buffer_overflow&#34;&gt;Go&lt;/a&gt; - ofta nämnt programmeringsspråk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rust-lang.org&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Web_2.0&#34;&gt;Web 2.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://groups.google.com/forum/#!topic/mozilla.dev.platform/foP6HNPtdg0&#34;&gt;Regressionsbuggar&lt;/a&gt; - tidigare lösta problem som återkommer.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xbmc.org&#34;&gt;XBMC&lt;/a&gt; - mediaspelarmjukvara (utifrån vilken &lt;a href=&#34;http://www.plex.tv&#34;&gt;Plex&lt;/a&gt; byggs)&lt;a href=&#34;http://www.plex.tv&#34;&gt;http://www.plex.tv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Federal_Information_Processing_Standards&#34;&gt;FIPS&lt;/a&gt; - Federal information processing standards&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://libav.org&#34;&gt;Libav&lt;/a&gt; - mediebibliotek som är en fork av &lt;a href=&#34;http://www.ffmpeg.org&#34;&gt;FFMPEG&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection#EGCS_Fork&#34;&gt;ECGS&lt;/a&gt; - fork av GCC som kom att överta rollen som officell version&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apache_Subversion&#34;&gt;Subversion&lt;/a&gt; - halvgammalt system för versionskontroll&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Concurrent_Versions_System&#34;&gt;CVS&lt;/a&gt; - ännu äldre system för versionskontroll&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Theo_de_Raadt&#34;&gt;Theo de Raadt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BlgdvSNpi60&amp;amp;feature=youtu.be&#34;&gt;TV ger en glimt av Theos serverfarm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Silicon_Graphics&#34;&gt;SGI&lt;/a&gt; - Silicon graphics - numera nedlagd tillverkare av kraftfulla datorer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vax&#34;&gt;VAX&lt;/a&gt; - instruktionsarkitektur skapad av &lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_Equipment_Corporation&#34;&gt;Digital&lt;/a&gt; på sjuttiotalet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gophercon.sourcegraph.com/post/83820197495/russ-cox-porting-the-go-compiler-from-c-to-go&#34;&gt;Att porta gokompilatorn till Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gophercon.com&#34;&gt;Gophercon&lt;/a&gt; - den första konferensen om Go&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pypy.org&#34;&gt;Pypy&lt;/a&gt; - pythontolk och just-in-time-kompilator som började som en pythontolk skriven i Python&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Assembly_language&#34;&gt;Assembler&lt;/a&gt; - lågnivåprogrammeringsspråk, ofta med ett-till-ett-förhållande mellan språket och maskinkodsinstruktioner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Wozniak&#34;&gt;Steve Wozniak&lt;/a&gt; - medgrundare av Apple och ensam designer av hårdvaran i både Apple I och Apple II&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mainisusuallyafunction.blogspot.se/2014/02/x86-is-turing-complete-with-no-registers.html&#34;&gt;X86-instruktionssetet är turingkomplett&lt;/a&gt;, utan register&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reduced_instruction_set_computing&#34;&gt;RISC&lt;/a&gt; - designstrategi för processorer där man siktar på hög prestanda genom att använda enkla instruktioner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; - pythonkonferens i Stockholm 20 och 21 maj 2014. Åk dit och träffa Kristoffer och Tobias! Och tipsa oss om ni vill att vi pratar med eller lyssnar på någon speciell person!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
