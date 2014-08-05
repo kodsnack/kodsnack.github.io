@@ -7,7 +7,65 @@
     <language>sv</language>
     
     
-    <updated>Tue, 29 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 05 Aug 2014 12:00:00 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 62 - En ideologisk fråga</title>
+      <link>http://kodsnack.se/62/</link>
+      <pubDate>Tue, 05 Aug 2014 12:00:00 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/62/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Fredrik snackar om operativsystem, hur vi upplever dem, vilka vi använder och föredrar och vad som egentligen är intressant för oss. Vi snackar om vad vi vill ha och varför och kraften i att kunna programmera sin egen miljö. Skillnader i hur Apple och Microsoft behandlar utvecklare. Fördelen för OS X och Linux att folk är där av eget val. Jämförelsen OS X kontra Windows och iOS kontra Android. Varför det inte utvecklas mer för Linux.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Operating_system&#34;&gt;Operativsystem&lt;/a&gt; - programmen som startar, kör och hanterar alla andra program i din dator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mac_os_x&#34;&gt;Mac OS X&lt;/a&gt; Apples operativsystem för persondatorer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_XP&#34;&gt;Windows XP&lt;/a&gt; - det senaste Windows Fredrik använde på heltid&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; - fritt (eller åtminstone friare) operativsystem skapat av Linus Torvalds&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unix&#34;&gt;Unix&lt;/a&gt; - stor familj av operativsystem vars allra första version släpptes av Bell labs 1973&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/POSIX&#34;&gt;POSIX&lt;/a&gt; - en uppsättning standarder för att få kompatibilitet mellan operativsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt; - mycket spritt terminalprogram&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_command_line&#34;&gt;Windows kommandoprompt&lt;/a&gt; - många windowsversioners version av terminalprogram&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Powershell&#34;&gt;Powershell&lt;/a&gt; - Microsofts modernare kommandorads- och automatiseringsmiljö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Applescript&#34;&gt;Applescript&lt;/a&gt; - skriptspråk för Mac OS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Find&#34;&gt;find&lt;/a&gt; - unixprogram för filsökning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Grep&#34;&gt;Grep&lt;/a&gt; - unixprogram för sökning i filer efter matchande text&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Visual_studio&#34;&gt;Visual studio&lt;/a&gt; - Microsofts utvecklingsmiljö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Red_hat_linux&#34;&gt;Red hat linux&lt;/a&gt; - linuxdistribution&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Massive_Entertainment&#34;&gt;Massive entertainment&lt;/a&gt; - svensk spelstudio&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steam_%28software%29&#34;&gt;Steam&lt;/a&gt; - Valves spelförsäljnings- och distributionsplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xbox_%28console%29&#34;&gt;Xbox&lt;/a&gt; - Microsofts första spelkonsoll&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Opengl&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/opengl/&#34;&gt;OpenGL i Mac OS X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Input_lag&#34;&gt;Input lag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=opengl%20and%20os%20x#q=what+is+input+lag&#34;&gt;Input lag i Mac OS X&lt;/a&gt; - något många seriösa spelare funderar över&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tomshardware.co.uk/forum/63543-3-benq-xl2420t-gaming-monitor-review-competitive-gaming-discussion&#34;&gt;Låglatensskärmar&lt;/a&gt; - något många spelare är intresserade av&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Direct_X&#34;&gt;Direct X&lt;/a&gt; - Microsoft-APIer för spel och multimedia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DOS&#34;&gt;DOS&lt;/a&gt; - Disk operating system, egentligen en hel familj av operativsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Autoexec.bat&#34;&gt;Autoexec.bat&lt;/a&gt; - fil som automatiskt körs när DOS startar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Hired_Guns&#34;&gt;Hired guns&lt;/a&gt; - rollspel först släppt till Amiga, sett ur första person och för upp till fyra spelare samtidigt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Workbench_%28AmigaOS%29&#34;&gt;Workbench&lt;/a&gt; - det grafiska gränssnittet för Amiga OS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m.youtube.com/watch?v=8To-6VIJZRE&#34;&gt;Developers developers developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dreamspark.com/&#34;&gt;Micrsofterbjudanden för studenter som vill utveckla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/programs/ios/university/&#34;&gt;Appleerbjudanden för studenter som vill utveckla?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ask_toolbar#Ask_Toolbar_controversy&#34;&gt;Stygga verktygsfält för webbläsare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IOS_App_Store&#34;&gt;iOS app store&lt;/a&gt; - Apples mjukvarubutik för iPhone och iPad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.panic.com&#34;&gt;Panic&lt;/a&gt; - liten och känd oberoende utvecklare för Apples plattformar. Finns det motsvarigheter på microsoftsidan?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steam_Machine_%28hardware_platform%29&#34;&gt;Steam machine&lt;/a&gt; - Valves linuxbaserade spelmaskin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.infoworld.com/d/open-source-software/2014-the-year-of-the-linux-desktop-238358&#34;&gt;The year of Linux on the desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roslyn.codeplex.com/&#34;&gt;Microsoft släpper Roslyn - kompilatorplattformen för .net - som öppen källkod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Satya_Nadella&#34;&gt;Satya Nadella&lt;/a&gt; - Microsofts nye chef&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Azure&#34;&gt;Azure&lt;/a&gt; - Microsofts molnplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://inessential.com/2014/04/09/cocoa_for_web_services&#34;&gt;Cocoa for web services&lt;/a&gt; - om tanken att skapa fler generella lösningar för det vi behöver på våra servrar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aws.amazon.com/&#34;&gt;Amazons molntjänster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 61 - Det blir inga landskap, det blir webbservrar och sliders</title>
@@ -1191,64 +1249,6 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Snow_Crash&#34;&gt;Snow Crash&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reamde&#34;&gt;Reamde!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://2014.pycon.se/&#34;&gt;Pycon Sverige&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 49 - Min första datorrelaterade bok</title>
-      <link>http://kodsnack.se/49/</link>
-      <pubDate>Tue, 06 May 2014 11:58:16 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/49/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar programmeringsböcker med utgångspunkt från vad Fredrik tycker efter att ha läst &lt;a href=&#34;http://shop.oreilly.com/product/0636920022862.do&#34;&gt;Version control with Git&lt;/a&gt;. Tobias rekommenderar en bok om Vi och vi diskuterar vad som skiljer en bra bok från referensdokumentation och vilt sökande på nätet. Via en diskussion av C#, Mono och Microsofts mobiler kommer vi slutligen till en diskussion om break, continue, goto och andra farliga saker man kan skriva i sin kod.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;, som både kan hjälpa dig med dina projekt och gärna hör av dig om du vill jobba med deras projekt.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lejonbragden.se&#34;&gt;Lejonbragden&lt;/a&gt; - loppet Fredrik skulle springa&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920022862.do&#34;&gt;Version control with Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/JonLoeliger&#34;&gt;Jon Loeliger&lt;/a&gt; och &lt;a href=&#34;https://twitter.com/matthewmccull&#34;&gt;Matthew McCullough&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.quora.com/GitHub/What-is-the-story-behind-GitHub’s-octocat-mascot&#34;&gt;Octocat&lt;/a&gt; - Githubs maskot&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://git-scm.com/book/en/Git-Internals-Plumbing-and-Porcelain&#34;&gt;Gits plumbing-kommandon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://git-scm.com/docs/git-rerere&#34;&gt;Git rerere&lt;/a&gt; - ett kommando &lt;a href=&#34;http://kodsnack.se/blog/2013/1/30/kodsnack-13-ett-verktyg-designat-fr-att-skjuta-sig-sjlv-i-foten-med&#34;&gt;Tobias berättat om tidigare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Kindle&#34;&gt;Kindle&lt;/a&gt; - läsplatta från Amazon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unit_testing&#34;&gt;Unit testing&lt;/a&gt; - att testa små delar kod individuellt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vi&#34;&gt;Vi&lt;/a&gt; - gammal och populär textredigerare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vimdoc.sourceforge.net/htmldoc/repeat.html&#34;&gt;Vi-kommandot .&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/State_machine&#34;&gt;Tillståndsmaskin&lt;/a&gt; - en modell för att designa system där man ser systemet som en maskin som alltid befinner sig i ett av en uppsättning tillstånd och som växlar tillstånd efter uppsatta regler&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.uk/Practical-Vim-Thought-Pragmatic-Programmers-ebook/dp/B00I8W50SY/ref=sr_1_2?ie=UTF8&amp;amp;qid=1399231074&amp;amp;sr=8-2&amp;amp;keywords=vim+editor&#34;&gt;Practical Vim&lt;/a&gt; - en bok Tobias rekommenderar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://leanpub.com/oopinjavascript/&#34;&gt;Principles of object-oriented programming in Javascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nczonline.net&#34;&gt;Nicolas Zakas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nczonline.net&#34;&gt;Javascript the complete reference&lt;/a&gt; - en riktigt tjock bok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596517748.do&#34;&gt;Javascript the good parts&lt;/a&gt; - en riktigt bra bok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mitpress.mit.edu/sicp/full-text/book/book.html&#34;&gt;Structure and interpretation of computer programs&lt;/a&gt; - mycket klassisk programmeringsbok som även finns som &lt;a href=&#34;http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/&#34;&gt;filmad föreläsningsserie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eniac&#34;&gt;ENIAC&lt;/a&gt; - en av de första datorerna&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.uk/C-Programming-Language-4th-ebook/dp/B00DUW4BMS/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1399230910&amp;amp;sr=1-1&amp;amp;keywords=bjarne+stroustrup&#34;&gt;The C++ programming language&lt;/a&gt; - Bjarne Stroustrups C++-bok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++11&#34;&gt;C++ 11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++11#Multithreading_memory_model&#34;&gt;C++ minnesmodell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B#Standardization&#34;&gt;C++ 98&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xamarin.com&#34;&gt;Xamarin&lt;/a&gt; - miljö som låter dig skriva kod i C# och använda den på många plattformar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Augmented_reality&#34;&gt;Augmented reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Microsoft har &lt;a href=&#34;https://roslyn.codeplex.com&#34;&gt;öppnat källkoden för .nets kompilatorplattform Roslyn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.buildwindows.com&#34;&gt;Buildkonferensen&lt;/a&gt; - microsofts stora utvecklarkonferens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ecma-international.org/memento/TC49.htm&#34;&gt;TC49&lt;/a&gt; - ECMA-gruppen för bland annat C#&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_(software%29&#34;&gt;Mono&lt;/a&gt; - öppna verktyg och miljöer för .net-kompatibel utveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Novell&#34;&gt;Novell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Miguel_de_Icaza&#34;&gt;Miguel de Icaza&lt;/a&gt; - mannen bakom Gnome, GTK och Mono&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Microsoft Azure&lt;/a&gt; - molnplattformen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xaml&#34;&gt;XAML&lt;/a&gt; - XML-baserat språk för att definiera bland annat gränssnitt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions&#34;&gt;List comprehension i Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/18454/should-i-return-from-a-function-early-or-use-an-if-statement&#34;&gt;Early return&lt;/a&gt; - att gå ur en funktion tidigt om något oväntat uppstår&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cyclomatic_complexity&#34;&gt;Cyklomatisk komplexitet&lt;/a&gt; - mått på hur logiskt komplext ett stycke kod är&lt;/li&gt;
-&lt;li&gt;Dijkstra - &amp;ldquo;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.4846&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;Go to statement considered harmful&lt;/a&gt;&amp;ldquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt; - som vi just inlett ett samarbete med&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; 20-21 maj - pythonkonferens i Stockholm där du kan träffa både Kristoffer och Tobias&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

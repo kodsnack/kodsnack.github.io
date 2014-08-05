@@ -1,13 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Avsnitts on kodsnack </title>
+      <title>Avsnitt on kodsnack </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://kodsnack.se/avsnitt/index.xml</link>
     <language>sv</language>
     
     
-    <updated>Tue, 29 Jul 2014 10:26:14 UTC</updated>
+    <updated>Tue, 05 Aug 2014 12:00:00 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 62 - En ideologisk fråga</title>
+      <link>http://kodsnack.se/62/</link>
+      <pubDate>Tue, 05 Aug 2014 12:00:00 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/62/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Fredrik snackar om operativsystem, hur vi upplever dem, vilka vi använder och föredrar och vad som egentligen är intressant för oss. Vi snackar om vad vi vill ha och varför och kraften i att kunna programmera sin egen miljö. Skillnader i hur Apple och Microsoft behandlar utvecklare. Fördelen för OS X och Linux att folk är där av eget val. Jämförelsen OS X kontra Windows och iOS kontra Android. Varför det inte utvecklas mer för Linux.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Operating_system&#34;&gt;Operativsystem&lt;/a&gt; - programmen som startar, kör och hanterar alla andra program i din dator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mac_os_x&#34;&gt;Mac OS X&lt;/a&gt; Apples operativsystem för persondatorer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_XP&#34;&gt;Windows XP&lt;/a&gt; - det senaste Windows Fredrik använde på heltid&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; - fritt (eller åtminstone friare) operativsystem skapat av Linus Torvalds&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unix&#34;&gt;Unix&lt;/a&gt; - stor familj av operativsystem vars allra första version släpptes av Bell labs 1973&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/POSIX&#34;&gt;POSIX&lt;/a&gt; - en uppsättning standarder för att få kompatibilitet mellan operativsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt; - mycket spritt terminalprogram&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_command_line&#34;&gt;Windows kommandoprompt&lt;/a&gt; - många windowsversioners version av terminalprogram&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Powershell&#34;&gt;Powershell&lt;/a&gt; - Microsofts modernare kommandorads- och automatiseringsmiljö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Applescript&#34;&gt;Applescript&lt;/a&gt; - skriptspråk för Mac OS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Find&#34;&gt;find&lt;/a&gt; - unixprogram för filsökning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Grep&#34;&gt;Grep&lt;/a&gt; - unixprogram för sökning i filer efter matchande text&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Visual_studio&#34;&gt;Visual studio&lt;/a&gt; - Microsofts utvecklingsmiljö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Red_hat_linux&#34;&gt;Red hat linux&lt;/a&gt; - linuxdistribution&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Massive_Entertainment&#34;&gt;Massive entertainment&lt;/a&gt; - svensk spelstudio&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steam_%28software%29&#34;&gt;Steam&lt;/a&gt; - Valves spelförsäljnings- och distributionsplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xbox_%28console%29&#34;&gt;Xbox&lt;/a&gt; - Microsofts första spelkonsoll&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Opengl&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/opengl/&#34;&gt;OpenGL i Mac OS X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Input_lag&#34;&gt;Input lag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=opengl%20and%20os%20x#q=what+is+input+lag&#34;&gt;Input lag i Mac OS X&lt;/a&gt; - något många seriösa spelare funderar över&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tomshardware.co.uk/forum/63543-3-benq-xl2420t-gaming-monitor-review-competitive-gaming-discussion&#34;&gt;Låglatensskärmar&lt;/a&gt; - något många spelare är intresserade av&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Direct_X&#34;&gt;Direct X&lt;/a&gt; - Microsoft-APIer för spel och multimedia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DOS&#34;&gt;DOS&lt;/a&gt; - Disk operating system, egentligen en hel familj av operativsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Autoexec.bat&#34;&gt;Autoexec.bat&lt;/a&gt; - fil som automatiskt körs när DOS startar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Hired_Guns&#34;&gt;Hired guns&lt;/a&gt; - rollspel först släppt till Amiga, sett ur första person och för upp till fyra spelare samtidigt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Workbench_%28AmigaOS%29&#34;&gt;Workbench&lt;/a&gt; - det grafiska gränssnittet för Amiga OS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m.youtube.com/watch?v=8To-6VIJZRE&#34;&gt;Developers developers developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dreamspark.com/&#34;&gt;Micrsofterbjudanden för studenter som vill utveckla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/programs/ios/university/&#34;&gt;Appleerbjudanden för studenter som vill utveckla?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ask_toolbar#Ask_Toolbar_controversy&#34;&gt;Stygga verktygsfält för webbläsare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IOS_App_Store&#34;&gt;iOS app store&lt;/a&gt; - Apples mjukvarubutik för iPhone och iPad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.panic.com&#34;&gt;Panic&lt;/a&gt; - liten och känd oberoende utvecklare för Apples plattformar. Finns det motsvarigheter på microsoftsidan?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steam_Machine_%28hardware_platform%29&#34;&gt;Steam machine&lt;/a&gt; - Valves linuxbaserade spelmaskin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.infoworld.com/d/open-source-software/2014-the-year-of-the-linux-desktop-238358&#34;&gt;The year of Linux on the desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roslyn.codeplex.com/&#34;&gt;Microsoft släpper Roslyn - kompilatorplattformen för .net - som öppen källkod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Satya_Nadella&#34;&gt;Satya Nadella&lt;/a&gt; - Microsofts nye chef&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Azure&#34;&gt;Azure&lt;/a&gt; - Microsofts molnplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://inessential.com/2014/04/09/cocoa_for_web_services&#34;&gt;Cocoa for web services&lt;/a&gt; - om tanken att skapa fler generella lösningar för det vi behöver på våra servrar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aws.amazon.com/&#34;&gt;Amazons molntjänster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 61 - Det blir inga landskap, det blir webbservrar och sliders</title>
@@ -1178,74 +1236,6 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;Dijkstra - &amp;ldquo;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.4846&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;Go to statement considered harmful&lt;/a&gt;&amp;ldquo;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt; - som vi just inlett ett samarbete med&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; 20-21 maj - pythonkonferens i Stockholm där du kan träffa både Kristoffer och Tobias&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 48 - Ragefork</title>
-      <link>http://kodsnack.se/48/</link>
-      <pubDate>Tue, 29 Apr 2014 12:09:45 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/48/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar om &lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt; - &lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt;-utvecklarnas &lt;a href=&#34;(https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology%29&#34;&gt;fork&lt;/a&gt; av OpenSSL, forks av större projekt i allmänhet och vad vi hoppas på som resultat av denna fork. På slutet en diskussion utifrån projektet att översätta gokompilatorn till Go.&lt;/p&gt;
-
-&lt;p&gt;Kristoffer och Tobias kommer att vara på Pycon i Stockholm 20 och 21 maj (2014) och vill mer än gärna höra av både er som ska vara där och er som har tips på personer att prata med och talare att lyssna på.&lt;/p&gt;
-
-&lt;p&gt;Det här avsnittet av Kodsnack sponsras av Cenito - Gå gärna till deras &lt;a href=&#34;http://cenito.se&#34;&gt;hemsida&lt;/a&gt; och lär dig mer om vad dom erbjuder, eller kolla in deras &lt;a href=&#34;http://cenito.se/job&#34;&gt;lediga tjänster&lt;/a&gt; och ansök idag!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cqLkUBZWLBc&#34;&gt;Avsnittet på Youtube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://opensslrampage.org&#34;&gt;OpenSSL Valhalla rampage&lt;/a&gt; - ren fork av OpenSSL som inte tänker dela med sig av ändringarna&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://heartbleed.com&#34;&gt;Heartbleedbuggen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/4/13/kodsnack-46-korthuset-vinglar&#34;&gt;Kodsnack 46 - Korthuset vinlgar&lt;/a&gt; - vårt avsnitt om Heartbleed&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.libressl.org&#34;&gt;LibreSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnu.org&#34;&gt;GNU&lt;/a&gt; - det Unix-lika operativsystemet som är helt fri mjukvara&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt; - BSD-baserat operativsystem som bland annat lägger stor vikt vid säkerhet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fork_%28software_development%29#Etymology&#34;&gt;Fork på Wikipedia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;OpenSSL &lt;a href=&#34;http://marc.info/?l=openbsd-cvs&amp;amp;m=139773689013690&amp;amp;w=2&#34;&gt;använder ibland data ur privat nyckel för att generera slumptal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/cstdio/snprintf/&#34;&gt;snprintf()&lt;/a&gt; - funktion som skriver formatterad text till en buffert&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://opensslrampage.org/faq&#34;&gt;FAQ-sidan&lt;/a&gt; för OpenSSL Valhalla rampage, frågan om att saker inte bidras tillbaka till OpenSSL&lt;/li&gt;
-&lt;li&gt;Upstream - den eller de som ligger &amp;ldquo;ovanför&amp;rdquo; en själv i en kedja av att checka in källkod&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/search/?query=openssl&#34;&gt;Diskussioner om OpenSSL&lt;/a&gt; i gruppen Kodapor på Facebook&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection&#34;&gt;GCC&lt;/a&gt; - populära kompilatorinfrastrukturer för C-språk
-*&lt;a href=&#34;http://arstechnica.com/information-technology/2014/04/openssl-code-beyond-repair-claims-creator-of-libressl-fork/&#34;&gt;Ars technica om beslutet att skapa LibreSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openssl.org/source/license.html&#34;&gt;Licensen för OpenSSL&lt;/a&gt; - de använder sig av dubbla licenser&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnutls.org&#34;&gt;GnuTLS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.linuxfoundation.org/news-media/announcements/2014/04/amazon-web-services-cisco-dell-facebook-fujitsu-google-ibm-intel&#34;&gt;Friskt storföretagablod till OpenSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://opensource.org&#34;&gt;Open source initiative&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.linuxfoundation.org&#34;&gt;Linux foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linus_torvalds&#34;&gt;Linus Torvalds&lt;/a&gt; är anställd av Linux foundation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS&#34;&gt;NSS&lt;/a&gt; - Network security services - säkerhetsbibliotek från Mozilla&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Too_big_to_fail&#34;&gt;Too big to fail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gnutls.org/contrib.html&#34;&gt;GNUTLS huvudutvecklare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Buffer_overflow&#34;&gt;Buffer overflow&lt;/a&gt; - klassisk bugg där ett program skriver data utanför den buffert det är menat att hålla sig till&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Buffer_overflow&#34;&gt;Go&lt;/a&gt; - ofta nämnt programmeringsspråk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rust-lang.org&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Web_2.0&#34;&gt;Web 2.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://groups.google.com/forum/#!topic/mozilla.dev.platform/foP6HNPtdg0&#34;&gt;Regressionsbuggar&lt;/a&gt; - tidigare lösta problem som återkommer.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xbmc.org&#34;&gt;XBMC&lt;/a&gt; - mediaspelarmjukvara (utifrån vilken &lt;a href=&#34;http://www.plex.tv&#34;&gt;Plex&lt;/a&gt; byggs)&lt;a href=&#34;http://www.plex.tv&#34;&gt;http://www.plex.tv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Federal_Information_Processing_Standards&#34;&gt;FIPS&lt;/a&gt; - Federal information processing standards&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://libav.org&#34;&gt;Libav&lt;/a&gt; - mediebibliotek som är en fork av &lt;a href=&#34;http://www.ffmpeg.org&#34;&gt;FFMPEG&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection#EGCS_Fork&#34;&gt;ECGS&lt;/a&gt; - fork av GCC som kom att överta rollen som officell version&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apache_Subversion&#34;&gt;Subversion&lt;/a&gt; - halvgammalt system för versionskontroll&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Concurrent_Versions_System&#34;&gt;CVS&lt;/a&gt; - ännu äldre system för versionskontroll&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Theo_de_Raadt&#34;&gt;Theo de Raadt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BlgdvSNpi60&amp;amp;feature=youtu.be&#34;&gt;TV ger en glimt av Theos serverfarm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Silicon_Graphics&#34;&gt;SGI&lt;/a&gt; - Silicon graphics - numera nedlagd tillverkare av kraftfulla datorer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vax&#34;&gt;VAX&lt;/a&gt; - instruktionsarkitektur skapad av &lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_Equipment_Corporation&#34;&gt;Digital&lt;/a&gt; på sjuttiotalet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gophercon.sourcegraph.com/post/83820197495/russ-cox-porting-the-go-compiler-from-c-to-go&#34;&gt;Att porta gokompilatorn till Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gophercon.com&#34;&gt;Gophercon&lt;/a&gt; - den första konferensen om Go&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pypy.org&#34;&gt;Pypy&lt;/a&gt; - pythontolk och just-in-time-kompilator som började som en pythontolk skriven i Python&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Assembly_language&#34;&gt;Assembler&lt;/a&gt; - lågnivåprogrammeringsspråk, ofta med ett-till-ett-förhållande mellan språket och maskinkodsinstruktioner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Wozniak&#34;&gt;Steve Wozniak&lt;/a&gt; - medgrundare av Apple och ensam designer av hårdvaran i både Apple I och Apple II&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mainisusuallyafunction.blogspot.se/2014/02/x86-is-turing-complete-with-no-registers.html&#34;&gt;X86-instruktionssetet är turingkomplett&lt;/a&gt;, utan register&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reduced_instruction_set_computing&#34;&gt;RISC&lt;/a&gt; - designstrategi för processorer där man siktar på hög prestanda genom att använda enkla instruktioner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; - pythonkonferens i Stockholm 20 och 21 maj 2014. Åk dit och träffa Kristoffer och Tobias! Och tipsa oss om ni vill att vi pratar med eller lyssnar på någon speciell person!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
