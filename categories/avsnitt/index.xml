@@ -7,7 +7,96 @@
     <language>sv</language>
     
     
-    <updated>Tue, 05 Aug 2014 12:00:00 UTC</updated>
+    <updated>Tue, 12 Aug 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 63 - Lätt att köra fast i</title>
+      <link>http://kodsnack.se/63/</link>
+      <pubDate>Tue, 12 Aug 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/63/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Fredrik går igenom lyssnarkommentarer på de senaste avsnitten. Vi tar upp diskussionen om att lära sig ett språk kontra att lära sig ett språk tillsammans med ett stort ramverk. Det är ofta stor skillnad på att lära sig ett språk i sig och att lära sig ett språk tillsammans med ett eller flera ramverkför olika ändamål. Kopplat till diskussioner om att våga lägga ner projekt snuddar vid problemen med upphandlingar och försök att skapa detaljerade specifikationer innan man utvecklar någonting.&lt;/p&gt;
+
+&lt;p&gt;Avslutningsvis snackar vi lite kring operativsystem och bekräftar kritiken att hela panelen har dålig eller ingen koll på Windows och Microsofts plattformar.&lt;/p&gt;
+
+&lt;p&gt;Vill just DU vara med och föra in mer Microsoft i Kodsnack? &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;Hör av dig&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.573767/&#34;&gt;Diskutera gärna avsnittet på Techworld&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.568970/kodsnack-om-statiskt-genererat-innehall?articleRenderMode=listpostings#comment-1482449345&#34;&gt;Theswedes inlägg om PHP&lt;/a&gt; - på &lt;a href=&#34;http://kodsnack.se/58/&#34;&gt;avsnitt 58 - Bara statisk HTML&lt;/a&gt; om nya kodsnack.se och dess teknik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hhvm.com&#34;&gt;HHVM&lt;/a&gt; - Facebooks virtuella maskin för PHP och &lt;a href=&#34;http://hacklang.org&#34;&gt;Hack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.php-fig.org/psr/&#34;&gt;PSR&lt;/a&gt; - standarder för att homogenisera utveckling i PHP&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://php.net/manual/en/features.commandline.webserver.php&#34;&gt;PHPs inbyggda webbserver&lt;/a&gt; - finns från och med version 5.4.0&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.php-debugger.com/dbg/&#34;&gt;DBG&lt;/a&gt; - debugger för PHP&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/gdb/&#34;&gt;GDB&lt;/a&gt; - GNU-projektets debugger. Fungerar med ett stort antal språk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lldb.llvm.org&#34;&gt;LLDB&lt;/a&gt; - debuggern som används av bland annat Xcode för språken i C-familjen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/node-inspector/node-inspector&#34;&gt;node-inspector&lt;/a&gt; - lösning för att debugga Node.js med Chromes utvecklingsverktyg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://laravel.com&#34;&gt;Laravel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubyonrails.org&#34;&gt;Ruby on rails&lt;/a&gt; - webbramverk för Ruby&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Hibernate_%28Java%29&#34;&gt;Hibernate&lt;/a&gt; - javaramverk för att representera objektmodeller och spara dessa i relationsdatabaser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Core_Data&#34;&gt;Core data&lt;/a&gt; - representerar, hanterar och sparar din datamodell på Apples plattformar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/cocoa/reference/foundation/objc_classic/_index.html&#34;&gt;Foundation&lt;/a&gt; och &lt;a href=&#34;https://developer.apple.com/library/ios/documentation/uikit/reference/uikit_framework/_index.html&#34;&gt;UIKit&lt;/a&gt; - centrala Objective-C-ramverk från Apple. Det förra för alla Apples plattformar, det senare för gränssnitt på iOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://getcomposer.org&#34;&gt;Composer&lt;/a&gt; - Pakethanterare för PHP. OBS: vi hade fel i avsnittet, Composer fungerar för PHP generellt och är ingenting specifikt för Laravel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugo.spf13.com&#34;&gt;Hugo&lt;/a&gt; - programmet vi använder för att statiskt generera kodsnack.se&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jquery.org/projects/&#34;&gt;jQuery&lt;/a&gt; - ett av de större ramverken för att underlätta … det mesta … i Javascript&lt;/li&gt;
+&lt;li&gt;[Kodsnack 60 - Nu måste jag stämpla in och vrida på kugghjulen]() - om att våga lägga ner projekt med mera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.569479/kodsnack--att-vaga-lagga-ner-projekt?articleRenderMode=listpostings#disqus_thread&#34;&gt;Kommentarer på avsnitt 60&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.569479/kodsnack--att-vaga-lagga-ner-projekt?articleRenderMode=listpostings#comment-1499808318&#34;&gt;Farbror Svens kommentar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se/2.2683/1.547944/haveriet-inifran--sa-gick-pust-fran-succ%C3%A9-till-fiasko&#34;&gt;PUST&lt;/a&gt; - Polisens utskällda, dyra och skrotade försök till nytt IT-system&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nyakarolinskasolna.se/sv/Bakgrund/OPS-upphandlingen/&#34;&gt;OPS-upphandlingen - Nya Karolinska Solna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Waterfall_model&#34;&gt;Vattenfallsmodellen&lt;/a&gt; - att utveckla saker i steg som följer linjärt på varandra&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fail-fast&#34;&gt;Fail-fast - Wikipedia, the free encyclopedia&lt;/a&gt; - filosofi kring felhantering att det är bättre att fallera högt och tydligt än att försöka hantera fel i det tysta&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy&#34;&gt;Sunk cost fallacy&lt;/a&gt; - känslan att något automatiskt är mer värt för att man redan plöjt ned resurser i det&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.569479/kodsnack--att-vaga-lagga-ner-projekt?articleRenderMode=listpostings#comment-1503343953&#34;&gt;Markus Klyvers kommentar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.569479/kodsnack--att-vaga-lagga-ner-projekt?articleRenderMode=listpostings#comment-1499837108&#34;&gt;Myrans svar på Markus kommentar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.569479/kodsnack--att-vaga-lagga-ner-projekt?articleRenderMode=listpostings#comment-1500043988&#34;&gt;DeltaJesus kommentar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/62/&#34;&gt;Avsnittet om operativsystem&lt;/a&gt; och &lt;a href=&#34;http://techworld.idg.se/2.2524/1.569646/kodsnack-om-operativsystem?articleRenderMode=listpostings&#34;&gt;dess kommentarer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.569646/kodsnack-om-operativsystem?articleRenderMode=listpostings#comment-1531509491&#34;&gt;Sluta ljugs kommentar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_Information_Services&#34;&gt;IIS - Internet information services&lt;/a&gt; - Microsofts webbserver&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_8&#34;&gt;Windows 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unix.stackexchange.com/questions/116629/how-do-keyboard-input-and-text-output-work&#34;&gt;Kopplingen mellan tangentbordets knappar och vad som visas på skärmen&lt;/a&gt; (här med fokus på Linux)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Window_manager&#34;&gt;Fönsterhanterare&lt;/a&gt;  - programmen som hanterar och visar det som faktiskt dyker upp på skärmen&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://steamcommunity.com/&#34;&gt;Steam&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.569646/kodsnack-om-operativsystem?articleRenderMode=listpostings#comment-1528336775&#34;&gt;Kommentardiskussion&lt;/a&gt; kring huruvida macanvändare har gjort ett mer aktivt val och vad det kostar&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt; och &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mitt kontor är en liten skrubb&lt;/li&gt;
+&lt;li&gt;En diskussionsfråga&lt;/li&gt;
+&lt;li&gt;Tillbaka till sin kodeditor och sitt tangentbord&lt;/li&gt;
+&lt;li&gt;Min PHP-forntid&lt;/li&gt;
+&lt;li&gt;En hyfsat svart låda&lt;/li&gt;
+&lt;li&gt;Jag har samma ryggmärgsreflex som du&lt;/li&gt;
+&lt;li&gt;Lätt att köra fast i&lt;/li&gt;
+&lt;li&gt;Blind varje gång det upptsår ett problem&lt;/li&gt;
+&lt;li&gt;Oss gamla skeptiker&lt;/li&gt;
+&lt;li&gt;Webbapplikationsaktigt - vad nu det är&lt;/li&gt;
+&lt;li&gt;Mer ur ett jobbperspektiv&lt;/li&gt;
+&lt;li&gt;Drömmen om vattenfall&lt;/li&gt;
+&lt;li&gt;Om man har kompetenta barn&lt;/li&gt;
+&lt;li&gt;Det är ingen som berättar för mig vad jag ska göra&lt;/li&gt;
+&lt;li&gt;Lägga ner, göra fel och gå vidare med något annat&lt;/li&gt;
+&lt;li&gt;Så Som Det Alltid Har Fungerat och Ska Fungera&lt;/li&gt;
+&lt;li&gt;Så ligger det till&lt;/li&gt;
+&lt;li&gt;Jag har inte använt Windows privat&lt;/li&gt;
+&lt;li&gt;Den objektiva sanningen om de olika operativsystemen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 62 - En ideologisk fråga</title>
@@ -1180,64 +1269,6 @@ oss i verkligheten!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Snow_Crash&#34;&gt;Snow Crash&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reamde&#34;&gt;Reamde!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://2014.pycon.se/&#34;&gt;Pycon Sverige&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 49 - Min första datorrelaterade bok</title>
-      <link>http://kodsnack.se/49/</link>
-      <pubDate>Tue, 06 May 2014 11:58:16 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/49/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar programmeringsböcker med utgångspunkt från vad Fredrik tycker efter att ha läst &lt;a href=&#34;http://shop.oreilly.com/product/0636920022862.do&#34;&gt;Version control with Git&lt;/a&gt;. Tobias rekommenderar en bok om Vi och vi diskuterar vad som skiljer en bra bok från referensdokumentation och vilt sökande på nätet. Via en diskussion av C#, Mono och Microsofts mobiler kommer vi slutligen till en diskussion om break, continue, goto och andra farliga saker man kan skriva i sin kod.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;, som både kan hjälpa dig med dina projekt och gärna hör av dig om du vill jobba med deras projekt.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lejonbragden.se&#34;&gt;Lejonbragden&lt;/a&gt; - loppet Fredrik skulle springa&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920022862.do&#34;&gt;Version control with Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/JonLoeliger&#34;&gt;Jon Loeliger&lt;/a&gt; och &lt;a href=&#34;https://twitter.com/matthewmccull&#34;&gt;Matthew McCullough&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.quora.com/GitHub/What-is-the-story-behind-GitHub’s-octocat-mascot&#34;&gt;Octocat&lt;/a&gt; - Githubs maskot&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://git-scm.com/book/en/Git-Internals-Plumbing-and-Porcelain&#34;&gt;Gits plumbing-kommandon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://git-scm.com/docs/git-rerere&#34;&gt;Git rerere&lt;/a&gt; - ett kommando &lt;a href=&#34;http://kodsnack.se/blog/2013/1/30/kodsnack-13-ett-verktyg-designat-fr-att-skjuta-sig-sjlv-i-foten-med&#34;&gt;Tobias berättat om tidigare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Kindle&#34;&gt;Kindle&lt;/a&gt; - läsplatta från Amazon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unit_testing&#34;&gt;Unit testing&lt;/a&gt; - att testa små delar kod individuellt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vi&#34;&gt;Vi&lt;/a&gt; - gammal och populär textredigerare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vimdoc.sourceforge.net/htmldoc/repeat.html&#34;&gt;Vi-kommandot .&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/State_machine&#34;&gt;Tillståndsmaskin&lt;/a&gt; - en modell för att designa system där man ser systemet som en maskin som alltid befinner sig i ett av en uppsättning tillstånd och som växlar tillstånd efter uppsatta regler&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.uk/Practical-Vim-Thought-Pragmatic-Programmers-ebook/dp/B00I8W50SY/ref=sr_1_2?ie=UTF8&amp;amp;qid=1399231074&amp;amp;sr=8-2&amp;amp;keywords=vim+editor&#34;&gt;Practical Vim&lt;/a&gt; - en bok Tobias rekommenderar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://leanpub.com/oopinjavascript/&#34;&gt;Principles of object-oriented programming in Javascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nczonline.net&#34;&gt;Nicolas Zakas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nczonline.net&#34;&gt;Javascript the complete reference&lt;/a&gt; - en riktigt tjock bok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596517748.do&#34;&gt;Javascript the good parts&lt;/a&gt; - en riktigt bra bok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mitpress.mit.edu/sicp/full-text/book/book.html&#34;&gt;Structure and interpretation of computer programs&lt;/a&gt; - mycket klassisk programmeringsbok som även finns som &lt;a href=&#34;http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/&#34;&gt;filmad föreläsningsserie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eniac&#34;&gt;ENIAC&lt;/a&gt; - en av de första datorerna&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.uk/C-Programming-Language-4th-ebook/dp/B00DUW4BMS/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1399230910&amp;amp;sr=1-1&amp;amp;keywords=bjarne+stroustrup&#34;&gt;The C++ programming language&lt;/a&gt; - Bjarne Stroustrups C++-bok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++11&#34;&gt;C++ 11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++11#Multithreading_memory_model&#34;&gt;C++ minnesmodell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B#Standardization&#34;&gt;C++ 98&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xamarin.com&#34;&gt;Xamarin&lt;/a&gt; - miljö som låter dig skriva kod i C# och använda den på många plattformar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Augmented_reality&#34;&gt;Augmented reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Microsoft har &lt;a href=&#34;https://roslyn.codeplex.com&#34;&gt;öppnat källkoden för .nets kompilatorplattform Roslyn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.buildwindows.com&#34;&gt;Buildkonferensen&lt;/a&gt; - microsofts stora utvecklarkonferens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ecma-international.org/memento/TC49.htm&#34;&gt;TC49&lt;/a&gt; - ECMA-gruppen för bland annat C#&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_(software%29&#34;&gt;Mono&lt;/a&gt; - öppna verktyg och miljöer för .net-kompatibel utveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Novell&#34;&gt;Novell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Miguel_de_Icaza&#34;&gt;Miguel de Icaza&lt;/a&gt; - mannen bakom Gnome, GTK och Mono&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Microsoft Azure&lt;/a&gt; - molnplattformen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xaml&#34;&gt;XAML&lt;/a&gt; - XML-baserat språk för att definiera bland annat gränssnitt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions&#34;&gt;List comprehension i Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/18454/should-i-return-from-a-function-early-or-use-an-if-statement&#34;&gt;Early return&lt;/a&gt; - att gå ur en funktion tidigt om något oväntat uppstår&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cyclomatic_complexity&#34;&gt;Cyklomatisk komplexitet&lt;/a&gt; - mått på hur logiskt komplext ett stycke kod är&lt;/li&gt;
-&lt;li&gt;Dijkstra - &amp;ldquo;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.4846&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;Go to statement considered harmful&lt;/a&gt;&amp;ldquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt; - som vi just inlett ett samarbete med&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon&lt;/a&gt; 20-21 maj - pythonkonferens i Stockholm där du kan träffa både Kristoffer och Tobias&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
