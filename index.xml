@@ -7,7 +7,64 @@
     <language>sv</language>
     
     
-    <updated>Tue, 12 Aug 2014 10:26:14 UTC</updated>
+    <updated>Wed, 20 Aug 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 64 -  Att gå till jobbet är någonting nytt</title>
+      <link>http://kodsnack.se/64/</link>
+      <pubDate>Wed, 20 Aug 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/64/</guid>
+      <description>
+
+&lt;p&gt;Vi börjar med att snacka om pendling och går därifrån vidare till kontor, i vilken arbetsmiljö man får mest gjort och varför man som arbetande inom ett område med stor efterfrågan ens finner sig i att jobba i mindre bra situationer. Sedan diskuterar vi hur uppskattade utvecklare faktiskt är utifrån en nyligen utkommen artikel kring hur man framställer sig vid intervjuer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.578398/&#34;&gt;Diskutera gärna avsnittet på Techworld&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/?fref=nf&#34;&gt;Kodapor&lt;/a&gt; på Facebook&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/permalink/725717454143996/&#34;&gt;Inlägget och diskussionen om pendling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Kista&#34;&gt;Kista&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Fridhemsplan&#34;&gt;Fridhemsplan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Kungsholmen&#34;&gt;Kungsholmen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Sundbybergs_kommun&#34;&gt;Sundbyberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Vilhelmina_%28tätort%29&#34;&gt;Vilhelmina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.svt.se/nyheter/val2014/soker-it-personal-bland-malmos-taxichaufforer&#34;&gt;Stratiteq söker folk&lt;/a&gt; - rekryterar ingenjörer bland taxichaufförer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://michaelochurch.wordpress.com/2014/07/13/how-the-other-half-works-an-adventure-in-the-low-status-of-software-engineers/&#34;&gt;How the other half works&lt;/a&gt; - artikeln om mannen som ändrade framtoning på sitt CV&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.massive.se&#34;&gt;Massive&lt;/a&gt; - Malmöbaserad spelstudio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En full panel&lt;/li&gt;
+&lt;li&gt;Vi är rörda och hedrade&lt;/li&gt;
+&lt;li&gt;Och problem var det ju&lt;/li&gt;
+&lt;li&gt;Min nuvarande pendlingssituation&lt;/li&gt;
+&lt;li&gt;Vara på annan ort och fortfarande göra mitt jobb&lt;/li&gt;
+&lt;li&gt;Kanske den kortaste tågpendlingssträcka man kan tänka sig&lt;/li&gt;
+&lt;li&gt;Lite annat perspektiv på livet&lt;/li&gt;
+&lt;li&gt;Om man vill jobba så är det inte här man bosätter sig&lt;/li&gt;
+&lt;li&gt;Nu har jag jobbat hemifrån i tre år&lt;/li&gt;
+&lt;li&gt;Tid till att faktiskt producera någonting på ett kontor&lt;/li&gt;
+&lt;li&gt;Mår mentalt dåligt av att sitta och surfa bort tiden&lt;/li&gt;
+&lt;li&gt;Det var vanligare förr&lt;/li&gt;
+&lt;li&gt;Det finns ingen skillnad på hemmet och arbetsplatsen&lt;/li&gt;
+&lt;li&gt;Då jobbade alla hemma&lt;/li&gt;
+&lt;li&gt;Att gå till jobbet är någonting nytt&lt;/li&gt;
+&lt;li&gt;Förhandlingsläget är relativt gott&lt;/li&gt;
+&lt;li&gt;Folk har redan jobb&lt;/li&gt;
+&lt;li&gt;Ett fabriksgolvsjobb&lt;/li&gt;
+&lt;li&gt;En fråga om att sälja sig själv på rätt sätt&lt;/li&gt;
+&lt;li&gt;Krav som inte ens går att uppfylla&lt;/li&gt;
+&lt;li&gt;Då utvärderas man som maskin&lt;/li&gt;
+&lt;li&gt;Om man tänker sig att det finns karriärdödande jobb&lt;/li&gt;
+&lt;li&gt;Pendla inte så mycket om du inte verkligen vill&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 63 - Lätt att köra fast i</title>
@@ -734,7 +791,7 @@ gäster som pratar med oss.&lt;/p&gt;
 &lt;p&gt;Vi finns även på IRC på irc.freenode.net. Kanalen heter
 &lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;#kodsnack&lt;/a&gt;. Vi rekommenderar
 naturligtvis att man IRC-ar från en skalserver som kör
-&lt;a href=&#34;http://tmux.sourceforge.net/&#34;&gt;tmux&lt;/a&gt; och
+&lt;a href=&#34;http://tmux.sourceforge.net/&#34;&gt;tmux&lt;/a&gt; och &lt;a href=&#34;http://weechat.org/&#34;&gt;weechat&lt;/a&gt; eller
 &lt;a href=&#34;http://www.irssi.org/&#34;&gt;irssi&lt;/a&gt;!&lt;/p&gt;
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Fredrik&lt;/h3&gt;
@@ -1242,64 +1299,6 @@ till Mattias Örnhall som mailade länken till oss!&lt;/h4&gt;&lt;/figcaption&gt
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Message_queue&#34;&gt;Meddelandesystem och meddelandeköer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Out_of_order_execution&#34;&gt;Out of order execution&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.azlyrics.com/lyrics/boniver/flume.html&#34;&gt;Flume&lt;/a&gt; - Bon Iver-låten där uttrycket is all maroon finns med&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 50.5 Ett nytt kapitel</title>
-      <link>http://kodsnack.se/50.5/</link>
-      <pubDate>Thu, 15 May 2014 06:40:46 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/50.5/</guid>
-      <description>
-
-&lt;p&gt;Vi som gör Kodsnack presenterar oss för nya lyssnare och berättar om nästa steg i programmets utveckling.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/33-a-30-minute-skip-button&#34;&gt;A 30 minute skip button&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://koru.se&#34;&gt;Kristoffer Grönlund&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.massive.se&#34;&gt;Massive entertainment&lt;/a&gt; - svensk spelstudio numera ägd av Ubisoft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.suse.com&#34;&gt;Suse&lt;/a&gt; - tyskt företag som bland annat gör en &lt;a href=&#34;http://www.opensuse.org/en/&#34;&gt;linuxdistribution med samma namn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/krig&#34;&gt;Kristoffer på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://krig.itch.io/flappy-beard&#34;&gt;Flappy beard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://python.org&#34;&gt;Programmeringsspråket Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://c2.com/cgi/wiki?SyntacticallySignificantWhitespaceConsideredHarmful&#34;&gt;Significant whitespace&lt;/a&gt; - när mellanslag, tabb och liknande spelar roll för kodens tolkning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/57/tabs-versus-spaceswhat-is-the-proper-indentation-character-for-everything-in-e&#34;&gt;Kodformatteringsstrider&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://legacy.python.org/dev/peps/pep-0008/&#34;&gt;Pythonstandarden för kodformattering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cocoaheads.org&#34;&gt;Cocoaheads&lt;/a&gt; - intresseförening för Mac- och iOS-utveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bjoreman.com&#34;&gt;Fredrik Björeman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.timeedit.se&#34;&gt;TimeEdit&lt;/a&gt; - bygger schema- och resursbokningssystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;node.js&lt;/a&gt; - plattform för Javascript på serversidan&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/cocoaheads-goteborg/&#34;&gt;Cocoaheads Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com&#34;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/tobiashieta/&#34;&gt;Tobias Hieta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://plexapp.com/&#34;&gt;Plex&lt;/a&gt; - tillverkare av mediecentermjukvara&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.golang.org&#34;&gt;Go&lt;/a&gt; - nytt och intressant programmeringsspråk från Google&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2012/9/16/kodsnack-1-som-att-handla-p-ikea&#34;&gt;Första avsnittet av Kodsnack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2012/11/19/kodsnack-8-byggare-bob&#34;&gt;Väldigt&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2013/1/30/kodsnack-12-merging-frodo&#34;&gt;nördiga&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2014/1/31/kodsnack-38-en-stor-hg-hriga-shellscript&#34;&gt;ämnen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2013/5/5/kodsnack-20-att-leka-cowboys-och-ingenjrer&#34;&gt;Kultur&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2013/8/23/kodsnack-25-tid-att-tnka-snett&#34;&gt;kring&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2014/1/12/kodsnack-35-intervju-med-marcin-de-kaminski&#34;&gt;programmering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se&#34;&gt;Computer Sweden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pressbyran.se&#34;&gt;Pressbyrån&lt;/a&gt; - säljer papperstidningar och magasin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.idg.com&#34;&gt;IDG&lt;/a&gt; - International data group - stor utgivare av IT-relaterade tidningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/MagnusAschan&#34;&gt;Magnus Aschan&lt;/a&gt; - chefredaktör på Techworld&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Active_Server_Pages&#34;&gt;ASP&lt;/a&gt; - Active server pages - gammalt språk för webbutveckling från Microsoft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/IT-bubblan&#34;&gt;Dotcombubblan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/larsdddd/&#34;&gt;Lars Danielsson&lt;/a&gt; - journalist på Computer Sweden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se/2.2683/1.29705&#34;&gt;Systemutvecklingsnyhetsbrevet&lt;/a&gt; och Computer Swedens övriga nyhetsbrev&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Devops&#34;&gt;Devops&lt;/a&gt; - att fundera på sambandet och samarbetet mellan utvecklare och de som fokuserar på drift av system&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se&#34;&gt;kodsnack.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/kodsnack/&#34;&gt;Kodsnack är @kodsnack på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/techworldsweden/&#34;&gt;Techworld är @techworldsweden på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ComputerSweden&#34;&gt;Computer Sweden är @computersweden på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/larsdddd/&#34;&gt;Lars Danielsson är @larsdddd på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/isallmaroon/&#34;&gt;Kristoffer är @isallmaroon på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/bjoreman/&#34;&gt;Fredrik är @bjoreman på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/tobiashieta/&#34;&gt;Tobias är @tobiashieta på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/MagnusAschan&#34;&gt;Magnus är @magnusaschan på Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
