@@ -7,7 +7,111 @@
     <language>sv</language>
     
     
-    <updated>Wed, 20 Aug 2014 10:26:14 UTC</updated>
+    <updated>Tue, 26 Aug 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 65 - Den andra dåliga idén</title>
+      <link>http://kodsnack.se/65/</link>
+      <pubDate>Tue, 26 Aug 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/65/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om att uppdatera sina applikationer, hur Tobias uppdaterat Plex och problem med installationsprogram. Tobias tipsar om Pytest och berättar hur han förbättrat uppdateringshanteringen. Tobias avslöjar häftiga trick man kan utföra när man vill uppdatera appar på Mac utan att behöva ladda ner varenda fil igen. Sedan pratar vi om kod skrivern för forskning och kommer in på att värdera bra struktur på koden och allting kring den - sådant som vi som kodhantverkare värderar högt men kanske inte alla som skriver kod. Problemen i STL får avrunda.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.579039/&#34;&gt;Diskutera gärna avsnittet på Techworld&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/50/&#34;&gt;Vi pratar så lite om Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://knowyourmeme.com/memes/i-am-groot&#34;&gt;I am Groot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/plexinc/Update-Installer&#34;&gt;Plex autouppdateringsinfrastruktur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/plexinc/plex-home-theater-public&#34;&gt;Plex Home Theater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Delta_update&#34;&gt;Deltauppdatering&lt;/a&gt; - uppdatering i vilken man enbart hämtar det som ändrats, istället för precis allting. Ett binärdelta innebär de rena och råa binärdataändringarna i varje fil, istället för exempelvis varje ändrad fil i sin helhet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.daemonology.net/bsdiff/&#34;&gt;Bsdiff/bspatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test_suite&#34;&gt;Testsvit&lt;/a&gt; - en uppsättning tester&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pytest.org/latest/&#34;&gt;Pytest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Foo_Bar&#34;&gt;Foo och bar&lt;/a&gt; - nonsensnamn som (allt för) ofta används i exempelkod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pytest.org/latest/fixture.html#fixture&#34;&gt;Fixture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/&#34;&gt;Decorator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nose.readthedocs.org/en/latest/&#34;&gt;Nose&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jenkins-ci.org&#34;&gt;Jenkins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.duke.edu/csed/ap/subset/doc/ap/Stack.html#pop%28%29&#34;&gt;Poppa stacken&lt;/a&gt; - ta bort och returnera det översta elementet i högen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Registry&#34;&gt;Windowsregistret&lt;/a&gt; - Windows centrala databas för inställningar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html&#34;&gt;Kodsignering av applikationer på OS X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DMG_%28file_format%29&#34;&gt;DMG&lt;/a&gt; - disk image, skivavbild, filformat Apple använder för att representera monterbara enheter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/.deb&#34;&gt;.deb&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/.rpm&#34;&gt;.rpm&lt;/a&gt; - Linuxdistributionerna Debian och Red hats filer för distribution av mjukvarupaket&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Installer&#34;&gt;Windows installer - .msi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wixtoolset.org/&#34;&gt;WIX - Windows installer XML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://harmful.cat-v.org/software/xml/soap/&#34;&gt;SOAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OSGi&#34;&gt;OSGi&lt;/a&gt; - ett &amp;ldquo;modulärt system och en tjänsteplattform&amp;rdquo; för Java&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/8/&#34;&gt;Byggare Bob&lt;/a&gt; - vårt avsnitt om byggsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tar_%28computing%29&#34;&gt;TAR&lt;/a&gt; - anrikt filformat och program för datalagring&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wowwiki.com/Blizzard_Downloader&#34;&gt;Blizzards installer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0093779/trivia?item=tr0755819&#34;&gt;Markstrid i asien&amp;hellip;&lt;/a&gt; - Citat från Princess Bride&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mollyrocket.com/casey/stream_0029.html&#34;&gt;The worst API ever made&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/kirkegaard/1055336&#34;&gt;Historien bakom Direct3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Direct3D_12#Direct3D_12&#34;&gt;Direct X 12&lt;/a&gt; - Senaste versionen av DirectX&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RenderMorphics&#34;&gt;Rendermorphics&lt;/a&gt; - Tillverkaren man köpte Direct 3D av&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Installer_%28OS_X%29&#34;&gt;Apples installationsinfrastruktur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://edgecasesshow.com/045-one-little-package-of-hate.html&#34;&gt;One little package of hate&lt;/a&gt; - Edge cases avsnitt om Apples installationssystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://linux-ha.org/wiki/Resource_Agents&#34;&gt;Resursagenter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/High-availability_cluster&#34;&gt;High Availability-kluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://libvirt.org/&#34;&gt;libvirt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://libvirt.org/git/?p=libvirt.git;a=blob;f=src/conf/domain_conf.c&#34;&gt;20 000 rader kod (i libvirt)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xenproject.org/&#34;&gt;Xen&lt;/a&gt; och &lt;a href=&#34;http://www.linux-kvm.org/&#34;&gt;KVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vmware.com/&#34;&gt;VMWare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxcontainers.org/&#34;&gt;LXC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.daemonology.net/papers/bsdiff.pdf&#34;&gt;BSDiff-algoritmen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mendsley/bsdiff&#34;&gt;Airmech-tillverkarnas fork av BSDiff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/UML_Diagram#Diagrams_overview&#34;&gt;UML-diagram&lt;/a&gt; används för att modellera och visualisera systemdesign&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lua.org/&#34;&gt;Lua&lt;/a&gt; - språk bland annat populärt för högnivålogik i spel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gameenginebook.com/&#34;&gt;Game Engine Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Frostbite_(game_engine&#34;&gt;Frostbite&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.unrealengine.com/&#34;&gt;Unreal-motorn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unity3d.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Electronic_Arts&#34;&gt;EA grundades år 1982&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html&#34;&gt;EASTL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stroustrup.com/C++11FAQ.html#what-concepts&#34;&gt;Koncept i C++&lt;/a&gt; - som inte finns&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1426.pdf&#34;&gt;export i C++&lt;/a&gt; - nyckelordet som bara en enda kompilator lyckades implementera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/map/map/&#34;&gt;Map i STL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/map/map/find/&#34;&gt;std::map.find&lt;/a&gt; - returnerar &lt;code&gt;iterator&amp;lt;std::pair&amp;lt;const key_type, mapped_type&amp;gt;&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Varför jag inte gillar Microsoft just idag&lt;/li&gt;
+&lt;li&gt;Man kan välja om man vill ha stabila uppdateringar&lt;/li&gt;
+&lt;li&gt;Om du inte har ett delta&lt;/li&gt;
+&lt;li&gt;Gå mellan alla deltan&lt;/li&gt;
+&lt;li&gt;Den här katalogstrukturen och  hej och hå&lt;/li&gt;
+&lt;li&gt;Våran Jenkins-slav&lt;/li&gt;
+&lt;li&gt;Tusen rader frågor tillbaka&lt;/li&gt;
+&lt;li&gt;Kör den genom din pakethanterare&lt;/li&gt;
+&lt;li&gt;Det mest standard du kan hitta i Windows&lt;/li&gt;
+&lt;li&gt;Hela definitionen av en overengineered lösning&lt;/li&gt;
+&lt;li&gt;Enterprise så in i helvete&lt;/li&gt;
+&lt;li&gt;Att simma motströms&lt;/li&gt;
+&lt;li&gt;Ta den här katalogen och tara ihop den&lt;/li&gt;
+&lt;li&gt;Den andra dåliga idén&lt;/li&gt;
+&lt;li&gt;Noll komma noll procents erfarenhet av Windows&lt;/li&gt;
+&lt;li&gt;Alla debuggers måste kunna krascha din dator&lt;/li&gt;
+&lt;li&gt;Rad 18746&lt;/li&gt;
+&lt;li&gt;Microsoft har inte monopol på att göra vansinniga grejer&lt;/li&gt;
+&lt;li&gt;En liten klubba inbyggd i alla monitorer&lt;/li&gt;
+&lt;li&gt;Ett sätt som forskare skriver kod på&lt;/li&gt;
+&lt;li&gt;Whitepaper driven development&lt;/li&gt;
+&lt;li&gt;Inkonsekvens i kodstil är det värsta som finns&lt;/li&gt;
+&lt;li&gt;En kodbas som har två ansikten&lt;/li&gt;
+&lt;li&gt;Totalt kåt på sina API:er&lt;/li&gt;
+&lt;li&gt;Vi måste ju använda det någonstans&lt;/li&gt;
+&lt;li&gt;Ett helt program där vi snackade skit om saker&lt;/li&gt;
+&lt;li&gt;Det finns ju den här avarten av en installer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 64 -  Att gå till jobbet är någonting nytt</title>
@@ -1228,64 +1332,6 @@ till Mattias Örnhall som mailade länken till oss!&lt;/h4&gt;&lt;/figcaption&gt
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Message_queue&#34;&gt;Meddelandesystem och meddelandeköer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Out_of_order_execution&#34;&gt;Out of order execution&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.azlyrics.com/lyrics/boniver/flume.html&#34;&gt;Flume&lt;/a&gt; - Bon Iver-låten där uttrycket is all maroon finns med&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 50.5 Ett nytt kapitel</title>
-      <link>http://kodsnack.se/50.5/</link>
-      <pubDate>Thu, 15 May 2014 06:40:46 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/50.5/</guid>
-      <description>
-
-&lt;p&gt;Vi som gör Kodsnack presenterar oss för nya lyssnare och berättar om nästa steg i programmets utveckling.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/33-a-30-minute-skip-button&#34;&gt;A 30 minute skip button&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://koru.se&#34;&gt;Kristoffer Grönlund&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.massive.se&#34;&gt;Massive entertainment&lt;/a&gt; - svensk spelstudio numera ägd av Ubisoft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.suse.com&#34;&gt;Suse&lt;/a&gt; - tyskt företag som bland annat gör en &lt;a href=&#34;http://www.opensuse.org/en/&#34;&gt;linuxdistribution med samma namn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/krig&#34;&gt;Kristoffer på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://krig.itch.io/flappy-beard&#34;&gt;Flappy beard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://python.org&#34;&gt;Programmeringsspråket Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://c2.com/cgi/wiki?SyntacticallySignificantWhitespaceConsideredHarmful&#34;&gt;Significant whitespace&lt;/a&gt; - när mellanslag, tabb och liknande spelar roll för kodens tolkning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/57/tabs-versus-spaceswhat-is-the-proper-indentation-character-for-everything-in-e&#34;&gt;Kodformatteringsstrider&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://legacy.python.org/dev/peps/pep-0008/&#34;&gt;Pythonstandarden för kodformattering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cocoaheads.org&#34;&gt;Cocoaheads&lt;/a&gt; - intresseförening för Mac- och iOS-utveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bjoreman.com&#34;&gt;Fredrik Björeman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.timeedit.se&#34;&gt;TimeEdit&lt;/a&gt; - bygger schema- och resursbokningssystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;node.js&lt;/a&gt; - plattform för Javascript på serversidan&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/cocoaheads-goteborg/&#34;&gt;Cocoaheads Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com&#34;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/tobiashieta/&#34;&gt;Tobias Hieta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://plexapp.com/&#34;&gt;Plex&lt;/a&gt; - tillverkare av mediecentermjukvara&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.golang.org&#34;&gt;Go&lt;/a&gt; - nytt och intressant programmeringsspråk från Google&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2012/9/16/kodsnack-1-som-att-handla-p-ikea&#34;&gt;Första avsnittet av Kodsnack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2012/11/19/kodsnack-8-byggare-bob&#34;&gt;Väldigt&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2013/1/30/kodsnack-12-merging-frodo&#34;&gt;nördiga&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2014/1/31/kodsnack-38-en-stor-hg-hriga-shellscript&#34;&gt;ämnen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2013/5/5/kodsnack-20-att-leka-cowboys-och-ingenjrer&#34;&gt;Kultur&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2013/8/23/kodsnack-25-tid-att-tnka-snett&#34;&gt;kring&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/blog/2014/1/12/kodsnack-35-intervju-med-marcin-de-kaminski&#34;&gt;programmering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se&#34;&gt;Techworld&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se&#34;&gt;Computer Sweden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pressbyran.se&#34;&gt;Pressbyrån&lt;/a&gt; - säljer papperstidningar och magasin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.idg.com&#34;&gt;IDG&lt;/a&gt; - International data group - stor utgivare av IT-relaterade tidningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/MagnusAschan&#34;&gt;Magnus Aschan&lt;/a&gt; - chefredaktör på Techworld&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Active_Server_Pages&#34;&gt;ASP&lt;/a&gt; - Active server pages - gammalt språk för webbutveckling från Microsoft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/IT-bubblan&#34;&gt;Dotcombubblan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/larsdddd/&#34;&gt;Lars Danielsson&lt;/a&gt; - journalist på Computer Sweden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se/2.2683/1.29705&#34;&gt;Systemutvecklingsnyhetsbrevet&lt;/a&gt; och Computer Swedens övriga nyhetsbrev&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Devops&#34;&gt;Devops&lt;/a&gt; - att fundera på sambandet och samarbetet mellan utvecklare och de som fokuserar på drift av system&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se&#34;&gt;kodsnack.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/kodsnack/&#34;&gt;Kodsnack är @kodsnack på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/techworldsweden/&#34;&gt;Techworld är @techworldsweden på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ComputerSweden&#34;&gt;Computer Sweden är @computersweden på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/larsdddd/&#34;&gt;Lars Danielsson är @larsdddd på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/isallmaroon/&#34;&gt;Kristoffer är @isallmaroon på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/bjoreman/&#34;&gt;Fredrik är @bjoreman på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/tobiashieta/&#34;&gt;Tobias är @tobiashieta på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/MagnusAschan&#34;&gt;Magnus är @magnusaschan på Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
