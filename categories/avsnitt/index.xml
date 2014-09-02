@@ -7,7 +7,130 @@
     <language>sv</language>
     
     
-    <updated>Tue, 26 Aug 2014 10:26:14 UTC</updated>
+    <updated>Tue, 02 Sep 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 66 - Ju fler lås du använder desto sämre är ditt liv</title>
+      <link>http://kodsnack.se/66/</link>
+      <pubDate>Tue, 02 Sep 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/66/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar trådar och utmaningarna i att försöka bygga program som gör flera saker på en gång. Vi drar paralleller mellan tråd- och minneshantering, ett annat område som också är både enklare och svårare än vad det först kan verka. Vi nämner några olika modeller för trådhantering och kommer in på att de verktyg man har inte bara påverkar hur man hanterar flera saker samtidigt utan också när och om det över huvud taget passar att göra det.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt;, som &lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;bland annat söker&lt;/a&gt; skarpa webbapplikationsutvecklare.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.580138/&#34;&gt;Diskutera gärna avsnittet på Techworld&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thread_%28computing%29&#34;&gt;Tråd&lt;/a&gt; - en fristående sekvens programinstruktioner&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Parallel_computing&#34;&gt;Parallellprogrammering&lt;/a&gt; - när flera instruktioner utförs samtidigt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Multi-core_processor&#34;&gt;Flerkärninga processorer&lt;/a&gt; - i grund och botten flera processorer förpackade i ett paket&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Asynchronous_I/O&#34;&gt;Asynkron IO&lt;/a&gt; - in- och utmatning som låter annat arbete pågå samtidigt som in- och utmatningen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Asynchronous_I/O#Select.28.2Fpoll.29_loops&#34;&gt;Select-loop&lt;/a&gt; -&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Intel_Core&#34;&gt;Intels core-processorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gotw.ca/publications/concurrency-ddj.htm&#34;&gt;The free lunch is over&lt;/a&gt; - artikel från 2004 som hävdar att utvecklingen tvingar oss att på allvar lära oss programmera och tänka i samtidiga processer. Gratislunchen tidigare var att man kunde förlita sig på att datorernas utveckling automatiskt skulle göra ens program snabbare över tiden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PlayStation_3_technical_specifications&#34;&gt;Playstation 3-arkitekturen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xbox_360_technical_specifications&#34;&gt;Xbox 360-arkitekturen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Emotion_Engine&#34;&gt;Playstation 2-arkitekturen&lt;/a&gt; var speciell men inte multitrådad eller flerkärnig på något klassiskt sätt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Moore&#39;s_law&#34;&gt;Moores lag&lt;/a&gt; - tumegeln att antalet transistorer i integrerade kretsar (oftast använt med avseende på processorer) ungefär fördubblas vartannat år&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt; - språk utvecklat av Ericsson för att skapa distribuerade och feltoleranta system. Stödjer även att uppgradera eller byta ut kod utan att stoppa systemet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fork_%28system_call%29&#34;&gt;Fork&lt;/a&gt; - anrop som skapar en fristående kopia av en process&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unix_domain_socket&#34;&gt;Unix socket&lt;/a&gt; - ett sätt för processer på samma operativsystem att utbyta data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_concurrency&#34;&gt;Multitrådning i Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/POSIX_Threads&#34;&gt;POSIX-tråd-API:et&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://custom-software-blog.com/2014/02/13/multi-threading-c11-standard/&#34;&gt;C++ 11 och trådar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Memory_barrier&#34;&gt;Minnesbarriärer (memory barriers)&lt;/a&gt; tvingar kod att köras i en viss ordning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Message_queue&#34;&gt;Meddelandekö&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Synchronization_%28computer_science%29&#34;&gt;Synkronisering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lock_%28computer_science%29&#34;&gt;Lås&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Race_condition&#34;&gt;Trådrace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Stack_trace&#34;&gt;Stack trace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html&#34;&gt;Kostnader i att växla tråd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/65/&#34;&gt;Avsnittet om uppdatering av Plex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SHA-1#The_SHA-1_hash_function&#34;&gt;SHA1-hash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thread_pool_pattern&#34;&gt;Trådpool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Immutable_object&#34;&gt;Oföränderlig data&lt;/a&gt; - data som inte kan förändras efter att den skapats&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Berkeley_Software_Distribution&#34;&gt;BSD&lt;/a&gt; - familj av Unix-lika operativsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_virtual_machine&#34;&gt;JVM&lt;/a&gt; - Javas virtuella maskin&lt;/li&gt;
+&lt;li&gt;Vi snackade nyss om att det är arbetstagarens marknad för utvecklare just nu&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;(http://www.proceranetworks.com/index.php&#34;&gt;Procera networks&lt;/a&gt;) - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;Procera söker webbapplikationsutvecklare&lt;/a&gt;, bland annat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://emberjs.com&#34;&gt;Ember&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://backbonejs.org&#34;&gt;Backbone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;Node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Grand_Central_Dispatch&#34;&gt;Grand central dispatch&lt;/a&gt; - applelösning för att förbättra och förenkla hantering av trådar och samtidighet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Reference_counting&#34;&gt;Reference counting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://libdispatch.macosforge.org&#34;&gt;libdispatch&lt;/a&gt; - biblioteket på vilket Grand central dispatch bygger&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blocks_%28C_language_extension%29&#34;&gt;Block i C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Anonymous_function&#34;&gt;Anonym funktion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gobyexample.com/goroutines&#34;&gt;Goroutin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gobyexample.com/channels&#34;&gt;Kanal&lt;/a&gt; - kommunikationsväg mellan goroutines&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Transactional_memory&#34;&gt;Transaktionellt minne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clojure.org&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Communicating_sequential_processes&#34;&gt;Communicating sequential processes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IPv6&#34;&gt;IPV6&lt;/a&gt; - senaste versionen av internetprotokollet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenMP&#34;&gt;OpenMP&lt;/a&gt; - API för multiprocesshantering med delat minne på många olika plattformar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fortran&#34;&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://learnyousomeerlang.com/the-hitchhikers-guide-to-concurrency&#34;&gt;Erlangs processmodell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Futures_and_promises&#34;&gt;Futures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.cppreference.com/w/cpp/thread/future&#34;&gt;Std::future i C++ 11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.cppreference.com/w/cpp/thread/promise&#34;&gt;Std::promise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/system.threading.tasks.task%28v=vs.110%29.aspx&#34;&gt;Task-klassen i .net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Continuation-passing_style&#34;&gt;Continuation-passing style&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pubs.opengroup.org/onlinepubs/7908799/xsh/pthread_create.html&#34;&gt;pthread_create&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Manual_memory_management&#34;&gt;Manuell minneshantering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/2846653/python-multithreading-for-dummies&#34;&gt;Trådhantering i Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/56087/does-ruby-have-real-multithreading&#34;&gt;Trådhantering i Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docstore.mik.ua/orelly/perl/prog3/ch17_02.htm&#34;&gt;Trådhantering i Perl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pypy.org&#34;&gt;Pypy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pymotw.com/2/multiprocessing/index.html&#34;&gt;Multiprocessingpaketet för Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Map_%28higher-order_function%29&#34;&gt;Map-funktion&lt;/a&gt; - funktion som tillämpar en funktion på alla element i en lista och returnerar en lista med resultat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Den som ändå hade email att oroa sig för&lt;/li&gt;
+&lt;li&gt;Någonting stora avancerade datorkluster hållit på med&lt;/li&gt;
+&lt;li&gt;Allvar i spelvärlden&lt;/li&gt;
+&lt;li&gt;Dokumentationen var på japanska&lt;/li&gt;
+&lt;li&gt;Gränsen då alla måste börja tråda&lt;/li&gt;
+&lt;li&gt;Där multitrådning startade&lt;/li&gt;
+&lt;li&gt;Kräma ur varenda sista bit&lt;/li&gt;
+&lt;li&gt;Upplagt för katastrof&lt;/li&gt;
+&lt;li&gt;När jag forkade första gången&lt;/li&gt;
+&lt;li&gt;En kopia av det du har med dig in i forken&lt;/li&gt;
+&lt;li&gt;Vaga förhoppningar om att det beter sig som det ska&lt;/li&gt;
+&lt;li&gt;En hel del saker som gör dem väldigt irriterande att jobba med&lt;/li&gt;
+&lt;li&gt;Nu tar jag låset&lt;/li&gt;
+&lt;li&gt;En tråd är körd&lt;/li&gt;
+&lt;li&gt;Först gör jag såhär och sedan gör jag såhär&lt;/li&gt;
+&lt;li&gt;Man bara vill att saker ska gå snabbare&lt;/li&gt;
+&lt;li&gt;Vem som äger vad&lt;/li&gt;
+&lt;li&gt;Spinna iväg en tråd och sedan glömma bort den&lt;/li&gt;
+&lt;li&gt;Dyra forks men billiga trådar&lt;/li&gt;
+&lt;li&gt;Nästan litegrann som en tråd och nästan litegrann som en fork&lt;/li&gt;
+&lt;li&gt;Inte riktigt en tråd, inte riktigt en egen process&lt;/li&gt;
+&lt;li&gt;Tänka väldigt långt och hårt och länge&lt;/li&gt;
+&lt;li&gt;Det är inte ens säkert att det är ditt fel&lt;/li&gt;
+&lt;li&gt;Debugga en svart låda&lt;/li&gt;
+&lt;li&gt;Direkt ändra i varandras primitiver&lt;/li&gt;
+&lt;li&gt;Ju fler lås du använder desto sämre är ditt liv&lt;/li&gt;
+&lt;li&gt;Det ser ut som ett tråd-API&lt;/li&gt;
+&lt;li&gt;De fyra trådarna i poolen&lt;/li&gt;
+&lt;li&gt;Nya processer i poolen&lt;/li&gt;
+&lt;li&gt;Så snart man vill in bakom kulissen och kika&lt;/li&gt;
+&lt;li&gt;Mer abstraktion betyder mer problem när man har problem&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 65 - Den andra dåliga idén</title>
@@ -1266,72 +1389,6 @@ till Mattias Örnhall som mailade länken till oss!&lt;/h4&gt;&lt;/figcaption&gt
 &lt;li&gt;&lt;a href=&#34;http://simpsons.wikia.com/wiki/The_Homer&#34;&gt;The Homer&lt;/a&gt; - bil designad av Homer Simpson&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.561947/fran-kravspec-till-leverans-i-kodsnack?articleRenderMode=listpostings#disqus_thread&#34;&gt;Kommentarer&lt;/a&gt; på förra avsnittet&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NP-complete&#34;&gt;NP-kompletta problem&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 51  - Konsten att skeppa</title>
-      <link>http://kodsnack.se/51/</link>
-      <pubDate>Tue, 20 May 2014 09:59:40 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/51/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Tobias snackar om konsten att skeppa, varför det är så svårt att avsluta och leverera saker och hur det fungerar att skeppa saker i deras respektive arbeten. För- och nackdelar med korta och längre cykler för både leverans av program och internt arbete  avhandlas. Varför det är så svårt att tidsuppskatta, och vad händer när uppskattningar och önskningar krockar med verkligheten? Mot slutet kommer vi även in på risken att det går religion i hur man ska göra saker för att det inte finns så mycket rätt och fel i utveckling. Allra sist lite svar på återkoppling vi fått.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt; - veckans sponsorer&lt;/li&gt;
-&lt;li&gt;Fredrik &lt;a href=&#34;http://instagram.com/p/n-WmnvtWQJ/&#34;&gt;hade det bra i solen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Men andra har ännu mer &lt;a href=&#34;http://therecord.co/2014/04/11/nat_irons&#34;&gt;utförliga avsnittslänkar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Skeppa: att leverera (oftast till slutanvändare) en färdig version av ett program&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.suse.com&#34;&gt;Suse&lt;/a&gt; - tilverkare av öppen mjukvara&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Maintaina&amp;rdquo;: underhålla, att fortsätta sköta en version av ett program man redan släppt med buggfixar och andra förbättringar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Quality_assurance&#34;&gt;QA: quality assurance&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Diff&#34;&gt;Diff&lt;/a&gt; - verktyg för filjämförelser&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scrum_(software_development%29&#34;&gt;Scrum&lt;/a&gt; - metodik för mjukvaruutveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scrum_(software_development%29#Sprint&#34;&gt;Sprint&lt;/a&gt; - den grundläggande tidsperioden för utveckling i Scrum&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://programmers.stackexchange.com/questions/60994/why-is-software-schedule-estimation-so-hard&#34;&gt;Det är svårt att tidsuppskatta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/gaming/2012/07/how-certification-requirements-are-holding-back-console-gaming/&#34;&gt;Certifieringsprocessen för konsollspel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ninety-ninety_rule&#34;&gt;De sista tio procenten tar nittio procent av tiden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000036.html&#34;&gt;Att skriva specifikationer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pragdave.me/blog/2014/03/04/time-to-kill-agile/&#34;&gt;Agile är dött&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mojang.com&#34;&gt;Minecrafts utvecklarblogg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Cenito - veckans sponsor söker utvecklare. Titta in på &lt;a href=&#34;http://www.cenito.se/jobs&#34;&gt;cenito.se/jobs&lt;/a&gt;!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://angularjs.org&#34;&gt;AngularJS&lt;/a&gt; är ett populärt javascriptramverk från Google&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://unity3d.com&#34;&gt;Unity&lt;/a&gt; är en motor för 3d-spel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Parabel_(liknelse%29&#34;&gt;Parabel&lt;/a&gt; - &amp;ldquo;en pedagogisk eller moralisk allegori med enkla motiv hämtade från åhörarens vardag&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qr.ae/KRRUI&#34;&gt;Berättelse om varför det är så svårt att tidsuppskatta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;irc://irc.freenode.net/kodsnack&#34;&gt;Kodsnacks IRC-kanal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stilldrinking.org/programming-sucks&#34;&gt;Programmering är Svårt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/55-dave-who-stinks&#34;&gt;Accidental tech podcast&lt;/a&gt; om att programmering är ett av de mest komplexa yrken man kan hålla på med. Uppföljning i &lt;a href=&#34;http://atp.fm/episodes/56-the-woodpecker&#34;&gt;avsnittet efter&lt;/a&gt;. Och &lt;a href=&#34;http://atp.fm/episodes/57-smorgasbord-of-pronunciation&#34;&gt;avsnittet efter det&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/siracusa&#34;&gt;John Siracusa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Testdriven utveckling - TDD - utvecklingsmetodik där man skriver test före koden de testar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://david.heinemeierhansson.com&#34;&gt;DHH - David Heinemeier Hansson&lt;/a&gt; - skaparen av bland annat &lt;a href=&#34;http://rubyonrails.org/&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html&#34;&gt;TDD är dött&lt;/a&gt; - DHH om testdriven utveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Snake_oil&#34;&gt;Snake oil&lt;/a&gt; - begrepp för något med tveksamt eller svårbevisat värde&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.8thlight.com/uncle-bob/2014/04/25/MonogamousTDD.html&#34;&gt;Uncle Bob om TDD&lt;/a&gt; - Uncle Bob svarar DHH&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vim.org&#34;&gt;Vim&lt;/a&gt; - klassisk textredigerare som kan … allt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; -  klassisk textredigerare som kan … allt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eclipse.org&#34;&gt;Eclipse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thread_(computing&amp;amp;29&#34;&gt;Trådar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.golang.org/share-memory-by-communicating&#34;&gt;Samtidighet (concurrency) i Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Green_threads&#34;&gt;Gröna trådar&lt;/a&gt; - trådar som hanteras av en virtuell maskin istället för direkt av operativsystemet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Race_condition&#34;&gt;Race condition&lt;/a&gt; - situation där resultatet beror av ordningen på händelser man inte kan kontrollera&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Semaphore_%28programming%29&#34;&gt;Semaforer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Singleton_pattern&#34;&gt;Singleton&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;Node.js&lt;/a&gt; - servermiljö i och med Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Communicating_sequential_processes&#34;&gt;CSP - Communicating sequential processes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Apples arbete med &lt;a href=&#34;https://developer.apple.com/library/mac/Documentation/Cocoa/Conceptual/Blocks/Articles/00_Introduction.html&#34;&gt;block&lt;/a&gt; och &lt;a href=&#34;https://developer.apple.com/library/ios/documentation/General/Conceptual/ConcurrencyProgrammingGuide/OperationQueues/OperationQueues.html&#34;&gt;dispatchköer&lt;/a&gt; för C&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Software_transactional_memory&#34;&gt;STM - Software transactional memory&lt;/a&gt; - minnesmodell för samtidighet som används av bland annat Clojure&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Message_queue&#34;&gt;Meddelandesystem och meddelandeköer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Out_of_order_execution&#34;&gt;Out of order execution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.azlyrics.com/lyrics/boniver/flume.html&#34;&gt;Flume&lt;/a&gt; - Bon Iver-låten där uttrycket is all maroon finns med&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
