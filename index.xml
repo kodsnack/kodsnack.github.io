@@ -3,11 +3,113 @@
   <channel>
       <title>Recent Content on kodsnack </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://kodsnack.se/index.xml</link>
+    <link>http://kodsnack.se/index.xml/</link>
     <language>sv</language>
     
     
-    <updated>Tue, 02 Sep 2014 10:26:14 UTC</updated>
+    <updated>Tue, 09 Sep 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 67 - Dels plattformsberoende och dels hemsk</title>
+      <link>http://kodsnack.se/67/</link>
+      <pubDate>Tue, 09 Sep 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/67/</guid>
+      <description>
+
+&lt;p&gt;Vi börjar med lite uppföljning kring trådning. Sedan snackar vi Markdown, &amp;ldquo;standard&amp;rdquo;-markdown (som redan hunnit byta namn två gånger efter sändningen och numera heter &lt;a href=&#34;http://commonmark.org&#34;&gt;Commonmark&lt;/a&gt;) och standarders vara eller icke vara i allmänhet.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi utveckling för mobilplattformar. En app vill man ju gärna ha, men man vill ju också hemskt gärna finnas tillgänglig på mer än en plattform utan att behöva skriva och underhålla nästan likadana hjul flera gånger. Korsplattformsramverk, appar speciellt för en plattform och webbapplikationer har väldigt olika för- och nackdelar, så när ska man välja vad?&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt;, som &lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;bland annat söker&lt;/a&gt; skarpa webbapplikationsutvecklare.&lt;/p&gt;
+
+&lt;p&gt;Detta avsnitt av Kodsnack spelades in och sändes live, och vi siktar på att fortsätta sända live framöver. Torsdagar 20:30 är den vanliga tiden, och precis som alla bättre program är man mer än välkommen att delta i chattrummet via sin IRC-klient eller direkt på &lt;a href=&#34;http://live.kodsnack.se&#34;&gt;vår livesändningssida&lt;/a&gt;. Vi sänder vår eviga tacksamhet till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar livesändningarna med virtuell hårdvara!&lt;/p&gt;
+
+&lt;p&gt;Diskutera gärna avsnittet på &lt;a href=&#34;http://techworld.idg.se/2.2524/1.580973/&#34;&gt;Techworld&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://live.kodsnack.se&#34;&gt;Kodsnacks livesändningssida&lt;/a&gt; - torsdagar 20:30 är hålltiden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_Relay_Chat&#34;&gt;IRC&lt;/a&gt; - internet relay chat, anrikt protokoll för överföring av textmeddelanden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/66/&#34;&gt;Förra veckans avsnitt om trådning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogg.ricercar.se/basic/2014/09/03/podcasten-kodsnack-om-tradar-och-las/&#34;&gt;Blogginlägg om multitrådning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lock_%28computer_science%29&#34;&gt;Lås&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Semaphore_%28programming%29&#34;&gt;Semafor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html&#34;&gt;Paper om att lås inte fungerar som man tror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Law_of_the_instrument&#34;&gt;När allt man har är en hammare ser allting ut som en spik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://commonmark.org&#34;&gt;Standard markdown&lt;/a&gt; - redan omdöpt två gånger, numera Commonmark&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_Gruber&#34;&gt;John Gruber&lt;/a&gt; - känd för att skriva om Apple och närliggande ämnen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net&#34;&gt;Daring fireball&lt;/a&gt; - John Grubers blogg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt; - programmeringsspråk som fortfarande är under utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jgm.github.io/stmd/spec.html&#34;&gt;Specifikationen för Commonmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers&#34;&gt;IEEE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Markdown#Extensions&#34;&gt;Andra varianter av Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Obsessive–compulsive_disorder&#34;&gt;OCD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ReStructuredText&#34;&gt;Restructured text&lt;/a&gt; - textformat som främst används dokumentation av Python&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/AsciiDoc&#34;&gt;ASCIIdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org&#34;&gt;W3C&lt;/a&gt; - World wide web consortium, skapar och publicerar standarder för HTML och intilliggande tekniker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SOAP&#34;&gt;SOAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ada_%28programming_language%29&#34;&gt;Ada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xbmc.org/&#34;&gt;XBMC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xbmc.org/introducing-kodi-14/&#34;&gt;Kodi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;(http://www.proceranetworks.com/index.php&#34;&gt;Procera sponsrar veckans avsnitt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_service_provider&#34;&gt;ISP&lt;/a&gt; - internet service provider - internetleverantör&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;Lediga jobb på Procera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://angularjs.org&#34;&gt;Angular&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://backbonejs.org&#34;&gt;Backbone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://emberjs.com&#34;&gt;Ember&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://d3js.org&#34;&gt;D3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Push_technology&#34;&gt;Push notification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qt-project.org/qt5/qt52&#34;&gt;QT-SDKt numera för Android och iOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Swing_%28Java%29&#34;&gt;Swing&lt;/a&gt; - UI-ramverk för Java&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WebOS&#34;&gt;WebOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/QML&#34;&gt;QML&lt;/a&gt; - märkspråk för att beskriva användargränssnitt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/&#34;&gt;Kodapor på Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xamarin.com&#34;&gt;Xamarin&lt;/a&gt; låter dig utveckla appar för många plattformar i C#&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://phonegap.com&#34;&gt;Phonegap&lt;/a&gt; låter dig bygga mobilappar med webbteknik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.appcelerator.com/titanium/&#34;&gt;Titanium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Application_programming_interface&#34;&gt;API&lt;/a&gt; - application programming interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Android_Studio&#34;&gt;Android studio&lt;/a&gt; - utvecklingsmiljö för Android&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eclipse_%28software%29&#34;&gt;Eclipse&lt;/a&gt; - utvecklingsmiljö för Java, med mera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xcode&#34;&gt;Xcode&lt;/a&gt; - Apples utvecklingsmiljö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IntelliJ_IDEA&#34;&gt;IntelliJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;Lediga jobb på Procera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Om man tror att man vet hur en semafor fungerar så har man fel&lt;/li&gt;
+&lt;li&gt;Vill man skriva sina program i Perl idag så får man det&lt;/li&gt;
+&lt;li&gt;De hade ju kunnat undvika problemet så lätt&lt;/li&gt;
+&lt;li&gt;Ordningsmänniskan i en som har tagit över totalt&lt;/li&gt;
+&lt;li&gt;En dålig fåraherde&lt;/li&gt;
+&lt;li&gt;Man har dött under sin egen tyngd&lt;/li&gt;
+&lt;li&gt;Känner du att du fastnar i långa, stora standarder ibland&lt;/li&gt;
+&lt;li&gt;En kommittés våta dröm&lt;/li&gt;
+&lt;li&gt;Implementationer istället för standarder&lt;/li&gt;
+&lt;li&gt;Den fanns på papper innan den fanns som kompilator&lt;/li&gt;
+&lt;li&gt;Backup i arga samtal mellan företag&lt;/li&gt;
+&lt;li&gt;En stor del av internet är överens&lt;/li&gt;
+&lt;li&gt;Det såg ju ut som hej kom och hjälp mig&lt;/li&gt;
+&lt;li&gt;Dels plattformsberoende och dels hemsk&lt;/li&gt;
+&lt;li&gt;En A-klassapp&lt;/li&gt;
+&lt;li&gt;Vi behöver Standard swift på Android&lt;/li&gt;
+&lt;li&gt;Ganska dumma klienter&lt;/li&gt;
+&lt;li&gt;Det är ett API som är lösningen&lt;/li&gt;
+&lt;li&gt;Man skojar inte ens bort det&lt;/li&gt;
+&lt;li&gt;Segt som smör&lt;/li&gt;
+&lt;li&gt;Standardkodsnack&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 66 - Ju fler lås du använder desto sämre är ditt liv</title>
@@ -999,10 +1101,10 @@
     
     <item>
       <title>Om kodsnack</title>
-      <link>http://kodsnack.se/om</link>
+      <link>http://kodsnack.se/om/</link>
       <pubDate>Mon, 23 Jun 2014 20:23:30 UTC</pubDate>
       
-      <guid>http://kodsnack.se/om</guid>
+      <guid>http://kodsnack.se/om/</guid>
       <description>
 
 &lt;p&gt;Kodsnack är ett poddradioprogram som behandlar ämnen intressanta för
@@ -1312,78 +1414,6 @@ på &lt;a href=&#34;http://kri.gs/&#34;&gt;kri.gs&lt;/a&gt;.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Frostbite_(game_engine%29&#34;&gt;Frostbite&lt;/a&gt; - spelmotor först utvecklad för spelen i &lt;a href=&#34;http://en.wikipedia.org/wiki/Battlefield_(series%29&#34;&gt;Battlefield-serien&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_carmack&#34;&gt;John Carmack&lt;/a&gt; - 3d-spelprogrammeringsguru&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Direct_X&#34;&gt;DirectX&lt;/a&gt; - API-familj från Microsoft för effektiv hantering av spel och annan media&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 53 - Gör en Python 5</title>
-      <link>http://kodsnack.se/53/</link>
-      <pubDate>Tue, 03 Jun 2014 14:54:06 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/53/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer börjar berätta för Fredrik om sina öden och äventyr på svenska Pycon och tar med oss på en resa från datainsamling och bearbetning via kryptomysterier till Python 2 mot Python 3 och problemen med stora omstarter mellan versioner av mjukvara. Python 3 har stora problem med att vara något nytt och annorlunda som skiljer sig så mycket att den stora massan inte har anledning att byta till det. Samtidigt har utvecklarna  av språket gått vidare så att ingen gör något alls med det språk folk faktiskt använder. Det finns en risk att  man tappar det som gjorde ens skapelse värd att använda när man skriver om den för att bli modernare, mer generell eller vad man nu föresatt sig att göra.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YEBfamv-_do&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;figcaption&gt;&lt;h4&gt;En video som förklarar Diffie-Hellman-algoritmen, tack
-till Mattias Örnhall som mailade länken till oss!&lt;/h4&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blaag.haard.se&#34;&gt;Fredrik Håård&lt;/a&gt; - huvudarrangören av Pycon.se&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pycon.org&#34;&gt;Pycon&lt;/a&gt; internationellt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ep2014.europython.eu/en/&#34;&gt;Europython&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mali&#34;&gt;Mali&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Boko_Haram&#34;&gt;Boko haram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Pionen&#34;&gt;Bahnhofs datahall&lt;/a&gt; - tidigare civilförsvarsledningsplats - under Vita bergen i Stockholm&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/HelenaBengtsson&#34;&gt;Helena Bengtsson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Join_(SQL%29&#34;&gt;JOIN i databaser&lt;/a&gt; - kombinerar poster från flera tabeller&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.perl.org&#34;&gt;Perl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fax&#34;&gt;Fax&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Optical_character_recognition&#34;&gt;OCR&lt;/a&gt; - optical character recognition&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.crummy.com/software/BeautifulSoup/&#34;&gt;Beautiful soup&lt;/a&gt; - pythonbibliotek för att få ut data ur webbsidor och annan mer eller mindre ostrukturerad data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kodsnack.se/blog/2012/10/12/kodsnack-5-kanelbullens-dag&#34;&gt;Kodsnack 5 - Kanelbullens dag&lt;/a&gt; nämnde också Beautiful soup&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lvh.io&#34;&gt;Laurens Van Houtven&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rackspace.com&#34;&gt;Rackspace&lt;/a&gt; - sysslar med moln och hosting och anställer Laurens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cryptography&#34;&gt;Kryptografi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/One-time_pad&#34;&gt;Engångsskiffer&lt;/a&gt; - teoretiskt perfekt kryptering med problem i verkligheten&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange&#34;&gt;Diffie-Hellman key exchange&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Man-in-the-middle_attack&#34;&gt;Man-in-the-middle-attack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.python.org/moin/Python2orPython3&#34;&gt;Python 2 och Python 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pypi.python.org/pypi&#34;&gt;PyPI&lt;/a&gt; - Python package index och &lt;a href=&#34;https://pypi.python.org/pypi/pip&#34;&gt;pip&lt;/a&gt; - ett program för att installera paket&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/History_of_Python&#34;&gt;Pythons historia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ascii&#34;&gt;ASCII&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Indexera över en sträng, i Python 2 och i Python 3&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kennethreitz.org&#34;&gt;Kenneth Reitz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kennethreitz/requests&#34;&gt;Requests&lt;/a&gt; - modul för HTTP i Python, som Kenneth skrivit&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt; - den ännu inte släppta versionen av Perl&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Generator_(computer_programming%29&#34;&gt;Generatorer&lt;/a&gt; - funktioner som genererar data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt; - ett språk vi talat om förr&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000069.html&#34;&gt;Joel Spolsky om Netscapes omskrivning&lt;/a&gt; och att skriva om i allmänhet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp&#34;&gt;Winamp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HaF-nRS_CWM&#34;&gt;It really whips the llama&amp;rsquo;s ass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp#Winamp3&#34;&gt;Winamp3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.winamp.com&#34;&gt;Det tycks fortfarande finnas lite liv i Winamp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Aol&#34;&gt;AOL&lt;/a&gt; - som var stora förr i tiden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/IT-bubblan&#34;&gt;Dotcomkraschen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Guido_van_Rossum&#34;&gt;Guido van Rossum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hg.python.org/committers.txt&#34;&gt;Kärnutvecklare av Python 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.python.org/download/releases/2.7.2&#34;&gt;Python 2.7&lt;/a&gt; blir den sista av Python 2&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTML5&#34;&gt;HTML 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xhtml&#34;&gt;XHTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xslt&#34;&gt;XSLT&lt;/a&gt; - språk för att omvandla XML-dokument till andra XML-dokument&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Http_2.0&#34;&gt;HTTP 2.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SPDY&#34;&gt;SPDY&lt;/a&gt; - Googles nätverksprotokoll som är basen för HTTP 2.0&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://insouciant.org/tech/http-slash-2-considerations-and-tradeoffs/&#34;&gt;HTTP/2 considerations and tradeoffs&lt;/a&gt; - lång redogörelse med gott om länkar&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

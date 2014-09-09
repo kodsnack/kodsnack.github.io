@@ -3,11 +3,113 @@
   <channel>
       <title>Avsnitt on kodsnack </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://kodsnack.se/avsnitt/index.xml</link>
+    <link>http://kodsnack.se/avsnitt/index.xml/</link>
     <language>sv</language>
     
     
-    <updated>Tue, 02 Sep 2014 10:26:14 UTC</updated>
+    <updated>Tue, 09 Sep 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 67 - Dels plattformsberoende och dels hemsk</title>
+      <link>http://kodsnack.se/67/</link>
+      <pubDate>Tue, 09 Sep 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/67/</guid>
+      <description>
+
+&lt;p&gt;Vi börjar med lite uppföljning kring trådning. Sedan snackar vi Markdown, &amp;ldquo;standard&amp;rdquo;-markdown (som redan hunnit byta namn två gånger efter sändningen och numera heter &lt;a href=&#34;http://commonmark.org&#34;&gt;Commonmark&lt;/a&gt;) och standarders vara eller icke vara i allmänhet.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi utveckling för mobilplattformar. En app vill man ju gärna ha, men man vill ju också hemskt gärna finnas tillgänglig på mer än en plattform utan att behöva skriva och underhålla nästan likadana hjul flera gånger. Korsplattformsramverk, appar speciellt för en plattform och webbapplikationer har väldigt olika för- och nackdelar, så när ska man välja vad?&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt;, som &lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;bland annat söker&lt;/a&gt; skarpa webbapplikationsutvecklare.&lt;/p&gt;
+
+&lt;p&gt;Detta avsnitt av Kodsnack spelades in och sändes live, och vi siktar på att fortsätta sända live framöver. Torsdagar 20:30 är den vanliga tiden, och precis som alla bättre program är man mer än välkommen att delta i chattrummet via sin IRC-klient eller direkt på &lt;a href=&#34;http://live.kodsnack.se&#34;&gt;vår livesändningssida&lt;/a&gt;. Vi sänder vår eviga tacksamhet till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar livesändningarna med virtuell hårdvara!&lt;/p&gt;
+
+&lt;p&gt;Diskutera gärna avsnittet på &lt;a href=&#34;http://techworld.idg.se/2.2524/1.580973/&#34;&gt;Techworld&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://live.kodsnack.se&#34;&gt;Kodsnacks livesändningssida&lt;/a&gt; - torsdagar 20:30 är hålltiden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_Relay_Chat&#34;&gt;IRC&lt;/a&gt; - internet relay chat, anrikt protokoll för överföring av textmeddelanden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/66/&#34;&gt;Förra veckans avsnitt om trådning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogg.ricercar.se/basic/2014/09/03/podcasten-kodsnack-om-tradar-och-las/&#34;&gt;Blogginlägg om multitrådning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lock_%28computer_science%29&#34;&gt;Lås&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Semaphore_%28programming%29&#34;&gt;Semafor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html&#34;&gt;Paper om att lås inte fungerar som man tror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Law_of_the_instrument&#34;&gt;När allt man har är en hammare ser allting ut som en spik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://commonmark.org&#34;&gt;Standard markdown&lt;/a&gt; - redan omdöpt två gånger, numera Commonmark&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_Gruber&#34;&gt;John Gruber&lt;/a&gt; - känd för att skriva om Apple och närliggande ämnen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net&#34;&gt;Daring fireball&lt;/a&gt; - John Grubers blogg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt; - programmeringsspråk som fortfarande är under utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jgm.github.io/stmd/spec.html&#34;&gt;Specifikationen för Commonmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers&#34;&gt;IEEE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Markdown#Extensions&#34;&gt;Andra varianter av Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Obsessive–compulsive_disorder&#34;&gt;OCD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ReStructuredText&#34;&gt;Restructured text&lt;/a&gt; - textformat som främst används dokumentation av Python&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/AsciiDoc&#34;&gt;ASCIIdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org&#34;&gt;W3C&lt;/a&gt; - World wide web consortium, skapar och publicerar standarder för HTML och intilliggande tekniker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SOAP&#34;&gt;SOAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ada_%28programming_language%29&#34;&gt;Ada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xbmc.org/&#34;&gt;XBMC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xbmc.org/introducing-kodi-14/&#34;&gt;Kodi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;(http://www.proceranetworks.com/index.php&#34;&gt;Procera sponsrar veckans avsnitt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_service_provider&#34;&gt;ISP&lt;/a&gt; - internet service provider - internetleverantör&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;Lediga jobb på Procera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://angularjs.org&#34;&gt;Angular&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://backbonejs.org&#34;&gt;Backbone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://emberjs.com&#34;&gt;Ember&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://d3js.org&#34;&gt;D3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Push_technology&#34;&gt;Push notification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qt-project.org/qt5/qt52&#34;&gt;QT-SDKt numera för Android och iOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Swing_%28Java%29&#34;&gt;Swing&lt;/a&gt; - UI-ramverk för Java&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WebOS&#34;&gt;WebOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/QML&#34;&gt;QML&lt;/a&gt; - märkspråk för att beskriva användargränssnitt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/&#34;&gt;Kodapor på Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xamarin.com&#34;&gt;Xamarin&lt;/a&gt; låter dig utveckla appar för många plattformar i C#&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://phonegap.com&#34;&gt;Phonegap&lt;/a&gt; låter dig bygga mobilappar med webbteknik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.appcelerator.com/titanium/&#34;&gt;Titanium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Application_programming_interface&#34;&gt;API&lt;/a&gt; - application programming interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Android_Studio&#34;&gt;Android studio&lt;/a&gt; - utvecklingsmiljö för Android&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eclipse_%28software%29&#34;&gt;Eclipse&lt;/a&gt; - utvecklingsmiljö för Java, med mera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xcode&#34;&gt;Xcode&lt;/a&gt; - Apples utvecklingsmiljö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IntelliJ_IDEA&#34;&gt;IntelliJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;Lediga jobb på Procera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Om man tror att man vet hur en semafor fungerar så har man fel&lt;/li&gt;
+&lt;li&gt;Vill man skriva sina program i Perl idag så får man det&lt;/li&gt;
+&lt;li&gt;De hade ju kunnat undvika problemet så lätt&lt;/li&gt;
+&lt;li&gt;Ordningsmänniskan i en som har tagit över totalt&lt;/li&gt;
+&lt;li&gt;En dålig fåraherde&lt;/li&gt;
+&lt;li&gt;Man har dött under sin egen tyngd&lt;/li&gt;
+&lt;li&gt;Känner du att du fastnar i långa, stora standarder ibland&lt;/li&gt;
+&lt;li&gt;En kommittés våta dröm&lt;/li&gt;
+&lt;li&gt;Implementationer istället för standarder&lt;/li&gt;
+&lt;li&gt;Den fanns på papper innan den fanns som kompilator&lt;/li&gt;
+&lt;li&gt;Backup i arga samtal mellan företag&lt;/li&gt;
+&lt;li&gt;En stor del av internet är överens&lt;/li&gt;
+&lt;li&gt;Det såg ju ut som hej kom och hjälp mig&lt;/li&gt;
+&lt;li&gt;Dels plattformsberoende och dels hemsk&lt;/li&gt;
+&lt;li&gt;En A-klassapp&lt;/li&gt;
+&lt;li&gt;Vi behöver Standard swift på Android&lt;/li&gt;
+&lt;li&gt;Ganska dumma klienter&lt;/li&gt;
+&lt;li&gt;Det är ett API som är lösningen&lt;/li&gt;
+&lt;li&gt;Man skojar inte ens bort det&lt;/li&gt;
+&lt;li&gt;Segt som smör&lt;/li&gt;
+&lt;li&gt;Standardkodsnack&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 66 - Ju fler lås du använder desto sämre är ditt liv</title>
@@ -1313,82 +1415,6 @@ till Mattias Örnhall som mailade länken till oss!&lt;/h4&gt;&lt;/figcaption&gt
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Http_2.0&#34;&gt;HTTP 2.0&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SPDY&#34;&gt;SPDY&lt;/a&gt; - Googles nätverksprotokoll som är basen för HTTP 2.0&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://insouciant.org/tech/http-slash-2-considerations-and-tradeoffs/&#34;&gt;HTTP/2 considerations and tradeoffs&lt;/a&gt; - lång redogörelse med gott om länkar&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 52 - Femte elementet i en vektor</title>
-      <link>http://kodsnack.se/52/</link>
-      <pubDate>Tue, 27 May 2014 07:41:24 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/52/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar problem med C++ och går sedan över till att diskutera kring FTL - Apples nya optimerande steg i Webkits javascriptmotor. Frustrationer ventileras över all tid som lagts på att göra Javascript snabbare och bättre och vissa likheter i situationen för C++ och Javascript noteras. Var lägger egentligen alla smarta utvecklare sin tid? Är det rätt att snabba upp javascript och skriva reklamanalys eller kunde vi göra bättre saker för att förbättra världen?&lt;/p&gt;
-
-&lt;p&gt;Vi avslutar med kommentarer på vårt förra avsnitt och tar upp vad vi utvecklare har eller inte har möjlighet att säga till om i rekryteringsprocessen.&lt;/p&gt;
-
-&lt;p&gt;Fredrik har ekoproblem med sitt ljud under de första tio minuterna, men det ordnade upp sig innan han hann säga för mycket.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö startup studio&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö startup studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/blog/2014/5/20/kodsnack-51-konsten-att-skeppa&#34;&gt;Tobias skeppaångest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se/&#34;&gt;Pycon Sverige&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Standard_Template_Library&#34;&gt;STL&lt;/a&gt; - standard template library - bibliotek för C++&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erase-remove_idiom&#34;&gt;Erase-remove&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/iterator/&#34;&gt;Iteratorer i C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Function_overloading&#34;&gt;Överlagring av funktioner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.regehr.org/archives/213&#34;&gt;Odefiniereat beteende&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bjarne_Stroustrup&#34;&gt;Bjarne Stroustrup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Auto_ptr&#34;&gt;Autopekare&lt;/a&gt; - ett försök till atuomatiskt minneshanterade pekare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xbmc.org&#34;&gt;XBMC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linked_list&#34;&gt;Länkad lista&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sequence_container_(C%2B%2B%29#Vector&#34;&gt;Vektor&lt;/a&gt; - datastruktur i C++&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/performance/conceptual/managingmemory/articles/MallocDebug.html&#34;&gt;Malloc debug in OSX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/14045208/how-to-set-a-breakpoint-in-malloc-error-break-to-debug&#34;&gt;Breakpoint på malloc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/XPath&#34;&gt;Xpath&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lxml.de&#34;&gt;LXML för Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://malmostartupstudio.se/&#34;&gt;Malmö startup studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/User_experience&#34;&gt;User experience&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.malmostartupstudio.se/events/&#34;&gt;Evenemang Malmö startup studio ordnar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.malmostartupstudio.se/event/malmo-innovation-week/&#34;&gt;Startup studio Malmö 5 juni&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.foocafe.org&#34;&gt;Foo café&lt;/a&gt; - mötesplats för utvecklare i Malmö&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.malmostartupstudio.se/event/angularjs-seminarium/&#34;&gt;AngularJS-seminarie 17 juni&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.webkit.org&#34;&gt;Webkit&lt;/a&gt; - webbläsarmotor främst utvecklad av Apple&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Interpreted_language&#34;&gt;Interpreterande språk&lt;/a&gt; - språk som inte kompileras (omvandlas till maskinkod) innan körning utan tolkas&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Just-in-time_compilation&#34;&gt;JIT - just in time&lt;/a&gt; - kompilering vid behov, medan ett program körs istället för innan det körs&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_machine&#34;&gt;Virtuell maskin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Byte_code&#34;&gt;Bytekod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Buffer_overflow&#34;&gt;Buffer overflow&lt;/a&gt; - fel där ett program skriver över minne som egentligen ligger utanför det område utvecklaren avsett&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://benchmarksgame.alioth.debian.org/u32/benchmark.php?test=all&amp;amp;lang=java&amp;amp;lang2=python3&amp;amp;data=u32&#34;&gt;Java vs. Python&lt;/a&gt; - Illustrerar skillnaden JIT-kompilering kan göra.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qinsb.blogspot.se/2011/03/unladen-swallow-retrospective.html&#34;&gt;Unladen Swallow&lt;/a&gt; - Ett försök att implementera JIT för Python.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/&#34;&gt;Pyston&lt;/a&gt; - Ett nytt försök att implementera JIT för Python.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/v8/&#34;&gt;V8&lt;/a&gt; - Googles JIT-kompilerande javascriptmotor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.mozilla.org/JavaScript:TraceMonkey&#34;&gt;Tracemonkey&lt;/a&gt; - Mozillas JIT-kompilerande javascriptmotor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/&#34;&gt;Safaribloggen beskriver sin javascripthantering och introducerar FTL-JIT&lt;/a&gt; - det nya optimerande och LLVM-backade kompileringssteget för Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://2012.jsconf.eu/speaker/2012/08/29/javascripcore-s-dfg-jit.html&#34;&gt;DFG-JIT&lt;/a&gt; - tredje steget i webkits javascriptoptimering&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HotSpot&#34;&gt;Java hotspot&lt;/a&gt; - virtuell maskin för Java utvecklad av Oracle&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oracle.com/technetwork/middleware/jrockit/overview/index.html?ssSourceSiteId=otnjp&#34;&gt;JRockit&lt;/a&gt; - virtuell maskin för Java numera också utvecklad av Oracle&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_virtual_machine&#34;&gt;JVM - Java virtual machine&lt;/a&gt; - virtuell maskin gjord för att köra java-bytekod&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://llvm.org&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Olika betydelser av förkortningen &lt;a href=&#34;http://en.wikipedia.org/wiki/FTL&#34;&gt;FTL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Intermediate_representation#Intermediate_representation&#34;&gt;Intermediate representation&lt;/a&gt; - tolkning av programkod som används som mellansteg vid till exempel kompilering eller optimering&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Deoptimization#Deoptimization&#34;&gt;Deoptimering&lt;/a&gt; - att vid behov minska prestanda - för att få korrekt resultat - i kod genom att övergå till en mindre optimerad version&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/65&#34;&gt;Accidental tech podcast 65&lt;/a&gt; diskuterar ämnet ingående&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JavaScript#History&#34;&gt;Javascripts ursprung&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Smalltalk&#34;&gt;Smalltalk&lt;/a&gt; - tidigt objektorienterat och dynamiskt typat språk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dartlang.org&#34;&gt;Dart&lt;/a&gt; - språk från Google som kan kompilera till Javascript och vill vara ett bättre alternativ till detsamma&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JScript&#34;&gt;Jscript&lt;/a&gt; - Microsofts &amp;ldquo;dialekt&amp;rdquo; av ECMAScript (Javascript)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.typescriptlang.org&#34;&gt;Typescript&lt;/a&gt; - ett superset av Javascript utvecklat av Microsoft.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://theoatmeal.com/comics/cat_vs_internet&#34;&gt;Kristoffers arga katt&lt;/a&gt; - Den här serien av The Oatmeal beskriver situationen väl.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://simpsons.wikia.com/wiki/The_Homer&#34;&gt;The Homer&lt;/a&gt; - bil designad av Homer Simpson&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.561947/fran-kravspec-till-leverans-i-kodsnack?articleRenderMode=listpostings#disqus_thread&#34;&gt;Kommentarer&lt;/a&gt; på förra avsnittet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NP-complete&#34;&gt;NP-kompletta problem&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
