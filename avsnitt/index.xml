@@ -7,7 +7,147 @@
     <language>sv</language>
     
     
-    <updated>Tue, 09 Sep 2014 10:26:14 UTC</updated>
+    <updated>Tue, 16 Sep 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 68 - En saga helt utan sedelärande sidor</title>
+      <link>http://kodsnack.se/68/</link>
+      <pubDate>Tue, 16 Sep 2014 10:26:14 UTC</pubDate>
+      
+      <guid>http://kodsnack.se/68/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar byggsystem, nya mobiler och utveckling för mobiler. Fredrik talar ut om sina äventyr med Cmake, och vi funderar över hur man får in nya rutiner och lösningar i sina jobbprojekt. Sedan snackar vi om Apples senaste presentation, dess livesändningsproblem, prylarna som presenterades och androidmobilen Oneplus one. Vi snackar också lite om att skripta sin vardag, smarta klockors plats eller avsaknad av plats i våra liv och hur mängden skärmstorlekar och enheter påverkar apputveckling.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt;, som &lt;a href=&#34;http://bit.ly/proceranetworks&#34;&gt;bland annat söker&lt;/a&gt; skarpa webbapplikationsutvecklare.&lt;/p&gt;
+
+&lt;p&gt;Diskutera gärna avsnittet på &lt;a href=&#34;http://techworld.idg.se/2.2524/1.581919/&#34;&gt;Techworld&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Build_automation&#34;&gt;Byggsystem&lt;/a&gt; - program som hjälper en att sätta ihop ens program - har vi &lt;a href=&#34;http://kodsnack.se/8/&#34;&gt;talat om förr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C++&#34;&gt;C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; - öppet operativsystem som distribueras i en stor mängd varianter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29&#34;&gt;Ubuntu&lt;/a&gt; - populär linuxdistribution, framför allt på persondatorer (snarare än servermaskiner)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Debian&#34;&gt;Debian&lt;/a&gt; - tidig och populär linuxdistribution&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cmake.org/&#34;&gt;Cmake&lt;/a&gt; - byggsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MySQL&#34;&gt;MySQL&lt;/a&gt;  - populär och öppen databas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cmake.org/cmake/help/v3.0/command/file.html?highlight=glob&#34;&gt;Glob&lt;/a&gt; - bygger en lista av filer som matchar ett visst uttryck, exempelvis alla filer med en viss filändelse i en viss mapp.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xcode&#34;&gt;Xcode&lt;/a&gt; - Apples utvecklingsmiljö&lt;/li&gt;
+&lt;li&gt;Cmake kan &lt;a href=&#34;https://www.youtube.com/watch?v=-uEXVOzd364&#34;&gt;generera filer för Xcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linker_%28computing%29&#34;&gt;Länkning&lt;/a&gt; av program skapar en enda körbar fil av de många filer som skapas av kompilatorn&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Precompiled_header&#34;&gt;Precompiled header&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/szfdksca.aspx&#34;&gt;Visual studio och precompiled headers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/onlinedocs/gcc/Precompiled-Headers.html&#34;&gt;Grand central dispatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Advanced_Packaging_Tool#Usage&#34;&gt;apt-get&lt;/a&gt; - kommando för att installera paket på bland annat Debian&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://libdispatch.macosforge.org&#34;&gt;libdispatch&lt;/a&gt; - biblioteket Grand central dispatch bygger på. Har portats till flera andra operativsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/onlinedocs/gcc/Precompiled-Headers.html&#34;&gt;GCC och precompiled headers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qualitycoding.org/precompiled-headers/&#34;&gt;Precompiled headers och Xcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shirtoid.com/wp-content/uploads/2009/12/small-shell-script.jpg&#34;&gt;Att ersätta saker (eller personer) med mycket små shell-skript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/AppleScript&#34;&gt;Applescript&lt;/a&gt; - skriptspråk för Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Services_menu#Mac_OS_X&#34;&gt;Service&lt;/a&gt; på Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bjoreman/safari-tabs-to-markdown&#34;&gt;Fredriks &amp;ldquo;flikar till Markdown&amp;rdquo;-skript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; - enkelt märkformat för rena textfiler&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/applescript/conceptual/applescriptx/concepts/scriptable_apps.html#//apple_ref/doc/uid/TP40001569-1156165&#34;&gt;Applescript dictionary&lt;/a&gt; beskriver vilka möjligheter en applikation ger via Applescript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.macosxautomation.com/applescript/uiscripting/&#34;&gt;UI-skriptning med Applescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.barebones.com/products/bbedit/&#34;&gt;BBedit&lt;/a&gt; - anrik textredigerare för Mac OS X - och dess &lt;a href=&#34;http://bbeditextras.org/wiki/index.php?title=Scripting_and_Automation&#34;&gt;stöd för skript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://flyingmeat.com/acorn/&#34;&gt;Acorn&lt;/a&gt; - bildbehandlingsprogram för Mac OS X - och dess &lt;a href=&#34;http://flyingmeat.com/acorn/docs/scripting.html&#34;&gt;stöd för skript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shapeof.com&#34;&gt;Gus Mueller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jstalk.org&#34;&gt;JSTalk&lt;/a&gt; - alternativt skriptspråk för Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/mac/releasenotes/interapplicationcommunication/rn-javascriptforautomation/index.html&#34;&gt;Javascript och skriptande i Yosemite&lt;/a&gt; (Mac OS X 10.10)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://media2.intoday.in/indiatoday/images/stories//2014September/tv-truck_650_091014095617.jpg&#34;&gt;TV truck schedule&lt;/a&gt; - bilden vi alla fick se när sändningen strulade&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/live/2014-sept-event/&#34;&gt;Videoströmmen&lt;/a&gt; av Apples presentation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.streamingmedia.com/2014/09/why-apples-livestream-failed.html&#34;&gt;Artikeln om varför livesändningen gick dåligt&lt;/a&gt; - ifrågasatt av folk med kunskap&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Akamai_Technologies&#34;&gt;Akamai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Content_delivery_network&#34;&gt;CDN&lt;/a&gt; - content delivery network - system av utspridda servrar som kan användas för att snabbare leverera data till slutanvändare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dailymail.co.uk/femail/article-2749895/Who-Scarf-Guy-Meet-nattily-dressed-gaming-exec-stole-Apple-iPhone-6-launch.html&#34;&gt;Tommy Krul&lt;/a&gt; - killen med den häftiga sjalen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.superevilmegacorp.com/#home&#34;&gt;Super evil megacorp&lt;/a&gt; utvecklar spelet &lt;a href=&#34;http://www.vainglorygame.com&#34;&gt;Vainglory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/iphone-6/&#34;&gt;Iphone 6  och 6 plus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/watch/&#34;&gt;Apple watch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.infoworld.com/t/application-development/watchkit-tools-pave-the-way-apple-watch-app-developers-250407&#34;&gt;Watchkit&lt;/a&gt; - Apples ännu inte släppta ramverk för att utveckla olika typer av appar för Apple watch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apple_M7&#34;&gt;M7 och M8&lt;/a&gt; - kretsar i nyare modeller av Iphone som registrerar rörelse&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/v2_article_large/public/2014/09/10/apple-iwatch-wireless-charging-watch-charger-smartwatch.png?itok=cbwoOefn&#34;&gt;Den magnetiska laddaren&lt;/a&gt; för Apple watch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pebble_%28watch%29&#34;&gt;Pebble&lt;/a&gt; - smart klocka&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Samsung_Galaxy_Gear&#34;&gt;Galaxy gear&lt;/a&gt; - Samsungs familj smarta klockor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Electronic_paper&#34;&gt;E-ink&lt;/a&gt; - skärmteknik som ser ut som bläck på papper och som (i många versioner) inte kräver ström för att visa en bild&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dick_Tracy&#34;&gt;Dick Tracy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oneplus.net/one&#34;&gt;Oneplus one&lt;/a&gt; - stor och välgjord androidtelefon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.paintcodeapp.com/news/iphone-6-screens-demystified?utm_campaign=iOS_Dev_Weekly_Issue_163&amp;amp;utm_medium=email&amp;amp;utm_source=iOS%2BDev%2BWeekly&#34;&gt;Hur skärmen renderas på Iphone 6 plus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.anandtech.com/show/6023/the-nextgen-macbook-pro-with-retina-display-review/6&#34;&gt;Skärmrendering på retinamacar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://9to5mac.files.wordpress.com/2014/09/iphone-6-plus-landscape.png&#34;&gt;Iphone 6 plus i landskapsläge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imore.com/ipad-pro&#34;&gt;Rykten kring &amp;ldquo;Ipad pro&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://squareup.com&#34;&gt;Square&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apple.com/apple-pay/&#34;&gt;Apple pay&lt;/a&gt; - nyss presenterat system för att betala med applemobiler&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.izettle.com/se?gclid=CJP2zdXP3sACFSTbcgod2w8Adg&#34;&gt;Izettle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gb.se&#34;&gt;GB glace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/blog/?id=14&#34;&gt;Swift är nu 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/technologies/mac/cocoa.html&#34;&gt;Cocoa&lt;/a&gt; - Apples övergripande ramverk för Mac- och IOS-utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opensource.apple.com&#34;&gt;Saker Apple släppt som öppen källkod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blocks_%28C_language_extension%29&#34;&gt;Block för C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.libimobiledevice.org&#34;&gt;libimobiledevice&lt;/a&gt; - linuxbibliotek för att prata med Iphone&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cyanogenmod.org&#34;&gt;Cyanogenmod&lt;/a&gt; - androidbaserat operativsystem för mobila enheter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.android.com/versions/kit-kat-4-4/&#34;&gt;Android 4.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Android_L&#34;&gt;Android L&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SfsvQDxWjYY&#34;&gt;Androids fula progress bar&lt;/a&gt; - Video som visar den fula progressbaren (och en ersättare)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.myriadgroup.com/products/device-solutions/alien-dalvik-inc-alien-vue/&#34;&gt;Alien Dalvik&lt;/a&gt; - virtuell maskin använd av bland annat &lt;a href=&#34;http://www.jolla.com&#34;&gt;Jolla&lt;/a&gt; för att köra androidapplikationer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dalvik_%28software%29&#34;&gt;Dalvik&lt;/a&gt; - Androids virtuella maskin. Ersatt av &lt;a href=&#34;http://en.wikipedia.org/wiki/Android_Runtime&#34;&gt;ART&lt;/a&gt; från och med Android L&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent_Sync&#34;&gt;Bittorrent sync&lt;/a&gt; - decentraliserat system för filsynkronisering, lite som Dropbox fast bara mellan datorer du delar din information med&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://developer.android.com/guide/practices/screens_support.html#density-independence&#34;&gt;Anpassning för olika skärmstorlekar och upplösningar på Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.humblebundle.com&#34;&gt;Humble bundle&lt;/a&gt; - köp spelpaket och ge pengar till välgörande ändamål&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.doublefine.com&#34;&gt;Double fine&lt;/a&gt; - spelutvecklingsstudio&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brütal_Legend&#34;&gt;Brütal legend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Nexus#Nexus_7&#34;&gt;Nexus 7&lt;/a&gt; - Googles sjutumsplatta&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTC_Desire_Z&#34;&gt;HTC Desire Z&lt;/a&gt; - Kristoffers första Android-telefon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_Android_launchers&#34;&gt;Launchers för Android&lt;/a&gt; - programmet som visar enhetens huvudvy och startar andra program&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://quasseldroid.iskrembilen.com/&#34;&gt;Quasseldroid&lt;/a&gt; - IRC-klient till Android&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Kata_%28programming%29&#34;&gt;Kodkata&lt;/a&gt; - övning för att bli en bättre programmerare genom träning och upprepning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@romainguy/androids-font-renderer-c368bbde87d9&#34;&gt;Fontrendering på Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/chethaase&#34;&gt;Chet Haase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://filthyrichclients.org&#34;&gt;Filthy rich clients&lt;/a&gt; - bok om att skapa fräcka gränssnitt med Java&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ubisoft_Massive&#34;&gt;Massive&lt;/a&gt; - malmöbaserad spelstudio&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/World_in_Conflict&#34;&gt;World in conflict&lt;/a&gt; - realtidsstrategispel från 2007&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tat.se&#34;&gt;TAT - The astonishing tribe&lt;/a&gt; - malmöbaserad designstudio som köptes av &lt;a href=&#34;http://en.wikipedia.org/wiki/BlackBerry_Limited&#34;&gt;Blackberry&lt;/a&gt; 2010&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BlackBerry_10&#34;&gt;Blackberry 10&lt;/a&gt; - Blackberrys senaste operativsystem för mobila enheter&lt;/li&gt;
+&lt;li&gt;Androids 2D-grafik har haft &lt;a href=&#34;http://developer.android.com/guide/topics/graphics/hardware-accel.html&#34;&gt;stöd för hårdvaruacceleration&lt;/a&gt; sedan 3.0.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Near_field_communication&#34;&gt;Near-field communication&lt;/a&gt; - NFC - trådlös kortdistanskommunikationsstandard&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det här står inte på agendan över huvud taget&lt;/li&gt;
+&lt;li&gt;Det här står inte i mitt manus&lt;/li&gt;
+&lt;li&gt;En saga helt utan sedelärande sidor&lt;/li&gt;
+&lt;li&gt;Jag vet inte varför det funkar&lt;/li&gt;
+&lt;li&gt;Att synda på riktigt&lt;/li&gt;
+&lt;li&gt;Ett skript som genererar Cmake-filen&lt;/li&gt;
+&lt;li&gt;Tobias tycker ju att det är det bästa som finns&lt;/li&gt;
+&lt;li&gt;Konstigt copy-paste-jommel&lt;/li&gt;
+&lt;li&gt;Det låter inte riktigt som att du har koll på läget&lt;/li&gt;
+&lt;li&gt;Min erfarenhet av precompiled headers&lt;/li&gt;
+&lt;li&gt;Som att de aldrig sett internet förut&lt;/li&gt;
+&lt;li&gt;Klockan var ju en klocka&lt;/li&gt;
+&lt;li&gt;En fjärrkontroll måste man alltid leta rätt på&lt;/li&gt;
+&lt;li&gt;Långsökt ersättning för min GPS-klocka&lt;/li&gt;
+&lt;li&gt;Har du någonsin haft klocka?&lt;/li&gt;
+&lt;li&gt;Om den går att bära runt på utan att känna sig helt absurd&lt;/li&gt;
+&lt;li&gt;Det är ju en enorm skärm&lt;/li&gt;
+&lt;li&gt;Vi måste hitta ett nytt ord för de här grejerna, för telefon passar inte&lt;/li&gt;
+&lt;li&gt;Man lade varenda pixel där man ville ha den&lt;/li&gt;
+&lt;li&gt;En tid av omvandling i galaxen&lt;/li&gt;
+&lt;li&gt;Så mycket som Windows att det gör ont&lt;/li&gt;
+&lt;li&gt;Så ligger det fortfarande en liten demon igång och tar batteri&lt;/li&gt;
+&lt;li&gt;Lite mer polis och lite mindre lekstuga&lt;/li&gt;
+&lt;li&gt;Allting passar lite sämre ihop&lt;/li&gt;
+&lt;li&gt;Lite som det kunde kännas på Windows i forntiden&lt;/li&gt;
+&lt;li&gt;Nu har jag antivirus på telefonen&lt;/li&gt;
+&lt;li&gt;Det finns en så stor besparing i lidande att göra där&lt;/li&gt;
+&lt;li&gt;Jag kommer nog inte att kunna rädda progressbaren&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 67 - Dels plattformsberoende och dels hemsk</title>
@@ -1343,78 +1483,6 @@
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Frostbite_(game_engine%29&#34;&gt;Frostbite&lt;/a&gt; - spelmotor först utvecklad för spelen i &lt;a href=&#34;http://en.wikipedia.org/wiki/Battlefield_(series%29&#34;&gt;Battlefield-serien&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_carmack&#34;&gt;John Carmack&lt;/a&gt; - 3d-spelprogrammeringsguru&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Direct_X&#34;&gt;DirectX&lt;/a&gt; - API-familj från Microsoft för effektiv hantering av spel och annan media&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 53 - Gör en Python 5</title>
-      <link>http://kodsnack.se/53/</link>
-      <pubDate>Tue, 03 Jun 2014 14:54:06 UTC</pubDate>
-      
-      <guid>http://kodsnack.se/53/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer börjar berätta för Fredrik om sina öden och äventyr på svenska Pycon och tar med oss på en resa från datainsamling och bearbetning via kryptomysterier till Python 2 mot Python 3 och problemen med stora omstarter mellan versioner av mjukvara. Python 3 har stora problem med att vara något nytt och annorlunda som skiljer sig så mycket att den stora massan inte har anledning att byta till det. Samtidigt har utvecklarna  av språket gått vidare så att ingen gör något alls med det språk folk faktiskt använder. Det finns en risk att  man tappar det som gjorde ens skapelse värd att använda när man skriver om den för att bli modernare, mer generell eller vad man nu föresatt sig att göra.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.cenito.se&#34;&gt;Cenito&lt;/a&gt;.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/YEBfamv-_do&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;figcaption&gt;&lt;h4&gt;En video som förklarar Diffie-Hellman-algoritmen, tack
-till Mattias Örnhall som mailade länken till oss!&lt;/h4&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://2014.pycon.se&#34;&gt;Pycon.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blaag.haard.se&#34;&gt;Fredrik Håård&lt;/a&gt; - huvudarrangören av Pycon.se&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pycon.org&#34;&gt;Pycon&lt;/a&gt; internationellt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ep2014.europython.eu/en/&#34;&gt;Europython&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mali&#34;&gt;Mali&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Boko_Haram&#34;&gt;Boko haram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Pionen&#34;&gt;Bahnhofs datahall&lt;/a&gt; - tidigare civilförsvarsledningsplats - under Vita bergen i Stockholm&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/HelenaBengtsson&#34;&gt;Helena Bengtsson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Join_(SQL%29&#34;&gt;JOIN i databaser&lt;/a&gt; - kombinerar poster från flera tabeller&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.perl.org&#34;&gt;Perl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fax&#34;&gt;Fax&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Optical_character_recognition&#34;&gt;OCR&lt;/a&gt; - optical character recognition&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.crummy.com/software/BeautifulSoup/&#34;&gt;Beautiful soup&lt;/a&gt; - pythonbibliotek för att få ut data ur webbsidor och annan mer eller mindre ostrukturerad data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kodsnack.se/blog/2012/10/12/kodsnack-5-kanelbullens-dag&#34;&gt;Kodsnack 5 - Kanelbullens dag&lt;/a&gt; nämnde också Beautiful soup&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lvh.io&#34;&gt;Laurens Van Houtven&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rackspace.com&#34;&gt;Rackspace&lt;/a&gt; - sysslar med moln och hosting och anställer Laurens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cryptography&#34;&gt;Kryptografi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/One-time_pad&#34;&gt;Engångsskiffer&lt;/a&gt; - teoretiskt perfekt kryptering med problem i verkligheten&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange&#34;&gt;Diffie-Hellman key exchange&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Man-in-the-middle_attack&#34;&gt;Man-in-the-middle-attack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.python.org/moin/Python2orPython3&#34;&gt;Python 2 och Python 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pypi.python.org/pypi&#34;&gt;PyPI&lt;/a&gt; - Python package index och &lt;a href=&#34;https://pypi.python.org/pypi/pip&#34;&gt;pip&lt;/a&gt; - ett program för att installera paket&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/History_of_Python&#34;&gt;Pythons historia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ascii&#34;&gt;ASCII&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Indexera över en sträng, i Python 2 och i Python 3&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kennethreitz.org&#34;&gt;Kenneth Reitz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kennethreitz/requests&#34;&gt;Requests&lt;/a&gt; - modul för HTTP i Python, som Kenneth skrivit&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt; - den ännu inte släppta versionen av Perl&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Generator_(computer_programming%29&#34;&gt;Generatorer&lt;/a&gt; - funktioner som genererar data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt; - ett språk vi talat om förr&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000069.html&#34;&gt;Joel Spolsky om Netscapes omskrivning&lt;/a&gt; och att skriva om i allmänhet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp&#34;&gt;Winamp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HaF-nRS_CWM&#34;&gt;It really whips the llama&amp;rsquo;s ass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Winamp#Winamp3&#34;&gt;Winamp3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.winamp.com&#34;&gt;Det tycks fortfarande finnas lite liv i Winamp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Aol&#34;&gt;AOL&lt;/a&gt; - som var stora förr i tiden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/IT-bubblan&#34;&gt;Dotcomkraschen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Guido_van_Rossum&#34;&gt;Guido van Rossum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hg.python.org/committers.txt&#34;&gt;Kärnutvecklare av Python 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.python.org/download/releases/2.7.2&#34;&gt;Python 2.7&lt;/a&gt; blir den sista av Python 2&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTML5&#34;&gt;HTML 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xhtml&#34;&gt;XHTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xslt&#34;&gt;XSLT&lt;/a&gt; - språk för att omvandla XML-dokument till andra XML-dokument&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Http_2.0&#34;&gt;HTTP 2.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SPDY&#34;&gt;SPDY&lt;/a&gt; - Googles nätverksprotokoll som är basen för HTTP 2.0&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://insouciant.org/tech/http-slash-2-considerations-and-tradeoffs/&#34;&gt;HTTP/2 considerations and tradeoffs&lt;/a&gt; - lång redogörelse med gott om länkar&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
