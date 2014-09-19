@@ -14,20 +14,14 @@
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
-        <copyright>
-            &lt;![CDATA[Kristoffer, Fredrik och Tobias (kodsnack.se)]]>
-        </copyright>
+        <copyright>Kristoffer, Fredrik och Tobias (kodsnack.se)</copyright>
         <docs>http://kodsnack.se</docs>
         <managingEditor>info@kodsnack.se (info@kodsnack.se)</managingEditor>
-        <description>
-            &lt;![CDATA[Skitsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.]]>
-        </description>
+        <description>Skitsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack</description>
         <image>
             <url>http://kodsnack.se/img/sumpsnack.png</url>
             <title>Kodsnack</title>
-            <link>
-                &lt;![CDATA[http://kodsnack.se]]>
-            </link>
+            <link>http://kodsnack.se</link>
         </image>
         <itunes:author>Kristoffer, Fredrik, Tobias</itunes:author>
         <itunes:keywords>politik,femenism,spel,film,bocker,nerd,programmerare,svenska,swedish,utveckling</itunes:keywords>
@@ -35,17 +29,11 @@
         <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:owner>
-            <itunes:name>
-                &lt;![CDATA[Kristoffer, Fredrik, Tobias]]>
-            </itunes:name>
+            <itunes:name>Kristoffer, Fredrik, Tobias</itunes:name>
             <itunes:email>info@kodsnack.se</itunes:email>
         </itunes:owner>
-        <itunes:summary>
-            &lt;![CDATA[Skitsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.]]>
-        </itunes:summary>
-        <itunes:subtitle>
-            &lt;![CDATA[Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.]]>
-        </itunes:subtitle>
+        <itunes:summary>Skitsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
+        <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
         
             <item>
                 <title>0 - En attack mot min dumhet on kodsnack </title>
@@ -54,7 +42,7 @@
                 <link>http://kodsnack.se/sumpsnack/0</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
                 <description>
-                    &lt;![CDATA[
+                    
 
 &lt;p&gt;Vi snackar Feminist frequency-debaklet, spelvärlden, folk som hotar och hatar, valår och sverigedemokrater. Sedan försöker vi muntra upp oss genom att diskutera bra spel till Playstation 4.&lt;/p&gt;
 
@@ -121,7 +109,7 @@
 &lt;li&gt;Misär och dåliga beslut&lt;/li&gt;
 &lt;li&gt;Spelet är mellan spelet&lt;/li&gt;
 &lt;/ul&gt;
-]]>
+
                 </description>
                 <enclosure length="28159056" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack%201.mp3"/>
                 <itunes:duration>31:45</itunes:duration>
