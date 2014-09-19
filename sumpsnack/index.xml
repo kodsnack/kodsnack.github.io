@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+&lt;?xml version="1.0" ?>
+    <rss version="2.0"
+         xmlns:atom="http://www.w3.org/2005/Atom"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+         xmlns:media="http://search.yahoo.com/mrss/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+    <channel>
+        <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
+        <title>Skitsnack / Kodsnack</title>
+        <pubDate>Wed, 09 Sep 30920 97:200:88 &#43;0000</pubDate>
+        <lastBuildDate>Wed, 09 Sep 30920 97:200:88 &#43;0000</lastBuildDate>
+        <generator>hugo</generator>
+        <link>http://kodsnack.se/sumpsnack</link>
+        <language>en</language>
+        <copyright>
+            &lt;![CDATA[Kristoffer, Fredrik och Tobias (kodsnack.se)]]>
+        </copyright>
+        <docs>http://kodsnack.se</docs>
+        <managingEditor>info@kodsnack.se (info@kodsnack.se)</managingEditor>
+        <description>
+            &lt;![CDATA[Skitsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.]]>
+        </description>
+        <image>
+            <url>http://kodsnack.se/img/sumpsnack.png</url>
+            <title>Kodsnack</title>
+            <link>
+                &lt;![CDATA[http://kodsnack.se]]>
+            </link>
+        </image>
+        <itunes:author>Kristoffer, Fredrik, Tobias</itunes:author>
+        <itunes:keywords>politik,femenism,spel,film,bocker,nerd,programmerare,svenska,swedish,utveckling</itunes:keywords>
+        <itunes:category text="Technology"/>
+        <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>
+                &lt;![CDATA[Kristoffer, Fredrik, Tobias]]>
+            </itunes:name>
+            <itunes:email>info@kodsnack.se</itunes:email>
+        </itunes:owner>
+        <itunes:summary>
+            &lt;![CDATA[Skitsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.]]>
+        </itunes:summary>
+        <itunes:subtitle>
+            &lt;![CDATA[Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.]]>
+        </itunes:subtitle>
+        
+            <item>
+                <title>0 - En attack mot min dumhet on kodsnack </title>
+                <pubDate>Wed, 09 Sep 30920 97:200:88 &#43;0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/0</guid>
+                <link>http://kodsnack.se/sumpsnack/0</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    &lt;![CDATA[
+
+&lt;p&gt;Vi snackar Feminist frequency-debaklet, spelvärlden, folk som hotar och hatar, valår och sverigedemokrater. Sedan försöker vi muntra upp oss genom att diskutera bra spel till Playstation 4.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.feministfrequency.com&#34;&gt;Feminist frequency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.feministfrequency.com/2014/06/women-as-background-decoration-tropes-vs-women/&#34;&gt;Aktuell video - Women as background decoration&lt;/a&gt; - och &lt;a href=&#34;http://www.feministfrequency.com/2014/08/women-as-background-decoration-part-2/&#34;&gt;del två&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Grand_Theft_Auto_%28series%29&#34;&gt;Grand theft auto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Assassin%27s_Creed&#34;&gt;Assassin&amp;rsquo;s creed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thief_%28series%29&#34;&gt;Thief&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dragon_Age&#34;&gt;Dragon age&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bioware.com/en/&#34;&gt;Bioware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mass_Effect&#34;&gt;Mass effect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Marilyn_Manson&#34;&gt;Marylin Manson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Bungie konsulterar Anita]()&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/8/27/6075679/sarkeesian-driven-out-of-home-by-online-abuse-and-death-threats&#34;&gt;Anita kan inte ens sova hemma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@andreaszecher/open-letter-to-the-gaming-community-df4511032e8a&#34;&gt;Spelutvecklare som stödjer Feminist frequencys arbete&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Joss_Whedon&#34;&gt;Joss Whedon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/josswhedon/status/504508687722250240&#34;&gt;Whedons tweet&lt;/a&gt; - såg video och såg sedan samma sak på twitter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theesa.com/facts/pdfs/ESA_EF_2014.pdf&#34;&gt;Det finns fler kvinnor som spelar än män under 25 års ålder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/8/28/6078391/video-games-awful-week&#34;&gt;Chris Plants artikel - An awful week to care about video games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tantrum&#34;&gt;Temper tantrum&lt;/a&gt; - ungefär vredesutbrott&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2014/8/24/6063773/twitter-bomb-threat-diverts-plane-carrying-sony-online-entertainment&#34;&gt;Sonys onlinechefs flyg blev bombhotat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/8/24/6062499/playstation-network-hack-attack&#34;&gt;Playstation networl slogs ut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack&#34;&gt;DDoS&lt;/a&gt; - distributed denial of service - överbelastningsattack mot ett system från många system&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/8/27/6075961/swat-threat-locks-down-school-gets-counter-strike-player-slammed-to&#34;&gt;SVOT-styrka griper en counterstrikespelare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vilhelmina.se/Hem/?documents&#34;&gt;Vilhelmina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/2014_Ukrainian_crisis&#34;&gt;Situationen i Ukraina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant#As_Islamic_State_.282014.E2.80.93present.29&#34;&gt;Situationen i Irak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Israeli–Palestinian_conflict&#34;&gt;Israel-Palestina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant&#34;&gt;Isis&lt;/a&gt; - Islamic state of Iraq and the Levant - jihadistgrupp i mellanöstern&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.folkpartiet.se/politik/politik-a-o/forsvar/&#34;&gt;Folkpartiet vill rusta upp militären&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Last_of_Us&#34;&gt;The last of us&lt;/a&gt; - ett av de mest berömda storspelen 2013&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PlayStation_4&#34;&gt;Playstation 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Infamous_Second_Son&#34;&gt;Infamous second son&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sucker_Punch_Productions&#34;&gt;Sucker punch&lt;/a&gt; - studion bakom Infamous med mera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Watch_Dogs&#34;&gt;Watch dogs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Rogue_Legacy&#34;&gt;Rogue legacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fez_%28video_game%29&#34;&gt;Fez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/TowerFall&#34;&gt;Towerfall ascension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PlayStation_Network#PlayStation_Plus&#34;&gt;Playstation plus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim&#34;&gt;Skyrim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cover_system&#34;&gt;Cover-based shooter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.macrumors.com/2014/08/28/apple-flint-center-structure-iphone-6/&#34;&gt;Apple bygger för sitt nionde september-event&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.macrumors.com/roundup/iwatch/&#34;&gt;iWatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://appsnack.se/avsnitt/130-iphone-blir-trippel-retina&#34;&gt;Appsnack hade liten tävling om att gissa vad som ska presenteras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Near_field_communication&#34;&gt;NFC&lt;/a&gt; - near field communication - teknik för trådlös kommunikation på korta avstånd. Förknippas ofta med betalning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apple_TV&#34;&gt;Apple TV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/bjoreman/sets/72157627198570402/detail/&#34;&gt;Hackversionen av Plex Apple TV-klient - fanns redan 2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Shit, vilken dålig person jag är ibland&lt;/li&gt;
+&lt;li&gt;Hur kan vi befästa mansrollen&lt;/li&gt;
+&lt;li&gt;Det är hennes fel alltihopa&lt;/li&gt;
+&lt;li&gt;Folk som bestämmer sig för att känna sig förorättade&lt;/li&gt;
+&lt;li&gt;En attack mot min dumhet&lt;/li&gt;
+&lt;li&gt;Alla som gör spel ska skämmas&lt;/li&gt;
+&lt;li&gt;Jag har varit tolv en gång i tiden&lt;/li&gt;
+&lt;li&gt;Misär och dåliga beslut&lt;/li&gt;
+&lt;li&gt;Spelet är mellan spelet&lt;/li&gt;
+&lt;/ul&gt;
+]]>
+                </description>
+                <enclosure length="28159056" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack%201.mp3"/>
+                <itunes:duration>31:45</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
+        
+    </channel>
+</rss>

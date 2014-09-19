@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Avsnitt on kodsnack </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://kodsnack.se/categories/avsnitt/index.xml/</link>
-    <language>sv</language>
-    
-    
+    <title>Avsnitt on kodsnack </title>
+    <link>http://kodsnack.se/categories/avsnitt/index.xml</link>
+    <language>en-US</language>
+    <author>Kodsnack</author>
+    <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
     <updated>Tue, 16 Sep 2014 10:26:14 UTC</updated>
     
     <item>
       <title>Kodsnack 68 - En saga helt utan sedelärande sidor</title>
       <link>http://kodsnack.se/68/</link>
       <pubDate>Tue, 16 Sep 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/68/</guid>
       <description>
 
@@ -153,7 +152,7 @@
       <title>Kodsnack 67 - Dels plattformsberoende och dels hemsk</title>
       <link>http://kodsnack.se/67/</link>
       <pubDate>Tue, 09 Sep 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/67/</guid>
       <description>
 
@@ -255,7 +254,7 @@
       <title>Kodsnack 66 - Ju fler lås du använder desto sämre är ditt liv</title>
       <link>http://kodsnack.se/66/</link>
       <pubDate>Tue, 02 Sep 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/66/</guid>
       <description>
 
@@ -378,7 +377,7 @@
       <title>Kodsnack 65 - Den andra dåliga idén</title>
       <link>http://kodsnack.se/65/</link>
       <pubDate>Tue, 26 Aug 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/65/</guid>
       <description>
 
@@ -482,7 +481,7 @@
       <title>Kodsnack 64 -  Att gå till jobbet är någonting nytt</title>
       <link>http://kodsnack.se/64/</link>
       <pubDate>Wed, 20 Aug 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/64/</guid>
       <description>
 
@@ -539,7 +538,7 @@
       <title>Kodsnack 63 - Lätt att köra fast i</title>
       <link>http://kodsnack.se/63/</link>
       <pubDate>Tue, 12 Aug 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/63/</guid>
       <description>
 
@@ -628,7 +627,7 @@
       <title>Kodsnack 62 - En ideologisk fråga</title>
       <link>http://kodsnack.se/62/</link>
       <pubDate>Tue, 05 Aug 2014 12:00:00 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/62/</guid>
       <description>
 
@@ -688,7 +687,7 @@
       <title>Kodsnack 61 - Det blir inga landskap, det blir webbservrar och sliders</title>
       <link>http://kodsnack.se/61/</link>
       <pubDate>Tue, 29 Jul 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/61/</guid>
       <description>
 
@@ -791,7 +790,7 @@
       <title>Kodsnack 60 - Nu måste jag stämpla in och vrida på kugghjulen</title>
       <link>http://kodsnack.se/60/</link>
       <pubDate>Tue, 22 Jul 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/60/</guid>
       <description>
 
@@ -902,7 +901,7 @@
       <title>Kodsnack 59 - Lära sig nya saker eller att bara skeppa</title>
       <link>http://kodsnack.se/59/</link>
       <pubDate>Tue, 15 Jul 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/59/</guid>
       <description>
 
@@ -990,7 +989,7 @@
       <title>Kodsnack 58 - Bara statisk HTML</title>
       <link>http://kodsnack.se/58/</link>
       <pubDate>Tue, 08 Jul 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/58/</guid>
       <description>
 
@@ -1042,7 +1041,7 @@
       <title>Kodsnack 57 - Utvecklarnas utvecklarkonferens</title>
       <link>http://kodsnack.se/57/</link>
       <pubDate>Tue, 01 Jul 2014 10:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/57/</guid>
       <description>
 
@@ -1243,7 +1242,7 @@
       <title>Kodsnack 56 - Små små lösningar på små små problem</title>
       <link>http://kodsnack.se/56/</link>
       <pubDate>Mon, 23 Jun 2014 17:26:14 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/56/</guid>
       <description>
 
@@ -1333,7 +1332,7 @@
       <title>Kodsnack 55 - De stora spektaklen</title>
       <link>http://kodsnack.se/55/</link>
       <pubDate>Tue, 17 Jun 2014 14:21:03 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/55/</guid>
       <description>
 
@@ -1399,7 +1398,7 @@
       <title>Kodsnack 54 - De har gått hela vägen till Haskell</title>
       <link>http://kodsnack.se/54/</link>
       <pubDate>Tue, 10 Jun 2014 07:47:24 UTC</pubDate>
-      
+      <author>Kodsnack</author>
       <guid>http://kodsnack.se/54/</guid>
       <description>
 
