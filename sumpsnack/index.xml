@@ -8,20 +8,20 @@
 
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
-        <title>Skitsnack / Kodsnack</title>
-        <pubDate>Wed, 09 Sep 30920 97:200:88 &#43;0000</pubDate>
-        <lastBuildDate>Wed, 09 Sep 30920 97:200:88 &#43;0000</lastBuildDate>
+        <title>Sumpsnack / Kodsnack</title>
+        <pubDate>Wed, 03 Sep 2014 20:20:00 UTC</pubDate>
+        <lastBuildDate>Wed, 03 Sep 2014 20:20:00 UTC</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
         <copyright>Kristoffer, Fredrik och Tobias (kodsnack.se)</copyright>
         <docs>http://kodsnack.se</docs>
         <managingEditor>info@kodsnack.se (info@kodsnack.se)</managingEditor>
-        <description>Skitsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack</description>
+        <description>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack</description>
         <image>
             <url>http://kodsnack.se/img/sumpsnack.png</url>
-            <title>Kodsnack</title>
-            <link>http://kodsnack.se</link>
+            <title>Sumpsnack</title>
+            <link>http://kodsnack.se/sumpsnack</link>
         </image>
         <itunes:author>Kristoffer, Fredrik, Tobias</itunes:author>
         <itunes:keywords>politik,femenism,spel,film,bocker,nerd,programmerare,svenska,swedish,utveckling</itunes:keywords>
@@ -32,12 +32,12 @@
             <itunes:name>Kristoffer, Fredrik, Tobias</itunes:name>
             <itunes:email>info@kodsnack.se</itunes:email>
         </itunes:owner>
-        <itunes:summary>Skitsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
+        <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
         
             <item>
                 <title>0 - En attack mot min dumhet on kodsnack </title>
-                <pubDate>Wed, 09 Sep 30920 97:200:88 &#43;0000</pubDate>
+                <pubDate>Wed, 03 Sep 2014 20:20:00 UTC</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/0/</guid>
                 <link>http://kodsnack.se/sumpsnack/0/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
