@@ -2,11 +2,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avsnitt on kodsnack </title>
-    <link>http://kodsnack.se/categories/avsnitt/index.xml/</link>
+    <link>http://kodsnack.se/categories/avsnitt/index.xml</link>
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 07 Oct 2014 10:26:14 UTC</updated>
+    <updated>Tue, 14 Oct 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 72 - En verklig guldålder för att göra mjukvara</title>
+      <link>http://kodsnack.se/72/</link>
+      <pubDate>Tue, 14 Oct 2014 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/72/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar om att leva på utveckling. Går det? Gick det inte bättre förr? Förstör inte appbutikerna allting? Var folk mer betalningsvilliga förr? Hur kan appar och plattformar ge en pengar även om man inte tjänar på själva appen?&lt;/p&gt;
+
+&lt;p&gt;Sedan diskuteras att knacka spel i renaste C och OpenGL. Optimering, felsökning och spel som är roliga fastän de inte är bra. Storyns överdrivna vikt i spel och dess dåliga genomförande.&lt;/p&gt;
+
+&lt;p&gt;Till slut återvänder vi till början och tänker på hur lätt man blandar ihop ansträngning man gjort med värdet i det man skapat.&lt;/p&gt;
+
+&lt;p&gt;Ett särskilt tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina VPS!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.586504/&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; sponsrar våra livesändningar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
+&lt;li&gt;Vi har &lt;a href=&#34;http://kodsnack.se/40/&#34;&gt;snackat om att försöka leva på utveckling&lt;/a&gt; då och då&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shareware&#34;&gt;Shareware&lt;/a&gt; - mjukvara som distribueras fritt men med begränsningar som man måste köpa en licens för att ta bort. En klassisk variant var sharewarespel där man betalade för att låsa upp alla nivåer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_Photoshop&#34;&gt;Photoshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Office&#34;&gt;Microsoft office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Apples appbutiker för  &lt;a href=&#34;http://en.wikipedia.org/wiki/App_Store_%28iOS%29&#34;&gt;iOS&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Mac_App_Store&#34;&gt;Mac OS X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;För Android finns &lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Play#Play_Store_.28Android_application.29&#34;&gt;Google play&lt;/a&gt; och &lt;a href=&#34;http://joyofandroid.com/24-android-app-store-alternatives-for-those-who-hate-google-play/&#34;&gt;många andra&lt;/a&gt; appbutiker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Store&#34;&gt;Windows store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.jaredsinclair.com/post/93118460565/a-candid-look-at-unreads-first-year&#34;&gt;Några&lt;/a&gt; &lt;a href=&#34;http://tyler.io/2014/07/a-candid-look-at-the-financial-side-of-building-mac-apps-on-your-own/&#34;&gt;artiklar&lt;/a&gt; som diskuterar &lt;a href=&#34;http://www.marco.org/2014/07/28/app-rot&#34;&gt;problemen&lt;/a&gt; med att leva på apputveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.escapistmagazine.com/news/view/107662-Eight-Year-Old-Girl-Blows-1400-on-Smurfberries&#34;&gt;Smurfbär&lt;/a&gt;  - Apple har sedan dess ändrat hur köp inuti appar fungerar för att minska risken att sådant händer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/in-app-purchase/&#34;&gt;In-app purchase&lt;/a&gt; - köp av nytt innehåll inuti en app&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.macworld.com/article/2048194/opinion-apple-needs-a-handle-on-app-store-paid-upgrade-problem.html&#34;&gt;Folk som önskar sig betalda uppgraderingar&lt;/a&gt; i Apples appbutiker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cultofmac.com/226983/heres-how-apple-should-make-trial-version-apps-work-in-ios-7/&#34;&gt;Folk som önskar sig provversioner&lt;/a&gt; av appar i Apples appbutiker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://inessential.com/&#34;&gt;Brent Simmons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RSS&#34;&gt;RSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NetNewsWire&#34;&gt;Netnewswire&lt;/a&gt; - släpptes i juli 2002&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://inessential.com/2014/07/28/unreads_numbers&#34;&gt;Unread’s numbers&lt;/a&gt; - Brent om pengarna Netnewswire drog in per månad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Corel&#34;&gt;Corel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WinZip&#34;&gt;WinZip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sublimetext.com/&#34;&gt;Sublime text&lt;/a&gt; - kraftfull textredigerare för flera plattformar&lt;/li&gt;
+&lt;li&gt;… men Kristoffer har ju alltid &lt;a href=&#34;http://en.wikipedia.org/wiki/Emacs&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CP/M&#34;&gt;CP/M&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/3D_Realms&#34;&gt;Apogee&lt;/a&gt; - även kända som 3D realms&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Epic_Games&#34;&gt;Epic megagames&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Kickstarter&#34;&gt;Kickstarter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Patreon&#34;&gt;Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Diskussioner om &lt;a href=&#34;http://www.macstories.net/stories/a-better-app-store/&#34;&gt;hur app store behöver förbättras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alexking.org/blog/2014/08/12/race-to-bottom-platforms&#34;&gt;The race to the bottom benefits platforms (not developers)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WordPress&#34;&gt;Wordpress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Sims&#34;&gt;Sims&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://store.thesims3.com/category.html?categoryId=11584&#34;&gt;Saker till försäljning i Sims&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Second_Life&#34;&gt;Second life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unity3d.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCQvWX73GQygcwXOTSf_VDVg&#34;&gt;Minecraft på Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Wordfeud&#34;&gt;Wordfeud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cardsagainsthumanity.com/&#34;&gt;Cards against humanity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/&#34;&gt;Accidental tech podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@sorthman/app-store-realities-7b54af3f574e&#34;&gt;Inlägg&lt;/a&gt; om att inte ha tjänat pengar på sin app men fått kontakter och jobb tack vare den&lt;/li&gt;
+&lt;li&gt;Kristoffers tidigare berättande om sin minecraftklon i &lt;a href=&#34;http://kodsnack.se/61/&#34;&gt;avsnitt 61 - Det blir inga landskap, det blir webbservrar och sliders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vertex_%28computer_graphics%29&#34;&gt;Vertex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shader&#34;&gt;Shader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.libsdl.org/&#34;&gt;SDL&lt;/a&gt; - Simple directmedia layer, korsplattformsramverk för media&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/gdb/&#34;&gt;GDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ValveSoftware/vogl&#34;&gt;VOGL&lt;/a&gt; - OpenGL-debugger&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RAD_Game_Tools&#34;&gt;RAD game tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/ToolsOverview/ToolsOverview.html&#34;&gt;OpenGL ES-verktyg i Xcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qt-project.org/&#34;&gt;Qt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Direct3D&#34;&gt;Direct3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackweek.suse.com/&#34;&gt;Suses hackvecka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opensuse.org/en/&#34;&gt;openSUSE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gear.blizzard.com/index.php/default/home-dvd/starcraft-cinematics-dvd-71232.html&#34;&gt;Starcraft cinematics DVD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Parallax_scrolling&#34;&gt;Parallaxscroll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://psdoom.sourceforge.net/&#34;&gt;psDoom&lt;/a&gt; - Doom som processhanterare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/id-Software/wolf3d-browser&#34;&gt;Wolfenstein 3D med webbteknik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hacks.mozilla.org/2011/06/doom-on-the-web/&#34;&gt;Doom med webbteknik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Quake_Live&#34;&gt;Quake Live&lt;/a&gt; - Quake 3 i webbläsaren, men i en plugin, inte i ren webbteknik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://5by5.tv/dlc/40&#34;&gt;Poddradioprogrammet DLC&lt;/a&gt; - avsnitt 40, där Destiny diskuteras&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jeffcannata&#34;&gt;Jeff Cannata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Halo_%28series%29&#34;&gt;Halo&lt;/a&gt; - serie förstapersonsactionspel (främst) för Xbox&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.joystiq.com/2011/07/14/half-minute-halo-an-interview-with-jaime-griesemer/&#34;&gt;In Halo 1, there was maybe 30 seconds of fun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://halo.wikia.com/wiki/Covenant_Empire&#34;&gt;Covenant&lt;/a&gt; - huvudmotståndarna i Halo-serien&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kotaku.com/heres-what-blizzards-titan-actually-was-1638632121&#34;&gt;Titan&lt;/a&gt; - Blizzards nyligen nedlagda &lt;a href=&#34;http://en.wikipedia.org/wiki/Massively_multiplayer_online_game&#34;&gt;MMO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Warcraft_Adventures:_Lord_of_the_Clans&#34;&gt;Warcraft adventures: Lord of the clans&lt;/a&gt; - nedlagt äventyrsspel i warcraftvärlden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sacrifice_%28video_game%29&#34;&gt;Sacrifice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy&#34;&gt;Sunk costs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Flappy_Bird&#34;&gt;Flappy bird&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Orthogonality&#34;&gt;Orthogonality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Marco_Arment&#34;&gt;Marco Arment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overcast.fm/podcasts&#34;&gt;Overcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instapaper.com/u&#34;&gt;Instapaper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tumblr&#34;&gt;Tumblr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;När livet tar över&lt;/li&gt;
+&lt;li&gt;Det var bättre förr&lt;/li&gt;
+&lt;li&gt;Ett gammalt hederligt levebröd&lt;/li&gt;
+&lt;li&gt;Noll och intet&lt;/li&gt;
+&lt;li&gt;Ur-sörja av textredigering&lt;/li&gt;
+&lt;li&gt;En verklig guldålder för att göra mjukvara&lt;/li&gt;
+&lt;li&gt;Hade man bara fått ihop ett operativsystem som IBM var intresserade av&lt;/li&gt;
+&lt;li&gt;Bara-faktorn&lt;/li&gt;
+&lt;li&gt;Du behöver inte ens göra ett program för att kunna ta betalt&lt;/li&gt;
+&lt;li&gt;Trycka in reklam på ställen där folk accepterar det&lt;/li&gt;
+&lt;li&gt;Början på en spelmotor som nästan fungerar&lt;/li&gt;
+&lt;li&gt;En massa knappar på ena sidan av en vägg&lt;/li&gt;
+&lt;li&gt;Ren oförställd C&lt;/li&gt;
+&lt;li&gt;Mitt vallfärdande till Tibet&lt;/li&gt;
+&lt;li&gt;Jag är ganska späkt&lt;/li&gt;
+&lt;li&gt;Så länge bekymren finns på CPU:n&lt;/li&gt;
+&lt;li&gt;Som ett tåg som drar igång&lt;/li&gt;
+&lt;li&gt;Vidareutveckla Flappy bird&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 71 - När man exponerar sitt versionsnummer</title>
@@ -1330,207 +1451,6 @@
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CAPTCHA&#34;&gt;CAPTCHA&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.zdnet.com/ready-or-not-here-come-the-new-internet-top-level-domain-names-7000025744/&#34;&gt;Nya toppdomäner&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/site/issues&#34;&gt;Rapportera fel i anteckningar eller avsnitt här&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 57 - Utvecklarnas utvecklarkonferens</title>
-      <link>http://kodsnack.se/57/</link>
-      <pubDate>Tue, 01 Jul 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/57/</guid>
-      <description>
-
-&lt;p&gt;Vi tar hjälp av riktiga experter för att försöka bearbeta intrycken från WWDC. David Rönnqvist, Joachim Bengtsson och Johan Larsson pratar förbättringar för utvecklare, känslan av ett nytt Apple och förstås en hel del Swift. Varför skrev Apple ett eget språk, vilka är våra favoritaspekter av språket? Vad mer kan Apple göra för att förbättra App store för utvecklare?&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/nevyn&#34;&gt;Joachim Bengtsson (@nevyn)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/davidronnqvist&#34;&gt;David Rönnqvist (@davidronnqvist)&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.twitter.com/kottkrig&#34;&gt;Johan Larsson (@kottkrig)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lookback.io&#34;&gt;Lookback&lt;/a&gt; - se hur folk faktiskt använder din app&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mac_OS_X_Leopard&#34;&gt;Leopard&lt;/a&gt; - Mac OS X 10.5&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Core_Animation&#34;&gt;Core animation&lt;/a&gt; - appleramverk för att animera gränssnitt&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/SceneKit/Reference/SceneKit_Framework/index.html&#34;&gt;Scene kit&lt;/a&gt; - appleramverk för 3D-grafik&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.scenekitbook.com&#34;&gt;3D graphics with Scene kit&lt;/a&gt; - Davids bok om Scene kit&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/CocoaHeads-Stockholm/&#34;&gt;Cocoaheads Stockholm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://slashat.se&#34;&gt;Slashat&lt;/a&gt; - sveriges största teknikpodcast&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/Slashat&#34;&gt;Slashat-appen&lt;/a&gt; på Github&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/kottkrig&#34;&gt;Johan på Github&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/wwdc/&#34;&gt;WWDC 2014&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=t4OEsI0Sc_s&#34;&gt;Iphoneintroduktionen 2007&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL6E1645BADEB54E16&#34;&gt;Back to the Mac-eventet 2010&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZIQ5zGOo6qE&#34;&gt;WWDC 2013 - öppningspresentationen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=203&#34;&gt;Healthkit&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=213&#34;&gt;Homekit&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.apple.com/creativity-apps/mac/&#34;&gt;iWork&lt;/a&gt; - Apples svit av produktivitetsapplikationer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/gruber/status/473507289953861632&#34;&gt;Word on the street: The truly big stuff did not leak.&lt;/a&gt; - John Gruber före WWDC 2014&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.macrumors.com/roundup/iwatch/&#34;&gt;iWatch&lt;/a&gt; - klockan det länge ryktats att Apple utvecklar&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.apple.com/osx/preview/&#34;&gt;Yosemite&lt;/a&gt; - 2014 års version av Mac OS X&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://rack.3.mshcdn.com/media/ZgkyMDE0LzA2LzA1LzY1L2ZpbmRyZS43N2MyNi5qcGcKcAl0aHVtYgk4NTB4ODUwPgplCWpwZw/f785dd47/c13/findre.jpg&#34;&gt;Nya glada Finder&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/swift/&#34;&gt;Swift&lt;/a&gt; - Apples nya programmeringsspråk&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/indexhtml#//apple_ref/doc/uid/TP40014214&#34;&gt;Extensions&lt;/a&gt; - Apples lösning för att låta applikationer på iOS och OS X samarbeta på ett säkert sätt&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunesconnect.apple.com&#34;&gt;iTunes connect&lt;/a&gt; - Apples tjänst för alla som vill sälja saker genom deras butiker (App store, iTunes och iBooks)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=302&#34;&gt;Nyheter i iTunes connect&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/support/appstore/TestFlight/&#34;&gt;Testflight&lt;/a&gt; - System för hantering av betatester&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Software_development_kit&#34;&gt;SDK&lt;/a&gt; - software development kit&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://support.google.com/googleplay/android-developer/answer/3131213?hl=en&#34;&gt;Betatestning och gradvis utrullning&lt;/a&gt; av nya versioner av appar på Android&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/NotificationCenter.html&#34;&gt;Notiswidgets&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html&#34;&gt;Att utveckla tangentbord för iOS 8&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=205&#34;&gt;Video om extensions&lt;/a&gt; - &amp;ldquo;Creating extensions for iOS and OS X&amp;rdquo;. Se även &lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=217&#34;&gt;del två&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/FileProvider.html#//apple_ref/doc/uid/TP40014214-CH18-SW1&#34;&gt;Storage provider&lt;/a&gt; - typ av extension som låter en app agera lagrings- och hämtningsplats för filer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IOS_jailbreaking&#34;&gt;Jailbreak&lt;/a&gt; - att gå runt systemets inbyggda begräsningar för att till exempel kunna installera vilken mjukvara som helst&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/macosx/conceptual/bpsystemstartup/chapters/CreatingXPCServices.html&#34;&gt;XPC&lt;/a&gt; - API i OS X för kommunikation mellan processer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com&#34;&gt;Dropbox&lt;/a&gt; - tjänst för lagring av filer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.box.com&#34;&gt;Box&lt;/a&gt; - tjänst för lagring av filer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/icloud/documentation/cloudkit-storage/&#34;&gt;Cloudkit&lt;/a&gt; - Apples senaste API för att låta appar lagra data i molnet&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://onedrive.live.com/about/sv-se/&#34;&gt;One drive&lt;/a&gt; - Microsofts tjänst för molnbaserad fillagring&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=102&#34;&gt;Utvecklarkeynoten&lt;/a&gt; - &amp;ldquo;Platforms state of the union&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/General/Conceptual/iCloudDesignGuide/Chapters/DesignForCoreDataIniCloud.html&#34;&gt;iCloud Core data&lt;/a&gt; - API för att låta applikationer byggda på Core data synkronisera sömlöst med molnet&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/Photos/Reference/Photos_Framework/index.html&#34;&gt;Photokit&lt;/a&gt; - Nytt ramverk för att arbeta med foto och video&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Craig_Federighi&#34;&gt;Craig Federighi&lt;/a&gt; basar över både Mac OS X och iOS utveckling&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.apple.com/ios/ios8/continuity/&#34;&gt;Continuity&lt;/a&gt; - Fördjupad kommunikation mellan Apples olika enheter&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Representational_state_transfer&#34;&gt;REST-API&lt;/a&gt; - API som definieras av och arbetar med HTTP-standardens anrop&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Type_system#Type_checking&#34;&gt;Statisk och dynamisk typning&lt;/a&gt; - Två inriktningar till att kontrollera att data i program är av förväntad typ&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lua_(programming_language%29&#34;&gt;LUA&lt;/a&gt; - programmeringsspråk&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Generic_programming&#34;&gt;Generic programming&lt;/a&gt; - Ger möjlighet att skriva generella funktioner som kan arbeta med många olika typer av data&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/690903/why-does-objective-c-use-yes-and-no-instead-of-1-and-0&#34;&gt;YES och NO&lt;/a&gt; - Används i Objective-C istället för 1 och 0 när man arbetar med boolska värden&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Foreach_loop#Swift&#34;&gt;&amp;hellip; och .. vid iteration&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/24001778/do-swift-based-apps-work-on-os-x-10-9-ios-7-and-lower&#34;&gt;Bakåtkompatibilitet&lt;/a&gt; - Swift stöds bara för iOS 7 och framåt, så det går inte att använda för projekt med höga krav på bakåtkompatibilitet&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=402&#34;&gt;Introduktion till Swift&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Binary_code_compatibility&#34;&gt;Binärkompatibilitet&lt;/a&gt; innebär i fallet Swift att ett program kompilerat med en tidig version av Swift fortfarande kommer att fortsätta fungera och köra även när nyare versioner av språket släppts&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://devforums.apple.com/message/989931#989931&#34;&gt;Lattnerpost om binärkompatibilitet&lt;/a&gt; på utvecklarforumet (inloggning krävs)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/InteractingWithObjective-CAPIs.html#//apple_ref/doc/uid/TP40014216-CH4-XID_26&#34;&gt;Att blanda Swift med C-språken&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.rubymotion.com&#34;&gt;Rubymotion&lt;/a&gt; - Utveckla för iOS och OS X i Ruby&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ARM_architecture&#34;&gt;ARM&lt;/a&gt; - familj av instruktionsuppsättningsarkitekturer (säg det fem gånger snabbt) för processorer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.imore.com/debug-33-ken-ferry-auto-layout-passbook-and-understudy&#34;&gt;Debug 33: Ken Ferry on Auto Layout, Passbook, and Understudy&lt;/a&gt; - vid 1:14:00 pratas om hur Chris Lattner utvecklar: “[Chris Lattner] has this attitude towards incremental change that I think is very useful which is that: the way that you get something done is that first you figure out where you want to be, which might be somewhere totally different from where you are (and that’s fine) but then you figure out a path to get from where you are to where you want to be and the path is to the greatest extend incremental and you don’t just throw it out and write again because that’s not going to work.”&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt; - Mannen bakom Swift, LLVM och Clang&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blocks_(C_language_extension%29&#34;&gt;Block&lt;/a&gt; - utbyggnad av C för att stödja &lt;a href=&#34;http://en.wikipedia.org/wiki/Closure_(computer_science%29&#34;&gt;closures&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Automatic_Reference_Counting&#34;&gt;ARC&lt;/a&gt; - Automatic reference counting, minneshanteringsteknik som används på Apples plattformar&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Closure_(computer_science%29&#34;&gt;Closures&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/clattner_llvm/status/474082459860992000&#34;&gt;Lattners tweet&lt;/a&gt; att det här är en startpunkt&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/se/app/wwdc/id640199958?mt=8&#34;&gt;WWDC-appen&lt;/a&gt; - ett trevligt sätt att se alla presentationer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/swift_programming_language/Extensions.html#//apple_ref/doc/uid/TP40014097-CH24-XID_191&#34;&gt;Extensions i Swift&lt;/a&gt; - categories i Objective-C, sätt att lägga ny funktionalitet till existerande klasser, strukturer och uppräkningstyper&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Monkey_patch&#34;&gt;Monkey patching&lt;/a&gt; - att förändra körande kod utan att förändra källkoden&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/recipes/xcode_help-source_editor/ExploringandEvaluatingSwiftCodeinaPlayground/ExploringandEvaluatingSwiftCodeinaPlayground.html&#34;&gt;Playgrounds&lt;/a&gt; - interaktiv miljö för Swift&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@rrridges/swift-optionals-a10dcfd8aab5&#34;&gt;Optionals&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/6317889/what-does-synchronized-do&#34;&gt;Synchronized&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/cocoa/reference/foundation/Classes/NSLock_Class/Reference/Reference.html&#34;&gt;NSLock&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://bugreport.apple.com&#34;&gt;Radar&lt;/a&gt; - Apples bugghanteringssystem&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cocoasamurai.blogspot.se/2009/09/guide-to-blocks-grand-central-dispatch.html&#34;&gt;Dispatchblock&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/hh191443.aspx&#34;&gt;Asynkronisitet i C#&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.gevent.org&#34;&gt;Gevent&lt;/a&gt; för Python&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/swift_programming_language/Closures.html#//apple_ref/doc/uid/TP40014097-CH11-XID_126&#34;&gt;Trailing closures&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Future_(programming%29&#34;&gt;Future&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.mikeash.com/pyblog/friday-qa-2010-02-26-futures.html&#34;&gt;Att bygga futures ovanpå GCD&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.564782/swift-skapar-nya-mojligheter-for-framtiden&#34;&gt;Fredriks krönika om det nya Apple&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qPS4J3aJzkQ&#34;&gt;Hårskämt på WWDC&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://oleb.net/blog/2014/06/apple-lifted-beta-nda/&#34;&gt;NDA&lt;/a&gt; - WWDC i år är väldigt mycket mindre hemligt än tidigare år&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.imore.com/debug-33-ken-ferry-auto-layout-passbook-and-understudy&#34;&gt;Debug 33: Ken Ferry on Auto Layout, Passbook, and Understudy&lt;/a&gt; - vid 0:28:30  pratas det om att “the AppKit group and UIKit group now sit next to each other”&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://appleinsider.com/articles/14/06/09/apple-alters-app-store-rules-starts-denying-apps-for-incentivized-ads-sharing&#34;&gt;Apple nekar appar&lt;/a&gt; där man kan se reklam mot belöningar i spelet&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11&#34;&gt;Swiftboken&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/AVFoundation/Reference/AVAudioEngine_Class/index.html&#34;&gt;AVAudioEngine&lt;/a&gt; - &lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=502&#34;&gt;video&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=419&#34;&gt;Interaktiva animationer-presentation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=603&#34;&gt;Metal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/SecondTutorial.html&#34;&gt;Storyboards&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/mac/samplecode/ViewController/Introduction/Intro.html#//apple_ref/doc/uid/DTS10004233&#34;&gt;Nya view controllers på Mac&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc/2014/?id=216&#34;&gt;Nya storleks-API:er för iOS&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/userexperience/conceptual/AutolayoutPG/Introduction/Introduction.html&#34;&gt;Auto layout&lt;/a&gt; - System för att mer automatiskt anpassa gränssnitt för olika skärm- och fönsterstorlekar&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.scenekitbook.com&#34;&gt;scenekitbook.com&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/CocoaHeads-Stockholm/&#34;&gt;Cocoaheads Stockholm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
