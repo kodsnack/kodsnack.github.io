@@ -6,7 +6,97 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Wed, 03 Sep 2014 20:20:00 UTC</updated>
+    <updated>Tue, 21 Oct 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 73 - Systemen som är mot användare</title>
+      <link>http://kodsnack.se/73/</link>
+      <pubDate>Tue, 21 Oct 2014 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/73/</guid>
+      <description>
+
+&lt;p&gt;Tobias berättar om sina senaste veckor upprepade appsläpp. Tobias berättar om Drive clubs släpp och serverhaveri och det pratas om serverstrul i spel där nätverket är antingen centralt eller ännu värre oviktigt för spelupplevelsen. På andra sidan snackar vi fördelarna med att ha nätverksanslutning och problem man skulle kunna lösa om man kunde förlita sig på att ha uppkoppling för jämnan. När och hur tar man sig samman och ersätter gamla lösningar med nya? Man glömmer lätt bort all kunskap som finns inbyggd i gamla system. Och varför glömmer man så lätt bort slutanvändare när man gör något nytt? Efter det hinner vi med dåliga gränssnitt och problemen med att ersätta fysiska knappar med beröringskänsliga kontroller. Att sitta fast i gamla lösningar. Var hade vi varit utan SDL?&lt;/p&gt;
+
+&lt;p&gt;Ett särskilt tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina VPS!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.589207/&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; sponsrar våra livesändningar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xbox_One&#34;&gt;Xbox one&lt;/a&gt; kan numera &lt;a href=&#34;https://blog.plex.tv/2014/10/05/plex-xbox-one-xbox-360/&#34;&gt;köra Plex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.boost.org&#34;&gt;Boost&lt;/a&gt; - anrika C++-ramverk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_machine&#34;&gt;Virtuell maskin&lt;/a&gt; - mjukvara som emulerar en fysisk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Android_TV&#34;&gt;Android TV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Electronic_Entertainment_Expo&#34;&gt;E3&lt;/a&gt; - Electronic entertainment expo, stor mässa för spel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Driveclub&#34;&gt;Driveclub&lt;/a&gt; - bilspel för Playstation 4&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Forza_Motorsport_%28series%29&#34;&gt;Forza&lt;/a&gt; - bilspelserie för Xbox&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vg247.com/2014/10/08/driveclub-ps-plus-edition-delayed-due-to-server-problems/&#34;&gt;Driveclubs serverhaverier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/gaming/2013/03/clogged-streets-simcity-launch-plagued-by-server-problems/&#34;&gt;Sim city-serverhaverier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Massively_multiplayer_online_game&#34;&gt;MMO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/World_of_Warcraft&#34;&gt;WOW&lt;/a&gt; - World of warcraft&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_rights_management&#34;&gt;DRM&lt;/a&gt; - digital rights management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Latency_%28engineering%29&#34;&gt;Latens&lt;/a&gt; - tidsfördröjning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IBM_System_z&#34;&gt;IBM system z&lt;/a&gt; - familj stordatorer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_XP&#34;&gt;Windows XP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I &lt;a href=&#34;http://kodsnack.se/59/&#34;&gt;Kodsnack 59 - Lära sig nya saker eller att bara skeppa&lt;/a&gt; pratade vi bland annat om att vidareutbilda sig och hänga med&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackweek.suse.com/&#34;&gt;Suses hackvecka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTML5&#34;&gt;HTML5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se/2.2683/1.547944/haveriet-inifran--sa-gick-pust-fran-succ%C3%A9-till-fiasko&#34;&gt;Pust Siebel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Request_for_proposal&#34;&gt;Request for proposal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://javlaskitsystem.se/&#34;&gt;Jävla skitsystem!&lt;/a&gt; - bok om … system man inte gillar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://thewirecutter.com/reviews/best-bluetooth-on-or-over-ear-headphones/&#34;&gt;Jabra revo wireless&lt;/a&gt; - Tobias bluetoothlurar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Kindle&#34;&gt;Kindle&lt;/a&gt; - läsplattor från Amazon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oneplus.net/one&#34;&gt;Oneplus One&lt;/a&gt; -&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Nexus#Smartphones&#34;&gt;Nexustelefoner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ThinkPad&#34;&gt;Thinkpad&lt;/a&gt; - anrik familj bärbara datorer och plattor skapad och länge ägd av IBM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lenovo.com/&#34;&gt;Lenovo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.libsdl.org/&#34;&gt;SDL&lt;/a&gt; - Simple directmedia layer, mediebibliotek för många plattformar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/X_Window_System&#34;&gt;X11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/apple/2014/10/apple-updates-desktop-imac-line-with-5k-retina-displays/&#34;&gt;5k iMac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://partner.steamgames.com/&#34;&gt;Steam-SDK:t&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qt-project.org/&#34;&gt;Qt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pygame.org/news.html&#34;&gt;Pygame&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI&lt;/a&gt; - application binary interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sam_Lantinga&#34;&gt;Sam Lantinga&lt;/a&gt; - mannen bakom SDL&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Heartbleed&#34;&gt;En av de mer kända buggarna i OpenSSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev 2014&lt;/a&gt; - tredagarskonferens där Kodsnack kommer att delta och intervjua&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iotconf.se/&#34;&gt;Internet of Things&lt;/a&gt; - endagskonferens i Malmö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atthefrontend.dk/&#34;&gt;At The Frontend&lt;/a&gt; - endagskonferens i Köpenhamn i november&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=se.kodsnack&amp;amp;hl=sv&#34;&gt;Kodsnack för Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/Meldanya&#34;&gt;Erik Jansson - Meldanya&lt;/a&gt; - skapare av Kodsnack-appen för Android&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/b0bben&#34;&gt;b0bben&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BlackBerry&#34;&gt;Blackberry&lt;/a&gt; - kanadensisk mobiltillverkare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Jolla&#34;&gt;Jolla&lt;/a&gt; - finsk mobiltillverkare&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full deploy varje gång&lt;/li&gt;
+&lt;li&gt;Riktigt gamla versioner av GCC&lt;/li&gt;
+&lt;li&gt;Handbyggde tio olika versioner&lt;/li&gt;
+&lt;li&gt;Det börjar låta som spelbranschen det här&lt;/li&gt;
+&lt;li&gt;Det brukar ju inte vara så&lt;/li&gt;
+&lt;li&gt;Om man ser det från ett utvecklarperspektiv&lt;/li&gt;
+&lt;li&gt;En uppkoppling som vi alltid kan lita på&lt;/li&gt;
+&lt;li&gt;Man vet ju att det inte är stort här&lt;/li&gt;
+&lt;li&gt;Systemen som är mot användare&lt;/li&gt;
+&lt;li&gt;Kedja av auktoritära personer&lt;/li&gt;
+&lt;li&gt;Windows XP på bankomater&lt;/li&gt;
+&lt;li&gt;Mer och mer pragmatisk för varje år som går&lt;/li&gt;
+&lt;li&gt;När man bestämmer sig för att göra en ny version&lt;/li&gt;
+&lt;li&gt;Extremt tufft att göra någonting rätt&lt;/li&gt;
+&lt;li&gt;De hade kunnat vara fysiska knappar&lt;/li&gt;
+&lt;li&gt;En icke-fysisk tangent&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 72 - En verklig guldålder för att göra mjukvara</title>
@@ -1399,58 +1489,6 @@
 &lt;li&gt;Programmerare som ser programmering som ett jobb&lt;/li&gt;
 &lt;li&gt;Vi bits inte&lt;/li&gt;
 &lt;li&gt;Kristoffer kan bitas&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 58 - Bara statisk HTML</title>
-      <link>http://kodsnack.se/58/</link>
-      <pubDate>Tue, 08 Jul 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/58/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Fredrik snackar om den nya inkarnationen av kodsnack.se och tekniken bakom. Vi följer också upp kring Lisp och lyssnares rättelser av vad vi sagt. Lisp är mer maskinnära än man kanske tror. Vi pratar program som genererar statiska webbplatser och deras nytta både att använda och bygga. Mot slutet blir det uppföljning om och minnen av PHP blandat med lättnaden i att generera sin webbplats statiskt och alla bekymmer man slipper genom att göra så.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; - program och syntax för att generera HTML från dokument i ren text&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/site/tree/master/content/avsnitt&#34;&gt;Kodsnacks avsnittsanteckningar på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://help.squarespace.com/guides/can-i-export-my-site&#34;&gt;Export från Squarespace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wordpress&#34;&gt;Wordpess&lt;/a&gt; - populärt bloggverktyg&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/FLAC&#34;&gt;FLAC&lt;/a&gt; - Free lossless audio codec&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/squarespace&#34;&gt;Squarespace på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.slack.com&#34;&gt;Slack&lt;/a&gt; - chatt med mera för arbetsgrupper&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.libsyn.com&#34;&gt;Libsyn&lt;/a&gt; - plattform för att publicera poddradioprogram&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.libsynpro.com/api&#34;&gt;Libsyns API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://auphonic.com&#34;&gt;Auphonic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Static_web_page&#34;&gt;Statisk webbplats&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/47/&#34;&gt;Snack tidigare om Github-monokultur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - Virtual private server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.crummy.com/software/BeautifulSoup/&#34;&gt;Beautiful soup&lt;/a&gt; - pythonbibliotek för att utvinna data ur exempelvis webbsidor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Rss&#34;&gt;RSS&lt;/a&gt; - Standard för publikation av nyheter eller annat innehåll från webbplatser&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hugo.spf13.com&#34;&gt;Hugo&lt;/a&gt; - statisk webbplatsgenerator skriven i Go&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; - populär statisk webbplatsgenerator&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hyde.github.io&#34;&gt;Hyde&lt;/a&gt; - Jekyll i Python&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.getpelican.com&#34;&gt;Pelican&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docutils.sourceforge.net/rst.html&#34;&gt;Restructured text&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.methods.co.nz/asciidoc/&#34;&gt;ASCIIdoc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spanish_language_in_the_United_States&#34;&gt;Spanskans utbredning i USA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.567252/kodsnack--lisp-i-alla-programmeringssprak?articleRenderMode=listpostings#disqus_thread&#34;&gt;Kommentarer och diskussion&lt;/a&gt; på Techworld kring Lisp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Word_%28computer_architecture%29&#34;&gt;Ord&lt;/a&gt; - Den naturliga dataenheten i en viss processordesign&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cons_cell&#34;&gt;cons-cell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;Templates-biblioteket&lt;/a&gt; som följer med Go&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://codekata.com&#34;&gt;Kodkata&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/donmelton/magneto&#34;&gt;Magneto&lt;/a&gt; - &lt;a href=&#34;http://donmelton.com&#34;&gt;Don Melton&lt;/a&gt;s generator för statiska webbplatser&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://servicesangle.com/blog/2011/08/31/qa-with-yukihiro-matz-matsumoto-the-creator-of-ruby/&#34;&gt;Ruby vill göra programmerare glada&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Active_Server_Pages&#34;&gt;ASP&lt;/a&gt; - Active server pages - tidig microsoftteknik för dynamiska webbplatser&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CAPTCHA&#34;&gt;CAPTCHA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zdnet.com/ready-or-not-here-come-the-new-internet-top-level-domain-names-7000025744/&#34;&gt;Nya toppdomäner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/site/issues&#34;&gt;Rapportera fel i anteckningar eller avsnitt här&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
