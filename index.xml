@@ -6,7 +6,103 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Wed, 26 Nov 2014 06:40:00 UTC</updated>
+    <updated>Tue, 02 Dec 2014 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 79 - Vad skulle det kosta att göra det på rätt sätt?</title>
+      <link>http://kodsnack.se/79/</link>
+      <pubDate>Tue, 02 Dec 2014 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/79/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om turerna kring Swish, både aspekten hur man hanterat säkerhetsproblem och hur man hanterat att råka (?) innehålla öppen källkod. Det är en sak att ha ett problem, en helt annan och kanske ännu viktigare hur man beter sig när problemet väl är ett faktum. Från att ha en väg att faktiskt ta emot problemrapporter till hur man hanterar och kommunicerar vad som händer sedan. Tänk vilket intressant alternativ det varit om Swish helt enkelt släppt sin kod öppet istället för att släppa uppgradering och säga att man inte använde den öppna koden! Mitt i alltihop har kanske både Swish, HiQ och bankerna agerat pragmatiskt i hela händelseförloppet?&lt;/p&gt;
+
+&lt;p&gt;Och källkoden är - fortfarande - inte värdefull i sig. Framför allt inte som inte ens öppen och välanvänd kod blir läst i någon större utsträckning.&lt;/p&gt;
+
+&lt;p&gt;Vi avslutar med att diskutera minnes- och filhanteringsbuggar som kanske gömmer sig i ens program och en diskussion om påståendet att testdriven utveckling inte fungerar och testning i allmänhet är överskattat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.598697&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Transcoding&#34;&gt;Transcoding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bit_rate&#34;&gt;Bit rate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DTS_%28sound_system%29&#34;&gt;DTS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/AV_receiver&#34;&gt;Receiver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Consistent_Network_Device_Naming&#34;&gt;Linux nya namngivningsschema för nätverksinterface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/steveonjava&#34;&gt;Stephen Chin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/78/&#34;&gt;Vår intervju med Fred George&lt;/a&gt; - fler kommer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zoom.co.jp/products/h2n&#34;&gt;Vår mikrofon&lt;/a&gt;  - funkar finfint med lugnare miljöer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.592181/allt-fler-jobbar-pa-distans&#34;&gt;Allt fler jobbar på distans&lt;/a&gt; - intervju med Tobias&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.591330/sa-upptacktes-buggen-i-swish&#34;&gt;Så upptäcktes buggen i Swish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Swish_%28mobilapplikation%29&#34;&gt;Swish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/HiQ_International&#34;&gt;HiQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/L%C3%A4nsf%C3%B6rs%C3%A4kringar&#34;&gt;Länsförsäkringar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.se/2.1085/1.594473/swish-kryper-till-korset--andrar-i-appen&#34;&gt;Swish kryper till korset - ändrar i appen - IDG.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License&#34;&gt;GNU LGPL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Moxie_Marlinspike&#34;&gt;Moxie Marlinspike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking.php&#34;&gt;Statisk och dynamisk länkning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Transport_Layer_Security#Certificate_pinning&#34;&gt;Certifikatspinning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Code_audit&#34;&gt;Code audit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect&#34;&gt;Dunning–Kruger-effekten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Security_theater&#34;&gt;Säkerhetsteater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Transportation_Security_Administration&#34;&gt;TSA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through obscurity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_General_Public_License&#34;&gt;GNU GPL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theregister.co.uk/2004/02/13/ms_windows_source_code_escapes/&#34;&gt;När källkod till Windows NT läckte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Assassin&#39;s_Creed_Unity&#34;&gt;Assassin&amp;rsquo;s creed unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kotaku.com.au/2014/11/assassins-creed-unity-has-the-best-glitches/&#34;&gt;Buggar i Assassin&amp;rsquo;s creed unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenSSL#History_of_the_OpenSSL_project&#34;&gt;OpenSSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenSSH&#34;&gt;OpenSSH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Security_Agency&#34;&gt;NSA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Symbolic_link&#34;&gt;Symlänk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/File_descriptor&#34;&gt;File descriptor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/fstream/fstream/&#34;&gt;fstream i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Heap_%28data_structure%29&#34;&gt;Heap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD - testdriven utveckling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unit_testing&#34;&gt;Unit testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Code_coverage&#34;&gt;Code coverage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Neutrino&#34;&gt;Neutrino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Code_refactoring&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Software_regression&#34;&gt;Regression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Code_review&#34;&gt;Code review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zi0rHwfiX1Q&#34;&gt;Testing the hard stuff and staying sane&lt;/a&gt; - presentation av John Hughes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Joe Armstrong&lt;/a&gt; - mannen bakom Erlang&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.clojurewest.org/&#34;&gt;Clojure/west&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/QuickCheck&#34;&gt;Quickcheck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Atomicity_%28database_systems%29&#34;&gt;Atomära transaktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agil utveckling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sprint_%28software_development%29&#34;&gt;Sprint inom mjukvaruutveckling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/siracusa&#34;&gt;John Siracusa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lära sig på fötterna&lt;/li&gt;
+&lt;li&gt;Här har vi en bankapp&lt;/li&gt;
+&lt;li&gt;Ett svårt problem rent praktiskt&lt;/li&gt;
+&lt;li&gt;Ett svårt problem rent teoretiskt&lt;/li&gt;
+&lt;li&gt;Säkerhet ens i teorin&lt;/li&gt;
+&lt;li&gt;Ingen direkt personal&lt;/li&gt;
+&lt;li&gt;Deprimerande men inte ett dugg förvånande&lt;/li&gt;
+&lt;li&gt;En helt omöjlig beställning&lt;/li&gt;
+&lt;li&gt;Vad skulle det kosta att göra det på rätt sätt?&lt;/li&gt;
+&lt;li&gt;Samma procedurer som NASA har för rymdskeppen&lt;/li&gt;
+&lt;li&gt;Kasta HiQ under bussen&lt;/li&gt;
+&lt;li&gt;För att få jobba på den här appen så måste man låsa in sig i ett litet rum på banken&lt;/li&gt;
+&lt;li&gt;Helt fel typ av säkerhet&lt;/li&gt;
+&lt;li&gt;Hemligt och säkert är inte samma sak&lt;/li&gt;
+&lt;li&gt;Han ser lite ut som att han jobbar på Ericsson&lt;/li&gt;
+&lt;li&gt;Som en bror till Joe Armstrong&lt;/li&gt;
+&lt;li&gt;Härliga grå skjortbeklädda britter&lt;/li&gt;
+&lt;li&gt;Det som funkar för dig är en bra grej&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 78 - Stirring the pot is necessary</title>
@@ -1440,63 +1536,6 @@
 &lt;li&gt;Vi måste ju använda det någonstans&lt;/li&gt;
 &lt;li&gt;Ett helt program där vi snackade skit om saker&lt;/li&gt;
 &lt;li&gt;Det finns ju den här avarten av en installer&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 64 -  Att gå till jobbet är någonting nytt</title>
-      <link>http://kodsnack.se/64/</link>
-      <pubDate>Wed, 20 Aug 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/64/</guid>
-      <description>
-
-&lt;p&gt;Vi börjar med att snacka om pendling och går därifrån vidare till kontor, i vilken arbetsmiljö man får mest gjort och varför man som arbetande inom ett område med stor efterfrågan ens finner sig i att jobba i mindre bra situationer. Sedan diskuterar vi hur uppskattade utvecklare faktiskt är utifrån en nyligen utkommen artikel kring hur man framställer sig vid intervjuer.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.578398/&#34;&gt;Diskutera gärna avsnittet på Techworld&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/?fref=nf&#34;&gt;Kodapor&lt;/a&gt; på Facebook&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/permalink/725717454143996/&#34;&gt;Inlägget och diskussionen om pendling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Kista&#34;&gt;Kista&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Fridhemsplan&#34;&gt;Fridhemsplan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Kungsholmen&#34;&gt;Kungsholmen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Sundbybergs_kommun&#34;&gt;Sundbyberg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Vilhelmina_%28tätort%29&#34;&gt;Vilhelmina&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.svt.se/nyheter/val2014/soker-it-personal-bland-malmos-taxichaufforer&#34;&gt;Stratiteq söker folk&lt;/a&gt; - rekryterar ingenjörer bland taxichaufförer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://michaelochurch.wordpress.com/2014/07/13/how-the-other-half-works-an-adventure-in-the-low-status-of-software-engineers/&#34;&gt;How the other half works&lt;/a&gt; - artikeln om mannen som ändrade framtoning på sitt CV&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.massive.se&#34;&gt;Massive&lt;/a&gt; - Malmöbaserad spelstudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En full panel&lt;/li&gt;
-&lt;li&gt;Vi är rörda och hedrade&lt;/li&gt;
-&lt;li&gt;Och problem var det ju&lt;/li&gt;
-&lt;li&gt;Min nuvarande pendlingssituation&lt;/li&gt;
-&lt;li&gt;Vara på annan ort och fortfarande göra mitt jobb&lt;/li&gt;
-&lt;li&gt;Kanske den kortaste tågpendlingssträcka man kan tänka sig&lt;/li&gt;
-&lt;li&gt;Lite annat perspektiv på livet&lt;/li&gt;
-&lt;li&gt;Om man vill jobba så är det inte här man bosätter sig&lt;/li&gt;
-&lt;li&gt;Nu har jag jobbat hemifrån i tre år&lt;/li&gt;
-&lt;li&gt;Tid till att faktiskt producera någonting på ett kontor&lt;/li&gt;
-&lt;li&gt;Mår mentalt dåligt av att sitta och surfa bort tiden&lt;/li&gt;
-&lt;li&gt;Det var vanligare förr&lt;/li&gt;
-&lt;li&gt;Det finns ingen skillnad på hemmet och arbetsplatsen&lt;/li&gt;
-&lt;li&gt;Då jobbade alla hemma&lt;/li&gt;
-&lt;li&gt;Att gå till jobbet är någonting nytt&lt;/li&gt;
-&lt;li&gt;Förhandlingsläget är relativt gott&lt;/li&gt;
-&lt;li&gt;Folk har redan jobb&lt;/li&gt;
-&lt;li&gt;Ett fabriksgolvsjobb&lt;/li&gt;
-&lt;li&gt;En fråga om att sälja sig själv på rätt sätt&lt;/li&gt;
-&lt;li&gt;Krav som inte ens går att uppfylla&lt;/li&gt;
-&lt;li&gt;Då utvärderas man som maskin&lt;/li&gt;
-&lt;li&gt;Om man tänker sig att det finns karriärdödande jobb&lt;/li&gt;
-&lt;li&gt;Pendla inte så mycket om du inte verkligen vill&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
