@@ -9,6 +9,130 @@
     <updated>Tue, 21 Oct 2014 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 80 - Where numbers don&#39;t have to be special anymore</title>
+      <link>http://kodsnack.se/80/</link>
+      <pubDate>Tue, 09 Dec 2014 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/80/</guid>
+      <description>
+
+&lt;p&gt;We chat with &lt;a href=&#34;http://karpinski.org/&#34;&gt;Stefan Karpinski&lt;/a&gt;, creator of the &lt;a href=&#34;http://julialang.org/&#34;&gt;Julia programming language&lt;/a&gt;, live on stage during &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; 2014. Topics include defiding to build a new language, the interesting unsolved problems of numerical computing, concurrency solutions, developing with and on LLVM, handling deprecation nicely, things (possibly) in the future for Julia and why Swift is exciting for Julia and other languages.&lt;/p&gt;
+
+&lt;p&gt;This recording exists as good as it is thanks to &lt;a href=&#34;http://steveonjava.com/&#34;&gt;Stephen Chin&lt;/a&gt; of &lt;a href=&#34;http://nighthacking.com/&#34;&gt;nighthacking.com&lt;/a&gt; for providing and masterfully wrangling all the necessary technology.&lt;/p&gt;
+
+&lt;p&gt;There is a minute and a half of worse audio quality just after the nine minute mark, where microphone problems forced us to fill in with audio from our backup microphone.&lt;/p&gt;
+
+&lt;p&gt;Comments, thoughts or suggestions? &lt;a href=&#34;http://techworld.idg.se/2.2524/1.599981/&#34;&gt;Discuss this episode&lt;/a&gt; at Techworld!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://karpinski.org/&#34;&gt;Stefan Karpinski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://julialang.org/&#34;&gt;Julia programming language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Computational_science&#34;&gt;Scientific computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/viral_b_shah&#34;&gt;Viral Shah&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jeffbezanson&#34;&gt;Jeff Bezanson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MATLAB&#34;&gt;MATLAB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/R_%28programming_language%29&#34;&gt;R&lt;/a&gt; programming language&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Python_%28programming_language%29&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/2/extending/extending.html&#34;&gt;C extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Story_of_the_Three_Bears&#34;&gt;Goldilocks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Goldilocks_principle&#34;&gt;Goldilocks principle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dylan_%28programming_language%29&#34;&gt;Dylan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29&#34;&gt;Garbage collection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object_type_%28object-oriented_programming%29#Unboxing&#34;&gt;Unboxed data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Complex_number&#34;&gt;Complex number&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://juliawebstack.org/&#34;&gt;Julia Webstack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Numerical_analysis&#34;&gt;Numerical computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Concurrency_%28computer_science%29&#34;&gt;Concurrency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Distributed_computing&#34;&gt;Distributed computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thread_%28computing%29&#34;&gt;Threading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/JuliaLang/julia&#34;&gt;Julia on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Transactional_memory&#34;&gt;Transactional memory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gobyexample.com/goroutines&#34;&gt;Goroutine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Coroutine&#34;&gt;Coroutine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Channel_%28programming%29&#34;&gt;Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Input/output&#34;&gt;I/O&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://llvm.org/&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C_preprocessor#Conditional_compilation&#34;&gt;IFDEF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Just-in-time_compilation&#34;&gt;JIT&lt;/a&gt;  - just-in-time (compilation, in this case)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Library_%28computing%29#Shared_libraries&#34;&gt;Shared library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org/doxygen/group__CINDEX.html&#34;&gt;libclang&lt;/a&gt; - C Interface to Clang&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/onlinedocs/gcc/Template-Instantiation.html&#34;&gt;Template instantiation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jayschwa/Quake2.jl&#34;&gt;Quake2.jl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hackerschool.com/&#34;&gt;Hacker school&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Matrix_multiplication&#34;&gt;Matrix multiplication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vectorization&#34;&gt;Vectorization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/5092134/whats-the-difference-between-generational-and-incremental-garbage-collection/5092380#5092380&#34;&gt;Generational incremental garbage collection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SNOBOL&#34;&gt;SNOBOL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SPITBOL_compiler&#34;&gt;SPITBOL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Icon_%28programming_language%29&#34;&gt;Icon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl#Early_versions&#34;&gt;Perl 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C99&#34;&gt;C99 standard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://julia.readthedocs.org/en/latest/manual/types/#immutable-composite-types&#34;&gt;Immutable composite types&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Multiple_dispatch&#34;&gt;Multiple dispatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Monkey_patch&#34;&gt;Monkey patch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/5082190/help-with-add&#34;&gt;radd&lt;/a&gt;-trick in Python&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Common_Lisp&#34;&gt;Common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Common_Lisp_Object_System&#34;&gt;CLOS&lt;/a&gt; - Common Lisp object system&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Polymorphism_%28computer_science%29&#34;&gt;Polymorphism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Self_%28programming_language%29&#34;&gt;Self&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.julialang.org/en/release-0.1/stdlib/blas/&#34;&gt;BLAS&lt;/a&gt;  - Basic linear algebra subroutines&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fast_Fourier_transform&#34;&gt;Fast fourier transform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.golang.org/introducing-gofix&#34;&gt;Gofix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tracing_%28software%29&#34;&gt;Tracing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Static_build&#34;&gt;Static compilation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology&#34;&gt;MIT&lt;/a&gt;  - Massachusetts institute of technology&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://julialang.org/teaching/&#34;&gt;Courses taught using Julia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Function_pointer&#34;&gt;Function pointer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scipy.org/&#34;&gt;Scipy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://math.mit.edu/~stevenj/&#34;&gt;Steven Johnson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fftw.org/&#34;&gt;FFTW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stevengj/PyCall.jl&#34;&gt;Pycall package for Julia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Call_stack&#34;&gt;Call stack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/gdb/&#34;&gt;GDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lldb.llvm.org/&#34;&gt;LLDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI&lt;/a&gt;  - application binary interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org/&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rust-lang.org/&#34;&gt;Rust programming language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt; - creator of LLVM and Swift&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/&#34;&gt;WebKit FTL JIT&lt;/a&gt; - compiles Javascript using LLVM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://llvm.org/docs/GarbageCollection.html#about-the-shadow-stack&#34;&gt;Shadow stack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.ucsb.edu/~urs/oocsb/papers/pldi92.pdf&#34;&gt;‎Dynamic stack frame deoptimization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/matlab/matlab_matrix_concatenation.htm&#34;&gt;MATLAB matrix concatenation syntax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Some of the interesting tradeoffs&lt;/li&gt;
+&lt;li&gt;Bridge that gap between high-level and low-level&lt;/li&gt;
+&lt;li&gt;A huge pointer graph of some kind&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s good to have a focus, initially&lt;/li&gt;
+&lt;li&gt;The point where we&amp;rsquo;re pushing things&lt;/li&gt;
+&lt;li&gt;The classic tradition of a ton of IFDEFs&lt;/li&gt;
+&lt;li&gt;This brings us back to garbage collection&lt;/li&gt;
+&lt;li&gt;Specializing for numerical work&lt;/li&gt;
+&lt;li&gt;Where numbers don&amp;rsquo;t have to be special anymore&lt;/li&gt;
+&lt;li&gt;(The question is:) How useful is that generalization?&lt;/li&gt;
+&lt;li&gt;You don&amp;rsquo;t necessarily know what code you&amp;rsquo;re going to need in advance&lt;/li&gt;
+&lt;li&gt;Trading off memory for performance&lt;/li&gt;
+&lt;li&gt;Really doing the deprecation process&lt;/li&gt;
+&lt;li&gt;A situation where normally you&amp;rsquo;d JIT something&lt;/li&gt;
+&lt;li&gt;You might end up in a slow case&lt;/li&gt;
+&lt;li&gt;You can always just fall back on an interpreter&lt;/li&gt;
+&lt;li&gt;A partially compiled interpreter&lt;/li&gt;
+&lt;li&gt;Nobody needs to know that it was written in Julia&lt;/li&gt;
+&lt;li&gt;A really capable C library&lt;/li&gt;
+&lt;li&gt;As easy as walking a linked pointer list&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m really glad someone else implemented it&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 79 - Vad skulle det kosta att göra det på rätt sätt?</title>
       <link>http://kodsnack.se/79/</link>
       <pubDate>Tue, 02 Dec 2014 10:26:14 UTC</pubDate>
@@ -1432,110 +1556,6 @@
 &lt;li&gt;Nya processer i poolen&lt;/li&gt;
 &lt;li&gt;Så snart man vill in bakom kulissen och kika&lt;/li&gt;
 &lt;li&gt;Mer abstraktion betyder mer problem när man har problem&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 65 - Den andra dåliga idén</title>
-      <link>http://kodsnack.se/65/</link>
-      <pubDate>Tue, 26 Aug 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/65/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar om att uppdatera sina applikationer, hur Tobias uppdaterat Plex och problem med installationsprogram. Tobias tipsar om Pytest och berättar hur han förbättrat uppdateringshanteringen. Tobias avslöjar häftiga trick man kan utföra när man vill uppdatera appar på Mac utan att behöva ladda ner varenda fil igen. Sedan pratar vi om kod skrivern för forskning och kommer in på att värdera bra struktur på koden och allting kring den - sådant som vi som kodhantverkare värderar högt men kanske inte alla som skriver kod. Problemen i STL får avrunda.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.579039/&#34;&gt;Diskutera gärna avsnittet på Techworld&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/50/&#34;&gt;Vi pratar så lite om Microsoft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://knowyourmeme.com/memes/i-am-groot&#34;&gt;I am Groot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://github.com/plexinc/Update-Installer&#34;&gt;Plex autouppdateringsinfrastruktur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://github.com/plexinc/plex-home-theater-public&#34;&gt;Plex Home Theater&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Delta_update&#34;&gt;Deltauppdatering&lt;/a&gt; - uppdatering i vilken man enbart hämtar det som ändrats, istället för precis allting. Ett binärdelta innebär de rena och råa binärdataändringarna i varje fil, istället för exempelvis varje ändrad fil i sin helhet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.daemonology.net/bsdiff/&#34;&gt;Bsdiff/bspatch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test_suite&#34;&gt;Testsvit&lt;/a&gt; - en uppsättning tester&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pytest.org/latest/&#34;&gt;Pytest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Foo_Bar&#34;&gt;Foo och bar&lt;/a&gt; - nonsensnamn som (allt för) ofta används i exempelkod&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pytest.org/latest/fixture.html#fixture&#34;&gt;Fixture&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/&#34;&gt;Decorator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nose.readthedocs.org/en/latest/&#34;&gt;Nose&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jenkins-ci.org&#34;&gt;Jenkins&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cs.duke.edu/csed/ap/subset/doc/ap/Stack.html#pop%28%29&#34;&gt;Poppa stacken&lt;/a&gt; - ta bort och returnera det översta elementet i högen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Registry&#34;&gt;Windowsregistret&lt;/a&gt; - Windows centrala databas för inställningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html&#34;&gt;Kodsignering av applikationer på OS X&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DMG_%28file_format%29&#34;&gt;DMG&lt;/a&gt; - disk image, skivavbild, filformat Apple använder för att representera monterbara enheter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/.deb&#34;&gt;.deb&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/.rpm&#34;&gt;.rpm&lt;/a&gt; - Linuxdistributionerna Debian och Red hats filer för distribution av mjukvarupaket&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Installer&#34;&gt;Windows installer - .msi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wixtoolset.org/&#34;&gt;WIX - Windows installer XML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://harmful.cat-v.org/software/xml/soap/&#34;&gt;SOAP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OSGi&#34;&gt;OSGi&lt;/a&gt; - ett &amp;ldquo;modulärt system och en tjänsteplattform&amp;rdquo; för Java&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/8/&#34;&gt;Byggare Bob&lt;/a&gt; - vårt avsnitt om byggsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tar_%28computing%29&#34;&gt;TAR&lt;/a&gt; - anrikt filformat och program för datalagring&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wowwiki.com/Blizzard_Downloader&#34;&gt;Blizzards installer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0093779/trivia?item=tr0755819&#34;&gt;Markstrid i asien&amp;hellip;&lt;/a&gt; - Citat från Princess Bride&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mollyrocket.com/casey/stream_0029.html&#34;&gt;The worst API ever made&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gist.github.com/kirkegaard/1055336&#34;&gt;Historien bakom Direct3D&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Direct3D_12#Direct3D_12&#34;&gt;Direct X 12&lt;/a&gt; - Senaste versionen av DirectX&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RenderMorphics&#34;&gt;Rendermorphics&lt;/a&gt; - Tillverkaren man köpte Direct 3D av&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Installer_%28OS_X%29&#34;&gt;Apples installationsinfrastruktur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://edgecasesshow.com/045-one-little-package-of-hate.html&#34;&gt;One little package of hate&lt;/a&gt; - Edge cases avsnitt om Apples installationssystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://linux-ha.org/wiki/Resource_Agents&#34;&gt;Resursagenter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/High-availability_cluster&#34;&gt;High Availability-kluster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://libvirt.org/&#34;&gt;libvirt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://libvirt.org/git/?p=libvirt.git;a=blob;f=src/conf/domain_conf.c&#34;&gt;20 000 rader kod (i libvirt)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.xenproject.org/&#34;&gt;Xen&lt;/a&gt; och &lt;a href=&#34;http://www.linux-kvm.org/&#34;&gt;KVM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vmware.com/&#34;&gt;VMWare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxcontainers.org/&#34;&gt;LXC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.daemonology.net/papers/bsdiff.pdf&#34;&gt;BSDiff-algoritmen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/mendsley/bsdiff&#34;&gt;Airmech-tillverkarnas fork av BSDiff&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/UML_Diagram#Diagrams_overview&#34;&gt;UML-diagram&lt;/a&gt; används för att modellera och visualisera systemdesign&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lua.org/&#34;&gt;Lua&lt;/a&gt; - språk bland annat populärt för högnivålogik i spel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gameenginebook.com/&#34;&gt;Game Engine Architecture&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Frostbite_(game_engine&#34;&gt;Frostbite&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.unrealengine.com/&#34;&gt;Unreal-motorn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://unity3d.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Electronic_Arts&#34;&gt;EA grundades år 1982&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html&#34;&gt;EASTL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.stroustrup.com/C++11FAQ.html#what-concepts&#34;&gt;Koncept i C++&lt;/a&gt; - som inte finns&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1426.pdf&#34;&gt;export i C++&lt;/a&gt; - nyckelordet som bara en enda kompilator lyckades implementera&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/map/map/&#34;&gt;Map i STL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/map/map/find/&#34;&gt;std::map.find&lt;/a&gt; - returnerar &lt;code&gt;iterator&amp;lt;std::pair&amp;lt;const key_type, mapped_type&amp;gt;&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Varför jag inte gillar Microsoft just idag&lt;/li&gt;
-&lt;li&gt;Man kan välja om man vill ha stabila uppdateringar&lt;/li&gt;
-&lt;li&gt;Om du inte har ett delta&lt;/li&gt;
-&lt;li&gt;Gå mellan alla deltan&lt;/li&gt;
-&lt;li&gt;Den här katalogstrukturen och  hej och hå&lt;/li&gt;
-&lt;li&gt;Våran Jenkins-slav&lt;/li&gt;
-&lt;li&gt;Tusen rader frågor tillbaka&lt;/li&gt;
-&lt;li&gt;Kör den genom din pakethanterare&lt;/li&gt;
-&lt;li&gt;Det mest standard du kan hitta i Windows&lt;/li&gt;
-&lt;li&gt;Hela definitionen av en overengineered lösning&lt;/li&gt;
-&lt;li&gt;Enterprise så in i helvete&lt;/li&gt;
-&lt;li&gt;Att simma motströms&lt;/li&gt;
-&lt;li&gt;Ta den här katalogen och tara ihop den&lt;/li&gt;
-&lt;li&gt;Den andra dåliga idén&lt;/li&gt;
-&lt;li&gt;Noll komma noll procents erfarenhet av Windows&lt;/li&gt;
-&lt;li&gt;Alla debuggers måste kunna krascha din dator&lt;/li&gt;
-&lt;li&gt;Rad 18746&lt;/li&gt;
-&lt;li&gt;Microsoft har inte monopol på att göra vansinniga grejer&lt;/li&gt;
-&lt;li&gt;En liten klubba inbyggd i alla monitorer&lt;/li&gt;
-&lt;li&gt;Ett sätt som forskare skriver kod på&lt;/li&gt;
-&lt;li&gt;Whitepaper driven development&lt;/li&gt;
-&lt;li&gt;Inkonsekvens i kodstil är det värsta som finns&lt;/li&gt;
-&lt;li&gt;En kodbas som har två ansikten&lt;/li&gt;
-&lt;li&gt;Totalt kåt på sina API:er&lt;/li&gt;
-&lt;li&gt;Vi måste ju använda det någonstans&lt;/li&gt;
-&lt;li&gt;Ett helt program där vi snackade skit om saker&lt;/li&gt;
-&lt;li&gt;Det finns ju den här avarten av en installer&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
