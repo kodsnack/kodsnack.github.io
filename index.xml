@@ -16,7 +16,7 @@
       <guid>http://kodsnack.se/80/</guid>
       <description>
 
-&lt;p&gt;We chat with &lt;a href=&#34;http://karpinski.org/&#34;&gt;Stefan Karpinski&lt;/a&gt;, creator of the &lt;a href=&#34;http://julialang.org/&#34;&gt;Julia programming language&lt;/a&gt;, live on stage during &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; 2014. Topics include defiding to build a new language, the interesting unsolved problems of numerical computing, concurrency solutions, developing with and on LLVM, handling deprecation nicely, things (possibly) in the future for Julia and why Swift is exciting for Julia and other languages.&lt;/p&gt;
+&lt;p&gt;We chat with &lt;a href=&#34;http://karpinski.org/&#34;&gt;Stefan Karpinski&lt;/a&gt;, creator of the &lt;a href=&#34;http://julialang.org/&#34;&gt;Julia programming language&lt;/a&gt;, live on stage during &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; 2014. Topics include deciding to build a new language, the interesting unsolved problems of numerical computing, concurrency solutions, developing with and on LLVM, handling deprecation nicely, things (possibly) in the future for Julia and why Swift is exciting for Julia and other languages.&lt;/p&gt;
 
 &lt;p&gt;This recording exists as good as it is thanks to &lt;a href=&#34;http://steveonjava.com/&#34;&gt;Stephen Chin&lt;/a&gt; of &lt;a href=&#34;http://nighthacking.com/&#34;&gt;nighthacking.com&lt;/a&gt; for providing and masterfully wrangling all the necessary technology.&lt;/p&gt;
 
