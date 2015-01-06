@@ -9,6 +9,102 @@
     <updated>Tue, 21 Oct 2014 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 84 - Från kritisk till mer kritisk</title>
+      <link>http://kodsnack.se/84/</link>
+      <pubDate>Tue, 06 Jan 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/84/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om att komma tillbaka in i jobbet efter ledighet, att veta vad man ska göra och hur lång tid det tar innan man kommer in i något igen. Ibland är man bara inte i den där zonen där man vet hur kod funkar. Fredrik berättar om sitt lilla leksaksprojekt med A* och Kristoffer har breddat sin grad av kritik mot programmeringsparadigm till att omfatta i princip allt. Tobias har byggt ett lite störe pythonprojekt och lärt sig uppskatta nya saker. Därifrån kommer vi in på sätt att få typkontroller i Python och allmän typhantering. Språk kan bli så uttrycksfulla och koncisa att koden blir svårtolkad, vilket är lätt att se som ett problem, samtidigt som det onekligen leder till färre och kortare rader kod vilket i sig är direkt kopplat till en minskning av antalet buggar.&lt;/p&gt;
+
+&lt;p&gt;Ja, och gott nytt år!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.603364&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Non-disclosure_agreement&#34;&gt;NDA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/61/&#34;&gt;Kristoffers spelknackande&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.m.wikipedia.org/wiki/Command_%26_Conquer_%281995_video_game%29&#34;&gt;Command &amp;amp; Conquer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.m.wikipedia.org/wiki/Real-time_strategy&#34;&gt;RTS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pathfinding&#34;&gt;Pathfinding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/A*_search_algorithm&#34;&gt;A*&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/A*_search_algorithm#Pseudocode&#34;&gt;Pseudokod på Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Lost_Vikings&#34;&gt;Lost vikings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lemmings_%28video_game%29&#34;&gt;Lemmings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Devalvering&#34;&gt;Devalvering&lt;/a&gt; - inte vad Kristoffer menade&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/82/&#34;&gt;Vårt snack med James Mickens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Proof_of_concept&#34;&gt;Proof of concept&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;Pycharm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/clion/&#34;&gt;Jetbrains IDE för C++ CLion, SeaLion?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/webstorm/&#34;&gt;Webstorm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/pycharm/webhelp/type-hinting-in-pycharm.html&#34;&gt;Typhintning för Python och Pycharm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tuple&#34;&gt;Tupel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/2/library/constants.html&#34;&gt;None i Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Function_overloading&#34;&gt;Överlagring av funktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.haskell.org/haskellwiki/Haskell&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Template_%28C%2B%2B%29&#34;&gt;Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Generic_programming&#34;&gt;Generics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Guido_van_Rossum&#34;&gt;Guido&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Serial_comma&#34;&gt;Oxfordkomma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mail.python.org/pipermail/python-ideas/2014-December/030430.html&#34;&gt;Typhintning för Python 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://common-lisp.net/&#34;&gt;Common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ai.mit.edu/projects/iiip/doc/CommonLISP/HyperSpec/Body/dec_type.html&#34;&gt;Common Lisps typhintning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.learncpp.com/cpp-tutorial/613-void-pointers/&#34;&gt;voidpekare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/edit?pli=1#heading=h.vuko0u3txoew&#34;&gt;Diskussioner om generics i Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html&#34;&gt;Swift och generics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html&#34;&gt;Protokoll i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/ruby/ruby_iterators.htm&#34;&gt;&amp;ldquo;Bakvända if-statser&amp;rdquo; i Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.skorks.com/2009/09/using-ruby-blocks-and-rolling-your-own-iterators/&#34;&gt;Skriva sina egna itereringsfunktioner i Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/98&#34;&gt;Senaste ATP&lt;/a&gt; - Marco lär sig Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/marcoarment/status/552202315181326336&#34;&gt;Marcos tweet om att hans goinfrastruktur är live&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/24057171/what-the-meaning-of-question-mark-in-swift&#34;&gt;Frågeteckenoperatorn i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brainfuck&#34;&gt;Brainfuck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/List_comprehension&#34;&gt;List comprehension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clojure.org/transducers&#34;&gt;Transducers i Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Map_%28higher-order_function%29&#34;&gt;Map i funktionell programmering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/dev/peps/pep-0318/&#34;&gt;Decorator i Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Memoization&#34;&gt;Memoize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Singleton_pattern&#34;&gt;Singelton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/80/&#34;&gt;Vår intervju med Stefan Karpinski&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag försökte komma in i jobbet igår&lt;/li&gt;
+&lt;li&gt;Jag vet inte riktigt vad jag sysslar med&lt;/li&gt;
+&lt;li&gt;Det hade ju varit på något sätt skönt att veta exakt vad man sysslade med&lt;/li&gt;
+&lt;li&gt;Det kanske är ett RTS vi ska göra?&lt;/li&gt;
+&lt;li&gt;Försök navigera dig fram till ett ämne&lt;/li&gt;
+&lt;li&gt;Rakt framåt mot köttkvarnen&lt;/li&gt;
+&lt;li&gt;Resetta allting till ingenting&lt;/li&gt;
+&lt;li&gt;Knappt så man kommer ihåg hur en for-loop ser ut&lt;/li&gt;
+&lt;li&gt;Från kritisk till mer kritisk&lt;/li&gt;
+&lt;li&gt;Nihilistisk loop&lt;/li&gt;
+&lt;li&gt;Aldrig ett steg bakåt&lt;/li&gt;
+&lt;li&gt;En typ in och en typ  ut&lt;/li&gt;
+&lt;li&gt;Python med typning&lt;/li&gt;
+&lt;li&gt;Mer bekväma typsystem&lt;/li&gt;
+&lt;li&gt;Guido är ens bästa kompis&lt;/li&gt;
+&lt;li&gt;En arg britt som slår en på fingrarna&lt;/li&gt;
+&lt;li&gt;Tusen varningsflaggor&lt;/li&gt;
+&lt;li&gt;Lite legacy i det hela&lt;/li&gt;
+&lt;li&gt;En ohyra från C++-världen&lt;/li&gt;
+&lt;li&gt;När man väl har förstått templates - vilket i princip är omöjligt&lt;/li&gt;
+&lt;li&gt;Lite för fiffigt&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 83 - Easy by virtue of travelling the hard way</title>
       <link>http://kodsnack.se/83/</link>
       <pubDate>Tue, 30 Dec 2014 10:26:14 UTC</pubDate>
@@ -1450,89 +1546,6 @@
 &lt;li&gt;Ett käckt namn och en häftig slogan&lt;/li&gt;
 &lt;li&gt;Modern alkemi&lt;/li&gt;
 &lt;li&gt;Koncentrationen skulle vara på topp, eller frustrationen&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 69 - Att helt hänge sig till ett ramverk</title>
-      <link>http://kodsnack.se/69/</link>
-      <pubDate>Tue, 23 Sep 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/69/</guid>
-      <description>
-
-&lt;p&gt;Tobias och Fredrik snackar javascriptramverk och att försöka hänga med i svängarna på området. Det händer mycket med Javascript, det används till fler och fler saker, det kommer ständigt nya ramverk, själva språket utvecklas och dessutom görs många försök att förbättra eller ersätta hela språket. Vi gör en resa från &lt;a href=&#34;http://sproutcore.com/about/&#34;&gt;Sproutcore&lt;/a&gt; via &lt;a href=&#34;http://knockoutjs.com/&#34;&gt;Knockout&lt;/a&gt; till &lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt; och &lt;a href=&#34;http://nodejs.org/&#34;&gt;Node&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.582923/&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; sponsrar våra livesändningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://live.kodsnack.se&#34;&gt;Kodsnacks livesändningssida&lt;/a&gt; - torsdagar 20:30 är hålltiden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_Relay_Chat&#34;&gt;IRC&lt;/a&gt; - internet relay chat, anrikt protokoll för överföring av textmeddelanden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt; - veckans sponsor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://knockoutjs.com/&#34;&gt;Knockout&lt;/a&gt; - javscriptramverk fokuserat på databindning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://backbonejs.org/&#34;&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sproutcore.com/about/&#34;&gt;Sproutcore&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MobileMe&#34;&gt;MobileMe - Wikipedia, the free encyclopedia&lt;/a&gt; - onlinetjänster från Apple vars webbgränssnitt byggdes med Sproutcore&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/charlesjolley&#34;&gt;Charles Jolley&lt;/a&gt; - Sproutcores skapare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cappuccino-project.org/&#34;&gt;Cappuccino&lt;/a&gt; - webbapplikationsramverk med eget språk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://emberjs.com/&#34;&gt;Ember.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://yehudakatz.com/2011/12/08/announcing-amber-js/&#34;&gt;Sproutcore 2.0 blev Ember i november 2011&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Model_View_ViewModel&#34;&gt;MVVM&lt;/a&gt; - Model view viewmodel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller&#34;&gt;MVC&lt;/a&gt; - model view controller&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Architectural_pattern&#34;&gt;Design- och arkitekturmönster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PARC_%28company%29&#34;&gt;Xerox PARC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Smalltalk&#34;&gt;Smalltalk&lt;/a&gt; - gammalt och inflytelserikt objektorienterat språk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/Introduction/Introduction.html&#34;&gt;Viewcontroller&lt;/a&gt; - kontrollobjekt hårt knutet till en viss vy&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/ms752347%28v=vs.110%29.aspx&#34;&gt;Databindning i .net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jquery.org/&#34;&gt;jQuery&lt;/a&gt; - javascriptramverk för att hantera dokumentobjektmodellen på effektivare sätt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://knockoutjs.com/documentation/value-binding.html&#34;&gt;Databindningsattributet för Knockout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object-relational_mapping&#34;&gt;ORM&lt;/a&gt; - object-relational mapping&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt; - javascriptramverk med fokus på användargränssnitt&lt;/li&gt;
-&lt;li&gt;Fredrik fick glappkontakt i huvudet vid ungefär 19:45 - problemen han nämner att de stött på var i Knockout, inte i React som han säger.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt; - veckans sponsor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bit.ly/pre-proceranetworks&#34;&gt;Proceras lediga tjänster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Field-programmable_gate_array&#34;&gt;FPGA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Objective-J&#34;&gt;Objective-J&lt;/a&gt; - Objective-C-liknande språk som används av ramverket Cappuccino&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dartlang.org/&#34;&gt;Dart&lt;/a&gt; - googlespråk som vill vara ett bättre Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://coffeescript.org/&#34;&gt;CoffeeScript&lt;/a&gt; - javascriptsuperset&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B11&#34;&gt;C++11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nodejs.org/&#34;&gt;node.js&lt;/a&gt; - asynkron servermiljö där kod skrivs i Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gruntjs.com/&#34;&gt;Grunt&lt;/a&gt; och &lt;a href=&#34;http://gulpjs.com/&#34;&gt;gulp.js&lt;/a&gt; - två exempel på bygg- och automatiseringssystem byggda på Node&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rogerwang/node-webkit&#34;&gt;node-webkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Inception&#34;&gt;Inception&lt;/a&gt; - drömfilm från 2011&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Asynchronous_I/O&#34;&gt;Asynkron I/O &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jordanorelli.com/post/31533769172/why-i-went-from-python-to-go-and-not-node-js&#34;&gt;Från Python till Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b&#34;&gt;Farväl node.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Holy_Grail&#34;&gt;Den heliga graal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Exception_handling&#34;&gt;Exception&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.typescriptlang.org/&#34;&gt;Typescript&lt;/a&gt; - microsoftsuperset av Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spotify&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://donmelton.com/&#34;&gt;Don Melton&lt;/a&gt; - ledde apples utveckling av Safari och Webkit från starten&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=messages+app+ios&amp;amp;client=safari&amp;amp;rls=en&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ei=KaQeVI_uDsOBywOp5oDgCQ&amp;amp;ved=0CAgQ_AUoAQ&amp;amp;biw=1362&amp;amp;bih=644&#34;&gt;Meddelanden-appen på iOS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;Kodsnack på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Man kommer ju inte undan det&lt;/li&gt;
-&lt;li&gt;Att helt hänge sig till ett ramverk&lt;/li&gt;
-&lt;li&gt;Javascript, som det stora språk det är&lt;/li&gt;
-&lt;li&gt;Faux-Mac OS X-looken&lt;/li&gt;
-&lt;li&gt;Jag såg ett galet projekt&lt;/li&gt;
-&lt;li&gt;Det börjar bli liksom som Inception&lt;/li&gt;
-&lt;li&gt;Framåtmoment bakom teknikerna&lt;/li&gt;
-&lt;li&gt;Oväntad out-of-band-kommunikation&lt;/li&gt;
-&lt;li&gt;Webbens C&lt;/li&gt;
-&lt;li&gt;Hur mycket Go vill vi ha i vår infrastruktur&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
