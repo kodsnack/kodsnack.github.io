@@ -96,8 +96,8 @@
 &lt;/ul&gt;
 
                 </description>
-                <enclosure length="" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_2.mp3"/>
-                <itunes:duration></itunes:duration>
+                <enclosure length="48441929" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_2.mp3"/>
+                <itunes:duration>54:31</itunes:duration>
                 <itunes:explicit>yes</itunes:explicit>
                 <itunes:keywords/>
                 <itunes:subtitle>
@@ -151,8 +151,8 @@
 &lt;/ul&gt;
 
                 </description>
-                <enclosure length="" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_Destiny.mp3"/>
-                <itunes:duration></itunes:duration>
+                <enclosure length="13027480" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_Destiny.mp3"/>
+                <itunes:duration>13:40</itunes:duration>
                 <itunes:explicit>yes</itunes:explicit>
                 <itunes:keywords/>
                 <itunes:subtitle>
