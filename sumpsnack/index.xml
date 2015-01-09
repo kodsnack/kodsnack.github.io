@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 21 Oct 2014 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 21 Oct 2014 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 09 Jan 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 09 Jan 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,62 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 3 - Alla C64-minnen är svartvita för mig on kodsnack </title>
+                <pubDate>Wed, 09 Jan 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/3/</guid>
+                <link>http://kodsnack.se/sumpsnack/3/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Dagens ungdom kan inte hantera en gammal hederlig handkontroll. Vi snackar om vad vi spelat och läst på sistone, och hittar kanske ett framtida ämne.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://brickset.com/sets/75059-1/Sandcrawler&#34;&gt;Nya Lego Star wars-modeller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wii_U&#34;&gt;Wii U&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_Lego_video_games&#34;&gt;Legospelen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mario_Kart_8&#34;&gt;Mario Kart 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U&#34;&gt;Super smash bros&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_Console&#34;&gt;Virtual console&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Super_Mario_World&#34;&gt;Super Mario world&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Super_Mario_Bros._3&#34;&gt;Super Mario bros 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ancillary_Justice&#34;&gt;Ancillary justice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PlayStation_Vita&#34;&gt;Playstation Vita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Inferno_%28Dan_Brown_novel%29&#34;&gt;Inferno&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://generation64.se/&#34;&gt;Generation 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blue_Remembered_Earth&#34;&gt;Blue remembered earth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Kindle&#34;&gt;Kindle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/E_Ink&#34;&gt;E-ink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/On_the_Steel_Breeze&#34;&gt;On the steel breeze&lt;/a&gt; - uppföljaren till Blue remembered earth&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oneplus.net/se/one&#34;&gt;Oneplus one&lt;/a&gt; - &amp;ldquo;telefonen&amp;rdquo; i fråga&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Har ni gjort något annat kul då?&lt;/li&gt;
+&lt;li&gt;Sjukt mycket Minecraft&lt;/li&gt;
+&lt;li&gt;Modelljärnvägslandskap&lt;/li&gt;
+&lt;li&gt;Allting annat är antingen för komplicerat eller för våldsamt&lt;/li&gt;
+&lt;li&gt;Han har ju bara haft touchkontroller hela livet&lt;/li&gt;
+&lt;li&gt;Mappning mellan fingrarna och skärmen&lt;/li&gt;
+&lt;li&gt;Som att läsa en actionfilm&lt;/li&gt;
+&lt;li&gt;Alla C64-minnen är svartvita för mig&lt;/li&gt;
+&lt;li&gt;Hugga sig i hjärnan med en kniv, enligt forskare&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="8965940" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_3.mp3"/>
+                <itunes:duration>10:10</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 2 - Cyberpunk och super-episk science fiction on kodsnack </title>
