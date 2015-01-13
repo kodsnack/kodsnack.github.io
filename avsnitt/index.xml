@@ -6,7 +6,106 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 06 Jan 2015 10:26:14 UTC</updated>
+    <updated>Tue, 13 Jan 2015 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 85 - Det borde ju räcka med att en person bryr sig</title>
+      <link>http://kodsnack.se/85/</link>
+      <pubDate>Tue, 13 Jan 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/85/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om mjukvarukvalité, dels utifrån nyliga och återkommande diskussioner om Apples mjukvara, dels utifrån vad Google gör och inte gör när det kommer till mjukvara och produktifiering av mjukvara. Känslan vi får av Apple är att de gör bra produkter med för många buggar i mjukvaran, medan Google väcker frågan varför ett företag med så mycket talang inte släpper bättre produkter. Vi kommer bland annat in på enskilda personers påverkan på ett företags inriktning.&lt;/p&gt;
+
+&lt;p&gt;Och för övrigt är alla är nöjda med att de - mer eller mindre problemfritt - lyckats ta sig upp ur sängen såhär tidigt på arbetsåret.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.603863&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
+
+&lt;p&gt;P.S: Fredrik lyckade mycket riktigt hitta en väg runt sin bugg lagom till arbetsveckans slut.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Query_string&#34;&gt;Querystring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTTP_404&#34;&gt;404&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_HTTP_status_codes&#34;&gt;HTTP-statuskoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scrummethodology.com/scrum-meetings/&#34;&gt;Sprintmöten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Retrospective#Software_development&#34;&gt;Retrospective&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marco.org/&#34;&gt;Marco Arment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tumblr&#34;&gt;Tumblr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Instapaper&#34;&gt;Instapaper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overcast.fm/podcasts&#34;&gt;Overcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/&#34;&gt;Accidental podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marco.org/2015/01/04/apple-lost-functional-high-ground&#34;&gt;Apple has lost the functional high ground&lt;/a&gt; - Marcos första artikel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/&#34;&gt;Kodapor på Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stevejobswouldnever.com/2855&#34;&gt;Det hade aldrig hänt om Steve Jobs levt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Craig_Federighi&#34;&gt;Craig Federighi&lt;/a&gt; - numera mjukvaruansvarig på Apple&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.seattlepi.com/microsoft/2008/06/24/full-text-an-epic-bill-gates-e-mail-rant/&#34;&gt;Interna mail där Bill Gates klagar på Microsofts mjukvarukvalité&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blizzard_Entertainment&#34;&gt;Blizzard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bitsplitting.org/2015/01/05/the-functional-high-ground/&#34;&gt;Daniel Jalkuts diskussion efter Marcos artikel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apple.com/hotnews/thoughts-on-flash/&#34;&gt;Steve Jobs pekade ut Flash som ett problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000069.html&#34;&gt;En av många klassiska diskussioner om att fixa gammal kod istället för att slänga ut och skriva om&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://glog.glennf.com/blog/2015/1/6/the-software-and-services-apple-needs-to-fix&#34;&gt;Glenn Fleishman har sammanställt en lista över applebuggar som påverkar folk just nu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marco.org/2015/01/05/popular-for-a-day&#34;&gt;Marcos uppföljning där han ångrar att han publicerade artikeln&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Consumer_Electronics_Show&#34;&gt;CES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/1/5/7493941/plex-announces-audio-fingerprinting-vevo-playlist-ces-2015&#34;&gt;Plex släppte nya funktioner på CES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/99&#34;&gt;Marco diskuterade även artikeln och reaktionerna i efterföljande avsnitt av Accidental tech podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.ycombinator.com/&#34;&gt;Hacker news&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google%2B&#34;&gt;Google plus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gmail&#34;&gt;Gmail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/mail/answer/186531?hl=en&#34;&gt;Priority inbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/AdSense&#34;&gt;Adsense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Maps&#34;&gt;Google maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/about/datacenters/&#34;&gt;Googles egen publika information om datacenter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Android_Lollipop&#34;&gt;Lollipop&lt;/a&gt; - i sändande stund senaste versionen av Android&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/design/spec/material-design/introduction.html&#34;&gt;Material design&lt;/a&gt; - Googles nya designspråk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Developers#Project_hosting&#34;&gt;code.google.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MapReduce&#34;&gt;Mapreduce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apache_Wave&#34;&gt;Google wave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GitHub&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Git_%28software%29&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Web_Services&#34;&gt;Amazons molntjänster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github startade för att göra Git enkelt: &lt;a href=&#34;http://tom.preston-werner.com/2008/10/18/how-i-turned-down-300k.html&#34;&gt;http://tom.preston-werner.com/2008/10/18/how-i-turned-down-300k.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sergey_Brin&#34;&gt;Sergey Brin&lt;/a&gt; - medgrundare av Google&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mmm, lecacysystem&lt;/li&gt;
+&lt;li&gt;Tillbaka fyra år i tiden&lt;/li&gt;
+&lt;li&gt;Känna sig lite äcklig efteråt&lt;/li&gt;
+&lt;li&gt;Sju abstrakta steg ner&lt;/li&gt;
+&lt;li&gt;Väldigt mycket fredag&lt;/li&gt;
+&lt;li&gt;En typiskt fredagsbugg&lt;/li&gt;
+&lt;li&gt;I slutändan är man tillbaka där man började&lt;/li&gt;
+&lt;li&gt;Idag hade vi ju faktiskt ett ämne&lt;/li&gt;
+&lt;li&gt;De jobbar på saker väldigt länge och sedan slänger de bort dem&lt;/li&gt;
+&lt;li&gt;Saker och ting blir ju … mer&lt;/li&gt;
+&lt;li&gt;Nu har taket rasat&lt;/li&gt;
+&lt;li&gt;Det finns ingen annan att skylla på än Apple&lt;/li&gt;
+&lt;li&gt;Lista ut vem som är skyldig&lt;/li&gt;
+&lt;li&gt;Det har ju funnits andra att skylla på&lt;/li&gt;
+&lt;li&gt;De får skulden för allt som är fel&lt;/li&gt;
+&lt;li&gt;Det man hör är det tråkiga&lt;/li&gt;
+&lt;li&gt;Man är ju fast i sitt eget perspektiv&lt;/li&gt;
+&lt;li&gt;Om man var internetberömd&lt;/li&gt;
+&lt;li&gt;Kristoffer säger att allt är trasigt&lt;/li&gt;
+&lt;li&gt;Helt oanvändbart och helt otrevligt&lt;/li&gt;
+&lt;li&gt;Acceptabelt på samma sätt som Windows är acceptabelt&lt;/li&gt;
+&lt;li&gt;De tre korvarna uppe till vänster&lt;/li&gt;
+&lt;li&gt;Det enda de tänker på är backend&lt;/li&gt;
+&lt;li&gt;De försöker ju i alla fall&lt;/li&gt;
+&lt;li&gt;Två extrempunkter&lt;/li&gt;
+&lt;li&gt;Fullständigt oanvändbar och värdelös&lt;/li&gt;
+&lt;li&gt;Man jobbar ju på Google för att snöa in på en grej&lt;/li&gt;
+&lt;li&gt;Det borde ju räcka med att en person bryr sig&lt;/li&gt;
+&lt;li&gt;En lösning för Google&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 84 - Från kritisk till mer kritisk</title>
@@ -1443,111 +1542,6 @@
 &lt;li&gt;Allting ser mycket bättre ut på pappret&lt;/li&gt;
 &lt;li&gt;Det är så man får verklighetens kaos&lt;/li&gt;
 &lt;li&gt;En jobbig vardag&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 70 - Modern alkemi</title>
-      <link>http://kodsnack.se/70/</link>
-      <pubDate>Tue, 30 Sep 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/70/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar säkerhet. Fredrik och Tobias har varit på endagarssäkerhetskonferensen Next generation threats 2014 och vi diskuterar utifrån konferensens innehåll säkerhet, integritet, malware och kryptering. Som avslutning snackar vi om det nyupptäckta Shellshock-problemet med Bash.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.584208/&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.aclu.org&#34;&gt;Techworld&lt;/a&gt;, som vi samarbetar med&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/ngt14/&#34;&gt;Next generation threats 2014&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dubfire.net/&#34;&gt;Christopher Soghoyan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.aclu.org&#34;&gt;ACLU&lt;/a&gt; - American civil liberties union&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/National_Security_Agency&#34;&gt;NSA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Edward_Snowden&#34;&gt;Edward Snowden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.apple.com/privacy/&#34;&gt;Apple och integritet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/linked/2014/09/27/fbi-encryption&#34;&gt;Daring fireball - FBI and Police Departments Endorse Apple’s Full Device Encryption&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Default_effect_%28psychology%29&#34;&gt;Power of defaults&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/blog/archives/2012/08/is_iphone_secur.html&#34;&gt;Alla iOS-enheter krypteras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.macrumors.com/2014/09/25/rbi-concerned-with-apple-encryption/&#34;&gt;Apple har inte nyckeln från iOS 8 och framåt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BitLocker&#34;&gt;Bitlocker&lt;/a&gt; - hårddiskkryptering inbyggd i Windows&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/X86&#34;&gt;x86-processorerna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://images.apple.com/iphone/business/docs/iOS_Security_Feb14.pdf&#34;&gt;Secure enclave&lt;/a&gt; - säkerhetskretsen i de senaste iPhone-modellerna&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Entropy_%28computing%29&#34;&gt;Entropi&lt;/a&gt; när det gäller kryptografi&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_rights_management&#34;&gt;DRM&lt;/a&gt; - digital rights management, tekniker för att misslyckas med att skydda upphovsrättsinnehavares rättigheter, oftast genom att försämra livet för betalande kunder&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/False_positives_and_false_negatives&#34;&gt;False positives&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/runasand&#34;&gt;Runa Sandvik&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://freedom.press&#34;&gt;Freedom of press foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://freedom.press/securedrop&#34;&gt;Securedrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wikileaks.org&#34;&gt;Wikileaks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?rls=en&amp;amp;q=nsa+proof&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#34;&gt;&amp;ldquo;NSA proof&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/headhntr&#34;&gt;Morgan Marquis-Boire&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eff.org&#34;&gt;EFF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.securedomain.org&#34;&gt;Secure domain foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Domain_Name_System&#34;&gt;DNS&lt;/a&gt; - Domain name system&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/pinkflawd&#34;&gt;Marion Marschalek&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Zeus_%28Trojan_horse%29&#34;&gt;Zeus&lt;/a&gt;-trojanen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Computer_security_incident_management&#34;&gt;Incident response&lt;/a&gt; - att reagera på och hantera säkerhetsincidenter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Security_Essentials&#34;&gt;Microsoft security essentials&lt;/a&gt; - gratis antivirusprogram för användare av Windows XP, Vista och 7&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Zero-day_attack&#34;&gt;Zero-day exploit&lt;/a&gt; - attack som utnyttjar ett tidigare okänt säkerhetshål&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Heuristic&#34;&gt;Heuristics&lt;/a&gt; - erfarenhetsbaserade tekniker för att hitta tillräckligt bra lösningar på problem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_McAfee&#34;&gt;John McAfee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pub/robin-blokker/0/a9a/772&#34;&gt;Robin Blokker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fra.se&#34;&gt;FRA&lt;/a&gt; - Försvarets radioanstalt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thoughtcrime.org/&#34;&gt;Moxie Marlinspike&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://whispersystems.org&#34;&gt;Open whisper systems&lt;/a&gt; - Moxies organisation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pretty_Good_Privacy&#34;&gt;PGP&lt;/a&gt; - Pretty good privacy, mjukvara för kryptering&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Off-the-Record_Messaging&#34;&gt;OTR&lt;/a&gt; - Off the record, protokoll för kryptering av direktmeddelandekonversationer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange&#34;&gt;Diffie-Hellman&lt;/a&gt; - metod för utbyte av kryptografiska nycklar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://trevp.net&#34;&gt;Trevor Perrin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z7Wl2FW2TcA&#34;&gt;Presentation av Moxie Marlinspike om att lösa CA-problemet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/bash/&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shellshock_%28software_bug%29&#34;&gt;Shellshock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Environment_variable&#34;&gt;Miljövariabler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.urbandictionary.com/define.php?term=rm%20-rf%20%2F&#34;&gt;rm -rf /&lt;/a&gt; - terminalkommando som tar bort allt innehåll på hårddisken&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apache_HTTP_Server&#34;&gt;Apache&lt;/a&gt; - populär och öppen webbserver&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Common_Gateway_Interface&#34;&gt;CGI&lt;/a&gt; - API mellan en webbserver och program som kan generera innehåll åt den&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zdnet.com/shellshock-how-to-protect-your-unix-linux-and-mac-servers-7000034072/&#34;&gt;Processer som kan användas för att utnyttja säkerhetsproblemet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zdnet.com/shellshock-better-bash-patches-now-available-7000034115/&#34;&gt;Första patchen av bash räckte inte&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Shellshock kan även &lt;a href=&#34;https://www.trustedsec.com/september-2014/shellshock-dhcp-rce-proof-concept/&#34;&gt;nyttjas via DHCP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/POSIX&#34;&gt;POSIX&lt;/a&gt; - standardfamilj för kompatibilitet mellan operativsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleonlinesecurity.blogspot.se/2014/07/announcing-project-zero.html&#34;&gt;Googles project zero&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://heartbleed.com&#34;&gt;Heartbleed&lt;/a&gt; - säkerhetshål i OpenSSL som uppmärksammades i april  2014&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Matrix&#34;&gt;Matrix&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.templeos.org&#34;&gt;Operativsystemet Temple&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/cstdio/sprintf/&#34;&gt;sprintf&lt;/a&gt; - c-funktion som skriver formatterad data till en sträng&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Off-by-one_error&#34;&gt;Off-by-one-fel&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Frihetssällskapet&lt;/li&gt;
-&lt;li&gt;Inte bara doom-and-gloom-snacket&lt;/li&gt;
-&lt;li&gt;Att inte ha nyckeln gör det väldigt svårt att dela ut den&lt;/li&gt;
-&lt;li&gt;Slentrianextraktion av din data&lt;/li&gt;
-&lt;li&gt;Helt okrypterad i en databasdump&lt;/li&gt;
-&lt;li&gt;Det svåra med säkerhet är att säkerhet är svårt&lt;/li&gt;
-&lt;li&gt;Att kämpa mot sig själv&lt;/li&gt;
-&lt;li&gt;Per definition reaktivt&lt;/li&gt;
-&lt;li&gt;Det kanske är lika bra det&lt;/li&gt;
-&lt;li&gt;De säkerhetsföretag som vill överleva&lt;/li&gt;
-&lt;li&gt;Det vi oroar oss mest för i säkerhetsbranschen&lt;/li&gt;
-&lt;li&gt;VDn har en supersäker telefon&lt;/li&gt;
-&lt;li&gt;Alla nycklar till hela slottet&lt;/li&gt;
-&lt;li&gt;Den som ingen tänker på&lt;/li&gt;
-&lt;li&gt;Ett enkelt problem när man vet vad det är&lt;/li&gt;
-&lt;li&gt;En feature som alla har glömt fanns där&lt;/li&gt;
-&lt;li&gt;Verkligen ett gigantiskt hål&lt;/li&gt;
-&lt;li&gt;En POSIX/Unix-värld&lt;/li&gt;
-&lt;li&gt;När det skrevs så fanns i princip inte internet&lt;/li&gt;
-&lt;li&gt;Såhär rapporterar media om allt&lt;/li&gt;
-&lt;li&gt;Ett käckt namn och en häftig slogan&lt;/li&gt;
-&lt;li&gt;Modern alkemi&lt;/li&gt;
-&lt;li&gt;Koncentrationen skulle vara på topp, eller frustrationen&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
