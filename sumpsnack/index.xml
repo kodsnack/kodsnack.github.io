@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 18 Jan 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 18 Jan 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 20 Jan 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 20 Jan 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,53 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 5 - Den fastnar bra i bordet on kodsnack </title>
+                <pubDate>Wed, 20 Jan 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/5/</guid>
+                <link>http://kodsnack.se/sumpsnack/5/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Fredrik och Tobias snackar om nya leksaker.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/tapbot_paul&#34;&gt;Paul Haddad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tapbots.com/&#34;&gt;Tapbots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fuzdesigns.com/pages/everdock&#34;&gt;Everdock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Everdock duo på Coolstuff](&lt;a href=&#34;http://www.coolstuff.se/EverDock]&#34;&gt;http://www.coolstuff.se/EverDock]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lightning_%28connector%29&#34;&gt;Lightning&lt;/a&gt; - Applekontakt och protokoll som används för moderna iOS-enheter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dock_connector#Apple_30-pin_dock_connector&#34;&gt;30-stiftskontakten&lt;/a&gt; - Apples föregångare till lightningkontakten&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IPhone_6&#34;&gt;Iphone 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IPad_Mini_2&#34;&gt;Ipad mini med retina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IPhone_4S&#34;&gt;Iphone 4S&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Touch_ID&#34;&gt;Touch ID&lt;/a&gt; - Apples fingeravtrycksläsare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://instagram.com/thieta&#34;&gt;Tobias på Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_signal_processor&#34;&gt;DSP&lt;/a&gt; - digital signalprocessor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/4&#34;&gt;Sumpsnack 4&lt;/a&gt; innehöll något mer politik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Den fastnar bra i bordet&lt;/li&gt;
+&lt;li&gt;Den vanliga sexan, inte slagskeppet&lt;/li&gt;
+&lt;li&gt;Grindloopen&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="6922355" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_5.mp3"/>
+                <itunes:duration>18:44</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 4 - Vi är hycklare allihop on kodsnack </title>

@@ -6,7 +6,123 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Sun, 18 Jan 2015 10:26:14 UTC</updated>
+    <updated>Tue, 20 Jan 2015 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 86 - Mitt favorit-X</title>
+      <link>http://kodsnack.se/85/</link>
+      <pubDate>Tue, 20 Jan 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/85/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias följer upp kommentarer från tidigare avsnitt. Ämnen som tas upp är bland annat det här med att lära sig saker från grunden, kopplingen mellan det och alla nya lösningar och språk som skapas. Att prova på nya språk och våga experimentera i början av nya projekt.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.604389&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
+
+&lt;p&gt;Återigen, om du vill berätta om något vi inte har koll på vill vi jättegärna få höra det!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Billy Sjöbergs kommentar&lt;/h2&gt;
+
+&lt;p&gt;Hej på er!&lt;/p&gt;
+
+&lt;p&gt;Ett stort grattis till ett grymt program, det är en njutning att höra
+er nörda ner er en gång i veckan i podcasten.&lt;/p&gt;
+
+&lt;p&gt;Ni hade ett väldigt intressant avsnitt där ni bjöd in en .Net-snubbe
+som proklamerade för hur MS gått mot OSS-hållet samt hur språket .Net
+har förändrats.
+Det vore jäkligt kul att höra ett liknande program med någon från
+JVM-sidan, då ni generellt verkar vara väldigt snabba på att basha
+Java trots att era erfarenheter främst verkar sträcka sig till kodning
+i sorgebarnet Eclipse och old-school Java.&lt;/p&gt;
+
+&lt;p&gt;Har kodat i flera språk under resans gång (C++, JS, Go, Python,
+JVM-språk etc) och jag kan hålla med om att Java har haft en
+legacy-stämpel under de sista åren. Trots det är det svårt att
+ignorera dess popularitet och position som ett utav de nuvarande
+största språken.
+Java 8 som släpptes förra året var ett stort steg fram för språket och
+även om det legat still ett tag så finns det hopp då man börjar plocka
+in delar utav funktionell programmering och bättre collections-api&amp;rsquo;er
+etc.&lt;/p&gt;
+
+&lt;p&gt;Det finns ju även en uppsjö utav intressanta JVM-språk som ni skulle
+kunna ta upp och experimentera med. Dessa har sprungit förbi Java i
+produktivitiet sedan länge och är väldigt trevliga att koda i. När jag
+exempelvis lyssnade på era diskussioner kring typning i Python så
+önskade jag att nån av er hade testat ex Groovy som är ett
+&amp;ldquo;eventuellt&amp;rdquo; typat språk som liknar Python men drar med sig mycket
+utav det goda från Java-världen samtidigt som det lämnar de dåliga
+bitarna. Väldigt användbart från allt till små enkla admin-script till
+ex fulla web-applikationer eller api-tjänster.&lt;/p&gt;
+
+&lt;p&gt;För den lite mer akademiske kan man även kika på min favorit Scala som
+i mina ögon representerar hur Java skulle sett ut om det designades på
+den här sidan millennieskiftet. Väldigt intressant språk med ena benet
+i den funktionella och andra i den objektorienterade världen.&lt;/p&gt;
+
+&lt;p&gt;Kort sagt, vore intressant om ni gav JVM-världen en chans till och
+försöka se vad som egentligen växt upp på andra sidan häcken medans ni
+var borta.&lt;/p&gt;
+
+&lt;p&gt;Fortsätt ert underbara arbete och koda väl!&lt;/p&gt;
+
+&lt;p&gt;/Billy&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se/sumpsnack/5&#34;&gt;Veckans bonusmaterial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt; på Twitter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.604389&#34;&gt;Avsnittet på Techworld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/83/&#34;&gt;Avsnittet med Rob Ashton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.603280/&#34;&gt;Kommentarerna på avsnittet med Rob Ashton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atthefrontend.dk/&#34;&gt;At the frontend&lt;/a&gt; - konferensen där Rob höll öppningsanförandet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Haskell_%28programming_language%29&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scale_%28music%29&#34;&gt;Skalor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Leaky_abstraction&#34;&gt;Läckande abstraktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/59/&#34;&gt;Tidigare avsnitt om att lära sig saker och att utvecklingen går snabbt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Not_invented_here&#34;&gt;Not invented here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.rust-lang.org/2014/12/12/1.0-Timeline.html&#34;&gt;Rust har nått 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/foundation/&#34;&gt;Mozilla foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/servo/servo&#34;&gt;Servo&lt;/a&gt; - webbläsarmotor skriven i Rust&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Go_%28programming_language%29&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cambrian_explosion&#34;&gt;Cambriska explosionen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Manual_memory_management&#34;&gt;Manuell minneshantering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/81/&#34;&gt;Vårt snack med Filip Ekberg om .net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html&#34;&gt;Nyheter i Java 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.oracle.com/javase/8/docs/technotes/guides/collections/index.html&#34;&gt;Java collections-API:er&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Paradigm&#34;&gt;Paradigm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scala-lang.org/&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Groovy_%28programming_language%29&#34;&gt;Groovy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marco.org&#34;&gt;Marco Arment&lt;/a&gt; på &lt;a href=&#34;http://www.atp.fm&#34;&gt;ATP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://knockoutjs.com&#34;&gt;Knockout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Svart hål av negativ feedback&lt;/li&gt;
+&lt;li&gt;Forcera sig igenom problemen&lt;/li&gt;
+&lt;li&gt;För att bli bra på att klättra&lt;/li&gt;
+&lt;li&gt;En platå där någon har försökt skydda en från allt&lt;/li&gt;
+&lt;li&gt;En produkt att sälja till kunden imorgon&lt;/li&gt;
+&lt;li&gt;Stora intensiva backendsystem&lt;/li&gt;
+&lt;li&gt;Vi har avancerat i vår förståelse&lt;/li&gt;
+&lt;li&gt;Brytpunkter&lt;/li&gt;
+&lt;li&gt;Alla tror att de kan lösa problemet bättre&lt;/li&gt;
+&lt;li&gt;Mitt favorit-X&lt;/li&gt;
+&lt;li&gt;När man multiparadigmar sina språk&lt;/li&gt;
+&lt;li&gt;Kunskapen som koden sätter på pränt&lt;/li&gt;
+&lt;li&gt;Massan som man har producerat&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 85 - Det borde ju räcka med att en person bryr sig</title>
@@ -1433,115 +1549,6 @@
 &lt;li&gt;Så länge bekymren finns på CPU:n&lt;/li&gt;
 &lt;li&gt;Som ett tåg som drar igång&lt;/li&gt;
 &lt;li&gt;Vidareutveckla Flappy bird&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 71 - När man exponerar sitt versionsnummer</title>
-      <link>http://kodsnack.se/71/</link>
-      <pubDate>Tue, 07 Oct 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/71/</guid>
-      <description>
-
-&lt;p&gt;Vi följer upp &lt;a href=&#34;http://kodsnack.se/69/&#34;&gt;avsnittet om Javascript&lt;/a&gt; och fyller på med mer diskussion om Javascript och dess mening. Ett verktyg kan vara rätt för din situation även om det oftast inte är rätt för alla andra.&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi versionsnummer utifrån Microsofts nyss presenterade Windows 10. Hur hanterar man versionsnummer, vad bör de vara och ska de ens innebära något?&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.586504/&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/69/&#34;&gt;Vårt javascriptavsnitt&lt;/a&gt; - Att helt hänge sig till ett ramverk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_10&#34;&gt;Windows 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; sponsrar våra livesändningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://live.kodsnack.se&#34;&gt;Kodsnacks livesändningssida&lt;/a&gt; - torsdagar 20:30 är hålltiden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.582923/kodsnack--en-resa-genom-javascript?articleRenderMode=listpostings#comment-1602033599&#34;&gt;Markus Fredrikssons kommentar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/13504906/what-is-two-way-binding&#34;&gt;Tvåvägsdatabindning&lt;/a&gt; - att koppla samman ett objekts egenskap med ett värde i en vy så att en ändring av den ena automatiskt ändrar den andra&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scope_%28computer_science%29&#34;&gt;Statiskt omfång&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.jeremymartin.name/2008/03/understanding-loose-typing-in.html&#34;&gt;Lös typning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/First-class_function&#34;&gt;Förstaklassfunktion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://aptitude.alioth.debian.org/doc/en/pr01s02.html&#34;&gt;Pakethanterare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jquery.org/&#34;&gt;Jquery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://backbonejs.org/&#34;&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://json.org/&#34;&gt;JSON&lt;/a&gt; - Javascript object notation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://requirejs.org/&#34;&gt;RequireJS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript&#34;&gt;Javascripts historia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Prototype-based_programming&#34;&gt;Prototypbaserat arv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Constructor_%28object-oriented_programming%29&#34;&gt;Constructor&lt;/a&gt; - en subrutin i en klass som skapar nya objekt av klassen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.crockford.com/&#34;&gt;Douglas Crockford&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nordicjs.com/&#34;&gt;Nordic.js&lt;/a&gt; - svensk konferens där Douglas Crockford med flera talade&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742&#34;&gt;JavaScript: The Good Parts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.haskell.org/haskellwiki/Haskell&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Monad_%28functional_programming%29&#34;&gt;Monad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://coffeescript.org/&#34;&gt;Coffeescript&lt;/a&gt; - ett av många språk som kompilerar till Javascript. Fast Tobias menade &lt;a href=&#34;http://en.wikipedia.org/wiki/Objective-J&#34;&gt;Objective-J&lt;/a&gt; och  &lt;a href=&#34;http://en.wikipedia.org/wiki/Cappuccino_%28application_development_framework%29&#34;&gt;Cappuccino&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/clojure/clojurescript&#34;&gt;Clojurescript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.typescriptlang.org/&#34;&gt;Typescript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gwtproject.org/&#34;&gt;GWT&lt;/a&gt; - Google web toolkit, ramverk som genererar webbgränssnitt från javakod&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Swing_%28Java%29&#34;&gt;Swing&lt;/a&gt; - gränssnittsramverk för Java&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dartlang.org/&#34;&gt;Dart&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://notch.net/2014/09/doom/&#34;&gt;Notch jobbar på Doom i Dart&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dartlang.org/tools/dartium/&#34;&gt;Dartium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.chromium.org/&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WebGL&#34;&gt;WebGL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://asmjs.org/&#34;&gt;asm.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/&#34;&gt;WebKit FTL JIT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Intermediate_language&#34;&gt;IR&lt;/a&gt; - intermediärrepresentation, kod som bearbetats av en kompilator men inte omvandlats till maskinkod&lt;/li&gt;
-&lt;li&gt;Kodsnack kommer att delta i &lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev 2014&lt;/a&gt;! Kom och säg hej, kom tidigt och få en tröja!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/British+Virgin+Islands/@18.420695,-64.639968,7z/data=!4m2!3m1!1s0x8c05739c2b6453cd:0x6da070eeb1ec3b3d&#34;&gt;Brittiska jungfruöarna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/se/podcast/kodsnack/id561631498?mt=2&#34;&gt;Recensera oss gärna i iTunes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.neowin.net/news/microsoft-posts-windows-10-keynote-video-lets-you-relive-the-magic&#34;&gt;Windows 10-presentationen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://windows.microsoft.com/en-us/windows/preview&#34;&gt;Utvecklarförhandsversionen av Windows 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metro_%28design_language%29&#34;&gt;Modern UI (tidigare känt som Metro)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://searchcode.com/?q=if%28version%2Cstartswith%28%22windows+9%22%29&#34;&gt;Många känner av windowsversion på dåliga sätt i sin kod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gaijin.at/en/lstwinver.php&#34;&gt;Windowsversionsnummer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.useragentstring.com/pages/Browserlist/&#34;&gt;Webbläsaridentifikationssträngar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Feature_detection_%28web_development%29&#34;&gt;Feature detection&lt;/a&gt; - att kontrollera om funktioner man vill använda i sin kod finns innan man använder dem. Tas ofta upp i samband med webbutveckling, där man bör känna av funktioner istället för att - till exempel - göra antaganden utifrån webbläsarens identifikationssträng&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sldn.softlayer.com/blog/sthompson/understanding-objective-c-messaging&#34;&gt;Meddelandeskickande &lt;/a&gt; och &lt;a href=&#34;http://stackoverflow.com/questions/16922013/what-does-it-mean-to-weak-link-a-framework&#34;&gt;svag länkning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Vi snackade Python 2 och 3 i &lt;a href=&#34;http://kodsnack.se/53/&#34;&gt;avsnitt 53 - Gör en Python 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl_6#Major_changes_from_Perl_5&#34;&gt;Perl 5 och Perl 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_ME&#34;&gt;Windows ME&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_NT&#34;&gt;Windows NT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Vista&#34;&gt;Windows vista&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://halls-of-valhalla.org/beta/news/from-php-5-to-7,146/&#34;&gt;PHP hoppar över version 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Installer&#34;&gt;MSI&lt;/a&gt; - installationssystem för Windows&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://coreos.com/&#34;&gt;CoreOS&lt;/a&gt; - linuxdistribution avsedd för stora servermiljöer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/TeX#History&#34;&gt;TeX versionsnummer närmar sig pi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://qt-project.org/search/tag/qt~creator&#34;&gt;Qt creator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://semver.org/&#34;&gt;Semantic versioning&lt;/a&gt; - versionsnummer med tydligt definierad innebörd&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Less_%28Unix%29&#34;&gt;less&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SHA-1&#34;&gt;SHA-1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Safari_%28web_browser%29&#34;&gt;Safari&lt;/a&gt; - Apples webbläsare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.apple.com/osx/preview/&#34;&gt;Yosemite - Mac OS X 10.10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Vista#As_Longhorn&#34;&gt;Longhorn - Windows vista&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://namingschemes.com/Windows_codenames&#34;&gt;Windowskodnamn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_95&#34;&gt;Chicago - Windows 95&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_7&#34;&gt;Blackcomb - Windows 7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.ubuntu.com/DevelopmentCodeNames&#34;&gt;Ubuntukodnamn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Med strömmen i Javascript&lt;/li&gt;
-&lt;li&gt;Så länge Javascript är det vi är fast med&lt;/li&gt;
-&lt;li&gt;Nära den virtuella metallen&lt;/li&gt;
-&lt;li&gt;Det fanns ingen stor idé när språket skrevs&lt;/li&gt;
-&lt;li&gt;En schemeprogrammerare som har försökt skriva Java&lt;/li&gt;
-&lt;li&gt;Då skriver man klasser och blir arg&lt;/li&gt;
-&lt;li&gt;En grupp javaprogrammerare som skulle skriva ett gränssnitt&lt;/li&gt;
-&lt;li&gt;Han ser ju väldigt produktiv ut (i Dart)&lt;/li&gt;
-&lt;li&gt;Masserad kod&lt;/li&gt;
-&lt;li&gt;Det handlar ju om att folk skriver värdelöst dålig kod&lt;/li&gt;
-&lt;li&gt;En ny version vart tjugonde år&lt;/li&gt;
-&lt;li&gt;När man exponerar sitt versionsnummer (för annan kod)&lt;/li&gt;
-&lt;li&gt;Det är ganska gulligt&lt;/li&gt;
-&lt;li&gt;Allting ser mycket bättre ut på pappret&lt;/li&gt;
-&lt;li&gt;Det är så man får verklighetens kaos&lt;/li&gt;
-&lt;li&gt;En jobbig vardag&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
