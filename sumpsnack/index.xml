@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 20 Jan 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 20 Jan 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 27 Jan 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 27 Jan 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,61 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 6 - Ett lager till av trasighet on kodsnack </title>
+                <pubDate>Wed, 27 Jan 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/6/</guid>
+                <link>http://kodsnack.se/sumpsnack/6/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Vi snackar Portal och Portal 2, Matrix-trilogin, ljudinspelning och ljud-API:er.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Twitch.tv&#34;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Minecraft&#34;&gt;Minecraft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Portal_2&#34;&gt;Portal 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Portal_%28video_game%29&#34;&gt;Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Matrix&#34;&gt;Matrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Die_Hard&#34;&gt;Die hard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rogueamoeba.com/audiohijack/&#34;&gt;Nya Audio hijack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sixcolors.com/post/2015/01/audio-hijack-3-a-huge-amazing-update/&#34;&gt;Artikel och intervju om Audio hijack&lt;/a&gt; - på Six colors&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Core_Audio&#34;&gt;Cora audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alsa-project.org/main/index.php/Main_Page&#34;&gt;Alsa&lt;/a&gt; - Advanced Linux sound architecture&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Open_Sound_System&#34;&gt;OSS&lt;/a&gt; - Open sound system&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PulseAudio&#34;&gt;Pulse audio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JACK_Audio_Connection_Kit&#34;&gt;Jack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://handmadehero.org/&#34;&gt;Handmade hero&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det är ju testkammare&lt;/li&gt;
+&lt;li&gt;En ganska ren upplevelse&lt;/li&gt;
+&lt;li&gt;Jag vet inte om jag behövde mer Matrix&lt;/li&gt;
+&lt;li&gt;Jag litar på gammal teknik&lt;/li&gt;
+&lt;li&gt;Nu förstår man det&lt;/li&gt;
+&lt;li&gt;Förståeligt&lt;/li&gt;
+&lt;li&gt;Man kan resonera sig igenom det&lt;/li&gt;
+&lt;li&gt;Alldeles för bra koll&lt;/li&gt;
+&lt;li&gt;Samma sak på sju olika sätt&lt;/li&gt;
+&lt;li&gt;Ett lager till av trasighet&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="7405147" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_6.mp3"/>
+                <itunes:duration>17:27</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 5 - Den fastnar bra i bordet on kodsnack </title>
