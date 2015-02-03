@@ -6,7 +6,76 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 27 Jan 2015 10:26:14 UTC</updated>
+    <updated>Tue, 03 Feb 2015 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 88 - Drive by-patchar</title>
+      <link>http://kodsnack.se/88/</link>
+      <pubDate>Tue, 03 Feb 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/88/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar hantering av patchar och pull requests från utomstående. Viljan att snabbt få in bidrag från utomstående samtidigt som man vill uppmuntra till bidrag som passar väl in i projektets sätt att göra saker. Sedan om drivet mot förenkling i hård- och mjukvara gör att vi går miste om något för expertanvändare. Balansgången mellan att ta in nybörjare och att låta experter jobba kraftfullt och lära sig få ut maximalt av verktygen.&lt;/p&gt;
+
+&lt;p&gt;Vår nya inspelnings- och livesändningstid är 12:00 på måndagar. Surfa in på &lt;a href=&#34;http://live.kodsnack.se&#34;&gt;live.kodsnack.se&lt;/a&gt; för att lyssna och anslut till &lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;#kodsnack på irc.freenode.net&lt;/a&gt; för att delta i diskussioner med oss och andra.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina VPS!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.606453/&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; sponsrar våra livesändningar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oss-watch.ac.uk/resources/pullrequest&#34;&gt;Pull request&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Linus_Torvalds&#34;&gt;Linus Torvalds&lt;/a&gt; - skaparen av Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/3/&#34;&gt;Tidigare avsnitt med mer om Tobias commitfilosofi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;CI&lt;/a&gt; - continuous integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Redis&#34;&gt;Redis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://99percentinvisible.org/&#34;&gt;99% invisible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://99percentinvisible.org/episode/penn-station-sucks/&#34;&gt;Järnvägsstationerna på Manhattan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://99percentinvisible.org/episode/there-is-a-light-that-never-goes-out/&#34;&gt;There is a light that never goes out&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://99percentinvisible.org/episode/of-mice-and-men/&#34;&gt;Of mice and men&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Douglas_Engelbart&#34;&gt;Douglas Engelbart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Mother_of_All_Demos&#34;&gt;The mother of all demos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chorded_keyboard&#34;&gt;Chorded keybard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PARC_%28company%29&#34;&gt;Xerox PARC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/H%C3%A5kan_Lans&#34;&gt;Håkan Lans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unix_philosophy&#34;&gt;Unix-filosofin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/microsoft-hololens/en-us&#34;&gt;Microsofts Hololens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Minority_Report_%28film%29&#34;&gt;Minority report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Battletoads_%28video_game%29&#34;&gt;Battletoads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/thetalkshow/&#34;&gt;The talk show&lt;/a&gt; - John Grubers allt längre poddradioprogram&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/86/&#34;&gt;Vårt senaste avsnitt med uppföljning på lyssnarkommentarer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://appsnack.se/avsnitt/151-idag-fr-vi-snacka-om-appleEnApple-podcastfrnAppSnack&#34;&gt;Ingen gröt idag&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kontroll på måndagen&lt;/li&gt;
+&lt;li&gt;Mitt dåliga samvete-tabben&lt;/li&gt;
+&lt;li&gt;Tredjepartsinput&lt;/li&gt;
+&lt;li&gt;Jag sitter inte som Linus&lt;/li&gt;
+&lt;li&gt;En massa blandade commits&lt;/li&gt;
+&lt;li&gt;Drive by-patchar&lt;/li&gt;
+&lt;li&gt;Om det här hade varit mitt jobb&lt;/li&gt;
+&lt;li&gt;Hittat på den gyllene medelvägen&lt;/li&gt;
+&lt;li&gt;Totalt  underförstått&lt;/li&gt;
+&lt;li&gt;Om man lever på åttiotalet, som vissa projekt gör&lt;/li&gt;
+&lt;li&gt;Ett projekt som AI-forskarna borde jobba på&lt;/li&gt;
+&lt;li&gt;En robot-contributor&lt;/li&gt;
+&lt;li&gt;Kallas det en databas eller är det mer en moj?&lt;/li&gt;
+&lt;li&gt;En moj alltså&lt;/li&gt;
+&lt;li&gt;Hantera det på precis samma sätt som Linus gör det&lt;/li&gt;
+&lt;li&gt;Saker i vardagen som man inte lägger märke till&lt;/li&gt;
+&lt;li&gt;Tillbaka till Battletoads&lt;/li&gt;
+&lt;li&gt;Lite mer magi&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 87 - Internet explorer begins</title>
@@ -1434,96 +1503,6 @@ var borta.&lt;/p&gt;
 &lt;li&gt;Hjärnklåda&lt;/li&gt;
 &lt;li&gt;Som att försöka installera ett virus på sin dator&lt;/li&gt;
 &lt;li&gt;Antingen det man vill ha eller ingenting&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 73 - Systemen som är mot användare</title>
-      <link>http://kodsnack.se/73/</link>
-      <pubDate>Tue, 21 Oct 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/73/</guid>
-      <description>
-
-&lt;p&gt;Tobias berättar om sina senaste veckor upprepade appsläpp. Tobias berättar om Drive clubs släpp och serverhaveri och det pratas om serverstrul i spel där nätverket är antingen centralt eller ännu värre oviktigt för spelupplevelsen. På andra sidan snackar vi fördelarna med att ha nätverksanslutning och problem man skulle kunna lösa om man kunde förlita sig på att ha uppkoppling för jämnan. När och hur tar man sig samman och ersätter gamla lösningar med nya? Man glömmer lätt bort all kunskap som finns inbyggd i gamla system. Och varför glömmer man så lätt bort slutanvändare när man gör något nytt? Efter det hinner vi med dåliga gränssnitt och problemen med att ersätta fysiska knappar med beröringskänsliga kontroller. Att sitta fast i gamla lösningar. Var hade vi varit utan SDL?&lt;/p&gt;
-
-&lt;p&gt;Ett särskilt tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina VPS!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.589207/&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; sponsrar våra livesändningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xbox_One&#34;&gt;Xbox one&lt;/a&gt; kan numera &lt;a href=&#34;https://blog.plex.tv/2014/10/05/plex-xbox-one-xbox-360/&#34;&gt;köra Plex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.boost.org&#34;&gt;Boost&lt;/a&gt; - anrika C++-ramverk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_machine&#34;&gt;Virtuell maskin&lt;/a&gt; - mjukvara som emulerar en fysisk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Android_TV&#34;&gt;Android TV&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Electronic_Entertainment_Expo&#34;&gt;E3&lt;/a&gt; - Electronic entertainment expo, stor mässa för spel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Driveclub&#34;&gt;Driveclub&lt;/a&gt; - bilspel för Playstation 4&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Forza_Motorsport_%28series%29&#34;&gt;Forza&lt;/a&gt; - bilspelserie för Xbox&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.vg247.com/2014/10/08/driveclub-ps-plus-edition-delayed-due-to-server-problems/&#34;&gt;Driveclubs serverhaverier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/gaming/2013/03/clogged-streets-simcity-launch-plagued-by-server-problems/&#34;&gt;Sim city-serverhaverier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Massively_multiplayer_online_game&#34;&gt;MMO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/World_of_Warcraft&#34;&gt;WOW&lt;/a&gt; - World of warcraft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_rights_management&#34;&gt;DRM&lt;/a&gt; - digital rights management&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Latency_%28engineering%29&#34;&gt;Latens&lt;/a&gt; - tidsfördröjning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IBM_System_z&#34;&gt;IBM system z&lt;/a&gt; - familj stordatorer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_XP&#34;&gt;Windows XP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;I &lt;a href=&#34;http://kodsnack.se/59/&#34;&gt;Kodsnack 59 - Lära sig nya saker eller att bara skeppa&lt;/a&gt; pratade vi bland annat om att vidareutbilda sig och hänga med&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackweek.suse.com/&#34;&gt;Suses hackvecka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTML5&#34;&gt;HTML5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se/2.2683/1.547944/haveriet-inifran--sa-gick-pust-fran-succ%C3%A9-till-fiasko&#34;&gt;Pust Siebel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Request_for_proposal&#34;&gt;Request for proposal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://javlaskitsystem.se/&#34;&gt;Jävla skitsystem!&lt;/a&gt; - bok om … system man inte gillar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://thewirecutter.com/reviews/best-bluetooth-on-or-over-ear-headphones/&#34;&gt;Jabra revo wireless&lt;/a&gt; - Tobias bluetoothlurar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Kindle&#34;&gt;Kindle&lt;/a&gt; - läsplattor från Amazon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oneplus.net/one&#34;&gt;Oneplus One&lt;/a&gt; -&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Nexus#Smartphones&#34;&gt;Nexustelefoner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ThinkPad&#34;&gt;Thinkpad&lt;/a&gt; - anrik familj bärbara datorer och plattor skapad och länge ägd av IBM&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lenovo.com/&#34;&gt;Lenovo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.libsdl.org/&#34;&gt;SDL&lt;/a&gt; - Simple directmedia layer, mediebibliotek för många plattformar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/X_Window_System&#34;&gt;X11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/apple/2014/10/apple-updates-desktop-imac-line-with-5k-retina-displays/&#34;&gt;5k iMac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://partner.steamgames.com/&#34;&gt;Steam-SDK:t&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://qt-project.org/&#34;&gt;Qt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pygame.org/news.html&#34;&gt;Pygame&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI&lt;/a&gt; - application binary interface&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sam_Lantinga&#34;&gt;Sam Lantinga&lt;/a&gt; - mannen bakom SDL&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Heartbleed&#34;&gt;En av de mer kända buggarna i OpenSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev 2014&lt;/a&gt; - tredagarskonferens där Kodsnack kommer att delta och intervjua&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.iotconf.se/&#34;&gt;Internet of Things&lt;/a&gt; - endagskonferens i Malmö&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.atthefrontend.dk/&#34;&gt;At The Frontend&lt;/a&gt; - endagskonferens i Köpenhamn i november&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=se.kodsnack&amp;amp;hl=sv&#34;&gt;Kodsnack för Android&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/Meldanya&#34;&gt;Erik Jansson - Meldanya&lt;/a&gt; - skapare av Kodsnack-appen för Android&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/b0bben&#34;&gt;b0bben&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BlackBerry&#34;&gt;Blackberry&lt;/a&gt; - kanadensisk mobiltillverkare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Jolla&#34;&gt;Jolla&lt;/a&gt; - finsk mobiltillverkare&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Full deploy varje gång&lt;/li&gt;
-&lt;li&gt;Riktigt gamla versioner av GCC&lt;/li&gt;
-&lt;li&gt;Handbyggde tio olika versioner&lt;/li&gt;
-&lt;li&gt;Det börjar låta som spelbranschen det här&lt;/li&gt;
-&lt;li&gt;Det brukar ju inte vara så&lt;/li&gt;
-&lt;li&gt;Om man ser det från ett utvecklarperspektiv&lt;/li&gt;
-&lt;li&gt;En uppkoppling som vi alltid kan lita på&lt;/li&gt;
-&lt;li&gt;Man vet ju att det inte är stort här&lt;/li&gt;
-&lt;li&gt;Systemen som är mot användare&lt;/li&gt;
-&lt;li&gt;Kedja av auktoritära personer&lt;/li&gt;
-&lt;li&gt;Windows XP på bankomater&lt;/li&gt;
-&lt;li&gt;Mer och mer pragmatisk för varje år som går&lt;/li&gt;
-&lt;li&gt;När man bestämmer sig för att göra en ny version&lt;/li&gt;
-&lt;li&gt;Extremt tufft att göra någonting rätt&lt;/li&gt;
-&lt;li&gt;De hade kunnat vara fysiska knappar&lt;/li&gt;
-&lt;li&gt;En icke-fysisk tangent&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
