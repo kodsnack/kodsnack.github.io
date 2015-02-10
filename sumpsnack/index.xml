@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 27 Jan 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 27 Jan 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 10 Feb 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 10 Feb 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,61 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 7 - Jag har uppgraderat min podcaststudio on kodsnack </title>
+                <pubDate>Wed, 10 Feb 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/7/</guid>
+                <link>http://kodsnack.se/sumpsnack/7/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Fredrik och Tobias snackar poddradiotillbehör.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rode.com/microphones/podcaster&#34;&gt;Røde podcaster&lt;/a&gt; - mikrofonen alla i Kodsnack använder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rode.com/accessories/tripod&#34;&gt;Tobias Røde-tripod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.appsnack.se&#34;&gt;Andra program&lt;/a&gt; Fredrik förekommer i&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/img/uppgraderat.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Tobias uppgraderade studio&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rode.com/accessories/psa1&#34;&gt;PSA1&lt;/a&gt; - armen Fredrik och Tobias använder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IMac_G4&#34;&gt;&amp;ldquo;Gamla&amp;rdquo; iMac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Flat_Display_Mounting_Interface&#34;&gt;VESA-fästen&lt;/a&gt; - standard för att fästa TV-apparater och andra platta skärmar på armar och andra typer av ställ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag har uppgraderat min podcaststudio&lt;/li&gt;
+&lt;li&gt;Jag har bara tänkt på det sedan dag ett&lt;/li&gt;
+&lt;li&gt;Missnöjd som bara Kristoffer kan&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="4989567" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_7.mp3"/>
+                <itunes:duration>5:10</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 6 - Ett lager till av trasighet on kodsnack </title>

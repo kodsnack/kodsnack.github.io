@@ -6,7 +6,109 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 03 Feb 2015 10:26:14 UTC</updated>
+    <updated>Tue, 10 Feb 2015 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 89 - System på ett chip på ett kort</title>
+      <link>http://kodsnack.se/89/</link>
+      <pubDate>Tue, 10 Feb 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/89/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om Raspberry pi, den nyss presenterade version 2 och det faktum att den kommer att kunna köra Windows 10. Vi spekulerar om vad Windows för Raspberry kommer att kosta, strax efter inspelning fick vi veta att Windows kommer att vara helt gratis i det sammanhanget. Vi spekulerar om användningsområden och var utvecklingen kan ta vägen.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi utifrån artikeln &lt;a href=&#34;http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/&#34;&gt;What color is your function&lt;/a&gt;. Först om problem Kristoffer upplevt med Rust. Sedan bland annat om koncept i språk som &amp;ldquo;smittar&amp;rdquo; ens kod så att man plötsligt gör på ett sätt överallt bara för att försöka hålla saker hanterbara och om språk som mest vill bara &amp;ldquo;bättre&amp;rdquo; C++ i något avseende.&lt;/p&gt;
+
+&lt;p&gt;Som avslutning tipsar vi om en … fantastisk … tävling och användning av C++.&lt;/p&gt;
+
+&lt;p&gt;Vår nya inspelnings- och livesändningstid är 12:00 på måndagar. Surfa in på &lt;a href=&#34;http://live.kodsnack.se&#34;&gt;live.kodsnack.se&lt;/a&gt; för att lyssna och anslut till &lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;#kodsnack på irc.freenode.net&lt;/a&gt; för att delta i diskussioner med oss och andra.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.607191/&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.raspberrypi.org/help/what-is-a-raspberry-pi/&#34;&gt;Raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/System_on_a_chip&#34;&gt;System on a chip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.raspberrypi.org/community/&#34;&gt;Gemenskapen kring Raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Home_theater_PC&#34;&gt;HTPC&lt;/a&gt; - Home theater PC, dator som främst förser en TV eller hemmabio med innehåll&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Kodi_%28software%29&#34;&gt;XBMC&lt;/a&gt; - numera Kodi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Graphics_processing_unit&#34;&gt;GPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC&#34;&gt;H264&lt;/a&gt; - utbrett viodekompressionsformat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/1080p&#34;&gt;1080p&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.raspberrypi.org/products/model-a-plus/&#34;&gt;Första modellen av Raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.raspberrypi.org/products/model-b-plus/&#34;&gt;Andra modellen av Raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ARM_architecture&#34;&gt;ARM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.raspberrypi.org/raspberry-pi-2-on-sale/&#34;&gt;Raspberry pi 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ARM_Cortex-A7_MPCore&#34;&gt;Cortex A7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ARM_architecture#NEON&#34;&gt;NEON&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rasplex.com/&#34;&gt;Rasplex&lt;/a&gt; - Plex på Raspberry pi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Do_it_yourself&#34;&gt;DIY&lt;/a&gt; - do it yourself&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dev.windows.com/en-us/featured/raspberrypi2support&#34;&gt;Windows 10 kommer att köra på Raspberry pi 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.windows.com/buildingapps/2015/02/02/windows-10-coming-to-raspberry-pi-2/&#34;&gt;Windows 10 kommer att vara gratis för Raspberry pi och liknande enheter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Raspberry_Pi_Foundation&#34;&gt;Raspberry pi-stiftelsen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.oscarliang.net/remote-controlled-quadcopter-based-raspberry-pi/&#34;&gt;Quadcopter som använder Raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-2-model-b-1gb&#34;&gt;Holländsk webbplats som säljer Raspberry pi 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/microsoft-hololens/en-us&#34;&gt;Hololens&lt;/a&gt; - Microsofts hjälm för förstärkt verklighet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.arduino.cc/&#34;&gt;Arduino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.intel.com/content/www/us/en/do-it-yourself/edison.html&#34;&gt;Edison&lt;/a&gt; - Intels svar på Raspberry pi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Intel_Atom_%28CPU%29&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Beowulf_cluster&#34;&gt;Beowulfkluster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.geek.com/games/researchers-create-a-playstation-2-based-supercomputer-553365/&#34;&gt;Kluster av Playstation 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theregister.co.uk/2000/12/19/iraq_buys_4000_playstation_2s/&#34;&gt;Playstation 2 och Irak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cell_%28microprocessor%29&#34;&gt;Cell&lt;/a&gt; - processorn i Playstation 3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://archive.arstechnica.com/reviews/1q00/playstation2/m-ee-1.html&#34;&gt;Ars technica om att förstå Playstation 2-arkitekturen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Big_Hero_6_%28film%29&#34;&gt;Big hero 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/&#34;&gt;What color is your function&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JavaScript&#34;&gt;Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Node.js&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Rust_%28programming_language%29&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Swift_%28programming_language%29&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://duramecho.com/ComputerInformation/WhyHowCppConst.html&#34;&gt;Const i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/4274193/what-is-the-difference-between-a-mutable-and-immutable-string-in-c&#34;&gt;Mutable och immutable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Clojure&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/VList&#34;&gt;V-lista&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mask_%28computing%29&#34;&gt;Bitmask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Haskell&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Go_%28programming_language%29&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Name_mangling&#34;&gt;Namnmangling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Objective-C&#34;&gt;Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/D_%28programming_language%29&#34;&gt;D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Walter_Bright&#34;&gt;Walter Bright&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Return_value_optimization&#34;&gt;Returvärdesoptimering (i C++)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tgceec.tumblr.com/&#34;&gt;The grand C++ error explosion competition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En liten enchipsdator&lt;/li&gt;
+&lt;li&gt;Så billig enkortsdator som möjligt&lt;/li&gt;
+&lt;li&gt;Utan att den brinner upp&lt;/li&gt;
+&lt;li&gt;En stor uppgradering&lt;/li&gt;
+&lt;li&gt;Helt ägd av Linux&lt;/li&gt;
+&lt;li&gt;Det är det jag gör&lt;/li&gt;
+&lt;li&gt;Mina kollegor har redan köpt två&lt;/li&gt;
+&lt;li&gt;System på ett chip på ett kort&lt;/li&gt;
+&lt;li&gt;En kontakt och ingenting mer&lt;/li&gt;
+&lt;li&gt;Det är här framtiden finns&lt;/li&gt;
+&lt;li&gt;Mycket närmare metallen än du har varit de senaste 15-20 åren&lt;/li&gt;
+&lt;li&gt;Dina program kanske aldrig behöver vara multitrådade&lt;/li&gt;
+&lt;li&gt;Små datorer som pratar med varandra och hänger ihop&lt;/li&gt;
+&lt;li&gt;Helt nya, ännu värre problem&lt;/li&gt;
+&lt;li&gt;Sprider sig som gift genom koden&lt;/li&gt;
+&lt;li&gt;Försök inte förstå, bara använd det&lt;/li&gt;
+&lt;li&gt;I frustration skrev han sitt eget språk&lt;/li&gt;
+&lt;li&gt;C++ in anger&lt;/li&gt;
+&lt;li&gt;Av kompilatorer, för kompilatorer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 88 - Drive by-patchar</title>
@@ -1360,149 +1462,6 @@ var borta.&lt;/p&gt;
 &lt;li&gt;Är vi nöjda med flexibiliteten?&lt;/li&gt;
 &lt;li&gt;Har vi några pyromaner i publiken&lt;/li&gt;
 &lt;li&gt;En annan stil än de flesta IT-konferenstalare&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 74 - Resten av livet med dina handleder</title>
-      <link>http://kodsnack.se/74/</link>
-      <pubDate>Tue, 28 Oct 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/74/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Tobias snackar tangentbord, att anpassa dem efter sina behov och hur de på diskreta och ofta störande sätt skiljer sig mellan operativsystem och länder. Vad man vill och kan göra för att motverka ont i händer, armar och handleder.&lt;/p&gt;
-
-&lt;p&gt;Sedan lite mer om Kristoffers hackvecka och minecraftklon. Problemen med obstinat felsökning per stirrande på kod. Teknikval för minecraftklonen, målsättningar och anledningar till olika val. Diskussioen glider naturligt över i att skriva i lågnivåspråk och om man idag förstår hur datorer fungerar. Det är bra för alla att skriva lite C. Eller? Vilka lågnivåsaker kan vara värda att ha lite koll på idag?&lt;/p&gt;
-
-&lt;p&gt;Som avslutning vankas snack om utvecklingsmiljöer och lite kort om språket Rust.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina VPS!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.591059&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; sponsrar våra livesändningar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.trulyergonomic.com/store/index.php&#34;&gt;Truly ergonomic&lt;/a&gt; - Tobias tangentbord&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/&#34;&gt;Bruna, röda och blå tangentbordskopplingar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/hardware/sv-se/b/comfort-curve-keyboard-3000-for-business/3XJ-00008&#34;&gt;Kristoffers tangentbord&lt;/a&gt; - Microsoft comfort curve 3000 for business&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://purplescout.se&#34;&gt;Purple scout&lt;/a&gt; - konsultbolag där både Tobias och Kristoffer jobbat&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/KVM_switch&#34;&gt;KVM-växel&lt;/a&gt; - låter dig ha ett tangentbord och en mus ansluten till flera datorer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brick_%28electronics%29&#34;&gt;Bricka&lt;/a&gt; - att råka sabba mjukvaran i en pryl så att prylen inte gör mer än en tegelsten&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business&#34;&gt;Sculpt ergonomic keyboard for business&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/hardware/en-ie/b/comfort-curve-keyboard-2000-for-business/7FH-00006&#34;&gt;Microsoft comfort curve 2000&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chiclet_keyboard&#34;&gt;Chiclet-tangentbord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kinesis-ergo.com/shop/freestyle2-for-pc-foreign/&#34;&gt;Freestyle2-tangentbordet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://synergy-project.org/&#34;&gt;Synergy &lt;/a&gt; - mjukvarualternativ till KVM&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard&#34;&gt;Dvorak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ThinkPad&#34;&gt;Thinkpad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Svorak&#34;&gt;Svorak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pointing_stick&#34;&gt;Thinkpads trackpoint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&#34;&gt;Microsoft Keyboard layout creator&lt;/a&gt; -program som kompilerar DLL-filer för att göra egna tangentbordslayouter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HAL_(software&#34;&gt;HAL&lt;/a&gt;, &lt;a href=&#34;http://en.wikipedia.org/wiki/Udev&#34;&gt;udev&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Systemd&#34;&gt;systemd&lt;/a&gt; - lågnivåsystem av olika ålder&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/wanders/blowrak&#34;&gt;Anders tangentbordslayout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html&#34;&gt;XKB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/QWERTY&#34;&gt;QWERTY&lt;/a&gt; - det vanligaste tangentbordsupplägget&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wacom_%28company%29&#34;&gt;Wacom&lt;/a&gt; och deras &lt;a href=&#34;http://en.wikipedia.org/wiki/Graphics_tablet&#34;&gt;ritbrädor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackweek.suse.com/&#34;&gt;Suses hackvecka 2014&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unreal_Engine&#34;&gt;Unreal-motorn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unity_%28game_engine%29&#34;&gt;Unity-motorn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ANSI_C&#34;&gt;ANSI C&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/gdb/&#34;&gt;GDB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://valgrind.org/&#34;&gt;Valgrind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Alpha_compositing&#34;&gt;Alpha compositing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Z-buffering&#34;&gt;Z-buffring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Moir%C3%A9_pattern&#34;&gt;Moirémönster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenGL#Version_history&#34;&gt;OpenGLs många versioner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mesa_%28computer_graphics%29&#34;&gt;Mesa-biblioteket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.notebookcheck.net/Intel-HD-Graphics-3000.37948.0.html&#34;&gt;Intel HD Graphics 3000&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tessellation&#34;&gt;Tessellering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shader#Geometry_shaders&#34;&gt;Shader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bsd.unixdev.net/4.5BSD/packages/cfingerd-1.4.3/src/strmcpy.c&#34;&gt;‎strmcpy.c&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Assembly_language&#34;&gt;Assembler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Prolog&#34;&gt;Prolog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OCaml&#34;&gt;OCaml&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/X86&#34;&gt;x86&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MIPS_instruction_set&#34;&gt;MIPS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bytecode&#34;&gt;Bytekod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GLib&#34;&gt;Glib&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nothings.org/stb/stb_h.html&#34;&gt;stb.h&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.libsdl.org/&#34;&gt;SDL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://qt-project.org/&#34;&gt;Qt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.chrome.com/devtools&#34;&gt;Chromes utvecklarverktyg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getfirebug.com/&#34;&gt;Firebug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.w3.org/TR/html401/struct/tables.html&#34;&gt;Tabeller i HTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cascading_Style_Sheets&#34;&gt;CSS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gopher_%28protocol%29&#34;&gt;Gopher&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GeoCities&#34;&gt;Geocities&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lesscss.org/&#34;&gt;Less&lt;/a&gt; - preprocessor för CSS&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/&#34;&gt;Eclipse&lt;/a&gt; - stor och spridd utvecklingsmiljö för Java&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/idea/&#34;&gt;IntelliJ IDEA&lt;/a&gt; - populär utvecklingsmiljö för Java&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;JetBrains&lt;/a&gt; - tillverkare av IntelliJ och flera andra utvecklingsmiljöer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/clion/&#34;&gt;CLion&lt;/a&gt; - Jetbrains nya utvecklingsmiljö för C och C++&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xcode&#34;&gt;Xcode&lt;/a&gt; - Apples utvecklingsmiljö&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://qt-project.org/search/tag/qt~creator&#34;&gt;Qt creator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lldb.llvm.org/&#34;&gt;LLDB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.refactoring.com/&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vi&#34;&gt;vi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Emacs&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cmake.org/&#34;&gt;Cmake&lt;/a&gt; - byggsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt; - Githubs textredigerare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mozilla_Skywriter&#34;&gt;Skywriter&lt;/a&gt; - nedlagt projekt att utveckla en textredigerare inom Mozilla&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lighttable.com/&#34;&gt;Light table&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/apple/2014/10/os-x-10-10/&#34;&gt;Yosemite&lt;/a&gt; - senaste versionen av Mac OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_machine&#34;&gt;Virtual machine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/&#34;&gt;Meetup&lt;/a&gt; - tjänst för att skapa och hitta mötesplatser för likasinnade&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/got-lambda/events/212188312/&#34;&gt;Rust-träffen i Göteborg i vilken Kristoffer deltog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Signedness&#34;&gt;Signedness&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Type_conversion&#34;&gt;Typkonvertering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Normal_number&#34;&gt;Normaltal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.haskell.org/haskellwiki/Haskell&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Option_type&#34;&gt;Option-typ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Monad_%28functional_programming%29&#34;&gt;Monad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikibooks.org/wiki/Java_Programming/Checked_Exceptions&#34;&gt;Checked exceptions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://duramecho.com/ComputerInformation/WhyHowCppConst.html&#34;&gt;const i C++&lt;/a&gt; - mer ett förslag än något annat&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/krig/rust-meetup&#34;&gt;Kristoffers rust-kod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev 2014&lt;/a&gt; - kom och snacka kod med oss!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Inte helt rätt med de som har skrivit mjukvaran&lt;/li&gt;
-&lt;li&gt;Jag brickade mitt tangentbord&lt;/li&gt;
-&lt;li&gt;Ingen aning om hur man skriver mjukvara&lt;/li&gt;
-&lt;li&gt;(I klass med att) flasha om tangentbordet&lt;/li&gt;
-&lt;li&gt;Det ser ju ut som riktiga piltangenter&lt;/li&gt;
-&lt;li&gt;Sitta och skriva på en kudde&lt;/li&gt;
-&lt;li&gt;Det där låter mer som en riktig produkt&lt;/li&gt;
-&lt;li&gt;Sin egen bastardvariant av Dvorak&lt;/li&gt;
-&lt;li&gt;Om jag brydde mig tillräckligt mycket&lt;/li&gt;
-&lt;li&gt;Fördelen med Qwerty är att det står på tangentbordet&lt;/li&gt;
-&lt;li&gt;Bra att bry sig ganska mycket om sitt tangentbord&lt;/li&gt;
-&lt;li&gt;Jag har köpt datorer i Hongkong ganska länge&lt;/li&gt;
-&lt;li&gt;Fördelen med att ha din helt egna tangentbordslayout&lt;/li&gt;
-&lt;li&gt;Tangentbordssnack med Kristoffer och Tobias&lt;/li&gt;
-&lt;li&gt;Resten av livet med dina handleder&lt;/li&gt;
-&lt;li&gt;Om värdet i z-bufferten är längre bort än det man vill rita&lt;/li&gt;
-&lt;li&gt;Sprid ljuset med ett steg&lt;/li&gt;
-&lt;li&gt;Det kompilerar ju oerhört snabbt&lt;/li&gt;
-&lt;li&gt;Det låter lite som självspäkning&lt;/li&gt;
-&lt;li&gt;Om man har utsatts för C&lt;/li&gt;
-&lt;li&gt;Självspäka sig litegrann i C&lt;/li&gt;
-&lt;li&gt;Har du en kompilator så har du C&lt;/li&gt;
-&lt;li&gt;Lågt ner i grafikstacken&lt;/li&gt;
-&lt;li&gt;Sjukt frustrerande och intressant&lt;/li&gt;
-&lt;li&gt;Hjärnklåda&lt;/li&gt;
-&lt;li&gt;Som att försöka installera ett virus på sin dator&lt;/li&gt;
-&lt;li&gt;Antingen det man vill ha eller ingenting&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
