@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 10 Feb 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 10 Feb 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 24 Feb 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 24 Feb 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,83 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 9 - Kul att det finns så nischade saker on kodsnack </title>
+                <pubDate>Wed, 24 Feb 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/9/</guid>
+                <link>http://kodsnack.se/sumpsnack/9/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Fredrik och &lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;Cenny&lt;/a&gt; snackar poddradio som koncept. Tillgängligheten på nischade saker är bättre än någonsin. Värdet av att ha, höra och diskutera olika åsikter. Och så lite fönster- och filhantering. Diskussion av första intryck av Apples nya fotoapplikation Bilder. Icloud kontra Dropbox. Det nya Apple kan vara bättre än det gamla?!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Systematic&lt;/li&gt;
+&lt;li&gt;Brett Terpstra&lt;/li&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;John Roderick&lt;/li&gt;
+&lt;li&gt;Roderickintervjun på Systematic&lt;/li&gt;
+&lt;li&gt;Merlin Mann&lt;/li&gt;
+&lt;li&gt;Z TV&lt;/li&gt;
+&lt;li&gt;Oscar Skog&lt;/li&gt;
+&lt;li&gt;Säkerhetspodcasten&lt;/li&gt;
+&lt;li&gt;Accidental tech podcast&lt;/li&gt;
+&lt;li&gt;Sumpsnack&lt;/li&gt;
+&lt;li&gt;Kodsnacks nuvarande logotyp&lt;/li&gt;
+&lt;li&gt;Office space&lt;/li&gt;
+&lt;li&gt;Kingsman&lt;/li&gt;
+&lt;li&gt;Arthursagorna och deras karaktärer&lt;/li&gt;
+&lt;li&gt;John Siracusas OS X-recensioner&lt;/li&gt;
+&lt;li&gt;Incomparable - populärkulturpodcast för nördkultur&lt;/li&gt;
+&lt;li&gt;John Siracusa om sitt mediecenter, hur han spelar spel och annat&lt;/li&gt;
+&lt;li&gt;Johns fönsterhantering på OS X&lt;/li&gt;
+&lt;li&gt;Casey Liss&lt;/li&gt;
+&lt;li&gt;John Siracusa om Finders rumslighet&lt;/li&gt;
+&lt;li&gt;OS 9&lt;/li&gt;
+&lt;li&gt;Kombintorisk explosion&lt;/li&gt;
+&lt;li&gt;Quick look (Quicksilver är något annat)&lt;/li&gt;
+&lt;li&gt;Spotlight&lt;/li&gt;
+&lt;li&gt;Photos-applikationen&lt;/li&gt;
+&lt;li&gt;Iphoto&lt;/li&gt;
+&lt;li&gt;Aperture&lt;/li&gt;
+&lt;li&gt;Iphoto för IOS&lt;/li&gt;
+&lt;li&gt;Hur många har köpt mer utrymme i Icloud?&lt;/li&gt;
+&lt;li&gt;Mobile me&lt;/li&gt;
+&lt;li&gt;Cloudkit&lt;/li&gt;
+&lt;li&gt;Game center&lt;/li&gt;
+&lt;li&gt;Tim Cook&lt;/li&gt;
+&lt;li&gt;Developers developers …&lt;/li&gt;
+&lt;li&gt;Tim Cooks utkommande ur garderoben&lt;/li&gt;
+&lt;li&gt;Foliehatt&lt;/li&gt;
+&lt;li&gt;Apple pratar med TV-bolag … igen&lt;/li&gt;
+&lt;li&gt;Iad&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Som en riktigt bra sagoberättare&lt;/li&gt;
+&lt;li&gt;Kul att det finns så nischade saker&lt;/li&gt;
+&lt;li&gt;Oavsett vilken nisch jag har finns det för mycket&lt;/li&gt;
+&lt;li&gt;Går loss och har sina åsikter&lt;/li&gt;
+&lt;li&gt;Vi behöver inte hålla dig i handen&lt;/li&gt;
+&lt;li&gt;Så bortom allting&lt;/li&gt;
+&lt;li&gt;Bättre än Dropbox för andra saker&lt;/li&gt;
+&lt;li&gt;Optimerad för IOS 6&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="28330138" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_9.mp3"/>
+                <itunes:duration>30:51</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 7 - Jag har uppgraderat min podcaststudio on kodsnack </title>
