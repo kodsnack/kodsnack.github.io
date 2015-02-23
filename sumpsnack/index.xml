@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 10 Feb 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 10 Feb 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 17 Feb 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 17 Feb 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,54 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 8 - Våga vägra industrisemlan on kodsnack </title>
+                <pubDate>Wed, 17 Feb 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/8/</guid>
+                <link>http://kodsnack.se/sumpsnack/8/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Vi snackar skrivbord, semlor och små, små datorer.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ikea.com/se/sv/catalog/categories/departments/workspaces/18960/&#34;&gt;Bekant&lt;/a&gt; - IKEAs skrivbord&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ikea.com/se/sv/catalog/products/30279883/&#34;&gt;PS&lt;/a&gt; - lampan som ser ut som dödsstjärnan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bagarn.se/&#34;&gt;Tjörnbagarn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dahlsbageri.se/&#34;&gt;Dahls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cafesantodomingo.se/&#34;&gt;Café santo domingo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Raspberry_Pi&#34;&gt;Raspberry pi 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webhallen.com/se-sv/&#34;&gt;Webhallen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pushing_Ice&#34;&gt;Pushing ice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://what-if.xkcd.com/128/&#34;&gt;What if&lt;/a&gt; - om att driva sin telefon på bensin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MythBusters&#34;&gt;Mythbusters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.failbettergames.com/sunless/&#34;&gt;Sunless sea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/H._P._Lovecraft&#34;&gt;H.P. Lovecraft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rogueamoeba.com/audiohijack/&#34;&gt;Audio hijack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag blir ju bara tokig av att lyssna på det där&lt;/li&gt;
+&lt;li&gt;De ståsittande skrivborden&lt;/li&gt;
+&lt;li&gt;Min ena lunchsemla&lt;/li&gt;
+&lt;li&gt;Industrisemla&lt;/li&gt;
+&lt;li&gt;Våga vägra industrisemlan&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="7173923" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_8.mp3"/>
+                <itunes:duration>8:02</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 7 - Jag har uppgraderat min podcaststudio on kodsnack </title>
