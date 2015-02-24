@@ -6,7 +6,347 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 17 Feb 2015 10:26:14 UTC</updated>
+    <updated>Tue, 24 Feb 2015 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 91 - Avsluta med ett nil</title>
+      <link>http://kodsnack.se/91/</link>
+      <pubDate>Tue, 24 Feb 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/91/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och &lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;Cenny Davidsson&lt;/a&gt; dricker varm choklad och snackar Apple, Swift, funktionell programmering, bildskärmar, mer Swift, spel och ganska mycket annat.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet spelades in samma dag som Apple släppte Swift 1.2, innan nyheten om det kom.&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodnsack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xbox_360&#34;&gt;Xbox 360&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xbox_%28console%29&#34;&gt;Första Xbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/EB_Games&#34;&gt;EB games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Wii&#34;&gt;Wii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apple_Cinema_Display#Early_Cinema_Displays&#34;&gt;Gamla cinema display med stora strömadaptrar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.macforum.se/&#34;&gt;Macforum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apple_Display_Connector&#34;&gt;ADC&lt;/a&gt; - Apple display connector&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/imac-with-retina/&#34;&gt;Retina iMac&lt;/a&gt; - skärmupplösning på 5120 x 2880 pixlar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marco.org/2014/10/16/retina-imac-vs-mac-pro&#34;&gt;Marco Arment om när Apple tidigast kan släppa stora retinaskärmar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ifixit.com/Teardown/iMac+Intel+27-Inch+Retina+5K+Display+Teardown/30260&#34;&gt;Hur 5k-imacen får ihop en retinaskärm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imore.com/debug&#34;&gt;Debug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imore.com/60-melton-ganatra-episode-iii-shipping-software&#34;&gt;Senaste Debug med Melton och Ganatra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nytimes.com/2013/10/06/magazine/and-then-steve-said-let-there-be-an-iphone.html?pagewanted=8&#34;&gt;Spritdrickande under presentationen av Iphone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://inessential.com/2015/02/05/uxkit_skepticism&#34;&gt;UXKit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cocoa_%28API%29&#34;&gt;Cocoa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Application_Kit&#34;&gt;Appkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Swift_%28programming_language%29&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSExpression_Class/index.html&#34;&gt;NSExpression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_399&#34;&gt;Optional i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/Introduction/Introduction.html&#34;&gt;XCTest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xcode&#34;&gt;Xcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/SecondTutorial.html&#34;&gt;Storyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/Introduction/Introduction.html&#34;&gt;View controller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/OptionalChaining.html#//apple_ref/doc/uid/TP40014097-CH21-ID246&#34;&gt;Force-unwrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Objective-C&#34;&gt;Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Higher-order_function&#34;&gt;Higher-order functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Map_%28higher-order_function%29&#34;&gt;Map&lt;/a&gt;, &lt;a href=&#34;http://en.wikipedia.org/wiki/Fold_%28higher-order_function%29&#34;&gt;reduce&lt;/a&gt; och &lt;a href=&#34;http://en.wikipedia.org/wiki/Filter_%28higher-order_function%29&#34;&gt;filter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/#//apple_ref/occ/instm/NSArray/componentsJoinedByString:&#34;&gt;[NSArray componentsJoinedByString:]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cocoaheads.tumblr.com/post/17757846453/objective-c-literals-for-nsdictionary-nsarray&#34;&gt;&amp;ldquo;Nya&amp;rdquo; literals i Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cenny.org/solution/&#34;&gt;Solution&lt;/a&gt; - Cennys app&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/GameKit/Reference/GameKit_Collection/index.html&#34;&gt;Gamekit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html&#34;&gt;Struct i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ashfurrow.com/blog/protocols-and-swift/&#34;&gt;Ny artikel av Ash Furrow om protokoll i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html&#34;&gt;Protokoll i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableView_Class/index.html&#34;&gt;UITableView&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ksm/SwiftInFlux/blob/master/README.md#optional-methods-in-pure-swift-protocols&#34;&gt;Valfria metoder i protokoll övervägs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ksm/SwiftInFlux&#34;&gt;Swift influx&lt;/a&gt; - dokumenterar utveckling och förändring i Swift&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/FaceTime#Standards&#34;&gt;Facetime&lt;/a&gt; - skulle bli en öppen standard …&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Arch_Linux&#34;&gt;Arch Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://llvm.org/&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org/&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jckarter/status/563769432799842304&#34;&gt;Objective-C och Swift har varsin runtime&lt;/a&gt; - Objective-C:s används bara för interoperabilitet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jontolof.com/cocoa/fish-shell-function-for-xcode-sourcekitservice-crash-bug/&#34;&gt;&amp;ldquo;Sourcekitservice crashed&amp;rdquo;&lt;/a&gt; - När Swift går sönder i Xcode.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/textfromxcode&#34;&gt;Texts from Xcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.objc.io/issue-16/rapid-prototyping-in-swift-playgrounds.html&#34;&gt;Playgrounds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/recipes/xcode_help-source_editor/chapters/ImportingaFrameworkIntoaPlayground.html&#34;&gt;Att använda sina modellklasser med playgrounds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.merowing.info/about/#.VOOIxBwiA3g&#34;&gt;Krzysztof Zablocki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.merowing.info/2014/02/fit-geek/#.VOOI_BwiA3g&#34;&gt;Fit geek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imore.com/debug-17-krzysztof-zab-ocki-and-foldify&#34;&gt;Debug-avsnitt om Foldify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.merowing.info/2014/10/playgrounds-for-objective-c/#.VOOI4xwiA3g&#34;&gt;Playgrounds för Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nshipster.com/method-swizzling/&#34;&gt;Method swizzling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.liu.se/utbildning/kurs/725G72?l=sv&#34;&gt;IOS-kursen&lt;/a&gt;  Cenny handleder på&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.imaginea.com/sending-messages-to-nil-references-in-objective-c/&#34;&gt;Ja, man får skicka meddelanden till nil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ErrorHandling/ErrorHandling.html&#34;&gt;Exceptions i Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID335&#34;&gt;Assertions i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/Swift/Conceptual/Swift_Programming_Language/index.html&#34;&gt;The Swift programming language&lt;/a&gt; - Apples bok&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Eclipse_%28software%29&#34;&gt;Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_virtual_machine&#34;&gt;JVM&lt;/a&gt; - Javas virtuella maskin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_virtual_machine#Java_Runtime_Environment_from_Oracle&#34;&gt;JRE &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_Development_Kit&#34;&gt;JDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cnet.com/news/apple-hands-java-reins-to-oracle/&#34;&gt;Historien om Java OS X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ask.com#Ask_Toolbar&#34;&gt;Ask toolbar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://slidetocode.com/raskell/&#34;&gt;Raskell&lt;/a&gt; - Haskell-utvecklingsmiljö på IOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twolivesleft.com/Codea/&#34;&gt;Codea&lt;/a&gt; - LUA-utvecklingsmiljö på Ipad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.macrumors.com/roundup/retina-macbook-air/&#34;&gt;Tolvtums macbook air&lt;/a&gt; - omryktad men inte officiell än&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://support.apple.com/kb/SP631&#34;&gt;Macbook air från 2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/imac/specs/imac-core-i7-3.5-27-inch-aluminum-late-2013-specs.html&#34;&gt;27 tums iMac från 2013&lt;/a&gt; - quadcore&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Data_binding&#34;&gt;Databindningar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Document_Object_Model&#34;&gt;DOM&lt;/a&gt; - dokumentobjektmodellen, representation av webbsidor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/docs/glossary.html&#34;&gt;React har en virtuell DOM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/&#34;&gt;Skugg-DOM är en annan sak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ReactiveCocoa/ReactiveCocoa&#34;&gt;Reactivecocoa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mac.github.com/&#34;&gt;Github-klienten för Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Finite-state_machine&#34;&gt;State machine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ReactiveCocoa/ReactiveCocoa/milestones/3.0&#34;&gt;Reactive cocoa 3.0 är på gång&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Model_View_ViewModel&#34;&gt;MVVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Imperative_programming&#34;&gt;Imperativ programmering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object-oriented_programming&#34;&gt;Objektorienterad programmering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Betyg_%28Lpo_94%29#Gymnasieskolan_och_komvux&#34;&gt;IG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Visual_Basic&#34;&gt;Visual basic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodcentrum.se/&#34;&gt;Kodcentrum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://datatjej.se/&#34;&gt;Datatjej&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bignerdranch.com/we-write/objective-c-programming/&#34;&gt;Big nerd ranch-boken om programmering i Objective-C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Haskell&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/F_Sharp_%28programming_language%29&#34;&gt;F#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://msdn.microsoft.com/en-us/magazine/ee309512.aspx&#34;&gt;Funktionella paradigm i C#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://java.dzone.com/articles/functional-programming-java-8&#34;&gt;Funktionella paradigm i Java 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Anonymous_function&#34;&gt;Lambdafunktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID88&#34;&gt;Value types i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Inheritance_%28object-oriented_programming%29&#34;&gt;Arv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Multiple_inheritance&#34;&gt;Multipelt arv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Composition_over_inheritance&#34;&gt;Komposition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/wwdc/&#34;&gt;WWDC&lt;/a&gt; - Apples årliga utvecklarkonferens i San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/swift/&#34;&gt;Swifthemsidan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/watchkit/&#34;&gt;Watchkit&lt;/a&gt; - ramverket för utveckling för Apple watch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lists.cs.uiuc.edu/pipermail/llvmdev/2006-August/006492.html&#34;&gt;Apples OpenGL-stack (för åtminstone OS X 10.5) använde LLVM till roliga saker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/&#34;&gt;Fourth tier LLVM i Webkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OS_X_Yosemite&#34;&gt;Yosemite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brendan_Eich&#34;&gt;Brendan Eich&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Netscape&#34;&gt;Netscape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://brendaneich.com/2011/06/new-javascript-engine-module-owner/&#34;&gt;Brendan Eich skrev Javascript på tio dagar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Maps&#34;&gt;Google maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIAlertView_Class/index.html&#34;&gt;UIAlertView&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIAlertController_class/index.html&#34;&gt;UIAlertController&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/blog/?id=2&#34;&gt;Swift-runtime packas in i ens app bundle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Application_bundle&#34;&gt;App bundle&lt;/a&gt; - paketeringen av applikationer på Apples plattformar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nshipster.com/core-location-in-ios-8/&#34;&gt;Ändringar av hur man begär tillstånd att använda platsinformation i IOS 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.android.com/about/dashboards/index.html&#34;&gt;Versionsspridningen på Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29&#34;&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pcworld.com/article/2690724/why-windows-10-isnt-named-9-windows-95-legacy-code.html&#34;&gt;Ryktet om varför nästa Windows har versionsnumret 10 istället för 9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://searchcode.com/?q=if%28version%2Cstartswith%28%22windows+9%22%29&#34;&gt;Kod som faktiskt kollar windowsversion på det sättet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Satya_Nadella&#34;&gt;Satya Nadella&lt;/a&gt; - Microsofts nya VD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/81/&#34;&gt;Vårt snack med Filip Ekberg om allt Microsoft släppt och utvecklar öppet numera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sublimetext.com/&#34;&gt;Sublime text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spartan_%28browser%29&#34;&gt;Spartan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://windows.microsoft.com/sv-se/windows/preview-iso&#34;&gt;Jodå, nu kan man testa Windows 10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blink_%28layout_engine%29&#34;&gt;Blink&lt;/a&gt; - fork av Webkit&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gecko_%28software%29&#34;&gt;Gecko&lt;/a&gt; - Mozillas webbläsarmotor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://css-tricks.com/sass-vs-less/&#34;&gt;CSS-ramverk&lt;/a&gt; - SASS, LESS med mera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jquery.org/&#34;&gt;Jquery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://css-tricks.com/snippets/css/a-guide-to-flexbox/&#34;&gt;Flexbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/learning-xcode-as-a-designer&#34;&gt;Artiklar om att lära sig Xcode som designer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Interface_Builder&#34;&gt;Interface builder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/technotes/tn2298/_index.html&#34;&gt;Unwind segue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/recipes/xcode_help-IB_storyboard/chapters/AboutStoryboards.html#//apple_ref/doc/uid/TP40014225-CH41-SW1&#34;&gt;Scener för UI i Xcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nshipster.com/ibinspectable-ibdesignable/&#34;&gt;IBDesignable och IBInspectable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010853-CH13-SW1&#34;&gt;Autolayout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/recipes/xcode_help-IB_adaptive_sizes/chapters/AboutAdaptiveSizeDesign.html&#34;&gt;Size classes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://readwrite.com/2010/04/02/whats_a_universal_ipad_app_and_how_do_you_use_it&#34;&gt;Universalapplikationer&lt;/a&gt; - applikationer som fungerar både på Iphone och Ipad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UINavigationController_Class/index.html#//apple_ref/occ/instm/UINavigationController/popToViewController:animated:&#34;&gt;popToViewController&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/1643007/iboutlet-and-ibaction&#34;&gt;IBAction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_App_Engine&#34;&gt;Google app engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Developers&#34;&gt;Googles githubmotsvarighet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ruby_on_Rails&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Web_Services&#34;&gt;Amazons molntjänster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://parse.com/&#34;&gt;Parse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Azure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://azure.microsoft.com/en-us/documentation/articles/mobile-services-javascript-backend-windows-store-dotnet-get-started/&#34;&gt;Azure mobile services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Python_%28programming_language%29&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Go_%28programming_language%29&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID316&#34;&gt;Semikolon i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codecademy.com/blog/78-your-guide-to-semicolons-in-javascript&#34;&gt;Semikolon i Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596517748.do&#34;&gt;Javascript the good parts&lt;/a&gt; - innehåller även the ugly parts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.imperialviolet.org/2014/02/22/applebug.html&#34;&gt;Goto fail-buggen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TypeCasting.html#//apple_ref/doc/uid/TP40014097-CH22-ID342&#34;&gt;Any type i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID330&#34;&gt;Optionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain&#34;&gt;Prototypkedjan i Javascript&lt;/a&gt; - Javascripts arvssystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Closure_%28computer_programming%29&#34;&gt;Closure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eidhof.nl/&#34;&gt;Chris Eidhof&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.objc.io/&#34;&gt;Objc.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.objc.io/books/&#34;&gt;Functional programming in Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ajax_%28programming%29&#34;&gt;Ajax i Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Recursion_%28computer_science%29&#34;&gt;Rekursion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tail_call&#34;&gt;Tail call recursion-optimering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tuple&#34;&gt;Tupel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html&#34;&gt;Enum i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mattt.me/&#34;&gt;Matt Thompson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nshipster.com/&#34;&gt;NSHipster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://afnetworking.com/&#34;&gt;AFNetworking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Alamofire/Alamofire&#34;&gt;Alamofire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Syntactic_sugar&#34;&gt;Syntaktiskt socker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://natashatherobot.com/mutating-functions-swift-structs/&#34;&gt;mutating-nyckelordet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Side_effect_%28computer_science%29&#34;&gt;Sidoeffekter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gtk.org/&#34;&gt;GTK+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.haskell.org/Introduction_to_Haskell_IO/Actions&#34;&gt;Att ta inmatning från användaren i Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pragprog.com/book/jaerlang/programming-erlang&#34;&gt;Programming Erlang&lt;/a&gt; - Joe Armstrongs bok om Erlang&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.erlang.org/course/concurrent_programming.html&#34;&gt;Parallellprogrammering i Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/1110601/in-erlang-when-do-i-use-or-or&#34;&gt;Ingenting, semikolon, kolon och punkter som avslutning på uttryck i Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/16779162/what-kind-of-virtual-machine-is-beam-the-erlang-vm&#34;&gt;Erlangs VM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codeofrob.com/&#34;&gt;Rob Ashton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/83/&#34;&gt;Vår intervju med Rob Ashton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://javascript.crockford.com/javascript.html&#34;&gt;Javascripts släktskap med Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp kom på 50-talet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Common_Lisp&#34;&gt;Common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gigamonkeys.com/book/&#34;&gt;Practical common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://learnyouahaskell.com&#34;&gt;Learn you a Haskell for great good&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gordon_Freeman&#34;&gt;Gordon Freeman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://learnyousomeerlang.com/&#34;&gt;Learn you some Elrang for great good&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2014.funswiftconf.com&#34;&gt;Functional Swift-konferensen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2014.funswiftconf.com/speakers/andy.html&#34;&gt;Functioning as a functionalist&lt;/a&gt; - Andy Matuschaks tal från Functional Swift 2014&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/blog/?id=17&#34;&gt;Swift 1.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html#//apple_ref/doc/uid/TP40014097-CH41-ID5&#34;&gt;Private, public, internal i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nshipster.com/swift-1.2/&#34;&gt;Swift 1.2 släpptes i en Xcode-beta samma kväll som inspelningen gjordes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vKKISOnOCaw&#34;&gt;Sweet solution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/se/app/heroes-might-magic-iii-hd/id882687823?mt=8&#34;&gt;Heroes of might and magic 3 HD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island#Special_Edition&#34;&gt;The secret of Monkey island special edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Monkey_Island_2:_LeChuck%27s_Revenge#Special_Edition&#34;&gt;The secret of Monkey island 2 special edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://grimremastered.com/&#34;&gt;Grim fandango remastered&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Escape_from_Monkey_Island&#34;&gt;Monkey island 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://grim-fandango.wikia.com/wiki/Glottis&#34;&gt;Glottis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Day_of_the_Tentacle&#34;&gt;Day of the tentacle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.polygon.com/2014/12/8/7354949/tim-schafer-day-of-the-tentacle-remastered-ps4-vita-pc&#34;&gt;Day of the tentacle ska också remastras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.durandal.io/2015/01/26/introducing-aurelia/&#34;&gt;Maniac mansion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rogueamoeba.com/store/deals/AudioHijackUpgrade.php?type=upgrade&#34;&gt;Space age&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://2014.funswiftconf.com/speakers/andy.html&#34;&gt;Debugavsnitt om Space age, del ett …&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf&#34;&gt;… och del två&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Day_of_the_Tentacle&#34;&gt;Fredriks tankar om Space age&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Maniac_Mansion&#34;&gt;Tänk på gester som tangentbordsgenvägar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.spaceageapp.com/&#34;&gt;OS X inställningspanel med filmklipp som visar gester för möss och pekplattor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imore.com/debug-58-space-age-episode-1-2013&#34;&gt;Magic mouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imore.com/debug-59-space-age-episode-2-2014&#34;&gt;Mighty mouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/thoughts/spaceAge.html&#34;&gt;FPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/2012/04/obviousness&#34;&gt;RTS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://support.apple.com/library/content/dam/edam/applecare/images/en_US/keyboards/trackpad.png&#34;&gt;Starcraft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Magic_Mouse&#34;&gt;Hearthstone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apple_Mighty_Mouse&#34;&gt;Quake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/First-person_shooter&#34;&gt;Half-life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Real-time_strategy&#34;&gt;Logitech MX 510&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/StarCraft&#34;&gt;Logitech MX 518&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Hearthstone:_Heroes_of_Warcraft&#34;&gt;Intellimouse explorer 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Quake_%28series%29&#34;&gt;John Gruber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Half-Life_%28series%29&#34;&gt;John Siracusa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gamingnexus.com/Screenshots/Review/706/mouse.jpg&#34;&gt;Apple extended keyboard 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://s3.pji.nu/product/standard/800/38926.jpg&#34;&gt;Thunderbolt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dansdata.com/images/moremouses/newexprear_440.jpg&#34;&gt;Externa grafikkort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_Gruber&#34;&gt;CES-mässan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hypercritical.co/about/&#34;&gt;Firewire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apple_Extended_Keyboard&#34;&gt;USB typ C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thunderbolt_%28interface%29&#34;&gt;Mac pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.anandtech.com/show/7987/running-an-nvidia-gtx-780-ti-over-thunderbolt-2&#34;&gt;AnandTech | Running an NVIDIA GTX 780 Ti Over Thunderbolt 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Consumer_Electronics_Show&#34;&gt;Consumer Electronics Show&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IEEE_1394&#34;&gt;IEEE 1394&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/USB#TYPE-C&#34;&gt;USB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mac_Pro&#34;&gt;Mac Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;@cennydavidsson&lt;/a&gt; - Cenny på Twitter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cenny.org&#34;&gt;Cennys webbplats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.liu.se/utbildning/kurs/725G72?l=sv&#34;&gt;IOS-utveckling&lt;/a&gt; - kurs på Linköpings universitet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Skicka tillbaka nil eller något i den stilen&lt;/li&gt;
+&lt;li&gt;UIKit och Swift snackar ju inte helt perfekt med varandra&lt;/li&gt;
+&lt;li&gt;Man bör vara försiktig när man arbetar med UIKit&lt;/li&gt;
+&lt;li&gt;Man blir så sjukt bortskämd&lt;/li&gt;
+&lt;li&gt;Jag har ju slutat skriva loopar&lt;/li&gt;
+&lt;li&gt;Jag vill inte skriva en loop&lt;/li&gt;
+&lt;li&gt;Verbosa bara för att&lt;/li&gt;
+&lt;li&gt;Nyckeln först i literalen&lt;/li&gt;
+&lt;li&gt;Avsluta med ett nil&lt;/li&gt;
+&lt;li&gt;Inte helt tydligt vad bästa lösningen är&lt;/li&gt;
+&lt;li&gt;Då har du fått lite statisk typning bara&lt;/li&gt;
+&lt;li&gt;En vacker dag så är det bara Swift&lt;/li&gt;
+&lt;li&gt;Borde jag inte få en nullpointerexception?&lt;/li&gt;
+&lt;li&gt;Har du någon webbläsare kvar därunder?&lt;/li&gt;
+&lt;li&gt;Objective-C kan ju ha lite skum syntax&lt;/li&gt;
+&lt;li&gt;Sönderklottriga viewcontrollerfiler&lt;/li&gt;
+&lt;li&gt;De tvingade oss in i det&lt;/li&gt;
+&lt;li&gt;Här är Visual basic, här är grå knappar&lt;/li&gt;
+&lt;li&gt;Då kan ju du mycket om data&lt;/li&gt;
+&lt;li&gt;Jag visste vad jag skulle förvänta mig&lt;/li&gt;
+&lt;li&gt;Känna på kemi och fysik&lt;/li&gt;
+&lt;li&gt;Du installerar officepaketet på folks datorer&lt;/li&gt;
+&lt;li&gt;Nu i efterhand uppskattar jag det mer och mer&lt;/li&gt;
+&lt;li&gt;Någon kanske har hört om det&lt;/li&gt;
+&lt;li&gt;Alla är lika dåliga på det&lt;/li&gt;
+&lt;li&gt;Haskell är kungen ute på Johanneberg&lt;/li&gt;
+&lt;li&gt;Haskell är guds gåva till människorna&lt;/li&gt;
+&lt;li&gt;No state, no problem&lt;/li&gt;
+&lt;li&gt;Jag skulle aldrig på egen hand välja att skapa en ny klass&lt;/li&gt;
+&lt;li&gt;Då kan du arbeta med arv … fast vill jag det?&lt;/li&gt;
+&lt;li&gt;Det blir enklare så&lt;/li&gt;
+&lt;li&gt;Det var värt att testa&lt;/li&gt;
+&lt;li&gt;Tanken är god&lt;/li&gt;
+&lt;li&gt;Varje gång man försöker drar det iväg för långt åt något håll&lt;/li&gt;
+&lt;li&gt;Det är UIKit som spökar&lt;/li&gt;
+&lt;li&gt;Nu får ni rycka er i håret i ett år&lt;/li&gt;
+&lt;li&gt;Släng inte bort allt riktigt än&lt;/li&gt;
+&lt;li&gt;Har ni tänkt skriva om ert operativsystem?&lt;/li&gt;
+&lt;li&gt;Få glitter på hemsidan&lt;/li&gt;
+&lt;li&gt;Sedan fick folk hybris&lt;/li&gt;
+&lt;li&gt;Jaha, har vi ett nytt programmeringsspråk&lt;/li&gt;
+&lt;li&gt;Ge mig allt&lt;/li&gt;
+&lt;li&gt;Det måste hinna ut till folk också&lt;/li&gt;
+&lt;li&gt;Den här verkligheten som man måste anpassa sig till&lt;/li&gt;
+&lt;li&gt;Det är ändå bara nördar som uppgraderar&lt;/li&gt;
+&lt;li&gt;Windows 9000&lt;/li&gt;
+&lt;li&gt;Det verkar ju bara plågsamt för alla&lt;/li&gt;
+&lt;li&gt;Ett fyrkantigt interface&lt;/li&gt;
+&lt;li&gt;Poppa hit&lt;/li&gt;
+&lt;li&gt;Här skriver du applikationslogik&lt;/li&gt;
+&lt;li&gt;Är det inte roligare om vi kör Python?&lt;/li&gt;
+&lt;li&gt;En tydlig konvention&lt;/li&gt;
+&lt;li&gt;Alltid måsvingar&lt;/li&gt;
+&lt;li&gt;Väldigt statiskt typat&lt;/li&gt;
+&lt;li&gt;I skarven med Objective-C&lt;/li&gt;
+&lt;li&gt;Skriva Javascript som om det var Java&lt;/li&gt;
+&lt;li&gt;Vi borde sikta högre&lt;/li&gt;
+&lt;li&gt;Det finns potential här&lt;/li&gt;
+&lt;li&gt;Att returnera en funktion&lt;/li&gt;
+&lt;li&gt;På vilket sätt gynnar det mig?&lt;/li&gt;
+&lt;li&gt;Tillbaks på ruta ett igen&lt;/li&gt;
+&lt;li&gt;Kompilatorn gör det … ibland&lt;/li&gt;
+&lt;li&gt;Om jag använder var någonstans så känns det som ett misslyckande&lt;/li&gt;
+&lt;li&gt;Då använde jag var friskt&lt;/li&gt;
+&lt;li&gt;Den tvingar dig till att skriva bättre kod&lt;/li&gt;
+&lt;li&gt;Det blir ju inte mer funktionellt programmerat än så&lt;/li&gt;
+&lt;li&gt;Det blir ett helt whitepaper&lt;/li&gt;
+&lt;li&gt;Men varför skriver man inte allting funktionellt?&lt;/li&gt;
+&lt;li&gt;Jag tror det var kolon här&lt;/li&gt;
+&lt;li&gt;Erlang med bra syntax&lt;/li&gt;
+&lt;li&gt;Ge mig fler parenteser!&lt;/li&gt;
+&lt;li&gt;Man känner sig lite som en hipster&lt;/li&gt;
+&lt;li&gt;Glad över att de tvingade oss&lt;/li&gt;
+&lt;li&gt;Jag ska bygga ett bibliotek här&lt;/li&gt;
+&lt;li&gt;Klocka har jag inte haft på femton år&lt;/li&gt;
+&lt;li&gt;Det är fortfarande ganska stor skillnad mellan en muspekare och ett finger&lt;/li&gt;
+&lt;li&gt;Då hade du kunnat spela med tummen bara&lt;/li&gt;
+&lt;li&gt;Mycket tumme på skärmen&lt;/li&gt;
+&lt;li&gt;När man lurade George Washington att hugga ner äppelträdet&lt;/li&gt;
+&lt;li&gt;Om bildappen innehöll en zoomknapp&lt;/li&gt;
+&lt;li&gt;Tvåknappen är lite av ett hack&lt;/li&gt;
+&lt;li&gt;Helt plötsligt på raketkastaren&lt;/li&gt;
+&lt;li&gt;Inte fallet de optimerar för&lt;/li&gt;
+&lt;li&gt;Den dör säkert också såsmåningom&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 90 - I värsta fall så har du haft roligt</title>
@@ -1362,85 +1702,6 @@ var borta.&lt;/p&gt;
 &lt;li&gt;Den lever om och blir varm&lt;/li&gt;
 &lt;li&gt;Har man tagit sina bilder och stoppat upp dem i Icloud&lt;/li&gt;
 &lt;li&gt;Mjukvara som kör i min pacemaker&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 76 - Fast på en viss punkt i verkligheten</title>
-      <link>http://kodsnack.se/76/</link>
-      <pubDate>Tue, 11 Nov 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/76/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer - både oerhört tidsförvirrade -  följer upp lite lyssnarkommentarer och snackar sedan framtidsprylar, nutidsprylar och alla icke-tekniska anledningar att prylar inte slår igenom. Det är stor skillnad på att dokumentera sig själv och att dokumentera alla andra. Vi diskuterar uncanny valley-effekter för fler områden än datoranimerade filmer. All den exponentiella datorkrafttillväxten, vad går den egentligen till? Tar den oss framåt? Det gick inte att förutse hur många onödiga saker vi gör med all den datorkapacitet vi skaffat oss. Och vad är egentligen AI?&lt;/p&gt;
-
-&lt;p&gt;När det gäller inspelningarna från Øredev vill vi rikta ett jättestort tack till &lt;a href=&#34;https://www.twitter.com/steveonjava&#34;&gt;Stephen Chin&lt;/a&gt; från/med &lt;a href=&#34;http://nighthacking.com&#34;&gt;Nighthacking&lt;/a&gt; som helt spontant gav oss mycket bättre teknik än vi någonsin fått ihop själva!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.592412&#34;&gt;Diskutera&lt;/a&gt; gärna avsnittet på Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/74/&#34;&gt;Avsnittet där vi pratade tangentbord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ergodox.org&#34;&gt;Ergodox-tangentbord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/72/&#34;&gt;Spelsnack om story&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Billy_Joel&#34;&gt;Billy Joel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Joel_Spolsky&#34;&gt;Joel Spolsky&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Walking_Dead_%28video_game%29&#34;&gt;The walking dead-spelen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots&#34;&gt;Metal gear solid 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metal_Gear&#34;&gt;Metal gear-serien&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Self_%28programming_language%29&#34;&gt;Self&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vimeo.com/111122950&#34;&gt;Life is terrible: let&amp;rsquo;s talk about the web&lt;/a&gt; - James Mickens presentation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Thomas_%C3%96berg&#34;&gt;Thomas Öberg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.symfony.se/november-camp&#34;&gt;November camp&lt;/a&gt; 14 november&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.php.net&#34;&gt;PHP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.slashdot.org&#34;&gt;Slashdot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Våra intervjuer med &lt;a href=&#34;http://nighthacking.com/kodsnack-interviewing-fred-george/&#34;&gt;Fred George&lt;/a&gt;, &lt;a href=&#34;http://nighthacking.com/kodsnack-interviewing-stefan-karpinski/&#34;&gt;Stefan Karpinski&lt;/a&gt;, &lt;a href=&#34;http://nighthacking.com/kodsnack-interviewing-rob-ashton/&#34;&gt;Rob Ashton&lt;/a&gt; och &lt;a href=&#34;http://nighthacking.com/kodsnack-interviewing-james-mickens/&#34;&gt;James Mickens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://julialang.org&#34;&gt;Programmeringsspråket Julia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.numpy.org/&#34;&gt;NumPy — Numpy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.scipy.org/&#34;&gt;SciPy.org — SciPy.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zoom.co.jp/products/h2n&#34;&gt;Vår nya häftiga mikrofon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Technological_singularity&#34;&gt;Singularity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_reality&#34;&gt;VR&lt;/a&gt; - virtual reality&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Glass&#34;&gt;Google glass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nypost.com/2014/07/14/is-google-glass-cool-or-just-plain-creepy/&#34;&gt;Glasshole&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getnarrative.com&#34;&gt;Narrative clip&lt;/a&gt; - svensk kamera för livsloggning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/ngt14/&#34;&gt;Next generation threats&lt;/a&gt; - endagskonferens om säkerhet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Oculus_Rift&#34;&gt;Oculus rift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Antikrundan&#34;&gt;Antikrundan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Uncanny_valley&#34;&gt;Uncanny valley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ray_Kurzweil&#34;&gt;Ray Kurzweil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Artificial_intelligence&#34;&gt;AI&lt;/a&gt; - artificiell intelligens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Deep_Blue_%28chess_computer%29&#34;&gt;Dator som spelar schack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Watson_%28computer%29&#34;&gt;Dator som spelar Jeopardy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/VSS_Enterprise_crash&#34;&gt;Virgins rymdskepp kraschade&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://translate.google.com&#34;&gt;Google translate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Proof_by_exhaustion&#34;&gt;Brute force&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Siri&#34;&gt;Siri&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En programmerare i min pappas ålder&lt;/li&gt;
-&lt;li&gt;En helt ny typ av kodsnackande&lt;/li&gt;
-&lt;li&gt;555 timmar till&lt;/li&gt;
-&lt;li&gt;Ett lite kortare avsnitt än vanligtvis&lt;/li&gt;
-&lt;li&gt;Då har man inte vinden med sig&lt;/li&gt;
-&lt;li&gt;Jag vill ge mitt godkännande innan någon börjar mäta&lt;/li&gt;
-&lt;li&gt;Från att slötitta på Antikrundan till att spela ett spel&lt;/li&gt;
-&lt;li&gt;Ju närmare man kommer den fullständiga upplevelsen&lt;/li&gt;
-&lt;li&gt;Fast på en viss punkt i verkligheten&lt;/li&gt;
-&lt;li&gt;Jag får motstridiga signaler&lt;/li&gt;
-&lt;li&gt;(Den som var) ambitiös futurist på åttiotalet&lt;/li&gt;
-&lt;li&gt;Då fanns det inte så himla mycket mer att göra på månen&lt;/li&gt;
-&lt;li&gt;Lite taskigt att dra all AI över en kam&lt;/li&gt;
-&lt;li&gt;En magisk idé om vad AI är&lt;/li&gt;
-&lt;li&gt;En punkt där allting bara blir löjligt&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
