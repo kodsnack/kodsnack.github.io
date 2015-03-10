@@ -6,7 +6,102 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 03 Mar 2015 10:26:14 UTC</updated>
+    <updated>Tue, 10 Mar 2015 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 93 - Återuppfinna hjulet i Node</title>
+      <link>http://kodsnack.se/93/</link>
+      <pubDate>Tue, 10 Mar 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/93/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar utifrån en gammal artikel om Node.js. Är Node vägen in till serverutveckling för en generation av webb- och klientsidesutvecklare? Kristoffer framför bra teorier om varför folk frustreras över Node och lär Fredrik tänka annorlunda om frustrerade artiklar på nätet. Vi spekulerar i anledningen till Nodes framgång och om folket kring Node har förstått varför Node blivit populärt.&lt;/p&gt;
+
+&lt;p&gt;Vi snackar också om hur företags styrande av språk och miljöer påverkar dess utveckling och energi.&lt;/p&gt;
+
+&lt;p&gt;Hur fungerar egentligen hypecyklerna på nätet?&lt;/p&gt;
+
+&lt;p&gt;När och hur är det okej att dissa saker?&lt;/p&gt;
+
+&lt;p&gt;Sedan diskuterar vi Journey, helt spoilerfritt. Fredrik uppmuntrar alla att spela det. Lite om tilltalande lugn speldesign som inte behöver överlastas med annat.&lt;/p&gt;
+
+&lt;p&gt;På slutet tar vi upp hela vår bransch avsaknad av vetenskaplighet. Allt vi gör är att berätta saker, och det kanske är något vi borde omfamna mer när vi tänker på och arbetar inom vårt fält?&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodnsack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Node.js&#34;&gt;Node.js&lt;/a&gt; - javascriptmiljö för servrar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://random.0x7b8.net/node-js-is-cancer.html&#34;&gt;Node.js is cancer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HIV/AIDS&#34;&gt;AIDS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Slack_%28software%29&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quora.com/Who-is-Ryan-Dahl&#34;&gt;Ryan Dahl&lt;/a&gt; - mannen bakom Node.js&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plus.google.com/116904230181415286707/posts/DnAMAN5sUR8&#34;&gt;Ryan Dahls blogginlägg&lt;/a&gt; - återpostat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unix_philosophy&#34;&gt;Unixfilosofin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Boost_%28C%2B%2B_libraries%29&#34;&gt;Boost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://strongloop.com/strongblog/node-js-event-loop/&#34;&gt;Eventloopar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hueniverse.com/2011/06/29/the-style-of-non-blocking/&#34;&gt;Icke-blockerande&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Nginx&#34;&gt;Nginx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apache_HTTP_Server&#34;&gt;Apache&lt;/a&gt; - populär och öppen webbserver&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Common_Gateway_Interface&#34;&gt;CGI&lt;/a&gt; - Common gateway interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ruby_on_Rails&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://saladwithsteve.com/2008/02/javascript-undefined-vs-null.html&#34;&gt;null och undefined i Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/TL;DR&#34;&gt;TL;DR&lt;/a&gt; - &amp;ldquo;Too long; didn&amp;rsquo;t read&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uberbrady.com/2011/10/nodejs-is-not-cancer-you-are-just-moron.html&#34;&gt;Ett svar på artikeln&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=2102373&#34;&gt;Nodes asynkrona modell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://callbackhell.com/&#34;&gt;Callback hell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Continuation-passing_style&#34;&gt;CPS&lt;/a&gt; - Continuation passing style&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/hh191443.aspx&#34;&gt;Async/await i .net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Solaris_%28operating_system%29&#34;&gt;Solaris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/RTFM&#34;&gt;RTFM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Joyent&#34;&gt;Joyent&lt;/a&gt; - företaget som står bakom Node.js&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iojs.org/en/index.html&#34;&gt;io.js&lt;/a&gt; - fork av Node.js&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/91/&#34;&gt;Kodsnack 91&lt;/a&gt; - för den som vill höra mycket mer om Apples programmeringsspråk Swift&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://openjdk.java.net/&#34;&gt;OpenJDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts&#34;&gt;ECMAscript 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jessesquires.com/apples-to-apples-part-two/&#34;&gt;När Swift var mycket långsammare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.human-friendly.com/swift-1-dot-2-update-xcode-6-dot-3-beta-2-performance&#34;&gt;Swift 1.2 är klart snabbare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Journey_%282012_video_game%29&#34;&gt;Journey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hypercritical.co/about/&#34;&gt;John Siracusa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Studio_Ghibli&#34;&gt;Studio Ghibli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nifflas.ni2.se/&#34;&gt;Nifflas spel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; - testdriven utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zi0rHwfiX1Q&#34;&gt;Quickcheck-talet&lt;/a&gt; Kristoffer sett - Testing the hard stuff and staying sane, av John Hughes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik&#34;&gt;Ruby rogues 184&lt;/a&gt; - om testning och TDD med gäster som forskar i programmering&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PARC_%28company%29&#34;&gt;Xerox parc&lt;/a&gt; - milt mytomspunnen forskningsanläggning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag är nodpositiv&lt;/li&gt;
+&lt;li&gt;Någon slags horribel sjukdom&lt;/li&gt;
+&lt;li&gt;Väldigt populärt att hata Node&lt;/li&gt;
+&lt;li&gt;En skalbarhetskatastrof&lt;/li&gt;
+&lt;li&gt;Nästan ett brott mot mänskligheten&lt;/li&gt;
+&lt;li&gt;All vrede och galla&lt;/li&gt;
+&lt;li&gt;Handskriva CPS-kod&lt;/li&gt;
+&lt;li&gt;Det som ska hända sedan som en parameter&lt;/li&gt;
+&lt;li&gt;Återuppfinna hjulet i Node&lt;/li&gt;
+&lt;li&gt;Klättra stegen själv&lt;/li&gt;
+&lt;li&gt;Det nya sättet att göra samma sak som tidigare&lt;/li&gt;
+&lt;li&gt;Enkelt att återuppfinna vissa hjul&lt;/li&gt;
+&lt;li&gt;Internets fokus har nu skiftat&lt;/li&gt;
+&lt;li&gt;Någonting levande man använder för att kommunicera&lt;/li&gt;
+&lt;li&gt;Hype-cyklerna&lt;/li&gt;
+&lt;li&gt;Man börjar med: jag är sur&lt;/li&gt;
+&lt;li&gt;Mer underbyggd ilska&lt;/li&gt;
+&lt;li&gt;Att vara i den världen är belöning nog&lt;/li&gt;
+&lt;li&gt;Så rigorösa är vi inte&lt;/li&gt;
+&lt;li&gt;Alla bygger på sina egna anekdoter&lt;/li&gt;
+&lt;li&gt;Allt vi gör är att berätta berättelser&lt;/li&gt;
+&lt;li&gt;Sådant som är lätt att säga&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 92 - Beröringsytor med andra</title>
@@ -1677,63 +1772,6 @@ var borta.&lt;/p&gt;
 &lt;li&gt;Som en bror till Joe Armstrong&lt;/li&gt;
 &lt;li&gt;Härliga grå skjortbeklädda britter&lt;/li&gt;
 &lt;li&gt;Det som funkar för dig är en bra grej&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 78 - Stirring the pot is necessary</title>
-      <link>http://kodsnack.se/78/</link>
-      <pubDate>Tue, 25 Nov 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/78/</guid>
-      <description>
-
-&lt;p&gt;We chat with &lt;a href=&#34;https://twitter.com/fgeorge52&#34;&gt;Fred George&lt;/a&gt;, handgrenade of software development, live on stage during &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; 2014. Topics include choosing clients, getting out before you start breaking things, the right ways of changing, the value of methodologies, remote work, gams, languages and more.&lt;/p&gt;
-
-&lt;p&gt;This recording exists as good as it is thanks to &lt;a href=&#34;http://steveonjava.com/&#34;&gt;Stephen Chin&lt;/a&gt; of &lt;a href=&#34;http://nighthacking.com/&#34;&gt;nighthacking.com&lt;/a&gt; for providing and masterfully wrangling all the necessary technology.&lt;/p&gt;
-
-&lt;p&gt;You can &lt;a href=&#34;http://techworld.idg.se/2.2524/1.595938/&#34;&gt;discuss this episode&lt;/a&gt; at Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dailymail.co.uk/home/index.html&#34;&gt;Mail Online&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;Node&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://books.simonandschuster.com/Lean-Thinking/James-P-Womack/9780743249270&#34;&gt;Lean thinking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scrum_%28software_development%29#Scrum_Master&#34;&gt;Scrum master&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.agileconnection.com/article/role-agile-coach&#34;&gt;Agile coach&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://clojure.org&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Food_faddism&#34;&gt;Fad diet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ThoughtWorks&#34;&gt;Thoughtworks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spring_Framework&#34;&gt;Java Spring framework&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.outpace.com&#34;&gt;Outpace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pong&#34;&gt;Pong&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dreamhack&#34;&gt;Dreamhack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/StarCraft&#34;&gt;Starcraft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim&#34;&gt;Skyrim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Law_of_large_numbers&#34;&gt;The law of large numbers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/metal/&#34;&gt;Metal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/swift-language/&#34;&gt;Palo Alto Swift user group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/2014/sessions/swift-swiftly&#34;&gt;Øredev session on Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://elixir-lang.org&#34;&gt;Elixir&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29&#34;&gt;Dave Thomas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://erlangcentral.org/tag/beam/&#34;&gt;Erlang virtual machine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://martinfowler.com/articles/microservices.html&#34;&gt;Micro services&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://db-engines.com/en/article/Key-value+Stores&#34;&gt;Key value store&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Database_transaction&#34;&gt;Database transaction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.forward.co.uk&#34;&gt;Forward internet group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fred Georges&amp;rsquo; sessions at Øredev: &lt;a href=&#34;http://oredev.org/2014/sessions/enabling-emergent-technologies&#34;&gt;Enabling emergent technologies&lt;/a&gt; and &lt;a href=&#34;http://oredev.org/2014/sessions/microservices-lessons-from-3-companies&#34;&gt;Microservices: lessons from 3 companies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://management.about.com/cs/generalmanagement/a/keyperfindic.htm&#34;&gt;KPI&lt;/a&gt; - Key performance indicators&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Waterfall_model&#34;&gt;Waterfall model of software development&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/COBOL&#34;&gt;COBOL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Corporate_title&#34;&gt;C-level executives&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Richard_P._Gabriel&#34;&gt;Richard Gabriel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/XEmacs&#34;&gt;Lucid Emacs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Worse_is_better&#34;&gt;Worse is better&lt;/a&gt; - paper by Richard Gabriel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Myspace&#34;&gt;Myspace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Valve_Corporation#Organizational_structure&#34;&gt;Valve organizational structure&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
