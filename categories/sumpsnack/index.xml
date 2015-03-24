@@ -9,6 +9,107 @@
     <updated>Tue, 24 Feb 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 95 - Jag trivs bättre i två dimensioner</title>
+      <link>http://kodsnack.se/95/</link>
+      <pubDate>Tue, 24 Mar 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/95/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/grapefrukt&#34;&gt;Martin&lt;/a&gt;, Tobias, Kristoffer och Fredrik snackar spelteknik utifrån nyhterna på 2015 års &lt;a href=&#34;http://www.gdconf.com&#34;&gt;Game developers conference&lt;/a&gt;. Vi börjar med att snacka spelmotorer eftersom de flesta stora nu är gratis att börja använda. Skillnader mellan Unity och Unreal avhandlas. Betyder det slutet för hemskrivna motorer? Finns det plats för Source för den delen?&lt;/p&gt;
+
+&lt;p&gt;Efter det snackar vi Vulkan - det nypresenterade 3D-API:et som ses som en arvtagere till OpenGL och dess nyheter och fördelar. Sedan rullar vi vidare till andra API:er för 3D, Valves abitioner och olika sätt att göra den 3D som är på allas läppar just nu.&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodnsack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gdconf.com&#34;&gt;GDC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/grapefrukt&#34;&gt;Martin Jonasson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xbox_360&#34;&gt;Xbox 360&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IPod&#34;&gt;Första Ipod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Creative_NOMAD&#34;&gt;Creative nomad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Game_engine&#34;&gt;Spelmotorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Source_%28game_engine%29#Source_2_engine&#34;&gt;Source 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.unrealengine.com/unreal-engine-4&#34;&gt;Unreal 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unity_%28game_engine%29#Unity_5&#34;&gt;Unity 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Crytek&#34;&gt;Crytek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/CryEngine&#34;&gt;Cryengine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.moneychimp.com/glossary/gross_revenue.htm&#34;&gt;Gross revenue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.massive.se/games/tom-clancys-the-division/&#34;&gt;Tom Clancy&amp;rsquo;s the division&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://udn.epicgames.com/Three/KismetHome.html&#34;&gt;Kismet&lt;/a&gt; - visuell skriptning i Unreal&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/UnrealEd&#34;&gt;UnrealEd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unreal_Tournament&#34;&gt;Unreal tournament&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/UnrealScript&#34;&gt;Unreal script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html&#34;&gt;Blueprints i Unreal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_%28software%29&#34;&gt;Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/81/&#34;&gt;Microsofts stack har blivit mycket öppnare på sistone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steam_%28software%29#Steam_Greenlight&#34;&gt;Steam greenlight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_AIR&#34;&gt;Adobe air&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steam_Machine_%28hardware_platform%29&#34;&gt;Steam machine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vulkan_%28API%29&#34;&gt;Vulkan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Khronos_Group&#34;&gt;Khronos group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mantle_%28API%29&#34;&gt;Mantle&lt;/a&gt; - från AMD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenCL&#34;&gt;OpenCL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenGL_ES&#34;&gt;OpenGL ES&lt;/a&gt; - mobilversion av OpenGL&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DirectX#DirectX_12&#34;&gt;Direct X 12&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scalable_Link_Interface&#34;&gt;SLI&lt;/a&gt; - Scalable link interface, teknik för att samordna arbete mellan flera grafikprocessorer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metal_%28iOS_API%29&#34;&gt;Metal&lt;/a&gt; - från Apple&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Silicon_Graphics&#34;&gt;Silicon graphics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bytecode&#34;&gt;Bytekod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shader&#34;&gt;Shaders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OpenGL_Shading_Language&#34;&gt;GLSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/High-Level_Shading_Language&#34;&gt;HLSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer&#34;&gt;SDL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Nineteen_Eighty-Four&#34;&gt;1984&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brave_New_World&#34;&gt;Brave new world&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTC_Vive&#34;&gt;Vive&lt;/a&gt; - Valves VR-headset&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Oculus_Rift&#34;&gt;Oculus VR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Samsung_Gear_VR&#34;&gt;Samsung gear VR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Project_Morpheus_%28virtual_reality%29&#34;&gt;Morpheus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Holographic#Microsoft_HoloLens&#34;&gt;Hololens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitch.tv/oculus/v/3862049&#34;&gt;Snack med John Carmack där han pratade mycket om Gear också&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTC&#34;&gt;HTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/gaming/2015/03/hands-on-valvehtc-vive-opens-up-the-virtual-reality-experience/&#34;&gt;Handkontrollerna för Vive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g_txF7iETX0&#34;&gt;Microsofts presentationsvideo för Kinect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/OGRE&#34;&gt;Ogre 3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight/&#34;&gt;Code night&lt;/a&gt; - 16 april i Stockholm. Kom och häng med oss!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/&#34;&gt;Sumpsnack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En och en före detta spelutvecklare&lt;/li&gt;
+&lt;li&gt;Gratis med en liten apostrof&lt;/li&gt;
+&lt;li&gt;Då blir den inte så gratis längre&lt;/li&gt;
+&lt;li&gt;Vad gratis faktiskt innebär&lt;/li&gt;
+&lt;li&gt;Snokat lite på Unity&lt;/li&gt;
+&lt;li&gt;Jag trivs bättre i två dimensioner&lt;/li&gt;
+&lt;li&gt;I princip ett färdigs spel från scratch&lt;/li&gt;
+&lt;li&gt;Klasstung C++&lt;/li&gt;
+&lt;li&gt;Programmering för designers&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Gratis&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Gratis med citationstecken&lt;/li&gt;
+&lt;li&gt;En motor som är till för en väldigt speciell sak&lt;/li&gt;
+&lt;li&gt;En leveleditor och en hög C++&lt;/li&gt;
+&lt;li&gt;En ganska begränsad idé i stil med Minecraft&lt;/li&gt;
+&lt;li&gt;Man byter en uppsättning problem mot en annan&lt;/li&gt;
+&lt;li&gt;Du kompilerar din egen bytekod&lt;/li&gt;
+&lt;li&gt;En full C-kompilator&lt;/li&gt;
+&lt;li&gt;Vi har en headerfil&lt;/li&gt;
+&lt;li&gt;Krig och de slår dig med käppar&lt;/li&gt;
+&lt;li&gt;Valve är nog lite mer brave new world&lt;/li&gt;
+&lt;li&gt;VR som någonting större&lt;/li&gt;
+&lt;li&gt;Stå där och se dumma ut tillsammans&lt;/li&gt;
+&lt;li&gt;Brottas med närsynthet och VR-kit&lt;/li&gt;
+&lt;li&gt;Öppen horisont&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 94 - Päronmetersekunder är inte en rimlig enhet här</title>
       <link>http://kodsnack.se/94/</link>
       <pubDate>Tue, 17 Mar 2015 10:26:14 UTC</pubDate>
@@ -1619,130 +1720,6 @@ var borta.&lt;/p&gt;
 &lt;li&gt;I den riktiga världen&lt;/li&gt;
 &lt;li&gt;Det används väl bara i den riktiga världen&lt;/li&gt;
 &lt;li&gt;En riktigt bra runtime för alla plattformar&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 80 - Where numbers don&#39;t have to be special anymore</title>
-      <link>http://kodsnack.se/80/</link>
-      <pubDate>Tue, 09 Dec 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/80/</guid>
-      <description>
-
-&lt;p&gt;We chat with &lt;a href=&#34;http://karpinski.org/&#34;&gt;Stefan Karpinski&lt;/a&gt;, creator of the &lt;a href=&#34;http://julialang.org/&#34;&gt;Julia programming language&lt;/a&gt;, live on stage during &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; 2014. Topics include deciding to build a new language, the interesting unsolved problems of numerical computing, concurrency solutions, developing with and on LLVM, handling deprecation nicely, things (possibly) in the future for Julia and why Swift is exciting for Julia and other languages.&lt;/p&gt;
-
-&lt;p&gt;This recording exists as good as it is thanks to &lt;a href=&#34;http://steveonjava.com/&#34;&gt;Stephen Chin&lt;/a&gt; of &lt;a href=&#34;http://nighthacking.com/&#34;&gt;nighthacking.com&lt;/a&gt; for providing and masterfully wrangling all the necessary technology.&lt;/p&gt;
-
-&lt;p&gt;There is a minute and a half of worse audio quality just after the nine minute mark, where microphone problems forced us to fill in with audio from our backup microphone.&lt;/p&gt;
-
-&lt;p&gt;Comments, thoughts or suggestions? &lt;a href=&#34;http://techworld.idg.se/2.2524/1.599981/&#34;&gt;Discuss this episode&lt;/a&gt; at Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://karpinski.org/&#34;&gt;Stefan Karpinski&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://julialang.org/&#34;&gt;Julia programming language&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Computational_science&#34;&gt;Scientific computing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/viral_b_shah&#34;&gt;Viral Shah&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/jeffbezanson&#34;&gt;Jeff Bezanson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MATLAB&#34;&gt;MATLAB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/R_%28programming_language%29&#34;&gt;R&lt;/a&gt; programming language&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Python_%28programming_language%29&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.python.org/2/extending/extending.html&#34;&gt;C extension&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Story_of_the_Three_Bears&#34;&gt;Goldilocks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Goldilocks_principle&#34;&gt;Goldilocks principle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dylan_%28programming_language%29&#34;&gt;Dylan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29&#34;&gt;Garbage collection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object_type_%28object-oriented_programming%29#Unboxing&#34;&gt;Unboxed data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Complex_number&#34;&gt;Complex number&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://juliawebstack.org/&#34;&gt;Julia Webstack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Numerical_analysis&#34;&gt;Numerical computing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Concurrency_%28computer_science%29&#34;&gt;Concurrency&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Distributed_computing&#34;&gt;Distributed computing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thread_%28computing%29&#34;&gt;Threading&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/JuliaLang/julia&#34;&gt;Julia on Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Transactional_memory&#34;&gt;Transactional memory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gobyexample.com/goroutines&#34;&gt;Goroutine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Coroutine&#34;&gt;Coroutine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Channel_%28programming%29&#34;&gt;Channel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Input/output&#34;&gt;I/O&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://llvm.org/&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C_preprocessor#Conditional_compilation&#34;&gt;IFDEF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Just-in-time_compilation&#34;&gt;JIT&lt;/a&gt;  - just-in-time (compilation, in this case)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Library_%28computing%29#Shared_libraries&#34;&gt;Shared library&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org/doxygen/group__CINDEX.html&#34;&gt;libclang&lt;/a&gt; - C Interface to Clang&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/onlinedocs/gcc/Template-Instantiation.html&#34;&gt;Template instantiation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jayschwa/Quake2.jl&#34;&gt;Quake2.jl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hackerschool.com/&#34;&gt;Hacker school&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Matrix_multiplication&#34;&gt;Matrix multiplication&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vectorization&#34;&gt;Vectorization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/5092134/whats-the-difference-between-generational-and-incremental-garbage-collection/5092380#5092380&#34;&gt;Generational incremental garbage collection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SNOBOL&#34;&gt;SNOBOL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SPITBOL_compiler&#34;&gt;SPITBOL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Icon_%28programming_language%29&#34;&gt;Icon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perl#Early_versions&#34;&gt;Perl 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C99&#34;&gt;C99 standard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://julia.readthedocs.org/en/latest/manual/types/#immutable-composite-types&#34;&gt;Immutable composite types&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Multiple_dispatch&#34;&gt;Multiple dispatch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Monkey_patch&#34;&gt;Monkey patch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/5082190/help-with-add&#34;&gt;radd&lt;/a&gt;-trick in Python&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Common_Lisp&#34;&gt;Common Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Common_Lisp_Object_System&#34;&gt;CLOS&lt;/a&gt; - Common Lisp object system&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Polymorphism_%28computer_science%29&#34;&gt;Polymorphism&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Self_%28programming_language%29&#34;&gt;Self&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.julialang.org/en/release-0.1/stdlib/blas/&#34;&gt;BLAS&lt;/a&gt;  - Basic linear algebra subroutines&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fast_Fourier_transform&#34;&gt;Fast fourier transform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.golang.org/introducing-gofix&#34;&gt;Gofix&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tracing_%28software%29&#34;&gt;Tracing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Static_build&#34;&gt;Static compilation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology&#34;&gt;MIT&lt;/a&gt;  - Massachusetts institute of technology&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://julialang.org/teaching/&#34;&gt;Courses taught using Julia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Function_pointer&#34;&gt;Function pointer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.scipy.org/&#34;&gt;Scipy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://math.mit.edu/~stevenj/&#34;&gt;Steven Johnson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fftw.org/&#34;&gt;FFTW&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/stevengj/PyCall.jl&#34;&gt;Pycall package for Julia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Call_stack&#34;&gt;Call stack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/gdb/&#34;&gt;GDB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lldb.llvm.org/&#34;&gt;LLDB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI&lt;/a&gt;  - application binary interface&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org/&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rust-lang.org/&#34;&gt;Rust programming language&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt; - creator of LLVM and Swift&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/&#34;&gt;WebKit FTL JIT&lt;/a&gt; - compiles Javascript using LLVM&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://llvm.org/docs/GarbageCollection.html#about-the-shadow-stack&#34;&gt;Shadow stack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cs.ucsb.edu/~urs/oocsb/papers/pldi92.pdf&#34;&gt;‎Dynamic stack frame deoptimization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tutorialspoint.com/matlab/matlab_matrix_concatenation.htm&#34;&gt;MATLAB matrix concatenation syntax&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Some of the interesting tradeoffs&lt;/li&gt;
-&lt;li&gt;Bridge that gap between high-level and low-level&lt;/li&gt;
-&lt;li&gt;A huge pointer graph of some kind&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s good to have a focus, initially&lt;/li&gt;
-&lt;li&gt;The point where we&amp;rsquo;re pushing things&lt;/li&gt;
-&lt;li&gt;The classic tradition of a ton of IFDEFs&lt;/li&gt;
-&lt;li&gt;This brings us back to garbage collection&lt;/li&gt;
-&lt;li&gt;Specializing for numerical work&lt;/li&gt;
-&lt;li&gt;Where numbers don&amp;rsquo;t have to be special anymore&lt;/li&gt;
-&lt;li&gt;(The question is:) How useful is that generalization?&lt;/li&gt;
-&lt;li&gt;You don&amp;rsquo;t necessarily know what code you&amp;rsquo;re going to need in advance&lt;/li&gt;
-&lt;li&gt;Trading off memory for performance&lt;/li&gt;
-&lt;li&gt;Really doing the deprecation process&lt;/li&gt;
-&lt;li&gt;A situation where normally you&amp;rsquo;d JIT something&lt;/li&gt;
-&lt;li&gt;You might end up in a slow case&lt;/li&gt;
-&lt;li&gt;You can always just fall back on an interpreter&lt;/li&gt;
-&lt;li&gt;A partially compiled interpreter&lt;/li&gt;
-&lt;li&gt;Nobody needs to know that it was written in Julia&lt;/li&gt;
-&lt;li&gt;A really capable C library&lt;/li&gt;
-&lt;li&gt;As easy as walking a linked pointer list&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;m really glad someone else implemented it&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
