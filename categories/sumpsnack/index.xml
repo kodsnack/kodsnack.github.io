@@ -9,6 +9,73 @@
     <updated>Tue, 24 Feb 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 96 - Den abstrakta idén om vad programmet gör</title>
+      <link>http://kodsnack.se/96/</link>
+      <pubDate>Tue, 31 Mar 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/96/</guid>
+      <description>
+
+&lt;p&gt;Fredrik hade mer och mindre självförvållade ljudproblem under inspelningen, så ljudet är inte perfekt. Vi beklagar och lovar bot och bättring.&lt;/p&gt;
+
+&lt;p&gt;Först snackar vi lite om Apples nypresenterade Macbook med bara en USB-port. Kan Fredrik leva med den? Är det en bra idé att ha så få portar på en bärbar dator?&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi säkerhet i Chrome och andra webbläsare. Hur bra är de steg som främst Chrome har tagit och tar för att öka säkerheten för vanliga surfare? Hur stora förbättringar blir det av att man försöker &amp;ldquo;fixa&amp;rdquo; problemen och bristerna i hur saker funkar nu? Borde man gå vidare och förbättra kommande saker istället?&lt;/p&gt;
+
+&lt;p&gt;Vi diskuterar också att sätta sig in i andras kod, exempelvis sitt forna jags. Vad kan man göra för att försöka snabba upp processen att förstå en kodbas och varför är det så svårt? Är det samma problem som gör att man inte sätter sig och läser kod speciellt ofta? Fokuserar de som pratar om &amp;ldquo;läsbar&amp;rdquo; kod på fel saker? Kommentarer och annan dokumentations värde och problem. Går det att lösa med processer? Och allting runtomkring gör bara allt värre, all hantering av fellägen och annat som inte egentligen har med problemet man ville lösa att göra.&lt;/p&gt;
+
+&lt;p&gt;Har du ett magiskt sätt på lager för att förklara den mentala modellen bakom kod? Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodnsack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MacBook_%282015_version%29&#34;&gt;Macbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/USB#3.1&#34;&gt;USB typ C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DisplayPort&#34;&gt;Displayport&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://appsnack.se/avsnitt/158-periodiska-systemet-enligt-iveEnApple-podcastfrnAppSnack&#34;&gt;Appsnack om nya Macbook och annat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/chromium/issues/detail?id=378566&#34;&gt;Nya Chrome blockerar javascriptanrop till lokala nätet och localhost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chromium.org/Home/chromium-security/marking-http-as-non-secure&#34;&gt;Chrome ska flagga allt som inte är https som osäkert&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS&#34;&gt;Korsdomänregelprinciper&lt;/a&gt; - att kunna fråga via XHR&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions&#34;&gt;DNSSEC&lt;/a&gt; - säkerhetstillägg för domännamnsystemet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chromium_%28web_browser%29&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sandbox_%28computer_security%29&#34;&gt;Sandbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web&#34;&gt;Let&amp;rsquo;s encrypt&lt;/a&gt; - EFFs initiativ för att dela ut gratis SSL-certifikat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTTP/2&#34;&gt;HTTP/2&lt;/a&gt; - krypterat som standard&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Donald_Knuth&#34;&gt;Knuth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Literate_programming&#34;&gt;Literate programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://worrydream.com/&#34;&gt;Bret Victor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop&#34;&gt;REPL&lt;/a&gt; - interaktiva miljöer för att experimentera med kod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight/&#34;&gt;Code night&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det är väldigt mycket måndag helt enkelt&lt;/li&gt;
+&lt;li&gt;Min dator är stadd i något slags förfall&lt;/li&gt;
+&lt;li&gt;Ett tangentbord med sjutton portar på&lt;/li&gt;
+&lt;li&gt;Lika bra att jag inte köpte en 4K-skärm&lt;/li&gt;
+&lt;li&gt;Någon som bara hostar lite webbsidor&lt;/li&gt;
+&lt;li&gt;Ett djupt hål av säkerhetslager&lt;/li&gt;
+&lt;li&gt;Hur mycket säkrare blir det och hur mycket krångligare blir det?&lt;/li&gt;
+&lt;li&gt;Flytta sakernas tillstånd framåt&lt;/li&gt;
+&lt;li&gt;En massa jobb för ingenting&lt;/li&gt;
+&lt;li&gt;Vi sparar ju inte ens en kaka&lt;/li&gt;
+&lt;li&gt;Om det skulle vara känsligt att lyssna på Kodsnack&lt;/li&gt;
+&lt;li&gt;Den där verkligheten&lt;/li&gt;
+&lt;li&gt;Ha som ambition att fixa verkligheten&lt;/li&gt;
+&lt;li&gt;Är det så att kod är som kondition?&lt;/li&gt;
+&lt;li&gt;Kommentarer i min erfarenhet&lt;/li&gt;
+&lt;li&gt;Kommentaren tillför inget till att börja med, och nu är den dessutom fel&lt;/li&gt;
+&lt;li&gt;Den abstrakta idén om vad programmet gör&lt;/li&gt;
+&lt;li&gt;Fråga sig själv för några år sedan vad man höll på med&lt;/li&gt;
+&lt;li&gt;Om man ser koden utan alla edge cases&lt;/li&gt;
+&lt;li&gt;Jobba och lida tills man förstår&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 95 - Jag trivs bättre i två dimensioner</title>
       <link>http://kodsnack.se/95/</link>
       <pubDate>Tue, 24 Mar 2015 10:26:14 UTC</pubDate>
@@ -1623,103 +1690,6 @@ var borta.&lt;/p&gt;
 &lt;li&gt;If I had a website, I&amp;rsquo;d run it like Singapore&lt;/li&gt;
 &lt;li&gt;Every computer should come with an old person&lt;/li&gt;
 &lt;li&gt;This whole alternate semantic reality&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 81 - En helt ny värld</title>
-      <link>http://kodsnack.se/81/</link>
-      <pubDate>Tue, 16 Dec 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/81/</guid>
-      <description>
-
-&lt;p&gt;Fredrik snackar med &lt;a href=&#34;http://blog.filipekberg.se&#34;&gt;Filip Ekberg&lt;/a&gt; om .NET och får sina vyer kraftfulld vidgade kring utveckling på och med Microsofts plattformar. Vad har hänt på sistone, var ska man börja och vem ska man följa på Twitter för att skaffa sig lite koll? Är du medveten om exakt hur öppen mycket av källkoden i kärnan av .NET faktiskt är? Eller om att du kan kompilera appar för Windows, Windows phone, OS X, iOS och Android från en enda kodbas? Inklusive användargränssnitt?&lt;/p&gt;
-
-&lt;p&gt;Vi snackar också lite om vad andra kan ta efter i hur Microsoft stödjer sina utvecklare, bakåtkompatibilitet och hur ens tålamod inte verkar öka med tiden.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.601386/&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.filipekberg.se&#34;&gt;Filip Ekberg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikiquote.org/wiki/Donald_Rumsfeld&#34;&gt;Donald Rumsfeld-skalan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://edgecasesshow.com/053-the-poetry-of-donald-rumsfeld.html&#34;&gt;The poetry of Donald Rumsfeld&lt;/a&gt; - avsnitt 53 av appleutvecklarprogrammet Edge cases&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.filipekberg.se/my-book/&#34;&gt;Filips bok - C# smorgasboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mvp.microsoft.com/en-us/overview.aspx&#34;&gt;MVP&lt;/a&gt; - Most valuable professional - utmärkelse Microsoft ger till framstående personer i utvecklargemenskapen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2013/7/11/4486730/microsoft-reorganization-2013-ballmer-one-microsoft&#34;&gt;Microsofts omorganisation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://news.microsoft.com/2013/07/11/one-microsoft-company-realigns-to-enable-innovation-at-greater-speed-efficiency/&#34;&gt;One Microsoft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.visualstudio.com/en-us/visual-studio-online-pricing-vs.aspx&#34;&gt;Visual studio numera gratis för fem användare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.visualstudio.com/sv-se/products/visual-studio-community-vs&#34;&gt;Visual studio community&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/aspnet/home&#34;&gt;ASP.net&lt;/a&gt; kan köras på Linux och OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/dotnet/archive/2014/11/12/net-core-is-open-source.aspx&#34;&gt;Den öppna delen av .net-plattformen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Intelligent_code_completion&#34;&gt;Intellisense&lt;/a&gt; - Visual studios kodkompletteringssystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.omnisharp.net&#34;&gt;Omnisharp&lt;/a&gt; - verktyg för .NET-utveckling i Sublime, Vim, Emacs, Atom med flera&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://neildanson.wordpress.com/2012/12/24/the-roslyn-incident/&#34;&gt;Kompilatoromskrivningen av C# och VB.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Managed_code&#34;&gt;Managed code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://roslyn.codeplex.com/SourceControl/latest&#34;&gt;Roslyn&lt;/a&gt; - .NET-kompilatorplattformen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kunal-chowdhury.com/2012/07/evolution-of-c-10-50-what-are-new.html&#34;&gt;Utvecklingen av C#&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.codeproject.com/Articles/375166/Functional-programming-in-Csharp&#34;&gt;Funktionella aspekter av C#&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft&#34;&gt;Microsoft på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.codeplex.com&#34;&gt;Codeplex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Ballmer&#34;&gt;Steve Ballmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8To-6VIJZRE&#34;&gt;Developers, developers, developers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.macstories.net/ios/goodbye-drafts-widget-for-now/&#34;&gt;Folk&lt;/a&gt; som &lt;a href=&#34;http://oleb.net/blog/2014/12/apple-out-of-touch/&#34;&gt;diskuterar&lt;/a&gt; &lt;a href=&#34;http://www.joecieplinski.com/blog/2014/12/09/regarding-the-latest-app-store-rejections/&#34;&gt;problemen&lt;/a&gt; med Apples appbutiker och &lt;a href=&#34;http://www.marco.org/2014/12/09/get-the-word-out&#34;&gt;otydliga&lt;/a&gt; &lt;a href=&#34;http://www.panic.com/blog/transmit-ios-1-1-1/&#34;&gt;riktlinjer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://appreviewtimes.com&#34;&gt;Genomsnittliga tider&lt;/a&gt; mellan uppladdning och godkännande i Apples appbutiker&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xamarin.com&#34;&gt;Xamarin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://azure.microsoft.com/en-us/services/mobile-services/&#34;&gt;Azure mobile services&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Active_Directory&#34;&gt;AD&lt;/a&gt; - Active directory, &lt;a href=&#34;http://en.wikipedia.org/wiki/Directory_service&#34;&gt;katalogtjänst&lt;/a&gt; från Microsoft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nodejs.org&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.asp.net/web-api&#34;&gt;Web API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx&#34;&gt;Visual studio express&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/116&#34;&gt;C# 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs.aspx&#34;&gt;Visual studio 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cs.man.ac.uk/~johns/npe.html&#34;&gt;Nullpointer exception&lt;/a&gt;/&lt;a href=&#34;http://stackoverflow.com/questions/4660142/what-is-a-nullreferenceexception-and-how-do-i-fix-it&#34;&gt;null reference exception&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/ms173224.aspx&#34;&gt;??-operatorn&lt;/a&gt; hanterar null i anropskedjor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/mvpawardprogram/archive/2012/03/26/introduction-of-new-features-in-c-5-0.aspx&#34;&gt;Nyheter i C# 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.forbes.com/sites/gordonkelly/2014/05/27/simple-hack-gives-windows-xp-users-5-more-years-of-support/&#34;&gt;Windows XP har fortfarande lite stöd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/vstudio/ms788229.aspx&#34;&gt;Visual basic 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/results?search_query=asp.net+community+standup&#34;&gt;ASP.NET-teamets standups på Youtube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.asp.net/vnext/overview/aspnet-vnext/aspnet-5-overview&#34;&gt;ASP.NET 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/dotnet/archive/2014/12/04/introducing-net-core.aspx&#34;&gt;.NET core&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Parallel_Extensions#PLINQ&#34;&gt;Parallel LINQ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NuGet&#34;&gt;Nuget&lt;/a&gt; - pakethanteringssystem för Microsofts utvecklingsmiljö&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gentoo_Linux&#34;&gt;Gentoo&lt;/a&gt; - linuxdistribution&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.microsoftvirtualacademy.com/&#34;&gt;Microsofts videos online och utbildningsmaterial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com&#34;&gt;MSDN&lt;/a&gt; - Microsoft developer network, Microsofts startplats för utvecklarinformation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pluralsight.com&#34;&gt;Pluralsight&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.asp.net/get-started&#34;&gt;ASP.NET&lt;/a&gt; - sajten med utbildningsmaterial&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://projecteuler.net&#34;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Visual_Basic_.NET&#34;&gt;VB.NET&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/vstudio/gg597391.aspx&#34;&gt;Portable class library&lt;/a&gt; - möjliggör återanvändning av kod mellan projekt för olika .NET-plattformar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_%28software%29&#34;&gt;Mono&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_API&#34;&gt;Win32-API:et&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://xamarin.com/studio&#34;&gt;Xamarins studio&lt;/a&gt; - IDE för Mac&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/General/Conceptual/Devpedia-CocoaApp/Storyboard.html&#34;&gt;Storyboards&lt;/a&gt; kan användas för att beskriva gränssnitt på Apples plattformar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/NibFile.html&#34;&gt;Nib-filer&lt;/a&gt; - kan också användas för att beskriva gränssnitt på Apples plattformar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/library/cc295302.aspx&#34;&gt;XAML&lt;/a&gt; - Extensible application markup language, XML-likt språk från Microsoft för att beskriva gränssnitt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.hanselman.com&#34;&gt;Scott Hanselman&lt;/a&gt; - &lt;a href=&#34;http://www.hanselman.com/blog/&#34;&gt;blogg&lt;/a&gt; och &lt;a href=&#34;https://twitter.com/shanselman&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hanselminutes.com&#34;&gt;Hanselminutes&lt;/a&gt; - Scott Hanselmans podcast&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scott_Guthrie&#34;&gt;Scott Guthrie&lt;/a&gt; - &lt;a href=&#34;http://weblogs.asp.net/scottgu&#34;&gt;blogg&lt;/a&gt; och &lt;a href=&#34;https://twitter.com/scottgu&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/fekberg&#34;&gt;@fekberg&lt;/a&gt; - Filip på Twitter&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det är rätt mycket kod&lt;/li&gt;
-&lt;li&gt;Det är rätt mycket legacykod&lt;/li&gt;
-&lt;li&gt;Ibland vill man bara slänga ihop ett bash-script&lt;/li&gt;
-&lt;li&gt;En helt ny värld&lt;/li&gt;
-&lt;li&gt;En skalbar backend&lt;/li&gt;
-&lt;li&gt;När gamla buggar faktiskt slängs bort eller slutar stödjas&lt;/li&gt;
-&lt;li&gt;De gör allt på Github&lt;/li&gt;
-&lt;li&gt;I den riktiga världen&lt;/li&gt;
-&lt;li&gt;Det används väl bara i den riktiga världen&lt;/li&gt;
-&lt;li&gt;En riktigt bra runtime för alla plattformar&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
