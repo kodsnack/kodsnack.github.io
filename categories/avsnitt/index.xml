@@ -6,7 +6,148 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 31 Mar 2015 10:26:14 UTC</updated>
+    <updated>Tue, 07 Apr 2015 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 97 - Här i datorernas stenålder</title>
+      <link>http://kodsnack.se/97/</link>
+      <pubDate>Tue, 07 Apr 2015 10:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/97/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar öl och vin. Sedan arbetsergonomi, värk i muskler och att försöka minimera musanvändandet. Hur kan VR påverka ergonomin och våra kontor? Några inslag av filmsnack och boksnack inklusive nyss utkomna boken Becoming Steve Jobs. Lite diskussion om React och ramverk för webbapplikationer. Numera är det inte lika viktigt att alltid slänga med stora ramverk när man ska bygga enkla saker på webben. Därifrån snackar vi om Darts ambitioner.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi om Umeå kommuns skadeståndskrav på Erik Sundkvist. Man kan vara så dålig vinnare att man inte förtjänar att vinna.&lt;/p&gt;
+
+&lt;p&gt;Finns det andra språk som utvecklas på samma sätt som Javascript, där nya versioner byggs med gamla byggstenar. Framför allt vill Kristoffer ta tillbaka ordet polyfill. Detta leder givetvis (?) vidare in på en diskussion av Common lisp, dess egenheter och utveckling. Därifrån kommer vi tillbaka till att använda tangentbordet och kraftfulla textredigerare. Och så ett litet utbrott om löpsteg och tunna skor.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodnsack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codenight.se&#34;&gt;Code night&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.coppersmiths.se/?portfolio=the-bishops-rye-ale&#34;&gt;Coppersmiths the bishop&amp;rsquo;s rye ale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/No-go_area&#34;&gt;No-go zone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sv.wikipedia.org/wiki/Enk%C3%B6ping&#34;&gt;Sveriges närmaste stad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.systembolaget.se/Sok-dryck/Dryck/?varuNr=22467&#34;&gt;Piccini chianti orange&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0102926/quotes&#34;&gt;Favabönor och chianti&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Repetitive_strain_injury&#34;&gt;RSI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tendinitis&#34;&gt;Tendonitis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tiling_window_manager&#34;&gt;Tiling window manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_desktop&#34;&gt;Virtuella skrivbord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mizage.com/divvy/&#34;&gt;Appar&lt;/a&gt; som hjälper en att &lt;a href=&#34;http://www.irradiatedsoftware.com/sizeup/&#34;&gt;placera fönster&lt;/a&gt; på OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNOME#GNOME_3&#34;&gt;Gnome 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spotlight_%28software%29&#34;&gt;Spotlight&lt;/a&gt; - Apples sökfunktion för OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29&#34;&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unity_%28user_interface%29&#34;&gt;Unity&lt;/a&gt; - Ubuntus gnomebaserade skrivbordsmiljö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Accelerando&#34;&gt;Accelerando&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://i.dailymail.co.uk/i/pix/2010/02/25/article-1253786-08779BB3000005DC-45_468x316.jpg&#34;&gt;Svävarstolarna i Wall-E&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Masterminds_%281997_film%29&#34;&gt;Masterminds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Patrick_Stewart&#34;&gt;Patrick Stewart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vincent_Kartheiser&#34;&gt;Vincent Kartheiser&lt;/a&gt; - Pete i Mad men som också är med i Masterminds&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WarGames&#34;&gt;Wargames&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Jupiter_Ascending&#34;&gt;Jupiter ascending&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Net_%281995_film%29&#34;&gt;Nätet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Technological_singularity&#34;&gt;Singularitet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/122368314&#34;&gt;The leviathan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Leviathan_%282014_film%29&#34;&gt;Leviathan&lt;/a&gt; - den ryska filmen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dune_%28film%29&#34;&gt;Dune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pacific_Rim_%28film%29&#34;&gt;Pacific rim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Neill_Blomkamp&#34;&gt;Neil Blomkamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chappie_%28film%29&#34;&gt;Chappie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Elysium_%28film%29&#34;&gt;Elysium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens&#34;&gt;Nästa Star wars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spectre_%282015_film%29&#34;&gt;Nästa bondfilm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Warcraft_%28film%29&#34;&gt;Warcraftfilmen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/China_Mi%C3%A9ville&#34;&gt;China Miéville&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perdido_Street_Station&#34;&gt;Perdido street station&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_City_%26_the_City&#34;&gt;The city &amp;amp; the city&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gone_Girl_%28novel%29&#34;&gt;Gone Girl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mad_Max:_Fury_Road&#34;&gt;Mad Max-filmen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Becoming_Steve_Jobs&#34;&gt;Nya Steve Jobs-boken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Walter_Isaacson&#34;&gt;Isaacson&lt;/a&gt; - författade den officiella Steve Jobs-biografin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://99percentinvisible.org/episode/of-mice-and-men/&#34;&gt;99% invisible&lt;/a&gt; - om Engelbart och datormusen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Pixar&#34;&gt;Pixar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://5by5.tv/changelog&#34;&gt;The changelog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://5by5.tv/changelog/148&#34;&gt;Changelog om Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://5by5.tv/changelog/149&#34;&gt;Changelog om React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://browserify.org/&#34;&gt;Browserify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bower.io/&#34;&gt;Bower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gruntjs.com/&#34;&gt;Grunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://news.dartlang.org/2015/03/dart-for-entire-web.html&#34;&gt;Google lägger ner sin virtuella maskin för Dart i Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://coffeescript.org/&#34;&gt;Coffeescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typescriptlang.org/&#34;&gt;Typescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Self-hosting&#34;&gt;Self hosting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lars_Bak_%28computer_programmer%29&#34;&gt;Lars Bak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29&#34;&gt;V8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://google-opensource.blogspot.se/2015/03/farewell-to-google-code.html&#34;&gt;Google code nedlagt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack&#34;&gt;DDOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://about.gitlab.com/&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gogs.io/&#34;&gt;Gogs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git.wiki.kernel.org/index.php/Gitweb&#34;&gt;Gitweb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codeplex.com/&#34;&gt;Codeplex&lt;/a&gt; - Microsofts tjänst för öppna projekt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Team_Foundation_Server&#34;&gt;Team foundation server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe#Microsoft_in-house_use&#34;&gt;Perforce används på Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.svd.se/nyheter/inrikes/17-aring-blir-hjalte-efter-dataintrang_4439829.svd&#34;&gt;17-åring blir hjälte efter dataintrång | Inrikes | SvD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ecma-international.org/memento/TC39.htm&#34;&gt;ECMAscript 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/dev/peps/pep-3000/&#34;&gt;Python 3000&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Polyfill&#34;&gt;Polyfill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/#q=objektivkonverteradapter&#34;&gt;Objektivkonverterarapter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Common_Lisp&#34;&gt;Common lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fortran&#34;&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/COBOL&#34;&gt;Cobol&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Clojure&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cl21.org/&#34;&gt;CL21.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lispworks.com/documentation/lw51/CLHS/Body/22_c.htm&#34;&gt;format i Common lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rubymonk.com/learning/books/1-ruby-primer/chapters/5-strings/lessons/31-string-basics&#34;&gt;Stränginterpolering i Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.opensuse.org/Portal:Hackweek&#34;&gt;Suses hack week&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qsapp.com/&#34;&gt;Quicksilver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://agiletortoise.com/drafts/index.html&#34;&gt;Drafts&lt;/a&gt; - anteckningsprogram för IOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vivobarefoot&#34;&gt;Vivobarefoot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vibram_FiveFingers&#34;&gt;Fivefingers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jobbig systembolagsflyttupplevelse&lt;/li&gt;
+&lt;li&gt;RSI-varning&lt;/li&gt;
+&lt;li&gt;Jag kommer inte ifrån att jag måste koda&lt;/li&gt;
+&lt;li&gt;En helt datorfri helg&lt;/li&gt;
+&lt;li&gt;Man kommer inte ifrån musen helt&lt;/li&gt;
+&lt;li&gt;En vettig mus med riktiga knappar&lt;/li&gt;
+&lt;li&gt;Antingen åksjuk eller trött i nacken&lt;/li&gt;
+&lt;li&gt;Jag råkade titta på Youtube på min telefon&lt;/li&gt;
+&lt;li&gt;Minst ett sinne som fallit bort&lt;/li&gt;
+&lt;li&gt;Om man inte har någon fysisk hårdvara&lt;/li&gt;
+&lt;li&gt;Står mitt i ingenstans och tittar ut i luften&lt;/li&gt;
+&lt;li&gt;Så dålig att den inte ens var bra&lt;/li&gt;
+&lt;li&gt;Inte Jupiter ascending-dålig&lt;/li&gt;
+&lt;li&gt;Internet var fullständigt obegripligt för Hollywood&lt;/li&gt;
+&lt;li&gt;En människa som sitter kvar hemma&lt;/li&gt;
+&lt;li&gt;En fotbollsstor rymdkapsel&lt;/li&gt;
+&lt;li&gt;Knö in människor i alla prylar&lt;/li&gt;
+&lt;li&gt;Här i datorernas stenålder&lt;/li&gt;
+&lt;li&gt;Ännu ett syntaktiskt socker&lt;/li&gt;
+&lt;li&gt;Nu sjönk dartskeppet&lt;/li&gt;
+&lt;li&gt;Ett slavorgan till folket&lt;/li&gt;
+&lt;li&gt;De absolut bästa fantasisiffrorna&lt;/li&gt;
+&lt;li&gt;Bakportad transpiling eller något&lt;/li&gt;
+&lt;li&gt;Ta er polyfill och gå hem&lt;/li&gt;
+&lt;li&gt;Rör inte min polyfill&lt;/li&gt;
+&lt;li&gt;Ett språk per problem&lt;/li&gt;
+&lt;li&gt;Sitter och läser manualerna eller googlar i panik&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 96 - Den abstrakta idén om vad programmet gör</title>
@@ -1545,151 +1686,6 @@ var borta.&lt;/p&gt;
 &lt;li&gt;That&amp;rsquo;s because you skipped the learning step&lt;/li&gt;
 &lt;li&gt;Copying and pasting things off of the internet&lt;/li&gt;
 &lt;li&gt;Shuffling piles of binary around the place&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 82 - It&#39;s very difficult to make a joke in this space</title>
-      <link>http://kodsnack.se/82/</link>
-      <pubDate>Tue, 23 Dec 2014 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/82/</guid>
-      <description>
-
-&lt;p&gt;We chat with &lt;a href=&#34;http://research.microsoft.com/en-us/people/mickens/&#34;&gt;James Mickens&lt;/a&gt;, researcher and most likely funniest man at Microsoft, live on stage during &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; 2014. Topics include C development, the purity of incrementation, death by specifications, scandinavian death metal and its font choices and also British football, distributed systems and the problems you encounter dealing with them. The downsides of being stuck alone in a set of universes is that Stack overflow can&amp;rsquo;t help you. And how should we fix the Javascript and web browser technology world?&lt;/p&gt;
-
-&lt;p&gt;Comments on the internet? No.&lt;/p&gt;
-
-&lt;p&gt;This recording exists as good as it is thanks to &lt;a href=&#34;http://steveonjava.com/&#34;&gt;Stephen Chin&lt;/a&gt; of &lt;a href=&#34;http://nighthacking.com/&#34;&gt;nighthacking.com&lt;/a&gt; for providing and masterfully wrangling all the necessary technology.&lt;/p&gt;
-
-&lt;p&gt;Comments, thoughts or suggestions? &lt;a href=&#34;http://techworld.idg.se/2.2524/1.602423/&#34;&gt;Discuss this episode&lt;/a&gt; at Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Freedom_fries&#34;&gt;Freedom fries&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.microsoft.com/en-us/&#34;&gt;Microsoft research&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Distributed_computing&#34;&gt;Distributed systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/2014/sessions/life-is-terrible-lets-talk-about-the-web&#34;&gt;James&amp;rsquo; talk at Øredev 2014&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.microsoft.com/en-us/people/mickens/thenightwatch.pdf&#34;&gt;Handling the zombie apocalypse&lt;/a&gt; - James&amp;rsquo; article &amp;ldquo;The night watch&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://vimeo.com/95066828&#34;&gt;James&amp;rsquo; talk at Monitorama 2014&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Satya_Nadella&#34;&gt;Satya Nadella&lt;/a&gt; - CEO of Microsoft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Nuclear_proliferation&#34;&gt;Nuclear proliferation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Segmentation_fault&#34;&gt;Segfault&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Logical_shift&#34;&gt;Logical shift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Logical_conjunction&#34;&gt;Logical AND&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Malm%C3%B6&#34;&gt;Malmö&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Logical_disjunction&#34;&gt;Logical OR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/World_Wide_Web_Consortium&#34;&gt;W3C&lt;/a&gt; - World wide web consortium&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Web_Components&#34;&gt;Web components&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://webcomponents.org/articles/introduction-to-template-element/&#34;&gt;Web components templates&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gorgoroth&#34;&gt;Gorgoroth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fibonacci_number&#34;&gt;Fibonacci&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Factorial&#34;&gt;Factorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Fizz_buzz&#34;&gt;Fizz buzz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sepultura&#34;&gt;Sepultura&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/King_Diamond_%28band%29&#34;&gt;King diamond&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/British_Steel_%28album%29&#34;&gt;British steel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Notepad_%28software%29&#34;&gt;Notepad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Web_worker&#34;&gt;Web workers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.microsoft.com/apps/pubs/default.aspx?id=120939&#34;&gt;Crom&lt;/a&gt; - James&amp;rsquo; system for speculative Javascript execution&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Speculative_execution&#34;&gt;Speculative execution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Total_Recall_%281990_film%29&#34;&gt;Total recall&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Firebug_%28software%29&#34;&gt;Firebug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Galactus&#34;&gt;Galactus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Odin&#34;&gt;Odin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shellshock_%28software_bug%29&#34;&gt;The Shellshock bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Turtles_all_the_way_down&#34;&gt;Turtles all the way down&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JQuery&#34;&gt;Jquery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/AngularJS&#34;&gt;Angular&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/XMLHttpRequest&#34;&gt;XHR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/&#34;&gt;MDN&lt;/a&gt; - Mozilla developer network, great source of Javascript and browser API documentation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Git_%28software%29&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Grandfather_paradox&#34;&gt;The grandfather paradox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Polyfill&#34;&gt;Polyfill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Asm.js&#34;&gt;asm.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/NoSQL&#34;&gt;NoSQL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MongoDB&#34;&gt;Mongodb&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bare_machine&#34;&gt;Bare metal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Just-in-time_compilation&#34;&gt;Just in time compiler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Maslow&#39;s_hierarchy_of_needs&#34;&gt;Maslow&amp;rsquo;s hierarchy of needs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let&#34;&gt;let-satement&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Zeus&#34;&gt;Zeus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.quirksmode.org/&#34;&gt;Quirksmode.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Yo_%28app%29&#34;&gt;Yo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Book_of_Leviticus&#34;&gt;Leviticus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Registry&#34;&gt;Registry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ASCII_art&#34;&gt;ASCII art&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kb.mozillazine.org/About:config&#34;&gt;About:config&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/2332741/what-is-the-theoretical-maximum-number-of-open-tcp-connections-that-a-modern-lin&#34;&gt;Max TCP connections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_Shockwave&#34;&gt;Shockwave&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Technological_singularity&#34;&gt;Singularity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_video_recorder&#34;&gt;DVR&lt;/a&gt; - Digital video recorder&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Futures_contract&#34;&gt;Futures&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IPhone_6#Chassis_bending&#34;&gt;Bendgate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Captain_America&#39;s_shield&#34;&gt;Captain America&amp;rsquo;s shield&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Georgia_%28U.S._state%29&#34;&gt;Georgia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.merriam-webster.com/dictionary/tomfoolery&#34;&gt;Tomfoolery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/4chan&#34;&gt;4chan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thesalmons.org/lynn/milodon.jpg&#34;&gt;Huge sloths&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;This is just Hollywood stuff&lt;/li&gt;
-&lt;li&gt;We&amp;rsquo;ll edit this out with CGI&lt;/li&gt;
-&lt;li&gt;What happens on the set&lt;/li&gt;
-&lt;li&gt;#freedom #america&lt;/li&gt;
-&lt;li&gt;What prevents me from being a happy person in life&lt;/li&gt;
-&lt;li&gt;It cheapens the art&lt;/li&gt;
-&lt;li&gt;Homelessness is bad too&lt;/li&gt;
-&lt;li&gt;At least you have hope&lt;/li&gt;
-&lt;li&gt;Do you like iteration?&lt;/li&gt;
-&lt;li&gt;I only increment variables&lt;/li&gt;
-&lt;li&gt;Only go forward&lt;/li&gt;
-&lt;li&gt;Black Gandalf&lt;/li&gt;
-&lt;li&gt;Not just fair or balanced&lt;/li&gt;
-&lt;li&gt;Otto von Hyphen&lt;/li&gt;
-&lt;li&gt;We laugh to stop from crying&lt;/li&gt;
-&lt;li&gt;Darkness is delightful&lt;/li&gt;
-&lt;li&gt;The great thing about scandinavian death metal&lt;/li&gt;
-&lt;li&gt;What would Beelzebub do?&lt;/li&gt;
-&lt;li&gt;That TV is in the cloud now&lt;/li&gt;
-&lt;li&gt;Like jazz musicians&lt;/li&gt;
-&lt;li&gt;Like trying to write Inception 2&lt;/li&gt;
-&lt;li&gt;The left hand of satan&lt;/li&gt;
-&lt;li&gt;Multiple speculative universes&lt;/li&gt;
-&lt;li&gt;What universe am I in?&lt;/li&gt;
-&lt;li&gt;A low-rent Stephen Hawking&lt;/li&gt;
-&lt;li&gt;Firebug had no notion of my separate universes&lt;/li&gt;
-&lt;li&gt;The Odin object&lt;/li&gt;
-&lt;li&gt;In the regular development world&lt;/li&gt;
-&lt;li&gt;Chicanery all the way down&lt;/li&gt;
-&lt;li&gt;Function calls are not our strong point&lt;/li&gt;
-&lt;li&gt;Not nothing will happen&lt;/li&gt;
-&lt;li&gt;XHR:s over passenger pidgeon&lt;/li&gt;
-&lt;li&gt;LOL I took a hard dependency on it&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s very difficult to make a joke in this space&lt;/li&gt;
-&lt;li&gt;We don&amp;rsquo;t even issue writes&lt;/li&gt;
-&lt;li&gt;devnulldb&lt;/li&gt;
-&lt;li&gt;But we have hoverboards&lt;/li&gt;
-&lt;li&gt;Tread carefully on the polyfills&lt;/li&gt;
-&lt;li&gt;Close the tab and reboot the machine&lt;/li&gt;
-&lt;li&gt;This is such a character builder&lt;/li&gt;
-&lt;li&gt;Mumblefoo.js&lt;/li&gt;
-&lt;li&gt;Fast Javascript, and cancer&lt;/li&gt;
-&lt;li&gt;No-lock cancer&lt;/li&gt;
-&lt;li&gt;Asynchronous cancer&lt;/li&gt;
-&lt;li&gt;That kitten on a tradmill is not going to watch itself&lt;/li&gt;
-&lt;li&gt;Another special type of disaster&lt;/li&gt;
-&lt;li&gt;Folk wisdom on the web&lt;/li&gt;
-&lt;li&gt;127i content&lt;/li&gt;
-&lt;li&gt;Emu futures&lt;/li&gt;
-&lt;li&gt;If I had a website, I&amp;rsquo;d run it like Singapore&lt;/li&gt;
-&lt;li&gt;Every computer should come with an old person&lt;/li&gt;
-&lt;li&gt;This whole alternate semantic reality&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
