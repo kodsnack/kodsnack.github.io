@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 24 Feb 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 24 Feb 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 07 Apr 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 07 Apr 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,50 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 10 - En gammal långsam snurrande disk on kodsnack </title>
+                <pubDate>Wed, 07 Apr 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/10/</guid>
+                <link>http://kodsnack.se/sumpsnack/10/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Fredrik berättar för Kristoffer vad som hänt i applevärlden på sistone och funderar på planer för att leva med en enda USB-port.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://9to5mac.com/tag/os-x-10-10-3/&#34;&gt;10.10.3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tidbits.com/article/15403&#34;&gt;Nya Bilder&lt;/a&gt; - Apples ersättare för Iphoto och Aperture&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent_Sync&#34;&gt;Bittorrent sync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/live/2015-mar-event/&#34;&gt;Apples event i mars 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortune.com/2015/03/27/why-apples-researchkit-signals-a-golden-age-for-health-care/&#34;&gt;Researchkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/healthkit/&#34;&gt;Healthkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MacBook_%282015_version%29&#34;&gt;Nya Macbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/USB#3.1&#34;&gt;USB C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apple_Thunderbolt_Display&#34;&gt;Apples thunderboltskärmar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MagSafe&#34;&gt;Magsafe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;På redan när jag väckte den&lt;/li&gt;
+&lt;li&gt;En gammal långsam snurrande disk&lt;/li&gt;
+&lt;li&gt;När de kommer ur beta&lt;/li&gt;
+&lt;li&gt;Mest &amp;ldquo;till mig&amp;rdquo; på ganska länge&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="7063861" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_10.mp3"/>
+                <itunes:duration>07:48</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 9 - Kul att det finns så nischade saker on kodsnack </title>
