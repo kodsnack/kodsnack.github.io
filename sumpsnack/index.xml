@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 07 Apr 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 07 Apr 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 14 Apr 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 14 Apr 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,54 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 11 - Fröken Ur började komma in i bilden on kodsnack </title>
+                <pubDate>Wed, 14 Apr 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/11/</guid>
+                <link>http://kodsnack.se/sumpsnack/11/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Josefin, Kristoffer och Fredrik diskuterar respons på Kodsnack, språk på utbildningar, skott-tidsenheter och tidszoner.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;www.bluej.org&#34;&gt;Bluej&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Braid_%28video_game%29&#34;&gt;Braid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Jonathan_Blow&#34;&gt;Jonathan Blow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/John_Blow&#34;&gt;John Blow&lt;/a&gt; - brittisk kompositör&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/paper&#34;&gt;Paper&lt;/a&gt; - Facebooks avskalade tidslinje-app&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.facebook.com/posts/234067533455773/introducing-pop-the-animation-engine-behind-paper/&#34;&gt;Pop&lt;/a&gt; - animationsmotorn bakom Paper&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.facebook.com/posts/721586784561674/introducing-asyncdisplaykit-for-smooth-and-responsive-apps-on-ios/&#34;&gt;Ayncdisplaykit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://day9.tv/&#34;&gt;Day9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nu har vi inte gjort det så lätt för folk att ge respons längre&lt;/li&gt;
+&lt;li&gt;Det tog massor av tid att scrolla igenom på telefonen&lt;/li&gt;
+&lt;li&gt;Jättedumt och tråkigt och helt värdelöst då&lt;/li&gt;
+&lt;li&gt;Om man i alla fall har petat på det innan&lt;/li&gt;
+&lt;li&gt;Har varit fast i C++&lt;/li&gt;
+&lt;li&gt;Det enda alternativet för spel&lt;/li&gt;
+&lt;li&gt;Nästan bara egenheter alltihop&lt;/li&gt;
+&lt;li&gt;Fullständigt pragmatiskt från hans perspektiv&lt;/li&gt;
+&lt;li&gt;När vi sitter och gibbar&lt;/li&gt;
+&lt;li&gt;Fröken Ur började komma in i bilden&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="28770732" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_11.mp3"/>
+                <itunes:duration>32:30</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 10 - En gammal långsam snurrande disk on kodsnack </title>
