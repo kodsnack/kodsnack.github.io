@@ -9,6 +9,70 @@
     <updated>Tue, 14 Apr 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 100 - Interna mellanchefs-concerns</title>
+      <link>http://kodsnack.se/100/</link>
+      <pubDate>Tue, 28 Apr 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/100/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar lite mer om hacket mot Umeå kommun och hurpass överens folk som tycker sig ha olika åsikt i frågan egentligen är.&lt;/p&gt;
+
+&lt;p&gt;Sedan diskuterar vi Fredriks insikt att han just nu inte utvecklas så mycket som programmerare utan fokuserar mer på saker runt omkring. Är det situation, presonlig utveckling eller något helt annat? Vi pratar också om när programmering är mindre roligt, och Tobias berättar om sina pauser från att programmera på arbetstid. Därifrån kommer vi vidare till karriärsteg för utvecklare, bra chefer och vad man egentligen kallar dem. Vad vi kan och inte kan lära av kodbaser i spelbranschen. Och från det via Facebook till att prata om prestanda och användarupplevelse. Var lägger du tonvikten: prestanda eller ett snyggt UML-diagram?&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-webstorm&#34;&gt;Webstorm&lt;/a&gt;, . Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-webstorm&#34;&gt;http://www.jetbrains.com/kodsnack-webstorm&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/97/&#34;&gt;Vårt snack om hacket mot Umeå kommun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Script_kiddie&#34;&gt;Script kiddie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.618205/sluta-gulla-med-hackaren&#34;&gt;Sluta gulla med hackaren&lt;/a&gt; - artikeln vi fick länk skickad till oss, tack Ludvig Tunel!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se/99&#34;&gt;Förra avsnittet&lt;/a&gt;, när vi pratade om att utvecklas som programmerare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-webstorm&#34;&gt;Webstorm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Lint_%28software%29&#34;&gt;Linter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/jsx/&#34;&gt;JSX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stöd Kodsnack, läs mer om Webstorm och ladda ner på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-webstorm&#34;&gt;http://www.jetbrains.com/kodsnack-webstorm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Waterfall_model&#34;&gt;Vattenfallsmodellen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Facade_pattern&#34;&gt;Fasad&lt;/a&gt; - som designmönster&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mashable.com/2014/04/30/facebooks-new-mantra-move-fast-with-stability/&#34;&gt;Move fast and break things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vi har gjort en jäkla massa avsnitt&lt;/li&gt;
+&lt;li&gt;En massa halvavsnitt och kanskeavsnitt&lt;/li&gt;
+&lt;li&gt;Den som tycker om kvantitet&lt;/li&gt;
+&lt;li&gt;I bästa fall så händer ingenting&lt;/li&gt;
+&lt;li&gt;Man slår på för stor trumma&lt;/li&gt;
+&lt;li&gt;Beslutsamhetsorganisationer&lt;/li&gt;
+&lt;li&gt;Det är sällan koden i sig som är utmaningen just nu&lt;/li&gt;
+&lt;li&gt;Domänspecifika problem&lt;/li&gt;
+&lt;li&gt;Det går ju inte att vinna det här spelet&lt;/li&gt;
+&lt;li&gt;Man håller plektrumet fel&lt;/li&gt;
+&lt;li&gt;Sakta ner och spela långsammare&lt;/li&gt;
+&lt;li&gt;Du skulle vilja vara en middle manager&lt;/li&gt;
+&lt;li&gt;Det går i vågor hur intresserade jag är av programmering&lt;/li&gt;
+&lt;li&gt;Väljer att inte göra det ibland&lt;/li&gt;
+&lt;li&gt;Chef känns ju inte riktigt rätt&lt;/li&gt;
+&lt;li&gt;En ålder där ingen vet vad fan de sysslar med&lt;/li&gt;
+&lt;li&gt;Varje rad kod har ett pris&lt;/li&gt;
+&lt;li&gt;60 FPS per frame&lt;/li&gt;
+&lt;li&gt;Interna mellanchefs-concerns&lt;/li&gt;
+&lt;li&gt;Motivera din existens&lt;/li&gt;
+&lt;li&gt;Det här är inget problem som man löser&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 99 - Första gången man kunde höra riktigt Kodsnack</title>
       <link>http://kodsnack.se/99/</link>
       <pubDate>Tue, 21 Apr 2015 10:26:14 UTC</pubDate>
@@ -1582,105 +1646,6 @@ var borta.&lt;/p&gt;
 &lt;li&gt;När man multiparadigmar sina språk&lt;/li&gt;
 &lt;li&gt;Kunskapen som koden sätter på pränt&lt;/li&gt;
 &lt;li&gt;Massan som man har producerat&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 85 - Det borde ju räcka med att en person bryr sig</title>
-      <link>http://kodsnack.se/85/</link>
-      <pubDate>Tue, 13 Jan 2015 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/85/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar om mjukvarukvalité, dels utifrån nyliga och återkommande diskussioner om Apples mjukvara, dels utifrån vad Google gör och inte gör när det kommer till mjukvara och produktifiering av mjukvara. Känslan vi får av Apple är att de gör bra produkter med för många buggar i mjukvaran, medan Google väcker frågan varför ett företag med så mycket talang inte släpper bättre produkter. Vi kommer bland annat in på enskilda personers påverkan på ett företags inriktning.&lt;/p&gt;
-
-&lt;p&gt;Och för övrigt är alla är nöjda med att de - mer eller mindre problemfritt - lyckats ta sig upp ur sängen såhär tidigt på arbetsåret.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.603863&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
-
-&lt;p&gt;P.S: Fredrik lyckade mycket riktigt hitta en väg runt sin bugg lagom till arbetsveckans slut.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Query_string&#34;&gt;Querystring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTTP_404&#34;&gt;404&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_HTTP_status_codes&#34;&gt;HTTP-statuskoder&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scrummethodology.com/scrum-meetings/&#34;&gt;Sprintmöten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Retrospective#Software_development&#34;&gt;Retrospective&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.marco.org/&#34;&gt;Marco Arment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tumblr&#34;&gt;Tumblr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Instapaper&#34;&gt;Instapaper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://overcast.fm/podcasts&#34;&gt;Overcast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://atp.fm/&#34;&gt;Accidental podcast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.marco.org/2015/01/04/apple-lost-functional-high-ground&#34;&gt;Apple has lost the functional high ground&lt;/a&gt; - Marcos första artikel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/&#34;&gt;Kodapor på Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stevejobswouldnever.com/2855&#34;&gt;Det hade aldrig hänt om Steve Jobs levt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Craig_Federighi&#34;&gt;Craig Federighi&lt;/a&gt; - numera mjukvaruansvarig på Apple&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.seattlepi.com/microsoft/2008/06/24/full-text-an-epic-bill-gates-e-mail-rant/&#34;&gt;Interna mail där Bill Gates klagar på Microsofts mjukvarukvalité&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blizzard_Entertainment&#34;&gt;Blizzard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bitsplitting.org/2015/01/05/the-functional-high-ground/&#34;&gt;Daniel Jalkuts diskussion efter Marcos artikel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.apple.com/hotnews/thoughts-on-flash/&#34;&gt;Steve Jobs pekade ut Flash som ett problem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000069.html&#34;&gt;En av många klassiska diskussioner om att fixa gammal kod istället för att slänga ut och skriva om&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://glog.glennf.com/blog/2015/1/6/the-software-and-services-apple-needs-to-fix&#34;&gt;Glenn Fleishman har sammanställt en lista över applebuggar som påverkar folk just nu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.marco.org/2015/01/05/popular-for-a-day&#34;&gt;Marcos uppföljning där han ångrar att han publicerade artikeln&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Consumer_Electronics_Show&#34;&gt;CES&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/1/5/7493941/plex-announces-audio-fingerprinting-vevo-playlist-ces-2015&#34;&gt;Plex släppte nya funktioner på CES&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/99&#34;&gt;Marco diskuterade även artikeln och reaktionerna i efterföljande avsnitt av Accidental tech podcast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://news.ycombinator.com/&#34;&gt;Hacker news&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google%2B&#34;&gt;Google plus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Gmail&#34;&gt;Gmail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://support.google.com/mail/answer/186531?hl=en&#34;&gt;Priority inbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/AdSense&#34;&gt;Adsense&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Maps&#34;&gt;Google maps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.google.com/about/datacenters/&#34;&gt;Googles egen publika information om datacenter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Android_Lollipop&#34;&gt;Lollipop&lt;/a&gt; - i sändande stund senaste versionen av Android&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.google.com/design/spec/material-design/introduction.html&#34;&gt;Material design&lt;/a&gt; - Googles nya designspråk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Developers#Project_hosting&#34;&gt;code.google.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MapReduce&#34;&gt;Mapreduce&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Apache_Wave&#34;&gt;Google wave&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GitHub&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Git_%28software%29&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Amazon_Web_Services&#34;&gt;Amazons molntjänster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Github startade för att göra Git enkelt: &lt;a href=&#34;http://tom.preston-werner.com/2008/10/18/how-i-turned-down-300k.html&#34;&gt;http://tom.preston-werner.com/2008/10/18/how-i-turned-down-300k.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sergey_Brin&#34;&gt;Sergey Brin&lt;/a&gt; - medgrundare av Google&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mmm, lecacysystem&lt;/li&gt;
-&lt;li&gt;Tillbaka fyra år i tiden&lt;/li&gt;
-&lt;li&gt;Känna sig lite äcklig efteråt&lt;/li&gt;
-&lt;li&gt;Sju abstrakta steg ner&lt;/li&gt;
-&lt;li&gt;Väldigt mycket fredag&lt;/li&gt;
-&lt;li&gt;En typiskt fredagsbugg&lt;/li&gt;
-&lt;li&gt;I slutändan är man tillbaka där man började&lt;/li&gt;
-&lt;li&gt;Idag hade vi ju faktiskt ett ämne&lt;/li&gt;
-&lt;li&gt;De jobbar på saker väldigt länge och sedan slänger de bort dem&lt;/li&gt;
-&lt;li&gt;Saker och ting blir ju … mer&lt;/li&gt;
-&lt;li&gt;Nu har taket rasat&lt;/li&gt;
-&lt;li&gt;Det finns ingen annan att skylla på än Apple&lt;/li&gt;
-&lt;li&gt;Lista ut vem som är skyldig&lt;/li&gt;
-&lt;li&gt;Det har ju funnits andra att skylla på&lt;/li&gt;
-&lt;li&gt;De får skulden för allt som är fel&lt;/li&gt;
-&lt;li&gt;Det man hör är det tråkiga&lt;/li&gt;
-&lt;li&gt;Man är ju fast i sitt eget perspektiv&lt;/li&gt;
-&lt;li&gt;Om man var internetberömd&lt;/li&gt;
-&lt;li&gt;Kristoffer säger att allt är trasigt&lt;/li&gt;
-&lt;li&gt;Helt oanvändbart och helt otrevligt&lt;/li&gt;
-&lt;li&gt;Acceptabelt på samma sätt som Windows är acceptabelt&lt;/li&gt;
-&lt;li&gt;De tre korvarna uppe till vänster&lt;/li&gt;
-&lt;li&gt;Det enda de tänker på är backend&lt;/li&gt;
-&lt;li&gt;De försöker ju i alla fall&lt;/li&gt;
-&lt;li&gt;Två extrempunkter&lt;/li&gt;
-&lt;li&gt;Fullständigt oanvändbar och värdelös&lt;/li&gt;
-&lt;li&gt;Man jobbar ju på Google för att snöa in på en grej&lt;/li&gt;
-&lt;li&gt;Det borde ju räcka med att en person bryr sig&lt;/li&gt;
-&lt;li&gt;En lösning för Google&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
