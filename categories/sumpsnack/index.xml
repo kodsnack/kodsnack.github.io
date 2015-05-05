@@ -9,6 +9,92 @@
     <updated>Tue, 14 Apr 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 101 - Anekdoter mot anekdoter</title>
+      <link>http://kodsnack.se/101/</link>
+      <pubDate>Tue, 05 May 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/101/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar utifrån post från lyssnarna. Vad som fick Kristoffer att bli skeptisk till SOLID och andra principer, utvecklingsprocesser och regler. Det finns så mycket annat än processen man bekänner sig till som påverkar hur något faktiskt går. Var är luckorna i historien den senaste trendmetodologin berättar?&lt;/p&gt;
+
+&lt;p&gt;Sedan diskuterar vi hur vi hanterar vardagens problem, som när nätet är nere precis innan deadline eller när man lyfter blicken och upptäcker att hela dagen gått utan att man fått något gjort.&lt;/p&gt;
+
+&lt;p&gt;Tack till Emil Rosendal och Johan Deimert för e-posten!&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;IntelliJ&lt;/a&gt;, . Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;http://www.jetbrains.com/kodsnack-idea&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;IntelliJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codenight.se&#34;&gt;Code night&lt;/a&gt; - kom och träffa oss och andra utvecklare 17 juni&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object-oriented_programming&#34;&gt;OOP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Robert_Cecil_Martin&#34;&gt;Robert Martin&lt;/a&gt; - Uncle Bob&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/No_true_Scotsman&#34;&gt;No true scotsman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Inductive_reasoning&#34;&gt;Induktion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Markus_Persson&#34;&gt;Notch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.neogaf.com/forum/&#34;&gt;Neogaf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Black_swan_theory&#34;&gt;Svart svan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/11/&#34;&gt;Arvstvister&lt;/a&gt; - avsnitt 11&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Composition_over_inheritance&#34;&gt;Komposition kontra arv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Don%27t_repeat_yourself&#34;&gt;DRY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Red%E2%80%93black_tree&#34;&gt;Röd-svart träd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qt.io/developers/&#34;&gt;QT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dave_Thomas_%28programmer%29&#34;&gt;Dave Thomas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile manifesto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pragdave.me/blog/2014/03/04/time-to-kill-agile/&#34;&gt;Agile is dead (long live agility)&lt;/a&gt; - Dave Thomas inlägg vid manifestets tioårsjubileum&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;IntelliJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scala-lang.org/&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.groovy-lang.org/&#34;&gt;Groovy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clojure.org/&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kotlinlang.org/&#34;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition&#34;&gt;Enterprise Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;jetbrains.com/kodsnack-idea&lt;/a&gt; - länken som stödjer Kodsnack&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.suse.com/sv-se/&#34;&gt;Suse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vagrant_%28software%29&#34;&gt;Vagrant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Docker_%28software%29&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/24/&#34;&gt;En bättre for-loop&lt;/a&gt; - avsnitt 24 där Tobias berättar om sitt första driftsatta program skrivet i Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/dabeaz/status/592459947121709057&#34;&gt;David Beazlys kvitter&lt;/a&gt; om &amp;ldquo;i en stor kodbas&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag tycker om jättemycket saker&lt;/li&gt;
+&lt;li&gt;Jag har fruktansvärt svårt för uncle Bob&lt;/li&gt;
+&lt;li&gt;Ingen vet hur man gör, egentligen&lt;/li&gt;
+&lt;li&gt;Alla små beståndsdelar (som utgör processen)&lt;/li&gt;
+&lt;li&gt;Bristande analys&lt;/li&gt;
+&lt;li&gt;Längden på Justin Biebers hår&lt;/li&gt;
+&lt;li&gt;Sammanhang som egentligen inte existerar&lt;/li&gt;
+&lt;li&gt;Historien har gett mig rätt&lt;/li&gt;
+&lt;li&gt;Nästa stora grej kommer också att ha problem&lt;/li&gt;
+&lt;li&gt;Jag slet i objektorienteringsgruvorna&lt;/li&gt;
+&lt;li&gt;Arven bara hopade sig över mig&lt;/li&gt;
+&lt;li&gt;Anekdoter mot anekdoter&lt;/li&gt;
+&lt;li&gt;Det här är rätt sätt att programmera på&lt;/li&gt;
+&lt;li&gt;Vardagens problem&lt;/li&gt;
+&lt;li&gt;Någonting som inte går att göra offline&lt;/li&gt;
+&lt;li&gt;Missa att göra ett misstag&lt;/li&gt;
+&lt;li&gt;Twittrat bort hela dagen&lt;/li&gt;
+&lt;li&gt;Magisk tiebreaker&lt;/li&gt;
+&lt;li&gt;Verkligheten som andra lever i&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 100 - Interna mellanchefs-concerns</title>
       <link>http://kodsnack.se/100/</link>
       <pubDate>Tue, 28 Apr 2015 05:26:14 UTC</pubDate>
@@ -1530,122 +1616,6 @@
 &lt;li&gt;Spel ska vara svårare&lt;/li&gt;
 &lt;li&gt;Det svåraste spelet någonsin&lt;/li&gt;
 &lt;li&gt;Sjukt plågsamt att spela i dagsläget&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 86 - Mitt favorit-X</title>
-      <link>http://kodsnack.se/86/</link>
-      <pubDate>Tue, 20 Jan 2015 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/86/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Tobias följer upp kommentarer från tidigare avsnitt. Ämnen som tas upp är bland annat det här med att lära sig saker från grunden, kopplingen mellan det och alla nya lösningar och språk som skapas. Att prova på nya språk och våga experimentera i början av nya projekt.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.604389&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
-
-&lt;p&gt;Återigen, om du vill berätta om något vi inte har koll på vill vi jättegärna få höra det!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;&lt;a href=&#34;https://github.com/billybong/&#34;&gt;Billy Sjöberg&lt;/a&gt;s kommentar&lt;/h2&gt;
-
-&lt;p&gt;Hej på er!&lt;/p&gt;
-
-&lt;p&gt;Ett stort grattis till ett grymt program, det är en njutning att höra
-er nörda ner er en gång i veckan i podcasten.&lt;/p&gt;
-
-&lt;p&gt;Ni hade ett väldigt intressant avsnitt där ni bjöd in en .Net-snubbe
-som proklamerade för hur MS gått mot OSS-hållet samt hur språket .Net
-har förändrats.
-Det vore jäkligt kul att höra ett liknande program med någon från
-JVM-sidan, då ni generellt verkar vara väldigt snabba på att basha
-Java trots att era erfarenheter främst verkar sträcka sig till kodning
-i sorgebarnet Eclipse och old-school Java.&lt;/p&gt;
-
-&lt;p&gt;Har kodat i flera språk under resans gång (C++, JS, Go, Python,
-JVM-språk etc) och jag kan hålla med om att Java har haft en
-legacy-stämpel under de sista åren. Trots det är det svårt att
-ignorera dess popularitet och position som ett utav de nuvarande
-största språken.
-Java 8 som släpptes förra året var ett stort steg fram för språket och
-även om det legat still ett tag så finns det hopp då man börjar plocka
-in delar utav funktionell programmering och bättre collections-api&amp;rsquo;er
-etc.&lt;/p&gt;
-
-&lt;p&gt;Det finns ju även en uppsjö utav intressanta JVM-språk som ni skulle
-kunna ta upp och experimentera med. Dessa har sprungit förbi Java i
-produktivitiet sedan länge och är väldigt trevliga att koda i. När jag
-exempelvis lyssnade på era diskussioner kring typning i Python så
-önskade jag att nån av er hade testat ex Groovy som är ett
-&amp;ldquo;eventuellt&amp;rdquo; typat språk som liknar Python men drar med sig mycket
-utav det goda från Java-världen samtidigt som det lämnar de dåliga
-bitarna. Väldigt användbart från allt till små enkla admin-script till
-ex fulla web-applikationer eller api-tjänster.&lt;/p&gt;
-
-&lt;p&gt;För den lite mer akademiske kan man även kika på min favorit Scala som
-i mina ögon representerar hur Java skulle sett ut om det designades på
-den här sidan millennieskiftet. Väldigt intressant språk med ena benet
-i den funktionella och andra i den objektorienterade världen.&lt;/p&gt;
-
-&lt;p&gt;Kort sagt, vore intressant om ni gav JVM-världen en chans till och
-försöka se vad som egentligen växt upp på andra sidan häcken medans ni
-var borta.&lt;/p&gt;
-
-&lt;p&gt;Fortsätt ert underbara arbete och koda väl!&lt;/p&gt;
-
-&lt;p&gt;/Billy&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se/sumpsnack/5&#34;&gt;Veckans bonusmaterial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt; på Twitter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.604389&#34;&gt;Avsnittet på Techworld&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/83/&#34;&gt;Avsnittet med Rob Ashton&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.603280/&#34;&gt;Kommentarerna på avsnittet med Rob Ashton&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.atthefrontend.dk/&#34;&gt;At the frontend&lt;/a&gt; - konferensen där Rob höll öppningsanförandet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Haskell_%28programming_language%29&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Scale_%28music%29&#34;&gt;Skalor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Leaky_abstraction&#34;&gt;Läckande abstraktioner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/59/&#34;&gt;Tidigare avsnitt om att lära sig saker och att utvecklingen går snabbt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Not_invented_here&#34;&gt;Not invented here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.rust-lang.org/2014/12/12/1.0-Timeline.html&#34;&gt;Rust har nått 1.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/foundation/&#34;&gt;Mozilla foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/servo/servo&#34;&gt;Servo&lt;/a&gt; - webbläsarmotor skriven i Rust&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Go_%28programming_language%29&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cambrian_explosion&#34;&gt;Cambriska explosionen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Manual_memory_management&#34;&gt;Manuell minneshantering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/81/&#34;&gt;Vårt snack med Filip Ekberg om .net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html&#34;&gt;Nyheter i Java 8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.oracle.com/javase/8/docs/technotes/guides/collections/index.html&#34;&gt;Java collections-API:er&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Paradigm&#34;&gt;Paradigm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scala-lang.org/&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Groovy_%28programming_language%29&#34;&gt;Groovy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.marco.org&#34;&gt;Marco Arment&lt;/a&gt; på &lt;a href=&#34;http://www.atp.fm&#34;&gt;ATP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://knockoutjs.com&#34;&gt;Knockout&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Svart hål av negativ feedback&lt;/li&gt;
-&lt;li&gt;Forcera sig igenom problemen&lt;/li&gt;
-&lt;li&gt;För att bli bra på att klättra&lt;/li&gt;
-&lt;li&gt;En platå där någon har försökt skydda en från allt&lt;/li&gt;
-&lt;li&gt;En produkt att sälja till kunden imorgon&lt;/li&gt;
-&lt;li&gt;Stora intensiva backendsystem&lt;/li&gt;
-&lt;li&gt;Vi har avancerat i vår förståelse&lt;/li&gt;
-&lt;li&gt;Brytpunkter&lt;/li&gt;
-&lt;li&gt;Alla tror att de kan lösa problemet bättre&lt;/li&gt;
-&lt;li&gt;Mitt favorit-X&lt;/li&gt;
-&lt;li&gt;När man multiparadigmar sina språk&lt;/li&gt;
-&lt;li&gt;Kunskapen som koden sätter på pränt&lt;/li&gt;
-&lt;li&gt;Massan som man har producerat&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
