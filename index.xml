@@ -6,7 +6,93 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 05 May 2015 05:26:14 UTC</updated>
+    <updated>Tue, 12 May 2015 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 102 - Saker och ting som vi vet halvmycket om</title>
+      <link>http://kodsnack.se/102/</link>
+      <pubDate>Tue, 12 May 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/102/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Fredrik snackar om och utifrån nyheter från Microsofts konferens Build: bryggorna till iOS och Android, Edge, Hololens och Visual studio code.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;TeamCity&lt;/a&gt;, &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; produkt för &lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;continuous integration&lt;/a&gt;. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://channel9.msdn.com/Events/Build/2015&#34;&gt;Build 2015&lt;/a&gt; - Microsofts årliga utvecklarkonferens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Moscone_Center&#34;&gt;Moscone center&lt;/a&gt; - där alla utvecklarkonferenser verkar hållas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://channel9.msdn.com/Events/Build/2015/KEY01&#34;&gt;Keynoten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_10&#34;&gt;Windows 10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/information-technology/2015/04/microsoft-brings-android-ios-apps-to-windows-10/&#34;&gt;Emulerade androidappar på Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Emulator&#34;&gt;Emulering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BlackBerry&#34;&gt;Blackberry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BlackBerry_10#Android_Layer&#34;&gt;Emulerade androidappar på Blackberry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metro_%28design_language%29&#34;&gt;Modern-metro-vaddetnuheternuförtiden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://channel9.msdn.com/Events/Build/2015/3-610&#34;&gt;Importera och använd iOS-kod i Visual studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/Legacy/JavaBridge/JavaBridge.pdf&#34;&gt;Apples javabrygga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thurrott.com/mobile/android/3174/windows-android&#34;&gt;Paul Thurrotts reaktion på bryggorna&lt;/a&gt; - innan presentationen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.windows.com/en-us/uwp-bridges&#34;&gt;Bryggan för Win32-appar&lt;/a&gt; - mer information kommer till sommaren&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.windowscentral.com/microsoft-also-working-towards-swift-compiler-ios-developers-come-windows-10&#34;&gt;Microsoft utesluter inte att stödja Swift också&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rymdkapsel.com/&#34;&gt;Rymdkapsel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/King_%28company%29&#34;&gt;King&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;TeamCity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;Continuous integration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; - länken som stödjer Kodsnack.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Edge&#34;&gt;Microsoft Edge&lt;/a&gt; - den nya webbläsaren&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/User_agent&#34;&gt;User agent&lt;/a&gt; - textsträngar webbläsare skickar för att identifiera sig&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.allenpike.com/2015/user-agents-of-change/&#34;&gt;Alan Pike om user agent-strängar&lt;/a&gt; - om strängarna fortsätter växa kommer de att krocka med Apaches storleksgränser för HTTP-headers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/node/5624861&#34;&gt;Diagram över antalet rakblad i giletteprodukter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.engadget.com/2014/10/01/windows-10-9-naming-rumor/&#34;&gt;Teorier om varför Windows 10 heter just 10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Feature_detection_%28web_development%29&#34;&gt;Feature detection&lt;/a&gt; -  - är det som gäller med webbläsare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://technet.microsoft.com/en-us/ie/mt163706.aspx&#34;&gt;Internet explorer bara för företagsversionen av Windows&lt;/a&gt; - fortfarande lite oklart exakt hur det blir&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/4/29/8511289/microsoft-build-2015-hololens-robot-singularity&#34;&gt;Demonstrationen av Hololens från keynoten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chromium_%28web_browser%29&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://electron.atom.io/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.caseyliss.com/2015/5/1/visual-studio-code&#34;&gt;Codes Node-debugger sägs vara väldigt bra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_%28software%29&#34;&gt;Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codenight.se&#34;&gt;Code night&lt;/a&gt; - kom och träffa oss och andra utvecklare 17 juni&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ett program där vi bara pratar positivt&lt;/li&gt;
+&lt;li&gt;Saker och ting som vi vet halvmycket om&lt;/li&gt;
+&lt;li&gt;Microsofts WWDC&lt;/li&gt;
+&lt;li&gt;Samma längd som en Peter Jackson-film&lt;/li&gt;
+&lt;li&gt;Hönan och ägget-problem&lt;/li&gt;
+&lt;li&gt;Write once, compile everywhere&lt;/li&gt;
+&lt;li&gt;Ett helt smörgåsbord av nya API:er&lt;/li&gt;
+&lt;li&gt;Det finns ju situationer då det passar&lt;/li&gt;
+&lt;li&gt;En nödlösning&lt;/li&gt;
+&lt;li&gt;Om plattformarna skiljer sig åt alls&lt;/li&gt;
+&lt;li&gt;Jag vet inte om det någonsin funkat så för någon på riktigt&lt;/li&gt;
+&lt;li&gt;Någonting eget på ett väldigt bra sätt&lt;/li&gt;
+&lt;li&gt;(De slog på) sarkastiska läget direkt&lt;/li&gt;
+&lt;li&gt;Vi emulerar allt på alla nivåer&lt;/li&gt;
+&lt;li&gt;Microsoft-ism&lt;/li&gt;
+&lt;li&gt;Ett ganska stort och besvärligt äventyr i sig&lt;/li&gt;
+&lt;li&gt;Det känns inte som någon slamdunk&lt;/li&gt;
+&lt;li&gt;Tiderna förändras&lt;/li&gt;
+&lt;li&gt;Tummen upp på Edge&lt;/li&gt;
+&lt;li&gt;En version ett, på något sätt&lt;/li&gt;
+&lt;li&gt;Undrar hur Candy crush går på Hololens&lt;/li&gt;
+&lt;li&gt;Mono på baksidan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 101 - Anekdoter mot anekdoter</title>
@@ -1520,102 +1606,6 @@
 &lt;li&gt;Saker i vardagen som man inte lägger märke till&lt;/li&gt;
 &lt;li&gt;Tillbaka till Battletoads&lt;/li&gt;
 &lt;li&gt;Lite mer magi&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 87 - Internet explorer begins</title>
-      <link>http://kodsnack.se/87/</link>
-      <pubDate>Tue, 27 Jan 2015 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/87/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar om Microsofts senaste nyheter - samma dag som de presenterades. Vi börjar med Hololens och nyttan med augmented reality framför virtual reality. Vi snackar också om Spartan  och undrar om det är bra eller dåligt att Microsoft fortsätter på sitt eget spår med webbläsare. Därefter bland annat Windows 10 och om det  är dåligt för alla som vill sälja mjukvara att nu även operativsystem börjar bli något som ges bort gratis? Vi snackar också om föreningen mellan det moderna och mobila gränssnittet och det mer klassiska skrivbordet och APIer och utmaningarna med att skapa nya och få utvecklare med sig. Slutligen spel-API:er.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techworld.idg.se/2.2524/1.605197/&#34;&gt;Diskutera gärna avsnittet&lt;/a&gt; på Techworld!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://news.microsoft.com/windows10story/&#34;&gt;Windows 10-eventet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/45/&#34;&gt;Vår Oculus rift-diskussion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Augmented_reality&#34;&gt;Augmented reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/microsoft-hololens/en-us&#34;&gt;Hololens&lt;/a&gt; - Microsofts nya hårdvara för förstärkt verklighet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Oculus_Rift&#34;&gt;Oculus rift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Glass&#34;&gt;Google glass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Project_Morpheus_%28virtual_reality%29&#34;&gt;Sonys VR-satsning&lt;/a&gt; - Project Morpheus&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2014/12/31/7474107/samsung-oculus-gear-vr-beta-review&#34;&gt;Samsungs VR-satsning&lt;/a&gt; - Gear VR&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.se/search?client=safari&amp;amp;rls=en&amp;amp;q=google+glass+criticism&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&amp;amp;gfe_rd=cr&amp;amp;ei=bgrFVMuxF5GdwAPt4oHABA&#34;&gt;Folk har dömt ut Google glass en del&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/1/21/7868251/microsoft-hololens-hologram-hands-on-experience&#34;&gt;Microsofts exempel på användningsområden för Hololens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Spartan_%28browser%29&#34;&gt;Spartan&lt;/a&gt; - Microsofts nya webbläsare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Trident_%28layout_engine%29&#34;&gt;Trident&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29&#34;&gt;Chakra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WebKit&#34;&gt;Webkit&lt;/a&gt; - motorn såväl Safari, Chrome som Opera bygger på&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blink_%28layout_engine%29&#34;&gt;Blink&lt;/a&gt; - Googles fork av Webkit&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Vista&#34;&gt;Vista&lt;/a&gt; - versionen av Windows före 7&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_XP&#34;&gt;Windows XP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metro_%28design_language%29&#34;&gt;Metro&lt;/a&gt; - numera Modern UI&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZjGq4n1We0M&#34;&gt;Windows 10-introduktionen&lt;/a&gt; - hösten 2014&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Extensible_Application_Markup_Language&#34;&gt;XAML&lt;/a&gt; - Extensible application markup language, märkspråk för att beskriva grafiska gränssnitt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Phone_8&#34;&gt;Windows phone 8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Phone_7&#34;&gt;Windows phone 7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ECMAScript&#34;&gt;ECMAscript&lt;/a&gt; - den officiella standarden för Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/WinJS&#34;&gt;Winjs&lt;/a&gt; - bibliotek för windowsapputveckling med HTML och Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_8#Windows_Store_apps&#34;&gt;Windows store apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_API&#34;&gt;Win32-API:et&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library&#34;&gt;MFC&lt;/a&gt; - Microsoft foundation claasses, C++-bibliotek för windowsutveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Presentation_Foundation&#34;&gt;Avalon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://news.xbox.com/2015/01/xbox-one-phil-spencer-unveils-new-experiences-for-xbox-one-and-windows-10-gamers&#34;&gt;Xbox-API:er som kommer till Windows 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DirectX&#34;&gt;DirectX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metal_(iOS_API&#34;&gt;Metal&lt;/a&gt;) och &lt;a href=&#34;http://en.wikipedia.org/wiki/Mantle_(API&#34;&gt;Mantle&lt;/a&gt;) - lågnivå-API:er för grafik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.khronos.org/assets/uploads/developers/library/2014-gdc/Khronos-OpenGL-Efficiency-GDC-Mar14.pdf&#34;&gt;AZDO&lt;/a&gt; - Approaching zero driver overhead&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/directx/archive/2014/03/20/directx-12.aspx&#34;&gt;Direct X 12&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gobyexample.com/goroutines&#34;&gt;Goroutine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Phil_Spencer_%28Microsoft%29&#34;&gt;Phil Spencer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Battletoads&#34;&gt;Battletoads&lt;/a&gt; - kultklassiskt och oerhört svårt spel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Rare_Ltd.&#34;&gt;Rare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mojang&#34;&gt;Mojang&lt;/a&gt; - företaget bakom Minecraft, numera en del av Microsoft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Viva_Pi%C3%B1ata&#34;&gt;Viva piñata&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Kinect_Sports_Rivals&#34;&gt;Kinect sport rivals&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Perfect_Dark_Zero&#34;&gt;Perfect dark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Donkey_Kong_Country&#34;&gt;Donkey kong country&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Banjo-Kazooie&#34;&gt;Banjo kazooie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GoldenEye_007_%281997_video_game%29&#34;&gt;Goldeneye&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dynamite_Dan&#34;&gt;Dynamite Dan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://youtu.be/7aj7W6yjuPE&#34;&gt;Longplay av Dynamite Dan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Boq3ghiTKHA&#34;&gt;Super Mario bros på under fem minuter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/4/&#34;&gt;Sumpsnack 4&lt;/a&gt; - Kristoffer och Tobias snackar utifrån Charlie hebdo-attentatet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/&#34;&gt;Sumpsnack på kodsnack.se&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det är som ett par glasögon som du sätter på huvudet&lt;/li&gt;
-&lt;li&gt;Koll på vart du tittar&lt;/li&gt;
-&lt;li&gt;3D-bilder i din omgivning&lt;/li&gt;
-&lt;li&gt;Veta var bordet är&lt;/li&gt;
-&lt;li&gt;Skärmarna i ditt holografiska gränssnitt&lt;/li&gt;
-&lt;li&gt;Ett annat lite mer dystopiskt användningsområde&lt;/li&gt;
-&lt;li&gt;Forkat sin egen motor&lt;/li&gt;
-&lt;li&gt;Kastar allt skräpet bakom sig&lt;/li&gt;
-&lt;li&gt;Gamla affärs-business&lt;/li&gt;
-&lt;li&gt;Internet explorer begins&lt;/li&gt;
-&lt;li&gt;Möjligen sju kronor i butiken&lt;/li&gt;
-&lt;li&gt;Välkommen till kapitalismen&lt;/li&gt;
-&lt;li&gt;I en värld där Apple ger bort sin mjukvara&lt;/li&gt;
-&lt;li&gt;Mycket mer likadant&lt;/li&gt;
-&lt;li&gt;Göra en Spartan då och då&lt;/li&gt;
-&lt;li&gt;Du som är den enda som jobbat med DirectX&lt;/li&gt;
-&lt;li&gt;Tanken är att du inte ska behöva bry dig&lt;/li&gt;
-&lt;li&gt;När du säger olika saker på olika trådar samtidigt&lt;/li&gt;
-&lt;li&gt;Spel ska vara svårare&lt;/li&gt;
-&lt;li&gt;Det svåraste spelet någonsin&lt;/li&gt;
-&lt;li&gt;Sjukt plågsamt att spela i dagsläget&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
