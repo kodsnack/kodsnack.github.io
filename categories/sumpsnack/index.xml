@@ -9,6 +9,60 @@
     <updated>Tue, 14 Apr 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 105 - Hur många poäng det är på uppgiften</title>
+      <link>http://kodsnack.se/105/</link>
+      <pubDate>Tue, 02 Jun 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/105/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar anställningsintervjuer; upplägg, frågor och om intervjuprocessen faktiskt kan göra en mindre intresserad av att arbeta för ett företag.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_Relay_Chat&#34;&gt;IRC&lt;/a&gt; - Internet relay chat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Comma-separated_values&#34;&gt;Kommaseparerad text&lt;/a&gt; - exportformatet som driver världen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_function#Virtual_destructors&#34;&gt;Virtuell destruktor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_function&#34;&gt;Virtuell funktion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Protection_ring&#34;&gt;Ring 0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Portal_%28video_game%29&#34;&gt;Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rogueamoeba.com/&#34;&gt;Rogue amoeba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rogueamoeba.com/audiohijack/&#34;&gt;Audio hijack&lt;/a&gt; - programmet vi använder för att spela in Kodsnack&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Template_%28C%2B%2B%29&#34;&gt;Templates i C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight2/&#34;&gt;Code night 2&lt;/a&gt; - Lärdomar från spelbranschen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Paradox_Interactive&#34;&gt;Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/King_%28company%29&#34;&gt;King&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nepa.com/se/&#34;&gt;Nepa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lite mindre djup i sin bas&lt;/li&gt;
+&lt;li&gt;Min första arbetsintervju någonsin&lt;/li&gt;
+&lt;li&gt;Om man hade sett en dator och kunde skriva på tangentbord&lt;/li&gt;
+&lt;li&gt;Hur mycket kan du av Perl?&lt;/li&gt;
+&lt;li&gt;Några oneliners på kommandoraden&lt;/li&gt;
+&lt;li&gt;Hur många poäng det är på uppgiften&lt;/li&gt;
+&lt;li&gt;En hemsk upplevelse&lt;/li&gt;
+&lt;li&gt;Jag commitade mig in&lt;/li&gt;
+&lt;li&gt;En klass med virtuell destruktor&lt;/li&gt;
+&lt;li&gt;Episk grillning&lt;/li&gt;
+&lt;li&gt;Annars blir det inte bra kod&lt;/li&gt;
+&lt;li&gt;Med gruppens goda minne&lt;/li&gt;
+&lt;li&gt;Dekret ifrån ovan&lt;/li&gt;
+&lt;li&gt;Självupplärd och självanställd&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 104 - Inte alltid min starka sida</title>
       <link>http://kodsnack.se/104/</link>
       <pubDate>Tue, 26 May 2015 05:26:14 UTC</pubDate>
@@ -1486,99 +1540,6 @@
 &lt;li&gt;Helt plötsligt på raketkastaren&lt;/li&gt;
 &lt;li&gt;Inte fallet de optimerar för&lt;/li&gt;
 &lt;li&gt;Den dör säkert också såsmåningom&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 90 - I värsta fall så har du haft roligt</title>
-      <link>http://kodsnack.se/90/</link>
-      <pubDate>Tue, 17 Feb 2015 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/90/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar om att hantera kommentarer från användare och om behovet (eller frånvaron av behov) av självmarknadsförande.&lt;/p&gt;
-
-&lt;p&gt;Om kunder som hör av sig med specifika åsikter om hur saker ska fungera och utvecklas. Alla vill ha en enkel lösning på just sitt problem på just sin favoritplattform och på sitt favoritsätt. Samtidigt behöver vi utifrånperspektiv för att se skogen trots alla träd. Varför ignorerar utvecklarna alltid just mitt problem? Har vi utvecklare varit bortskämda som haft så få &amp;ldquo;okunniga&amp;rdquo; användare tidigare?&lt;/p&gt;
-
-&lt;p&gt;Har någon ett begrepp för problem som är tydliga för en användare men inte i kod?&lt;/p&gt;
-
-&lt;p&gt;Hur är det med alla dåliga kommentarer på nätet, är de bara dåliga eller kan de leda till något bättre?&lt;/p&gt;
-
-&lt;p&gt;Att marknadsföra sig själv. Måste man redan vara känd för att lyckas nå ut som utvecklare? Vilket är det magiska Rätta sättet för att nå Ära, Berömmelse och Rikedom? Kan det vara så besvärligt som att man måste hitta något man har driv för och jobba hårt med det?&lt;/p&gt;
-
-&lt;p&gt;Vår nya inspelnings- och livesändningstid är 12:00 på måndagar. Surfa in på &lt;a href=&#34;http://live.kodsnack.se&#34;&gt;live.kodsnack.se&lt;/a&gt; för att lyssna och anslut till &lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;#kodsnack på irc.freenode.net&lt;/a&gt; för att delta i diskussioner med oss och andra.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; - virtual private server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.codenight.se/&#34;&gt;Code night&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.idg.se/&#34;&gt;IDG&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_of_Things&#34;&gt;Internet of things&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.intel.com/content/www/us/en/do-it-yourself/edison.html&#34;&gt;Intels Edison&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://su.diva-portal.org/smash/get/diva2:356101/FULLTEXT01&#34;&gt;Petra Sundström&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bungie&#34;&gt;Bungie&lt;/a&gt; - utvecklare av bland annat Destiny&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Raspberry_Pi&#34;&gt;Raspberry pi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unit_testing&#34;&gt;Enhetstest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Systemd&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNOME&#34;&gt;GNOME&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bungie.net/7_Bungie-Weekly-Update---01292015/en/News/News?aid=12540&#34;&gt;Bungies senaste veckouppdatering för Destiny&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bostonglobe.com/magazine/2013/09/28/true-cost-not-vaccinating-the-return-measles/4PBenymtmf0CE9WOT1FUWI/story.html&#34;&gt;Mässlingens återkomst i USA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rationalwiki.org/wiki/Anti-vaccination_movement&#34;&gt;Vaccinvägrare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.relay.fm/upgrade/19&#34;&gt;Upgrade om att lyckas som utvecklare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://overcast.fm/podcasts&#34;&gt;Overcast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Marco_Arment&#34;&gt;Marco Arment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://refspace.com/quotes/Douglas_Adams/Q905&#34;&gt;Douglas Adams ville vara John Cleese&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tumblr&#34;&gt;Tumblr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instapaper.com/u&#34;&gt;Instapaper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Merlin_Mann&#34;&gt;Merlin Mann&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Indie_Game:_The_Movie&#34;&gt;Indie game the movie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Phil_Fish&#34;&gt;Phil Fish&lt;/a&gt; (se även &lt;a href=&#34;https://www.youtube.com/watch?v=PmTUW-owa2w&#34;&gt;This is Phil Fish&lt;/a&gt; - tack sirGusWrk!)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Markus_Persson&#34;&gt;Notch&lt;/a&gt; - skapare av …&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Minecraft&#34;&gt;Minecraft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Twitch.tv&#34;&gt;Twitch.tv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Let%27s_Play_%28video_gaming%29&#34;&gt;Let&amp;rsquo;s play&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PewDiePie&#34;&gt;Pewdiepie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;kampanj.idg.se/codenight&#34;&gt;Code night&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/&#34;&gt;Sumpsnack&lt;/a&gt; - bonusmaterial!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tangent med programmering&lt;/li&gt;
-&lt;li&gt;När man jobbar med en publik produkt&lt;/li&gt;
-&lt;li&gt;Inte lika insatta i hur man utvecklar mjukvara&lt;/li&gt;
-&lt;li&gt;Baksäteskör ens produktutveckling&lt;/li&gt;
-&lt;li&gt;De andra 37 funktionerna&lt;/li&gt;
-&lt;li&gt;Baksätesutveckla&lt;/li&gt;
-&lt;li&gt;Inget värde egentligen&lt;/li&gt;
-&lt;li&gt;Världens bäst testade funktion  som inte används någonstans&lt;/li&gt;
-&lt;li&gt;Viktigt med baksätesåsikter&lt;/li&gt;
-&lt;li&gt;Lite lite fulare, för mig&lt;/li&gt;
-&lt;li&gt;Ammon försvinner när jag dör&lt;/li&gt;
-&lt;li&gt;Vissa filer som jag absolut inte vill titta på&lt;/li&gt;
-&lt;li&gt;Mobilen drivs liksom av andra motivationer&lt;/li&gt;
-&lt;li&gt;Två sekunder från det att man stöter på en bugg&lt;/li&gt;
-&lt;li&gt;Bara de som är riktigt vansinniga&lt;/li&gt;
-&lt;li&gt;Bilda en liten ekokammare&lt;/li&gt;
-&lt;li&gt;Ökänd på Internet&lt;/li&gt;
-&lt;li&gt;Någonstans måste man ju börja&lt;/li&gt;
-&lt;li&gt;Alla måste ju gå sin egen väg&lt;/li&gt;
-&lt;li&gt;I värsta fall så har man ägnat sitt liv åt att göra någonting som man tycker om&lt;/li&gt;
-&lt;li&gt;Vi har kommit till den här podcasten&lt;/li&gt;
-&lt;li&gt;En brist på podcasts i allmänhet&lt;/li&gt;
-&lt;li&gt;Att på kommando inte bry sig&lt;/li&gt;
-&lt;li&gt;Programmeraren i kuben bredvid&lt;/li&gt;
-&lt;li&gt;I värsta fall så har du haft roligt&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
