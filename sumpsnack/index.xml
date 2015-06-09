@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 14 Apr 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 14 Apr 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 09 Jun 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 09 Jun 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,49 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 12 - Off-book on kodsnack </title>
+                <pubDate>Wed, 09 Jun 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/12/</guid>
+                <link>http://kodsnack.se/sumpsnack/12/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Kristoffer berättar för Fredrik vad han måste se.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mad_Max&#34;&gt;Mad Max&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Game_of_Thrones&#34;&gt;Game of thrones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Outlander_%28TV_series%29&#34;&gt;Outlander&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ronald_D._Moore#Star_Trek:_The_Next_Generation_.281988.E2.80.9394.29&#34;&gt;Ronald Moore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Battlestar_Galactica_%282004_TV_series%29&#34;&gt;Battlestar galactica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation&#34;&gt;Star trek: the next generation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine&#34;&gt;Star trek: deep space nine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Star_Trek:_Voyager&#34;&gt;Star trek: voyager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.relay.fm/rd&#34;&gt;Reconcilable differences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Merlin_Mann&#34;&gt;Merlin Mann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hypercritical.co/about/&#34;&gt;John Siracusa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/&#34;&gt;ATP&lt;/a&gt; - Accidental tech podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://5by5.tv/hypercritical/&#34;&gt;Hypercritical&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://5by5.tv/hypercritical/42&#34;&gt;John Siracusa plockar isär Steve Jobs-biografin, del ett …&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://5by5.tv/hypercritical/43&#34;&gt;… och del två&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Steve_Jobs_%28book%29&#34;&gt;Steve Jobs-biografin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://songexploder.net/&#34;&gt;Song exploder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dancarlin.com/hh-55/&#34;&gt;Hardcore history&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="5525266" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_12.mp3"/>
+                <itunes:duration>16:21</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 11 - Fröken Ur började komma in i bilden on kodsnack </title>
