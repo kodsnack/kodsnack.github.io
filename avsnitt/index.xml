@@ -6,7 +6,94 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 09 Jun 2015 05:26:14 UTC</updated>
+    <updated>Tue, 16 Jun 2015 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 107 - Assembler on rails</title>
+      <link>http://kodsnack.se/107/</link>
+      <pubDate>Tue, 16 Jun 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/107/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar bakslag, när ett gammalt fulhack tycks komma tillbaka och bita en precis på mållinjen. Lite Swift, men just idag behöver Kristoffer inget nytt programmeringsspråk. Lite om Fredriks återfunna kodfokus på jobbet, vidare till att tester i alla fall har sina fördelar, till och med när allt annat är ett elände och hur Kristoffer jobbar med tester. Tester som verktyg för att fokusera. Sedan går vi från nya programmeringsspelet TIS-100 till processorer, assembler och andra lågnivåsätt att programmera.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/106/&#34;&gt;Förra veckan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/blog/?id=29&#34;&gt;Swift är numera öppen källkod&lt;/a&gt; - eller blir snart det&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Open_Source_Initiative&#34;&gt;OSI&lt;/a&gt; - Open source initiative&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BSD_licenses&#34;&gt;BSD-licenser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MIT_License&#34;&gt;MIT-licensen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_License&#34;&gt;Apache-licensen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.windowscentral.com/microsoft-also-working-towards-swift-compiler-ios-developers-come-windows-10&#34;&gt;Microsoft pratade om att stödja Swift redan under Build 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.swift-studies.com/blog/2014/6/30/creating-a-pure-swift-framework-for-both-ios-and-mac&#34;&gt;Att skapa ramverk i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; - test-driven development&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F&#34;&gt;Flytta osten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_OpenOffice&#34;&gt;Open office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Mythical_Man-Month#The_second-system_effect&#34;&gt;Second system syndrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zachtronics.com/tis-100/&#34;&gt;TIS-100&lt;/a&gt; - nyligen släppt programmeringsspel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gamasutra.com/view/news/244969/Things_we_create_tell_people_who_we_are_Designing_Zachtronics_TIS100.php&#34;&gt;Things we create tell people who we are&lt;/a&gt; - om utvecklingen av TIS-100&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zachtronics.com/infinifactory/&#34;&gt;Infinifactory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zachtronics.com/spacechem/&#34;&gt;Spacechem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zachtronics.com/infiniminer/&#34;&gt;Infiniminer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MOS_Technology_6502&#34;&gt;6502-processorn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_II&#34;&gt;Apple II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BBC_Micro&#34;&gt;BBC micro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Atari_2600&#34;&gt;Atari 2600&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Atari_8-bit_family&#34;&gt;Atari 800&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_VIC-20&#34;&gt;VIC-20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Reduced_instruction_set_computing&#34;&gt;RISC&lt;/a&gt; - reduced instruction set computing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Complex_instruction_set_computing&#34;&gt;CISC&lt;/a&gt; - complex instruction set computing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions&#34;&gt;SSE&lt;/a&gt; - Streaming SIMD extensions&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intel_8086&#34;&gt;Intel 8086&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Processor_register&#34;&gt;Register på processorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ARM_architecture&#34;&gt;ARM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pentium_4&#34;&gt;Pentium 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intel_Core&#34;&gt;Core-processorerna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Just-in-time_compilation&#34;&gt;JIT-kompilering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Charles_H._Moore&#34;&gt;Chuck Moore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Forth_%28programming_language%29&#34;&gt;Forth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.simple-talk.com/opinion/geek-of-the-week/chuck-moore-on-the-lost-art-of-keeping-it-simple/&#34;&gt;Chuck Moore on the lost art of keeping it simple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Blinkenlights&#34;&gt;Blinkenlights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight2/&#34;&gt;Code night&lt;/a&gt; - 17 juni - fullbokat, men hör gärna av dig till oss om du vill vara med och ta någon öl efteråt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.omnipolloshatt.com/&#34;&gt;Omnipollos hatt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ingen Tobias idag heller&lt;/li&gt;
+&lt;li&gt;Idag vabbar Tobias&lt;/li&gt;
+&lt;li&gt;Sörjan jag sitter i&lt;/li&gt;
+&lt;li&gt;En dictionary med dictionaries&lt;/li&gt;
+&lt;li&gt;Environmenten där jag ska resolva variabler&lt;/li&gt;
+&lt;li&gt;Allt det där jag undvikit att skriva&lt;/li&gt;
+&lt;li&gt;Swift#&lt;/li&gt;
+&lt;li&gt;Ballmer, förstör allt&lt;/li&gt;
+&lt;li&gt;Vi borde inte prata om det här&lt;/li&gt;
+&lt;li&gt;Jag sitter och dricker öl faktiskt&lt;/li&gt;
+&lt;li&gt;Det känns ändå bra att alla mina tester har gått sönder&lt;/li&gt;
+&lt;li&gt;Man flyttar inte osten för dem i första taget&lt;/li&gt;
+&lt;li&gt;Tester utifrån och in&lt;/li&gt;
+&lt;li&gt;Korrumperade kodsegment&lt;/li&gt;
+&lt;li&gt;Assembler för DOS-eran&lt;/li&gt;
+&lt;li&gt;Om man frågar assemblernördar&lt;/li&gt;
+&lt;li&gt;Så det faktiskt hänger ihop hela vägen ner&lt;/li&gt;
+&lt;li&gt;Funktionell programmering för assbembler&lt;/li&gt;
+&lt;li&gt;Till och med C är för hög nivå&lt;/li&gt;
+&lt;li&gt;Ingen som vill programmera så, förutom Chuck Moore&lt;/li&gt;
+&lt;li&gt;Ettor och nollor med pincett&lt;/li&gt;
+&lt;li&gt;Programmering som något fysiskt&lt;/li&gt;
+&lt;li&gt;Assembler on rails&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 106 - Jag kan fokusera, om jag vill</title>
@@ -1214,109 +1301,6 @@
 &lt;li&gt;Alla bygger på sina egna anekdoter&lt;/li&gt;
 &lt;li&gt;Allt vi gör är att berätta berättelser&lt;/li&gt;
 &lt;li&gt;Sådant som är lätt att säga&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 92 - Beröringsytor med andra</title>
-      <link>http://kodsnack.se/92/</link>
-      <pubDate>Tue, 03 Mar 2015 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/92/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Tobias snackar med &lt;a href=&#34;http://twitter.com/grapefrukt&#34;&gt;Martin Jonasson&lt;/a&gt;, mannen bakom bloggen &lt;a href=&#34;http://prototyprally.com&#34;&gt;Prototyprally&lt;/a&gt; och företaget &lt;a href=&#34;http://grapefrukt.com&#34;&gt;Grapefrukt&lt;/a&gt;. Vi tar upp att titta på liveströmmar och att strömma sig själv när man programmerar. Hjälper det till att avmystifiera programmering? Vilka bra och dåliga vanor man kan lära sig av att liveströmma vad man gör?&lt;/p&gt;
-
-&lt;p&gt;Vi snackar också om Peter Molyneux och Godus, det läskiga med crowdsourcing och problemen och utmaningarna med andra sätt att ta betalt.&lt;/p&gt;
-
-&lt;p&gt;Vår nya inspelnings- och livesändningstid är 12:00 på måndagar. Surfa in på &lt;a href=&#34;http://live.kodsnack.se&#34;&gt;live.kodsnack.se&lt;/a&gt; för att lyssna och anslut till &lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;#kodsnack på irc.freenode.net&lt;/a&gt; för att delta i diskussioner med oss och andra.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://twitter.com/grapefrukt&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.se/search?q=vattenkylare&amp;amp;client=safari&amp;amp;rls=en&amp;amp;tbm=isch&amp;amp;tbo=u&amp;amp;source=univ&amp;amp;sa=X&amp;amp;ei=e6HnVKjKEcPMyAO634DIDQ&amp;amp;ved=0CDwQsAQ&amp;amp;biw=1063&amp;amp;bih=900&#34;&gt;Water cooler på svenska&lt;/a&gt; - vattenkylare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.selecta.se/Home/&#34;&gt;Selecta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://matkalkyl.se/se-vittpulvertillkaffe35fett.php&#34;&gt;Kaffe med vitt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Coworking&#34;&gt;Coworking space&lt;/a&gt; - delat kontor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rymdkapsel.com/&#34;&gt;Rymdkapsel&lt;/a&gt; - Martins spel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitch.tv/&#34;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mojang&#34;&gt;Mojang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://minecraft.gamepedia.com/Mojam&#34;&gt;Mojam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitch.tv/grpfrkt/&#34;&gt;Martins liveströmmande&lt;/a&gt; på Twitch&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/grapefrukt&#34;&gt;Martins strömmar på Youtube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Game_jam&#34;&gt;Gamejam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Peter_Molyneux&#34;&gt;Peter Molyneux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Diminishing_returns&#34;&gt;Diminishing returns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/90/&#34;&gt;Vårt tidigare snack om att hantera åsikter från användare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Asteroids_%28video_game%29&#34;&gt;Asteroids&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS&lt;/a&gt; - Open broadcaster software&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rode.com/microphones/podcaster&#34;&gt;Røde podcaster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.logitech.com/sv-se/product/hd-pro-webcam-c920&#34;&gt;Logitech C920&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_7&#34;&gt;Windows 7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Aero&#34;&gt;Aero&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Hangouts&#34;&gt;Google hangouts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bbc.com/news/magazine-31130947&#34;&gt;Folk som streamar sig själva när de äter mat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_Holographic#Microsoft_HoloLens&#34;&gt;Hololens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Oculus_Rift&#34;&gt;Oculus rift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Godus&#34;&gt;Godus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Populous&#34;&gt;Populous&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Dungeon_Keeper&#34;&gt;Dungeon Keeper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bullfrog_Productions&#34;&gt;Bullfrog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Kickstarter&#34;&gt;Kickstarter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Electronic_Entertainment_Expo&#34;&gt;E3&lt;/a&gt; - Electronic entertainment expo&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/help/search?utf8=%E2%9C%93&amp;amp;term=what+are+stretch+goals%3F&#34;&gt;Stretch goal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nightinthewoods.com/&#34;&gt;Night in the woods&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/&#34;&gt;Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitch.tv/p/partners&#34;&gt;Twitch prenumerationsfunktion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://support.google.com/youtube/answer/2797370?hl=sv&#34;&gt;Youtubes content ID-matchning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://simogo.com/&#34;&gt;Simogo&lt;/a&gt; - malmöbaserade kompisar till Martin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PewDiePie&#34;&gt;Pewdiepie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Transformation_%28law%29&#34;&gt;Transformative work&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shadows_of_Mordor&#34;&gt;Shadows of Mordor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Real_Racing&#34;&gt;Real racing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mario&#34;&gt;Mario&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Candy_Crush_Saga&#34;&gt;Candy crush saga&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/League_of_Legends&#34;&gt;League of legends&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt&#34;&gt;@grapefrukt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitch.tv/grpfrkt/&#34;&gt;Martin på Twitch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight/&#34;&gt;Code night&lt;/a&gt; - 16 april i Stockholm&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.raspberrypi.org/help/what-is-a-raspberry-pi/&#34;&gt;Raspberry pi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se/&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En helt ny uppsättning problem i mitt liv&lt;/li&gt;
-&lt;li&gt;Vattenkylarsnack&lt;/li&gt;
-&lt;li&gt;Skitsnacksfika&lt;/li&gt;
-&lt;li&gt;Medkontorister&lt;/li&gt;
-&lt;li&gt;Beröringsytor med andra&lt;/li&gt;
-&lt;li&gt;En vacker dag så kommer det en uppdatering&lt;/li&gt;
-&lt;li&gt;Kontor och livet i övrigt inkräktar lite&lt;/li&gt;
-&lt;li&gt;Då streamades det friskt&lt;/li&gt;
-&lt;li&gt;Programmera och prata samtidigt&lt;/li&gt;
-&lt;li&gt;I den bildliga soffan&lt;/li&gt;
-&lt;li&gt;Det går ju definitivt långsammare&lt;/li&gt;
-&lt;li&gt;Det där att man måste fokusera&lt;/li&gt;
-&lt;li&gt;Hörru, cosinus istället för sinus, trögputte!&lt;/li&gt;
-&lt;li&gt;Tjugo pers på en dålig dag&lt;/li&gt;
-&lt;li&gt;Slå på TV:n och se någon som sitter och kodar&lt;/li&gt;
-&lt;li&gt;Idag har jag tagit sönder saker&lt;/li&gt;
-&lt;li&gt;Spara de roliga grejerna till streamen&lt;/li&gt;
-&lt;li&gt;Göra de tråkiga sakerna offline&lt;/li&gt;
-&lt;li&gt;Studiecirklar över nätet&lt;/li&gt;
-&lt;li&gt;Ge oss nästa milestone&lt;/li&gt;
-&lt;li&gt;Ju mer som en dröm din kickstarter låter&lt;/li&gt;
-&lt;li&gt;Andra singeln-fenomenet&lt;/li&gt;
-&lt;li&gt;Återkopplingen i en stor klump&lt;/li&gt;
-&lt;li&gt;En robot har bestämt att du inte sköter dig&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
