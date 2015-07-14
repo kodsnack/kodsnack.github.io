@@ -9,6 +9,77 @@
     <updated>Tue, 09 Jun 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 111 - Feta binärer för webben</title>
+      <link>http://kodsnack.se/111/</link>
+      <pubDate>Tue, 14 Jul 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/111/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar Webassembly och försöker föreställa oss en värld där Javascript inte längre måste vara det automatiska valet för webbprogrammering. Vad kan hända? Blir allt bättre, eller riskerar webben rentav att bli mer stängd och svår att lära sig?&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;Teamcity&lt;/a&gt;, deras produkt för &lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;continuous integration&lt;/a&gt;. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.react-europe.org/2015.html&#34;&gt;React Europe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://conf.reactjs.com/&#34;&gt;Reactkonferensen i vintras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react-native/&#34;&gt;React native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/J%C3%A4dra%C3%A5s&#34;&gt;Jädraås&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/WebAssembly&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intermediate_language#Intermediate_representation&#34;&gt;Intermediärrepresentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/community/webassembly/participants&#34;&gt;Deltagare i Webassembly-gruppen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebKit&#34;&gt;Webkit&lt;/a&gt; - den öppna webbläsarmotor Apples Safari bygger på&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/52/&#34;&gt;Vårt snack om FTL&lt;/a&gt; - Fourth tier LLVM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dart_%28programming_language%29&#34;&gt;Dart&lt;/a&gt; - ett språk som Google lanserat för att ersätta Javascript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fat_binary&#34;&gt;Feta binärer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Asm.js&#34;&gt;asm.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Emscripten&#34;&gt;Emscripten&lt;/a&gt; - kompilerar till asm.js&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Abstract_syntax_tree&#34;&gt;AST&lt;/a&gt; - abstrakt syntaxträd&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/WebAssembly/design/blob/master/HighLevelGoals.md&#34;&gt;Högnivåmålen för Web assembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Minimum_viable_product&#34;&gt;Minimum viable product&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Compiler#Back_end&#34;&gt;Kompilator-backend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/blog/?id=29&#34;&gt;Swift kommer att bli öppen källdkod under 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arc.applause.com/2015/03/27/google-dart-virtual-machine-chrome/&#34;&gt;Google lade ner sitt projekt att göra Dart likvärdigt med Javascript i Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;Teamcity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;Continuous integration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; - länken som ger dig mer information och stödjer Kodsnack på samma gång&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Minification_%28programming%29&#34;&gt;Minifiering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Obfuscation_%28software%29&#34;&gt;Obfuskering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sandbox_%28computer_security%29&#34;&gt;Sandbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gruntjs.com/&#34;&gt;Grunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lesscss.org/&#34;&gt;LESS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/&#34;&gt;Sumpsnack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nästan som semester (i huvudet)&lt;/li&gt;
+&lt;li&gt;På samma nivå som alla andra språk i hela världen&lt;/li&gt;
+&lt;li&gt;Skriva all sin webbkod i C++&lt;/li&gt;
+&lt;li&gt;Döden för Javascript?&lt;/li&gt;
+&lt;li&gt;Feta binärer för webben&lt;/li&gt;
+&lt;li&gt;Största möjliga täckning&lt;/li&gt;
+&lt;li&gt;Alla ska kunna få leverera sin sak&lt;/li&gt;
+&lt;li&gt;Min oro är mer abstrakt&lt;/li&gt;
+&lt;li&gt;Minifierad och obfuskerad och skitsvår att läsa&lt;/li&gt;
+&lt;li&gt;Den dagliga webben&lt;/li&gt;
+&lt;li&gt;Bara göra en binärblobb&lt;/li&gt;
+&lt;li&gt;Vi kan väl ändå få hoppas litegrann&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 110 - Hans jobb är att bygga molekyler</title>
       <link>http://kodsnack.se/110/</link>
       <pubDate>Tue, 07 Jul 2015 05:26:14 UTC</pubDate>
@@ -1202,73 +1273,6 @@
 &lt;li&gt;Rör inte min polyfill&lt;/li&gt;
 &lt;li&gt;Ett språk per problem&lt;/li&gt;
 &lt;li&gt;Sitter och läser manualerna eller googlar i panik&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 96 - Den abstrakta idén om vad programmet gör</title>
-      <link>http://kodsnack.se/96/</link>
-      <pubDate>Tue, 31 Mar 2015 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/96/</guid>
-      <description>
-
-&lt;p&gt;Fredrik hade mer och mindre självförvållade ljudproblem under inspelningen, så ljudet är inte perfekt. Vi beklagar och lovar bot och bättring.&lt;/p&gt;
-
-&lt;p&gt;Först snackar vi lite om Apples nypresenterade Macbook med bara en USB-port. Kan Fredrik leva med den? Är det en bra idé att ha så få portar på en bärbar dator?&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi säkerhet i Chrome och andra webbläsare. Hur bra är de steg som främst Chrome har tagit och tar för att öka säkerheten för vanliga surfare? Hur stora förbättringar blir det av att man försöker &amp;ldquo;fixa&amp;rdquo; problemen och bristerna i hur saker funkar nu? Borde man gå vidare och förbättra kommande saker istället?&lt;/p&gt;
-
-&lt;p&gt;Vi diskuterar också att sätta sig in i andras kod, exempelvis sitt forna jags. Vad kan man göra för att försöka snabba upp processen att förstå en kodbas och varför är det så svårt? Är det samma problem som gör att man inte sätter sig och läser kod speciellt ofta? Fokuserar de som pratar om &amp;ldquo;läsbar&amp;rdquo; kod på fel saker? Kommentarer och annan dokumentations värde och problem. Går det att lösa med processer? Och allting runtomkring gör bara allt värre, all hantering av fellägen och annat som inte egentligen har med problemet man ville lösa att göra.&lt;/p&gt;
-
-&lt;p&gt;Har du ett magiskt sätt på lager för att förklara den mentala modellen bakom kod? Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MacBook_%282015_version%29&#34;&gt;Macbook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/USB#3.1&#34;&gt;USB typ C&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/DisplayPort&#34;&gt;Displayport&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://appsnack.se/avsnitt/158-periodiska-systemet-enligt-iveEnApple-podcastfrnAppSnack&#34;&gt;Appsnack om nya Macbook och annat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/chromium/issues/detail?id=378566&#34;&gt;Nya Chrome blockerar javascriptanrop till lokala nätet och localhost&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.chromium.org/Home/chromium-security/marking-http-as-non-secure&#34;&gt;Chrome ska flagga allt som inte är https som osäkert&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS&#34;&gt;Korsdomänregelprinciper&lt;/a&gt; - att kunna fråga via XHR&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions&#34;&gt;DNSSEC&lt;/a&gt; - säkerhetstillägg för domännamnsystemet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chromium_%28web_browser%29&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sandbox_%28computer_security%29&#34;&gt;Sandbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web&#34;&gt;Let&amp;rsquo;s encrypt&lt;/a&gt; - EFFs initiativ för att dela ut gratis SSL-certifikat&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/HTTP/2&#34;&gt;HTTP/2&lt;/a&gt; - krypterat som standard&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Donald_Knuth&#34;&gt;Knuth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Literate_programming&#34;&gt;Literate programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://worrydream.com/&#34;&gt;Bret Victor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop&#34;&gt;REPL&lt;/a&gt; - interaktiva miljöer för att experimentera med kod&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight/&#34;&gt;Code night&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det är väldigt mycket måndag helt enkelt&lt;/li&gt;
-&lt;li&gt;Min dator är stadd i något slags förfall&lt;/li&gt;
-&lt;li&gt;Ett tangentbord med sjutton portar på&lt;/li&gt;
-&lt;li&gt;Lika bra att jag inte köpte en 4K-skärm&lt;/li&gt;
-&lt;li&gt;Någon som bara hostar lite webbsidor&lt;/li&gt;
-&lt;li&gt;Ett djupt hål av säkerhetslager&lt;/li&gt;
-&lt;li&gt;Hur mycket säkrare blir det och hur mycket krångligare blir det?&lt;/li&gt;
-&lt;li&gt;Flytta sakernas tillstånd framåt&lt;/li&gt;
-&lt;li&gt;En massa jobb för ingenting&lt;/li&gt;
-&lt;li&gt;Vi sparar ju inte ens en kaka&lt;/li&gt;
-&lt;li&gt;Om det skulle vara känsligt att lyssna på Kodsnack&lt;/li&gt;
-&lt;li&gt;Den där verkligheten&lt;/li&gt;
-&lt;li&gt;Ha som ambition att fixa verkligheten&lt;/li&gt;
-&lt;li&gt;Är det så att kod är som kondition?&lt;/li&gt;
-&lt;li&gt;Kommentarer i min erfarenhet&lt;/li&gt;
-&lt;li&gt;Kommentaren tillför inget till att börja med, och nu är den dessutom fel&lt;/li&gt;
-&lt;li&gt;Den abstrakta idén om vad programmet gör&lt;/li&gt;
-&lt;li&gt;Fråga sig själv för några år sedan vad man höll på med&lt;/li&gt;
-&lt;li&gt;Om man ser koden utan alla edge cases&lt;/li&gt;
-&lt;li&gt;Jobba och lida tills man förstår&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
