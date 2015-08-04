@@ -6,7 +6,75 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 28 Jul 2015 05:26:14 UTC</updated>
+    <updated>Tue, 04 Aug 2015 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 114 - En historia av att inte säga någonting</title>
+      <link>http://kodsnack.se/114/</link>
+      <pubDate>Tue, 04 Aug 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/114/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias diskuterar huruvida &lt;a href=&#34;http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/&#34;&gt;Safari är det nya Internet explorer&lt;/a&gt; 6 eller ej och vad de tycker om hela den diskussion som uppstått i ämnet.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;Intellij IDEA&lt;/a&gt;, Jetbrains eminenta IDE för Java. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;http://www.jetbrains.com/kodsnack-idea&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sverigesradio.se/sommar&#34;&gt;Sommar i P1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Mellansverige&#34;&gt;Mellansverige&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Safari_%28web_browser%29&#34;&gt;Safari&lt;/a&gt; - Apples webbläsare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Explorer&#34;&gt;Internet explorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/&#34;&gt;Safari is the new IE&lt;/a&gt; - artikeln som startade hela diskussionen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebKit&#34;&gt;Webkit&lt;/a&gt; - motorn som driver Safari&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Explorer#/media/File:Internet-explorer-usage-data.svg&#34;&gt;Internet explorers marknadsandel&lt;/a&gt; - över tiden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ActiveX&#34;&gt;ActiveX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Blink_%28layout_engine%29&#34;&gt;Blink&lt;/a&gt; - Googles fork av Webkit&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/KHTML&#34;&gt;KHTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Safari_%28web_browser%29#History_and_development&#34;&gt;Det fanns fler webbläsare än Internet explorer för Mac när Safari släpptes, men Internet explorer var i princip den som gällde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webkit.org/blog/&#34;&gt;Surfin&amp;rsquo; Safari&lt;/a&gt; - Webkits blogg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overcast.fm/+I_IAnJ5Y&#34;&gt;Debug 69&lt;/a&gt; - med Don Melton om Safari is the new IE&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://donmelton.com/about/&#34;&gt;Don Melton&lt;/a&gt; - killen som drev hela Safariprojektet från början&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;Intellij IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?list=PLPZy-hmwOdEXdOtXdFzyx_XCnrF_oD2Ft&amp;amp;v=L_jXj0XTwSg&#34;&gt;Grunderna i Intellij IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/thetalkshow/2015/07/20/ep-126&#34;&gt;The talk show&lt;/a&gt; - avsnittet som diskuterade artikeln&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/John_Gruber&#34;&gt;John Gruber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jason_Snell&#34;&gt;Jason Snell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement#canPlayType&#34;&gt;canPlayType&lt;/a&gt; - API-anrop som returnerar &amp;ldquo;maybe&amp;rdquo; och &amp;ldquo;perhaps&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OS_X_El_Capitan&#34;&gt;El Capitan&lt;/a&gt; - 2015 års version av OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/&#34;&gt;FTL&lt;/a&gt; - Apples uppgradering av Webkits javascriptmotor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29&#34;&gt;V8&lt;/a&gt; - Chromes javascriptmotor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebGL&#34;&gt;WebGL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sommarkodsnack&lt;/li&gt;
+&lt;li&gt;Nästan som Sommar i P1&lt;/li&gt;
+&lt;li&gt;Hur är vädret på västkusten?&lt;/li&gt;
+&lt;li&gt;Lite skyll-dig-själv-faktor på det hela&lt;/li&gt;
+&lt;li&gt;De styrde ju hela marknaden&lt;/li&gt;
+&lt;li&gt;En historia av att inte säga någonting&lt;/li&gt;
+&lt;li&gt;Alltid prata på sina egna villkor&lt;/li&gt;
+&lt;li&gt;Svårt att bryta det mönstret&lt;/li&gt;
+&lt;li&gt;Det är Google webben är viktigt för&lt;/li&gt;
+&lt;li&gt;Den enda plattform de har&lt;/li&gt;
+&lt;li&gt;De bara gör som de alltid har gjort&lt;/li&gt;
+&lt;li&gt;Förslagna standarder&lt;/li&gt;
+&lt;li&gt;En wait-and-see-approach&lt;/li&gt;
+&lt;li&gt;Man kan ju ha en konspiratorisk syn på allt&lt;/li&gt;
+&lt;li&gt;Vill man ha den konspiratoriska aluminiumhatten på sig&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 113 - Vill du ha en gammal fisk?</title>
@@ -1155,129 +1223,6 @@
 &lt;li&gt;Interna mellanchefs-concerns&lt;/li&gt;
 &lt;li&gt;Motivera din existens&lt;/li&gt;
 &lt;li&gt;Det här är inget problem som man löser&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 99 - Första gången man kunde höra riktigt Kodsnack</title>
-      <link>http://kodsnack.se/99/</link>
-      <pubDate>Tue, 21 Apr 2015 10:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/99/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar om IDGs nyss avslutade Code night där vi livesände från scen. Vi sammanfattar evenemanget och är fortfarande överväldigade, glada och tacksamma över alla entusiastiska och intressanta lyssnare vi fick träffa.&lt;/p&gt;
-
-&lt;p&gt;Sedan blickar vi tillbaka på den avlägsna tid då Kodsnack började och vad som hänt och utvecklats sedan dess. Vi passar också på att lista några favoritavsnitt. Vi bekräftar officiellt vår okunskap om Windows och Microsofts ekosystem, och vi förstår helt kritiken att vi har dålig koll där. Efter det en sväng om varför vi har svårt för Java och några andra saker Kristoffer inte tror på. Alla strikta metodiker har brister, hur mycket man än vill annorlunda hänger allt i slutändan ändå på vilken grupp människor du har.&lt;/p&gt;
-
-&lt;p&gt;Vi pratar också om vägen vi själva tagit som programmerare. Att lära sig nya saker, att inse och omfamna att man inte kan något och Javascripts vilda värld.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt;, ett kraftfullt IDE för C och C++ för såväl Linux som OS X och Windows. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;http://www.jetbrains.com/kodsnack-clion&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
-
-&lt;p&gt;Sist i avsnittet presenterar vi vinnarna i Informators Raspberry pi-tävling!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://computersweden.idg.se/2.2683/1.621811/godbitarna-fran-code-night?queryText=code%20night&#34;&gt;Code night&lt;/a&gt; - öppningspresentationen och vårt liveavsnitt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://se.linkedin.com/pub/anna-nilsson/11/777/134&#34;&gt;Anna Nilsson&lt;/a&gt; och &lt;a href=&#34;http://twitter.com/#!/magnusaschan&#34;&gt;Magnus Aschan&lt;/a&gt; på IDG, tack!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/petrasunds&#34;&gt;Petra F Sundström&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.husqvarnagroup.com/en&#34;&gt;Husqvarna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_of_Things&#34;&gt;Internet of things&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://evothings.com/&#34;&gt;Evothings och Evothings studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://informatorutbildning.blogspot.se/2015/03/agile-ux-att-anvandartesta-i.html&#34;&gt;Sinclair Andersen från Informator höll föredrag om agil användarupplevelse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.telenorconnexion.com/&#34;&gt;Telenor connexion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.telenorconnexion.com/stories/end-to-end-solution&#34;&gt;Telenor cloud connect&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://koenigsegg.com/one1/&#34;&gt;Königsegg One:1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/29.5/&#34;&gt;Master of the mix matrix&lt;/a&gt; - avsnitt 29.5&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/28.5/&#34;&gt;Större än båda dina barn&lt;/a&gt; - avsnitt 28.5&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/cocoaheads-goteborg/&#34;&gt;Cocoaheads Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.99mac.se/artikel/4143-anvand-plex-i-apple-tv-utan-jailbreak&#34;&gt;Plex på Apple TV&lt;/a&gt; - som det funkade förr i tiden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://appsnack.se/&#34;&gt;Appsnack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.apptv.se/appsnack/wwdc-intervju-med-tobias-hieta/&#34;&gt;Appsnack 14,5&lt;/a&gt; - intervju med Tobias från WWDC 2012&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hellomonkey.net/&#34;&gt;Hello monkey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.putamadre.se/&#34;&gt;Puta madre&lt;/a&gt; - det mexikanska stället med bra drinkar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rode.com/microphones/podcaster&#34;&gt;Røde podcaster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://squarespace.com/&#34;&gt;Squarespace&lt;/a&gt; - där vi från början hade kodsnack.se&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/0/&#34;&gt;Presentationer och utvecklare av idag&lt;/a&gt; - avnitt 0&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/8/&#34;&gt;Byggare Bob&lt;/a&gt; - avnsnitt 8&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se/&#34;&gt;Internetdagarna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/91/&#34;&gt;Cenny och avsnitt 91 som Fredrik och han spelade in&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se/sumpsnack&#34;&gt;Sumpsnack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt&#34;&gt;Martin Jonasson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/39/&#34;&gt;Kodsnack 39&lt;/a&gt; - Om du fick äta glass varje dag - första avsnittet med Martin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/42/&#34;&gt;Avsnittet om Bitcoin med Noa Resare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://irisclasson.com/&#34;&gt;Iris Classon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/video/&#34;&gt;Våra intervjuer på Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/34/&#34;&gt;Kodsnack 34&lt;/a&gt; - vår intervju med Jono Bacon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/45/&#34;&gt;Din noja för Mark Zuckerberg&lt;/a&gt; - avsnitt 45&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/12/&#34;&gt;Avsnittet om Plex fork av XBMC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/56/&#34;&gt;Exempel på avsnitt där Kristoffer pratar egna kompilatorer och programmeringsspråk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/51/&#34;&gt;Kodsnack 51&lt;/a&gt; - Konsten att skeppa - första avsnittet som lades ut på IDG&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/86/&#34;&gt;Exempel på avsnitt som följer upp kommentarer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cmake.org/overview/&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B11&#34;&gt;C++11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Boost_%28C%2B%2B_libraries%29&#34;&gt;Boost&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition&#34;&gt;Java enterprise edition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Object-oriented_programming&#34;&gt;Objektorienterad programmering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agil utveckling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29&#34;&gt;SOLID-principerna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise&#34;&gt;Futures och promises i Javascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lwn.net/Articles/542457/&#34;&gt;GCC skrevs om i C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GNU_Compiler_Collection#History&#34;&gt;EGCS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/React_%28JavaScript_library%29#Virtual_DOM&#34;&gt;Virtuell DOM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Meldanya&#34;&gt;Erik Jansson&lt;/a&gt; - som skrivit vår Android-app&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack&#34;&gt;Kodsnack på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/nikvilarino&#34;&gt;Niklas Serén på Internetdagarna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pub/p%C3%A4r-sik%C3%B6/1/203/94&#34;&gt;Pär Sikö på Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dekaminski.se/&#34;&gt;Marcin de Kaminski&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/fekberg&#34;&gt;Filip Ekberg&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vi har en nollbas&lt;/li&gt;
-&lt;li&gt;Var inte sån nu&lt;/li&gt;
-&lt;li&gt;Vi kan väl kalla det hundra&lt;/li&gt;
-&lt;li&gt;Leka sig fram med tekniken&lt;/li&gt;
-&lt;li&gt;Det var helt overkligt&lt;/li&gt;
-&lt;li&gt;Vi har gjort hundra avsnitt, tror vi&lt;/li&gt;
-&lt;li&gt;Pappa podcast och mamma podcast&lt;/li&gt;
-&lt;li&gt;Det är många år sedan&lt;/li&gt;
-&lt;li&gt;Det var drinkar inblandade&lt;/li&gt;
-&lt;li&gt;Det finns ingen genväg till det perfekta ljudet&lt;/li&gt;
-&lt;li&gt;Det var ett ganska tråkigt avsnitt&lt;/li&gt;
-&lt;li&gt;Första gången man kunde höra riktigt Kodsnack&lt;/li&gt;
-&lt;li&gt;Fick våran skit ihop&lt;/li&gt;
-&lt;li&gt;Snacket innan vi spelar in&lt;/li&gt;
-&lt;li&gt;Idag blir det väl inget avsnitt&lt;/li&gt;
-&lt;li&gt;Man måste hinna bli varm i kläderna&lt;/li&gt;
-&lt;li&gt;De är icke-kanoniska&lt;/li&gt;
-&lt;li&gt;De passar inte in i kanon&lt;/li&gt;
-&lt;li&gt;Det finns material för framtiden&lt;/li&gt;
-&lt;li&gt;Egentligen har jag bara gjort mig själv mer förvirrad&lt;/li&gt;
-&lt;li&gt;Det är jag och katterna&lt;/li&gt;
-&lt;li&gt;Det svåra är att få ihop kalendrarna&lt;/li&gt;
-&lt;li&gt;Det här är inte Fox news&lt;/li&gt;
-&lt;li&gt;Utför vissa åtgärder&lt;/li&gt;
-&lt;li&gt;Världen är ju inte en perfekt algoritm&lt;/li&gt;
-&lt;li&gt;Skeppa vad man skeppa kan&lt;/li&gt;
-&lt;li&gt;Kolgruvan i din hemstad&lt;/li&gt;
-&lt;li&gt;Varje hemsida är ett universum i sig&lt;/li&gt;
-&lt;li&gt;Hundra gcc.js-varianter&lt;/li&gt;
-&lt;li&gt;Vi har just bevittnat hur den här podcasten blir till&lt;/li&gt;
-&lt;li&gt;Hur koden blir stoppad&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
