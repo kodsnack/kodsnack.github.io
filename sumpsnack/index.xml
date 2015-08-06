@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>Wed, 09 Jun 2015 10:26 +0000</pubDate>
-        <lastBuildDate>Wed, 09 Jun 2015 10:26 +0000</lastBuildDate>
+        <pubDate>Wed, 06 Aug 2015 10:26 +0000</pubDate>
+        <lastBuildDate>Wed, 06 Aug 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>en</language>
@@ -34,6 +34,65 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 13 - Aktivera sig på ett sätt som inte involverar hjärnan on kodsnack </title>
+                <pubDate>Wed, 06 Aug 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/13/</guid>
+                <link>http://kodsnack.se/sumpsnack/13/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Dumheter med ljudböcker och hur de kan förstöra ens motion, ljudböcker kontra poddradio. Och motion. Och luncher.&lt;/p&gt;
+
+&lt;p&gt;Sist lite spelsnack och en varning om att kombinera Microsoft med Microsoft.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://5by5.tv/b2w&#34;&gt;Back to work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.relay.fm/rd&#34;&gt;Reconcilable differences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Audible.com&#34;&gt;Audible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Kindle&#34;&gt;Kindle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Red_Rising&#34;&gt;Red Rising&lt;/a&gt; - Pierce Brown&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.apple.com/library/content/dam/edam/applecare/images/en_US/applewatch/watch-activity-overview.jpg&#34;&gt;Aktivitetsringarna på Apple watch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fitbit&#34;&gt;Fitbit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.playark.com/&#34;&gt;Ark survival evolved&lt;/a&gt; - spelet Kristoffer pratar om&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Trespasser_%28video_game%29&#34;&gt;Trespasser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dodo&#34;&gt;Dodo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Portal_2&#34;&gt;Portal 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fallout_3&#34;&gt;Fallout 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fallout:_New_Vegas&#34;&gt;Fallout new Vegas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Stanley_Parable&#34;&gt;The Stanley parable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest&#34;&gt;Ori and the blind forest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Icewind_Dale&#34;&gt;Icewind dale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sortera sig bättre&lt;/li&gt;
+&lt;li&gt;Hur kan man designa sin mjukvara så trasigt?&lt;/li&gt;
+&lt;li&gt;Sitta och göra annat och lyssna på en ljudbok&lt;/li&gt;
+&lt;li&gt;Aktivera sig på ett sätt som inte involverar hjärnan&lt;/li&gt;
+&lt;li&gt;Anledningar till att inte röra på sig&lt;/li&gt;
+&lt;li&gt;Den där sista ringen&lt;/li&gt;
+&lt;li&gt;Slavisk på att fylla ringarna (varje dag)&lt;/li&gt;
+&lt;li&gt;Det här att lura sig själv&lt;/li&gt;
+&lt;li&gt;Att äta hemma är både lättare och svårare&lt;/li&gt;
+&lt;li&gt;Kultur är väl alltid bra att läga pengar på&lt;/li&gt;
+&lt;li&gt;Jag måste ha två tangentbord inkopplade för att över huvud taget få igång det&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="8652376" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_13.mp3"/>
+                <itunes:duration>18:19</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 12 - Off-book on kodsnack </title>
