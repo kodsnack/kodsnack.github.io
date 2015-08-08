@@ -7,6 +7,7 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
     <channel>
+        <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
         <pubDate>06 Aug 2015 10:26 +0000</pubDate>
         <lastBuildDate>06 Aug 2015 10:26 +0000</lastBuildDate>
