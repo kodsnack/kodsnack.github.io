@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>12 Aug 2015 10:26 +0000</pubDate>
-        <lastBuildDate>12 Aug 2015 10:26 +0000</lastBuildDate>
+        <pubDate>15 Aug 2015 10:26 +0000</pubDate>
+        <lastBuildDate>15 Aug 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,38 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 15 - Röd istället för grön on kodsnack </title>
+                <pubDate>15 Aug 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/15/</guid>
+                <link>http://kodsnack.se/sumpsnack/15/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Mikrofonmysterier och semestersysslor.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rode.com/microphones/podcaster&#34;&gt;Røde podcaster&lt;/a&gt; - mikrofonen alla i Kodsnack använder&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Röd istället för grön&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="1930945" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_15.mp3"/>
+                <itunes:duration>04:02</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 14 - Jag var utomhus igår on kodsnack </title>
