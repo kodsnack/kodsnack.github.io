@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>15 Aug 2015 10:26 +0000</pubDate>
-        <lastBuildDate>15 Aug 2015 10:26 +0000</lastBuildDate>
+        <pubDate>25 Aug 2015 10:26 +0000</pubDate>
+        <lastBuildDate>25 Aug 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,53 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 16 - Jag måste ju åka till Toscana on kodsnack </title>
+                <pubDate>25 Aug 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/16/</guid>
+                <link>http://kodsnack.se/sumpsnack/16/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Omvälvande händelser i destinyvärlden, och hur gör man sig bäst förtjänt av exotiska vapen? Och så årets största första världen-problem.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Reddit&#34;&gt;Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Reddit#Subreddits&#34;&gt;Subreddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/destinythegame&#34;&gt;Destinys subreddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://destiny.wikia.com/wiki/Gjallarhorn&#34;&gt;Gjallarhorn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Random_number_generation&#34;&gt;Rng&lt;/a&gt; - random number generator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Destiny_%28video_game%29#The_Taken_King&#34;&gt;The taken king&lt;/a&gt; - nästa stora expansion till Destiny&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tuscany&#34;&gt;Toscana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8XLa2kEz2m4&#34;&gt;Bungies tillbakablick på Destiny år ett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.the100.io/&#34;&gt;The 100&lt;/a&gt; - hitta bra folk att spela Destiny med&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gick helt sönder&lt;/li&gt;
+&lt;li&gt;The gjallarhorn&lt;/li&gt;
+&lt;li&gt;En snubbe som säljer exotiska vapen&lt;/li&gt;
+&lt;li&gt;Förtjäna att man får ett slumpat drop&lt;/li&gt;
+&lt;li&gt;De fick banna keywordet&lt;/li&gt;
+&lt;li&gt;Jag måste ju åka till Toscana&lt;/li&gt;
+&lt;li&gt;Nu är jag klar för år ett&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="5283170" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_16.mp3"/>
+                <itunes:duration>11:18</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 15 - Röd istället för grön on kodsnack </title>

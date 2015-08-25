@@ -6,7 +6,67 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 18 Aug 2015 05:26:14 UTC</updated>
+    <updated>Tue, 25 Aug 2015 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 117 - Det finns inget bra sätt att släppa en ny app</title>
+      <link>http://kodsnack.se/117/</link>
+      <pubDate>Tue, 25 Aug 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/117/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias snackar att komma tillbaka från semestern, refactoring och sedan, via tidsuppskattning, stora omskrivningar och att släppa stora nya versioner av appar för iOS. Allt utifrån Plex senaste uppdatering för iOS och återkopplingen från användare. Det är alltid svårt att balansera önskemål, speciellt mellan de som tycker att allting fungerar bra och de som tycker att allt borde göras om och förbättras.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av säkerhetskonferensen &lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt;, en endagskonferens med ingen mindre än &lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; som dragplåster! Evenemanget går av stapeln 22 september i Stockholm och 23 september i Göteborg. Kodsnacklyssnare får dessutom 400 kronor i rabatt, ange bara koden &amp;ldquo;kodsnack&amp;rdquo; i anmälningsformuläret!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.refactoring.com/&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/08/10/our-shiny-new-ios-app/&#34;&gt;Plex iOS-app&lt;/a&gt; - 4.0!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IOS_version_history#iPhone_OS_2.x&#34;&gt;iOS 2&lt;/a&gt; - släpptes 2008&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IOS_7&#34;&gt;iOS 7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IOS_8&#34;&gt;iOS 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010853-CH13-SW1&#34;&gt;Autolayout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plex.tv/subscription/about&#34;&gt;Plex pass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt; 2015 - 22 september i Stockholm, 23 september i Göteborg. Ange koden kodsnack för 400 kronor rabatt!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Merlin_Mann&#34;&gt;Merlin Mann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/108/&#34;&gt;Snacket om Plex omskrivning och certifikatsutmaningar&lt;/a&gt; - som bland annat motiverar inloggning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overcast.fm/&#34;&gt;Overcast&lt;/a&gt; - eminent poddradioapp för iOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.relay.fm/upgrade&#34;&gt;Upgrade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.relay.fm/upgrade/49&#34;&gt;Upgrade 49&lt;/a&gt; - där bland annat Twitter och Jasons förhållande till det tas upp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hitta alla trådarna&lt;/li&gt;
+&lt;li&gt;Att använda hjärnan igen&lt;/li&gt;
+&lt;li&gt;En alldeles för stor refactoring&lt;/li&gt;
+&lt;li&gt;Hålet blir bara djupare&lt;/li&gt;
+&lt;li&gt;Djupt nere i refactoringhålet&lt;/li&gt;
+&lt;li&gt;Vår mainfil har ett copyrightdatum från 2008&lt;/li&gt;
+&lt;li&gt;Man blir påverkad av allt&lt;/li&gt;
+&lt;li&gt;Mjukvara är svårt&lt;/li&gt;
+&lt;li&gt;Det finns inget bra sätt att släppa en ny app&lt;/li&gt;
+&lt;li&gt;Då är du en snäll användare&lt;/li&gt;
+&lt;li&gt;Ett generellt internetproblem&lt;/li&gt;
+&lt;li&gt;Det är så otroligt svårt med empati på internet&lt;/li&gt;
+&lt;li&gt;Det man inte fick just nu är det man vill ha&lt;/li&gt;
+&lt;li&gt;En annan sak hur man uttrycker det&lt;/li&gt;
+&lt;li&gt;Aktiveras av mänsklig kontakt&lt;/li&gt;
+&lt;li&gt;Det som händer på Facebook är värst&lt;/li&gt;
+&lt;li&gt;Tvungna att jobba runt verkligheten - igen&lt;/li&gt;
+&lt;li&gt;Riva av plåstret och köra&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 116 - Mejl om att andra roar sig</title>
@@ -1162,92 +1222,6 @@
 &lt;li&gt;De som inte har en egen film&lt;/li&gt;
 &lt;li&gt;En position av absolut ingen kunskap&lt;/li&gt;
 &lt;li&gt;Det är spekulation och ingenting annat&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 102 - Saker och ting som vi vet halvmycket om</title>
-      <link>http://kodsnack.se/102/</link>
-      <pubDate>Tue, 12 May 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/102/</guid>
-      <description>
-
-&lt;p&gt;Tobias och Fredrik snackar om och utifrån nyheter från Microsofts konferens Build: bryggorna till iOS och Android, Edge, Hololens och Visual studio code.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;TeamCity&lt;/a&gt;, &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; produkt för &lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;continuous integration&lt;/a&gt;. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://channel9.msdn.com/Events/Build/2015&#34;&gt;Build 2015&lt;/a&gt; - Microsofts årliga utvecklarkonferens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Moscone_Center&#34;&gt;Moscone center&lt;/a&gt; - där alla utvecklarkonferenser verkar hållas&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://channel9.msdn.com/Events/Build/2015/KEY01&#34;&gt;Keynoten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_10&#34;&gt;Windows 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/information-technology/2015/04/microsoft-brings-android-ios-apps-to-windows-10/&#34;&gt;Emulerade androidappar på Windows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Emulator&#34;&gt;Emulering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BlackBerry&#34;&gt;Blackberry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BlackBerry_10#Android_Layer&#34;&gt;Emulerade androidappar på Blackberry&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Metro_%28design_language%29&#34;&gt;Modern-metro-vaddetnuheternuförtiden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://channel9.msdn.com/Events/Build/2015/3-610&#34;&gt;Importera och använd iOS-kod i Visual studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/legacy/library/documentation/Cocoa/Conceptual/Legacy/JavaBridge/JavaBridge.pdf&#34;&gt;Apples javabrygga&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thurrott.com/mobile/android/3174/windows-android&#34;&gt;Paul Thurrotts reaktion på bryggorna&lt;/a&gt; - innan presentationen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.windows.com/en-us/uwp-bridges&#34;&gt;Bryggan för Win32-appar&lt;/a&gt; - mer information kommer till sommaren&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.windowscentral.com/microsoft-also-working-towards-swift-compiler-ios-developers-come-windows-10&#34;&gt;Microsoft utesluter inte att stödja Swift också&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rymdkapsel.com/&#34;&gt;Rymdkapsel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/King_%28company%29&#34;&gt;King&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;TeamCity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;Continuous integration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; - länken som stödjer Kodsnack.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Microsoft_Edge&#34;&gt;Microsoft Edge&lt;/a&gt; - den nya webbläsaren&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/User_agent&#34;&gt;User agent&lt;/a&gt; - textsträngar webbläsare skickar för att identifiera sig&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.allenpike.com/2015/user-agents-of-change/&#34;&gt;Alan Pike om user agent-strängar&lt;/a&gt; - om strängarna fortsätter växa kommer de att krocka med Apaches storleksgränser för HTTP-headers&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/node/5624861&#34;&gt;Diagram över antalet rakblad i giletteprodukter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.engadget.com/2014/10/01/windows-10-9-naming-rumor/&#34;&gt;Teorier om varför Windows 10 heter just 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Feature_detection_%28web_development%29&#34;&gt;Feature detection&lt;/a&gt; -  - är det som gäller med webbläsare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://technet.microsoft.com/en-us/ie/mt163706.aspx&#34;&gt;Internet explorer bara för företagsversionen av Windows&lt;/a&gt; - fortfarande lite oklart exakt hur det blir&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/4/29/8511289/microsoft-build-2015-hololens-robot-singularity&#34;&gt;Demonstrationen av Hololens från keynoten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Chromium_%28web_browser%29&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://electron.atom.io/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.caseyliss.com/2015/5/1/visual-studio-code&#34;&gt;Codes Node-debugger sägs vara väldigt bra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mono_%28software%29&#34;&gt;Mono&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.codenight.se&#34;&gt;Code night&lt;/a&gt; - kom och träffa oss och andra utvecklare 17 juni&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ett program där vi bara pratar positivt&lt;/li&gt;
-&lt;li&gt;Saker och ting som vi vet halvmycket om&lt;/li&gt;
-&lt;li&gt;Microsofts WWDC&lt;/li&gt;
-&lt;li&gt;Samma längd som en Peter Jackson-film&lt;/li&gt;
-&lt;li&gt;Hönan och ägget-problem&lt;/li&gt;
-&lt;li&gt;Write once, compile everywhere&lt;/li&gt;
-&lt;li&gt;Ett helt smörgåsbord av nya API:er&lt;/li&gt;
-&lt;li&gt;Det finns ju situationer då det passar&lt;/li&gt;
-&lt;li&gt;En nödlösning&lt;/li&gt;
-&lt;li&gt;Om plattformarna skiljer sig åt alls&lt;/li&gt;
-&lt;li&gt;Jag vet inte om det någonsin funkat så för någon på riktigt&lt;/li&gt;
-&lt;li&gt;Någonting eget på ett väldigt bra sätt&lt;/li&gt;
-&lt;li&gt;(De slog på) sarkastiska läget direkt&lt;/li&gt;
-&lt;li&gt;Vi emulerar allt på alla nivåer&lt;/li&gt;
-&lt;li&gt;Microsoft-ism&lt;/li&gt;
-&lt;li&gt;Ett ganska stort och besvärligt äventyr i sig&lt;/li&gt;
-&lt;li&gt;Det känns inte som någon slamdunk&lt;/li&gt;
-&lt;li&gt;Tiderna förändras&lt;/li&gt;
-&lt;li&gt;Tummen upp på Edge&lt;/li&gt;
-&lt;li&gt;En version ett, på något sätt&lt;/li&gt;
-&lt;li&gt;Undrar hur Candy crush går på Hololens&lt;/li&gt;
-&lt;li&gt;Mono på baksidan&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
