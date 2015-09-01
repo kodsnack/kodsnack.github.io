@@ -6,7 +6,83 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 25 Aug 2015 10:26:14 UTC</updated>
+    <updated>Tue, 01 Sep 2015 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 118 - Buggfixar och prestandaförbättringar</title>
+      <link>http://kodsnack.se/118/</link>
+      <pubDate>Tue, 01 Sep 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/118/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar information om nya versioner, hur man bokför vad man gjort och vad av det man gjort man bör informera sina användare om. Vad hör hemma i kommentarer i koden, vad hör hemma i commitmeddelanden, och vad ska med i informationen kring en ny version? Har du en åsikt vill vi höra den!&lt;/p&gt;
+
+&lt;p&gt;Vi snackar också om Go som nyligen nått version 1.5 och om self hosting.&lt;/p&gt;
+
+&lt;p&gt;Omkring en halvtimme in i programmet har Kristoffer egentligen inga klagomål!&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi språktrender på Github och i Tiobe-indexet och vad respektive trender egentligen innebär. Tobias försöker sätta fingret på vad som skaver med Javascript för honom (i grund och botten att det inte landat än som något man skriver på ett mer enhetligt sätt) och Kristoffer erkänner att han gillar Javascript mer nu än tidigare.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av säkerhetskonferensen &lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt;, en endagskonferens med ingen mindre än &lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; som dragplåster! Evenemanget går av stapeln 22 september i Stockholm och 23 september i Göteborg. Kodsnacklyssnare får dessutom 400 kronor i rabatt, ange bara koden &amp;ldquo;kodsnack&amp;rdquo; i anmälningsformuläret!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.omnipolloshatt.com/&#34;&gt;Omnipollos hatt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Regular_expression&#34;&gt;Regex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://martinfowler.com/bliki/TwoHardThings.html&#34;&gt;De två svåra sakerna i datavetenskap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theguardian.com/technology/2015/aug/18/tumblr-app-release-notes-david-karp-rippling-muscles&#34;&gt;Tumblrs uppsats i versionsinformationen till 4.3.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/David_Karp&#34;&gt;David Karp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.subtraction.com/2014/12/05/slacks-release-notes/&#34;&gt;Slack och deras versionsinformation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Annotation#Software_engineering&#34;&gt;Blame&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/files/pulog.html&#34;&gt;Pocket universe senaste versionslogg … eller saga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks&#34;&gt;Git-hookar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt; 2015 - 22 september i Stockholm, 23 september i Göteborg. Ange koden kodsnack för 400 kronor rabatt!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.golang.org/go1.5&#34;&gt;Go  1.5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Self-hosting&#34;&gt;Self hosting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Matryoshka_doll&#34;&gt;Babushkadockor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Turtles_all_the_way_down&#34;&gt;Turtles all the way down&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GCC&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bootstrapping#Software_development&#34;&gt;Bootstrapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://golang.org/doc/go1.5#c&#34;&gt;Gos sida om self hosting/bootstrapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Source-to-source_compiler&#34;&gt;Transpiling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/blog/2047-language-trends-on-github&#34;&gt;Github om språktrender&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_on_Rails&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html&#34;&gt;Tiobe-indexet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/sv-SE/docs/Web/JavaScript&#34;&gt;Mozillas javascriptsida&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3schools.com/tags/att_script_defer.asp&#34;&gt;Defer för Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebAssembly&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.freedesktop.org/wiki/Software/fontconfig/&#34;&gt;Fontconfig&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hur mycket svårare ska koden vara att skriva&lt;/li&gt;
+&lt;li&gt;En snygg liten klass&lt;/li&gt;
+&lt;li&gt;Buggfixar och prestandaförbättringar&lt;/li&gt;
+&lt;li&gt;Commitmeddelanden som säger ingenting&lt;/li&gt;
+&lt;li&gt;När någonting ser batshit crazy ut&lt;/li&gt;
+&lt;li&gt;Slösa bort en halvtimme av någons kod&lt;/li&gt;
+&lt;li&gt;De vet bättre vad som kommer att förvirra folk&lt;/li&gt;
+&lt;li&gt;Dra sig upp från ingenting&lt;/li&gt;
+&lt;li&gt;En stor C-klump&lt;/li&gt;
+&lt;li&gt;Då har jag egentligen inga klagomål&lt;/li&gt;
+&lt;li&gt;Språk spelar inte så jättestor roll&lt;/li&gt;
+&lt;li&gt;Trasigt av historiska skäl&lt;/li&gt;
+&lt;li&gt;Varje C++-projekt är sitt eget universum&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 117 - Det finns inget bra sätt att släppa en ny app</title>
@@ -1140,88 +1216,6 @@
 &lt;li&gt;Tiotusenkronorsidé&lt;/li&gt;
 &lt;li&gt;Inte alltid min starka sida&lt;/li&gt;
 &lt;li&gt;En speciel sinnesstämning&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 103 - Våra testcase gick igenom, helt plötsligt</title>
-      <link>http://kodsnack.se/103/</link>
-      <pubDate>Tue, 19 May 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/103/</guid>
-      <description>
-
-&lt;p&gt;Spoilerhornet ljuder!&lt;/p&gt;
-
-&lt;p&gt;Vi snackar om Daredevil, Avengers: age of Ultron och AI. Hoppa till 29:45 i avsnittet om du inte sett Daredevil och/eller Avengers: age of Ultron och vill göra det utan förkunskaper. Varför bekymrar sig smarta människor för AI, är det något vi andra ens borde fundera över?&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.informator.se&#34;&gt;Informator&lt;/a&gt;, som erbjuder dig utbildningar om allt möjligt och - precis som vi - hoppas att du dyker upp på &lt;a href=&#34;http://event.computersweden.se/codenight2/&#34;&gt;Code night 2&lt;/a&gt; 17 juni.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Daredevil_%28TV_series%29&#34;&gt;Daredevil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.&#34;&gt;Agents of S.H.I.E.L.D&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Agent_Carter_%28TV_series%29&#34;&gt;Agent Carter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Marvel_Cinematic_Universe&#34;&gt;Marvel cinematic universe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Kingpin_%28comics%29&#34;&gt;Wilson Fisk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Xena:_Warrior_Princess&#34;&gt;Xena: warrior princess&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Flash_%282014_TV_series%29&#34;&gt;The flash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron&#34;&gt;Avengers: age of Ultron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Hell%27s_Kitchen,_Manhattan&#34;&gt;Hell&amp;rsquo;s kitchen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shawarma&#34;&gt;Shawarma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ultron&#34;&gt;Ultron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Vision_%28Marvel_Comics%29&#34;&gt;The vision&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/James_Spader&#34;&gt;James Spader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bechdeltest.com/&#34;&gt;Bechdale-testet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Joss_Whedon&#34;&gt;Joss Whedon&lt;/a&gt; - regissören av Avengers-filmerna&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Infinity_War&#34;&gt;Infinity war&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thanos&#34;&gt;Thanos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Infinity_Gems&#34;&gt;Infinity stone&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ronan_the_Accuser&#34;&gt;Ronan&lt;/a&gt; - skurken - eller en av dem - i Guardians of the galaxy-filmen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.informator.se&#34;&gt;Informator&lt;/a&gt; - utvecklar utvecklare!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight2/&#34;&gt;Informator på Code night 2&lt;/a&gt; - Agile: människor, teknik och spelutveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;Artikeln om AI på Wait but why&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Edwin_Jarvis#J.A.R.V.I.S.&#34;&gt;J.A.R.V.I.S.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/whatstech/what-is-the-singularity&#34;&gt;What&amp;rsquo;s tech? What is the singularity?&lt;/a&gt; - podcasten Tobias lyssnat på&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Stephen_Hawking&#34;&gt;Stephen Hawking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Elon_Musk&#34;&gt;Elon Musk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ray_Kurzweil&#34;&gt;Ray Kurzweil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Her_%28film%29&#34;&gt;Her&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Isaac_Newton%27s_occult_studies&#34;&gt;Newton trodde på mycket nonsens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight2/&#34;&gt;Code night 2&lt;/a&gt; - 17 juni&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://se.linkedin.com/pub/mehrnaz-amanat-bari/28/7b8/912&#34;&gt;Mehrnaz Amanat Bari&lt;/a&gt; - huvudtalare på Code night 2&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Paradox_Interactive&#34;&gt;Paradox interactive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Europa_Universalis&#34;&gt;Europa universalis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Hearts_of_Iron&#34;&gt;Hearts of iron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cities:_Skylines&#34;&gt;Cities: skylines&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;Hojta på Twitter&lt;/a&gt; om du vill ta en öl efter Code night&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;För att vara en TV-serie med superhjältar&lt;/li&gt;
-&lt;li&gt;Marvel har fått rätt på en TV-serie&lt;/li&gt;
-&lt;li&gt;Karaktärsdrivet på ett helt annat sätt&lt;/li&gt;
-&lt;li&gt;Inte så mycket förväntningar (på det över huvud taget)&lt;/li&gt;
-&lt;li&gt;Mer bandage i huvudstrumpan&lt;/li&gt;
-&lt;li&gt;En helt annan skala på superhjältandet&lt;/li&gt;
-&lt;li&gt;Världen är ju större nuförtiden&lt;/li&gt;
-&lt;li&gt;De hänger på shawarmastället hela dagen&lt;/li&gt;
-&lt;li&gt;Tolv huvudkaraktärer&lt;/li&gt;
-&lt;li&gt;Uppfunnen på 37 sekunder&lt;/li&gt;
-&lt;li&gt;Våra testcase gick igenom, helt plötsligt&lt;/li&gt;
-&lt;li&gt;En stereotyp stereotyp-stereotyp&lt;/li&gt;
-&lt;li&gt;De som inte har en egen film&lt;/li&gt;
-&lt;li&gt;En position av absolut ingen kunskap&lt;/li&gt;
-&lt;li&gt;Det är spekulation och ingenting annat&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
