@@ -6,7 +6,78 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 08 Sep 2015 05:26:14 UTC</updated>
+    <updated>Tue, 15 Sep 2015 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 120 - Fler svar, tidigare</title>
+      <link>http://kodsnack.se/120/</link>
+      <pubDate>Tue, 15 Sep 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/120/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Fredrik snackar med &lt;a href=&#34;https://twitter.com/bagder&#34;&gt;Daniel Stenberg&lt;/a&gt;, skapare av &lt;a href=&#34;http://curl.haxx.se/&#34;&gt;curl&lt;/a&gt; och nätverkskodare på &lt;a href=&#34;https://www.mozilla.org/sv-SE/&#34;&gt;Mozilla&lt;/a&gt;, om curl, att driva populära öppna källkodsprojekt på fritiden och &lt;a href=&#34;https://http2.github.io/&#34;&gt;HTTP/2&lt;/a&gt;. Visste du att HTTP/2 i praktiken alltid är krypterat i webbläsare, trots att specifikationen inte kräver det? Och en del av anledningen är att det i praktiken blir lättare att göra det nya protkollet med TLS istället för utan?&lt;/p&gt;
+
+&lt;p&gt;Men med curl kan du givetvis använda båda varianterna.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av säkerhetskonferensen &lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt;, en endagskonferens med ingen mindre än &lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; som dragplåster! Evenemanget går av stapeln 22 september i Stockholm och 23 september i Göteborg. Kodsnacklyssnare får dessutom 400 kronor i rabatt, ange bara koden &amp;ldquo;kodsnack&amp;rdquo; i anmälningsformuläret!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bagder&#34;&gt;Daniel Stenberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/sv-SE/&#34;&gt;Mozilla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://curl.haxx.se/&#34;&gt;curl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://curl.haxx.se/docs/history.html&#34;&gt;httpget var verktyget som Daniel började anpassa och som blev curl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force&#34;&gt;IETF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://datatracker.ietf.org/wg/httpbis/documents/&#34;&gt;HTTP-gruppen inom IETF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Relay_Chat&#34;&gt;IRC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IRC_bot&#34;&gt;IRC-bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://http2.github.io/&#34;&gt;HTTP/2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tools.ietf.org/html/draft-mbelshe-httpbis-spdy-00&#34;&gt;SPDY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.python.org/moin/Python2orPython3&#34;&gt;Python 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tools.ietf.org/html/rfc7540&#34;&gt;RFC:n för HTTP 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daniel.haxx.se/blog/2015/08/27/content-over-http2/&#34;&gt;Daniels artikel om det CDN som var först med HTTP 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt; 2015 - 22 september i Stockholm, 23 september i Göteborg. Ange koden kodsnack för 400 kronor rabatt!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP_pipelining&#34;&gt;Pipelining i HTTP 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Slow-start&#34;&gt;TCP har slow start&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://trafficserver.apache.org/&#34;&gt;Apache traffic server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://h2o.examp1e.net/&#34;&gt;H20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robustness_principle&#34;&gt;Be liberal in what you accept&lt;/a&gt; - ett mantra som inte gäller för HTTP 2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bagder&#34;&gt;@bagder&lt;/a&gt; - Daniel på Twitter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daniel.haxx.se/&#34;&gt;daniel.haxx.se&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTTP-biblioteket som nästan alla använder till nästan allting&lt;/li&gt;
+&lt;li&gt;Konsult i alla år sedan evigheter&lt;/li&gt;
+&lt;li&gt;Jag ville hämta valutakurser från webben&lt;/li&gt;
+&lt;li&gt;När open source-projekt blir större&lt;/li&gt;
+&lt;li&gt;Jag sitter här på min övervåning&lt;/li&gt;
+&lt;li&gt;Fascinerande långt gånget i implementation&lt;/li&gt;
+&lt;li&gt;Bara för att folk surfar till Google&lt;/li&gt;
+&lt;li&gt;När man skriver Telnet till port 80&lt;/li&gt;
+&lt;li&gt;I själva verket har väldigt få gjort telnet&lt;/li&gt;
+&lt;li&gt;Multipla strömmar över samma koppel&lt;/li&gt;
+&lt;li&gt;Ge mig allt nu, så mycket du bara kan&lt;/li&gt;
+&lt;li&gt;Du frågar efter allting på en gång&lt;/li&gt;
+&lt;li&gt;Fler svar, tidigare&lt;/li&gt;
+&lt;li&gt;Blir det fel så stänger den av&lt;/li&gt;
+&lt;li&gt;Det leder ju bara till smärta efter några år&lt;/li&gt;
+&lt;li&gt;Det är ingen som märker någon skillnad (där heller)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 119 - Trilla utanför säkerheten</title>
@@ -1175,60 +1246,6 @@
 &lt;li&gt;Tim Cook verkar ju vara en resonabel människa&lt;/li&gt;
 &lt;li&gt;Häftigt men otroligt obekvämt&lt;/li&gt;
 &lt;li&gt;Man har ingen aning om vad som går att säga&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 105 - Hur många poäng det är på uppgiften</title>
-      <link>http://kodsnack.se/105/</link>
-      <pubDate>Tue, 02 Jun 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/105/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar anställningsintervjuer; upplägg, frågor och om intervjuprocessen faktiskt kan göra en mindre intresserad av att arbeta för ett företag.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_Relay_Chat&#34;&gt;IRC&lt;/a&gt; - Internet relay chat&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Comma-separated_values&#34;&gt;Kommaseparerad text&lt;/a&gt; - exportformatet som driver världen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_function#Virtual_destructors&#34;&gt;Virtuell destruktor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_function&#34;&gt;Virtuell funktion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Protection_ring&#34;&gt;Ring 0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Portal_%28video_game%29&#34;&gt;Portal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rogueamoeba.com/&#34;&gt;Rogue amoeba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rogueamoeba.com/audiohijack/&#34;&gt;Audio hijack&lt;/a&gt; - programmet vi använder för att spela in Kodsnack&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Template_%28C%2B%2B%29&#34;&gt;Templates i C++&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight2/&#34;&gt;Code night 2&lt;/a&gt; - Lärdomar från spelbranschen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Paradox_Interactive&#34;&gt;Paradox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/King_%28company%29&#34;&gt;King&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nepa.com/se/&#34;&gt;Nepa&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lite mindre djup i sin bas&lt;/li&gt;
-&lt;li&gt;Min första arbetsintervju någonsin&lt;/li&gt;
-&lt;li&gt;Om man hade sett en dator och kunde skriva på tangentbord&lt;/li&gt;
-&lt;li&gt;Hur mycket kan du av Perl?&lt;/li&gt;
-&lt;li&gt;Några oneliners på kommandoraden&lt;/li&gt;
-&lt;li&gt;Hur många poäng det är på uppgiften&lt;/li&gt;
-&lt;li&gt;En hemsk upplevelse&lt;/li&gt;
-&lt;li&gt;Jag commitade mig in&lt;/li&gt;
-&lt;li&gt;En klass med virtuell destruktor&lt;/li&gt;
-&lt;li&gt;Episk grillning&lt;/li&gt;
-&lt;li&gt;Annars blir det inte bra kod&lt;/li&gt;
-&lt;li&gt;Med gruppens goda minne&lt;/li&gt;
-&lt;li&gt;Dekret ifrån ovan&lt;/li&gt;
-&lt;li&gt;Självupplärd och självanställd&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
