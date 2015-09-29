@@ -6,7 +6,99 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 22 Sep 2015 05:26:14 UTC</updated>
+    <updated>Tue, 29 Sep 2015 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 122 - Lättillgängligt om säkerhet</title>
+      <link>http://kodsnack.se/122/</link>
+      <pubDate>Tue, 29 Sep 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/122/</guid>
+      <description>
+
+&lt;p&gt;Tobias, Fredrik och, lite oväntat, &lt;a href=&#34;https://twitter.com/joltcan&#34;&gt;Fredrik&lt;/a&gt; snackar om endagssäkerhetskonferensen &lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt;: innehåll, åsikter och idéer.Vi täcker både formen på dagen, talarnas presentationer, diskussioner utifrån presentationerna, våra idéer utifrån dem och försöker knyta ihop allt till någon sorts helhet. Hur ska man ge respons på hack? Spelar det någon roll om det är en ensam galning eller en hel nation bakom? Vem ska man ringa när man blir hackad? Och vilken presentation var egentligen viktigast?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/ngt15/2015/&#34;&gt;Next generation threats 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/joltcan&#34;&gt;Fredrik Lundhag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt; - Fredriks jobb&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34;&gt;Jira&lt;/a&gt; - projekt- och ärendehanteringssystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/about.html&#34;&gt;Bruce Schneier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Transportation_Security_Administration&#34;&gt;TSA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security_theater&#34;&gt;Säkerhetsteater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/books/beyond_fear/&#34;&gt;Beyond fear&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/books/liars_and_outliers/&#34;&gt;Liars and outliers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sony_Pictures_Entertainment_hack&#34;&gt;Sony-hacket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortune.com/sony-hack-part-1/&#34;&gt;Artikeln Bruce rekommenderade&lt;/a&gt; - i Fortune(?)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Edward_Snowden&#34;&gt;Edward Snowden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Main_Page&#34;&gt;Incidentrespons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zero-day_%28computing%29&#34;&gt;Zero-day exploit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/07/02/security-notice-forum-user-password-resets/&#34;&gt;Hacket av Plex forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/rootkovska/&#34;&gt;Joanna Rutkowska&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://invisiblethingslab.com/itl/Welcome.html&#34;&gt;Invisible things labs&lt;/a&gt; - Joannas företag&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Trusted_computing_base&#34;&gt;TCB&lt;/a&gt; - trusted computing base&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.qubes-os.org/&#34;&gt;Qubes OS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/rootkovska/status/646270667936010240&#34;&gt;Lågnivå, det där var inte lågnivå&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Opcode&#34;&gt;Opkoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jwunsche&#34;&gt;Jan Wünsche&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Milit%C3%A4ra_underr%C3%A4ttelse-_och_s%C3%A4kerhetstj%C3%A4nsten&#34;&gt;Must&lt;/a&gt; - Militära underrättelse- och säkerhetstjänsten&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pub/robin-blokker/0/a9a/772&#34;&gt;Robin Blokker&lt;/a&gt; - FRA-deltagaren på NGT 2014&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.truesec.com/Profiles&#34;&gt;Marcus Murray&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.truesec.com/&#34;&gt;Truesec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.arduino.cc/&#34;&gt;Arduino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Powershell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Azure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Keystroke_logging&#34;&gt;Keylogger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/plastfolie&#34;&gt;Hanna Lidzell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Phishing&#34;&gt;Phising&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/books/applied_cryptography/&#34;&gt;Bruce tidiga bok om kryptering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/crypto-gram/&#34;&gt;Bruce nyhetsbrev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dubbelt så mycket Fredrik&lt;/li&gt;
+&lt;li&gt;Ganska lössläppt diskussion&lt;/li&gt;
+&lt;li&gt;Lite lagom uppstyrt&lt;/li&gt;
+&lt;li&gt;En frågestund som faktiskt ger någonting&lt;/li&gt;
+&lt;li&gt;Att lyssna på smarta människor är ju alltid intressant&lt;/li&gt;
+&lt;li&gt;Vi säger Björeman då&lt;/li&gt;
+&lt;li&gt;Pragmatisk säkerhet&lt;/li&gt;
+&lt;li&gt;Lättillgängligt om säkerhet&lt;/li&gt;
+&lt;li&gt;I ett samhälle som alltid är uppkopplat och ständigt närvarande&lt;/li&gt;
+&lt;li&gt;Inte någon på hela internet som trodde på dem&lt;/li&gt;
+&lt;li&gt;Ett intressant dubbeleggat svärd&lt;/li&gt;
+&lt;li&gt;Slåss i cyberrymden&lt;/li&gt;
+&lt;li&gt;Något slags terrorbalans&lt;/li&gt;
+&lt;li&gt;Alla vi som jobbar på internet&lt;/li&gt;
+&lt;li&gt;Det kan vara två personer i en källare, det kan vara en hel nation&lt;/li&gt;
+&lt;li&gt;Flera veckor innan man vet vem som gjorde vad&lt;/li&gt;
+&lt;li&gt;Vi har helt plötsligt en rutin&lt;/li&gt;
+&lt;li&gt;Vem ska jag ringa och vad ska jag slå av?&lt;/li&gt;
+&lt;li&gt;Låta gamla system rulla och hoppas på det bästa&lt;/li&gt;
+&lt;li&gt;Mitt företag är nog för litet för att vara ett mål&lt;/li&gt;
+&lt;li&gt;Han gick bara upp med ett papper i handen&lt;/li&gt;
+&lt;li&gt;Ingen kedja är svagare än dess svagaste länk&lt;/li&gt;
+&lt;li&gt;Ingen sak som är lätt att mäta&lt;/li&gt;
+&lt;li&gt;De har inga mandat att göra någonting&lt;/li&gt;
+&lt;li&gt;Själva trolleritricket när man byter ut någonting bakom ryggen&lt;/li&gt;
+&lt;li&gt;När man väl fått in sin keylogger&lt;/li&gt;
+&lt;li&gt;Man måste ju alltid lita på ett system någonstans&lt;/li&gt;
+&lt;li&gt;Du kan ju inte tvinga folk att bli säkerhetsmedvetna&lt;/li&gt;
+&lt;li&gt;Allt är kört&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 121 - Frågan för oss som Plex</title>
@@ -1171,90 +1263,6 @@
 &lt;li&gt;Ett UML-diagram som man hänger upp på en vägg&lt;/li&gt;
 &lt;li&gt;Min favoritaste sak&lt;/li&gt;
 &lt;li&gt;En kultur av att leka med datorer&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 108 - Gröna, verifierade certifikat</title>
-      <link>http://kodsnack.se/108/</link>
-      <pubDate>Tue, 23 Jun 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/108/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar SSL - TLS om man ska vara nogräknad. Tobias berättar om Plex långa resa mot att kunna visa ett  grönt lås i webbläsarens adressfält, och att göra det på ett så rätt sätt som möjligt.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Sist i avsnittet presenterar vi vinnarna i Informators Raspberry pi-tävling under Code night 2!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Transport_Layer_Security&#34;&gt;SSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight2/&#34;&gt;Code night 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se/109&#34;&gt;Vår livesändning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://support.plex.tv/hc/en-us/categories/200007567-Plex-Media-Server&#34;&gt;Plex mediaserver&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure&#34;&gt;Google och Firefox vill varna för osäkra anslutningar istället för att markera säkra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Self-signed_certificate&#34;&gt;Självsignerat certifikat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://aws.amazon.com/&#34;&gt;Amazons molntjänster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenSSL&#34;&gt;OpenSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DigiCert&#34;&gt;Digicert&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Certificate_authority&#34;&gt;Rotcertifikatsutgivare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.infosecurity-magazine.com/news/plex-mounts-huge-digicert&#34;&gt;Artikel om Plex utrullning och användning av Digicerts tjänst&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Name_server&#34;&gt;DNS-server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Wildcard_certificate&#34;&gt;Wildcard-certifikat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_Plug_and_Play&#34;&gt;UPNP&lt;/a&gt; - Universal plug and play&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dynamic_DNS&#34;&gt;Dyndns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Opportunistic_encryption&#34;&gt;Opportunistic encryption&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/security/2015/04/firefox-disables-opportunistic-encryption-to-fix-https-crippling-bug/&#34;&gt;Firefox implementerade men drog tillbaka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://httpwg.github.io/http-extensions/encryption.html&#34;&gt;HTTP2&lt;/a&gt; - förslaget kring opportunistic encryption&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SHA-2&#34;&gt;SHA-2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SHA-1&#34;&gt;SHA-1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DNS_rebinding&#34;&gt;DNS rebinding protection/attack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions&#34;&gt;DNSSEC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.linksys.com/us/wireless-routers/c/wrt-wireless-routers/&#34;&gt;Linksys WRT-routrar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/CURL&#34;&gt;cURL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hosts_%28file%29&#34;&gt;/etc/hosts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NaCl_%28software%29&#34;&gt;NaCL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IPv4&#34;&gt;IPv4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IPv6&#34;&gt;IPv6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenSSL#Licensing&#34;&gt;OpenSSL-licensen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_General_Public_License&#34;&gt;GPL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License&#34;&gt;LGPL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GnuTLS&#34;&gt;GnuTLS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tls.mbed.org/&#34;&gt;PolarSSL&lt;/a&gt; - numera mbed TLS&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BSD_licenses&#34;&gt;BSD-licenser&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LibreSSL&#34;&gt;LibreSSL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Stream_cipher&#34;&gt;Stream-cipher&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP_pipelining&#34;&gt;Pipelining&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Certificate_authority&#34;&gt;CA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Let%27s_Encrypt&#34;&gt;Let&amp;rsquo;s encrypt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://informator.se/&#34;&gt;Informator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Raspberry_Pi&#34;&gt;Raspberry pi 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Alla kryptonycklar på rätt ställe&lt;/li&gt;
-&lt;li&gt;En kommitté med väldigt för mycket folk&lt;/li&gt;
-&lt;li&gt;Ganska många lapptäcken ovanpå&lt;/li&gt;
-&lt;li&gt;På olika kryptografiska vägar&lt;/li&gt;
-&lt;li&gt;Den lilla gröna nyckeln&lt;/li&gt;
-&lt;li&gt;Gröna, verifierade certifikat&lt;/li&gt;
-&lt;li&gt;På ett skalbart och hållbart sätt&lt;/li&gt;
-&lt;li&gt;Jag har ingen klar exploit i huvudet&lt;/li&gt;
-&lt;li&gt;Vi ville göra allting superrätt&lt;/li&gt;
-&lt;li&gt;Superrätt i det här fallet&lt;/li&gt;
-&lt;li&gt;En pool som hela tiden fylls på&lt;/li&gt;
-&lt;li&gt;Ta till silvertejpen&lt;/li&gt;
-&lt;li&gt;När man väl har kommit över själva handskakningen&lt;/li&gt;
-&lt;li&gt;Driven av väldigt många svärord&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
