@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>06 Oct 2015 10:26 +0000</pubDate>
-        <lastBuildDate>06 Oct 2015 10:26 +0000</lastBuildDate>
+        <pubDate>25 Aug 2015 10:26 +0000</pubDate>
+        <lastBuildDate>25 Aug 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,53 +34,6 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
-        
-            <item>
-                <title>Sumpsnack 17 - Hur många gånger ser man en film? on kodsnack </title>
-                <pubDate>06 Oct 2015 10:26 +0000</pubDate>
-                <guid>http://kodsnack.se/sumpsnack/17/</guid>
-                <link>http://kodsnack.se/sumpsnack/17/</link>
-                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
-                <description>
-                    
-
-&lt;p&gt;Fredrik och Kristoffer snackar sevärda filmer, strömmande och priset på att hyra över nätet och att titta på 4K-saker. Och ett boktips.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road&#34;&gt;Mad Max fury road&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://madmax.wikia.com/wiki/War_Boys&#34;&gt;Warboy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ex_Machina_%28film%29&#34;&gt;Ex machina&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Transcendence_%282014_film%29&#34;&gt;Transcendence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kodi_%28software%29&#34;&gt;Xbmc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_TV#4th_generation&#34;&gt;&amp;ldquo;Nya&amp;rdquo; Apple TV&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Martian_%28film%29&#34;&gt;The martian&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Water_Knife&#34;&gt;The water knife&lt;/a&gt; - Paulo Guadalope(?)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pan_%282015_film%29&#34;&gt;Pan&lt;/a&gt; - den nya Peter pan-filmen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Steve_Jobs_%282015_film%29&#34;&gt;Danny Boyles Steve Jobs-film&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Crimson_Peak&#34;&gt;Crimson peak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/ngt15/2015/&#34;&gt;Next generation threats 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sf.se/biografer/goteborg-biopalatset/&#34;&gt;Biopalatset&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hur många gånger ser man en film?&lt;/li&gt;
-&lt;li&gt;Inte så dåligt som jag tror att det en gång var&lt;/li&gt;
-&lt;li&gt;Framtidsosäkrat&lt;/li&gt;
-&lt;li&gt;Peter begins&lt;/li&gt;
-&lt;/ul&gt;
-
-                </description>
-                <enclosure length="4681847" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_17.mp3"/>
-                <itunes:duration>11:18</itunes:duration>
-                <itunes:explicit>yes</itunes:explicit>
-                <itunes:keywords/>
-                <itunes:subtitle>
-                </itunes:subtitle>
-            </item>
         
             <item>
                 <title>Sumpsnack 16 - Jag måste ju åka till Toscana on kodsnack </title>
