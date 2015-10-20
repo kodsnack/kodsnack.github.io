@@ -9,6 +9,145 @@
     <updated>Tue, 06 Oct 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 125 - Vi visste inte ens om det skulle vara möjligt</title>
+      <link>http://kodsnack.se/125/</link>
+      <pubDate>Tue, 20 Oct 2015 17:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/125/</guid>
+      <description>
+
+&lt;p&gt;Tobias, &lt;a href=&#34;https://www.twitter.com/eriksson_daniel&#34;&gt;Daniel Eriksson&lt;/a&gt; och Fredrik snackar om Plex nyss släppta &lt;a href=&#34;https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/&#34;&gt;Plex media player&lt;/a&gt; - ersättaren för Plex home theater. Tobias berättar om utvecklingsprocessen det senaste året, från problemen som ledde fram till besluten att prova nya vägar, de vägar som provades och till slut valdes och alla utmaningar på vägen. Inte minst filosofin både för utvecklingsprocessen fram till denna första version, och för det fortsatta arbetet.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight3/&#34;&gt;Code night 3&lt;/a&gt; - Framtidens arkitekturer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/ngt14/&#34;&gt;Next generation threats 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/&#34;&gt;Plex media player&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/eriksson_daniel&#34;&gt;Daniel Eriksson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/12/&#34;&gt;Kodsnack 12 - Frodo, Dharma och sagan om gaffeln&lt;/a&gt; - när Tobias satte ihop systemen kring Plex home theater och hanteringen av kod från XBMC&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kodi_%28software%29&#34;&gt;XBMC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Plex_%28software%29#Plex_Media_Server&#34;&gt;Plex media server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hippojay/plugin.video.plexbmc&#34;&gt;PlexBMC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Codec&#34;&gt;Codecs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Transcoding&#34;&gt;Transcoding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/&#34;&gt;Raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TiVo&#34;&gt;Tivo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NPAPI&#34;&gt;NPAPI&lt;/a&gt; - gammalt plugin-API för webbläsare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NPAPI#Browser_support&#34;&gt;Deadlines på NPAPI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_applet&#34;&gt;Java applets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Native_Client&#34;&gt;NaCL&lt;/a&gt; - Google native client&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nwjs/nw.js/&#34;&gt;Node webkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.chromium.org/&#34;&gt;Chromium&lt;/a&gt; - det öppna webbläsarprojekt på vilket Googles Chrome byggs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Qt_%28software%29&#34;&gt;QT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/KDE&#34;&gt;KDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Opera_%28web_browser%29&#34;&gt;Opera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Qt_Quick&#34;&gt;Declarative QT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.qt.io/Qt_WebKit&#34;&gt;QT webkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.videolan.org/vlc/&#34;&gt;VLC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FFmpeg&#34;&gt;FFMPEG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MPlayer&#34;&gt;MPlayer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mpv.io/&#34;&gt;MPV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.qt.io/QtWebEngine&#34;&gt;QTWebEngine&lt;/a&gt; - QTs förpackade Chromium&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Direct3D&#34;&gt;Direct3d&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Quartz_%28graphics_layer%29&#34;&gt;Quartz&lt;/a&gt; - grafiksystemet på OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/X_Window_System&#34;&gt;X11-primitiver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/QML&#34;&gt;QML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenGL&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/On-screen_display&#34;&gt;OSD&lt;/a&gt; - On-screen display&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kerning&#34;&gt;Kerning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.qt.io/Online_Communities#IRC_channels&#34;&gt;QT:s IRC-kanaler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.qt.io/Qt-5.6-release&#34;&gt;QT 5.6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plex.tv/subscription/about&#34;&gt;Plexpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.videolan.org/LibVLC/&#34;&gt;libvlc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Passthrough&#34;&gt;Passthrough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Roku&#34;&gt;Roku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.intel.com/content/www/us/en/nuc/overview.html&#34;&gt;Intel NUC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DirectX&#34;&gt;DirectX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ANGLE_%28software%29&#34;&gt;QT angle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodi.wiki/view/AudioEngine&#34;&gt;XBMC audio engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dolby_Atmos&#34;&gt;Dolby atmos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DTS_%28sound_system%29#DTS:X&#34;&gt;DTS-X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dolby_TrueHD&#34;&gt;TrueHD (del av Dolby Atmos)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pulse-code_modulation&#34;&gt;PCM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/S/PDIF&#34;&gt;S/PDIF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Snake_oil&#34;&gt;Snake oil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DTS-HD_Master_Audio&#34;&gt;DTS-HD MA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Skin_%28computing%29&#34;&gt;Skins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Fire_TV&#34;&gt;Fire TV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2&#34;&gt;GPL2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/plexinc&#34;&gt;Plex på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FreeBSD&#34;&gt;FreeBSD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HDMI#CEC&#34;&gt;CEC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ett hotellrum i Stockholm&lt;/li&gt;
+&lt;li&gt;Någonting helt annat&lt;/li&gt;
+&lt;li&gt;På ett tåg till Stockholm&lt;/li&gt;
+&lt;li&gt;Lite mer som ett intervjuoffer&lt;/li&gt;
+&lt;li&gt;Vi spolar tillbaka ett år&lt;/li&gt;
+&lt;li&gt;En tunnare klient på framsidan&lt;/li&gt;
+&lt;li&gt;Det har ju inte varit helt enkelt&lt;/li&gt;
+&lt;li&gt;En kodbas som inte är din&lt;/li&gt;
+&lt;li&gt;Det är inte det vi vill leverera&lt;/li&gt;
+&lt;li&gt;Vi skriver något eget&lt;/li&gt;
+&lt;li&gt;Vi gör slut, vi lämnar dem huset och så går vi och köper oss ett eget hus&lt;/li&gt;
+&lt;li&gt;En skitstor uppgift&lt;/li&gt;
+&lt;li&gt;Samma nivå som att skriva sin egen webbläsare&lt;/li&gt;
+&lt;li&gt;Rolls Royce-varianten av plexklienten&lt;/li&gt;
+&lt;li&gt;Ingen liten uppgift&lt;/li&gt;
+&lt;li&gt;Ten foot experience&lt;/li&gt;
+&lt;li&gt;Ingen vågar stänga av det helt&lt;/li&gt;
+&lt;li&gt;Jag är alldeles för old school och gillar min kompilator&lt;/li&gt;
+&lt;li&gt;En hel videospelare i C++&lt;/li&gt;
+&lt;li&gt;I bänkraderna, på tåget&lt;/li&gt;
+&lt;li&gt;Vi visste inte ens om det skulle vara möjligt&lt;/li&gt;
+&lt;li&gt;Innan tåget rullade in på Gävle station&lt;/li&gt;
+&lt;li&gt;Men det funkar ju i VLC!&lt;/li&gt;
+&lt;li&gt;Det här går att göra&lt;/li&gt;
+&lt;li&gt;De hade inte fått sin skit ihop&lt;/li&gt;
+&lt;li&gt;Lite sämre än ganska tråkigt&lt;/li&gt;
+&lt;li&gt;Apple och deras lilla telefon&lt;/li&gt;
+&lt;li&gt;Enhetligt fult på Windows&lt;/li&gt;
+&lt;li&gt;En vit ruta när vi spelar film&lt;/li&gt;
+&lt;li&gt;Du får ringa QT&lt;/li&gt;
+&lt;li&gt;Hur många pengar måste vi ge er?&lt;/li&gt;
+&lt;li&gt;Hans Linkedin-profil verkade passa oss bra&lt;/li&gt;
+&lt;li&gt;Utan en patch, med reservationer&lt;/li&gt;
+&lt;li&gt;En helt ny, egen app&lt;/li&gt;
+&lt;li&gt;Tryck på den här knappen för att få allt att funka som du har tänkt dig&lt;/li&gt;
+&lt;li&gt;Plex media player OS&lt;/li&gt;
+&lt;li&gt;Inte behöva ligga i framkant med allting&lt;/li&gt;
+&lt;li&gt;Full, hög eller bara dum i huvudet&lt;/li&gt;
+&lt;li&gt;Klockrent, även på OS X&lt;/li&gt;
+&lt;li&gt;Som de flesta ljudkort äter&lt;/li&gt;
+&lt;li&gt;Som de flesta stereoanläggningar äter&lt;/li&gt;
+&lt;li&gt;Den komprimerade strömmen, precis som den är&lt;/li&gt;
+&lt;li&gt;Det har tagit mig nästan tre år att förstå det här&lt;/li&gt;
+&lt;li&gt;Hur mycket jag än tycker det är skit så måste du göra det&lt;/li&gt;
+&lt;li&gt;Muspekaren dyker upp över Denzel Washington&lt;/li&gt;
+&lt;li&gt;En full webbmotor istället för något påhittat&lt;/li&gt;
+&lt;li&gt;En egenskriven … allt&lt;/li&gt;
+&lt;li&gt;Vi har inte behövt skriva våra egna knappar&lt;/li&gt;
+&lt;li&gt;En obfuskerad binärblobb&lt;/li&gt;
+&lt;li&gt;Vi är ju skitdåliga på det här egentligen&lt;/li&gt;
+&lt;li&gt;Mjukvara: fortfarande skitsvårt (att estimera)&lt;/li&gt;
+&lt;li&gt;457 byggen&lt;/li&gt;
+&lt;li&gt;Helt hemligt och stängt bakom lås och bom&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 124 - En gedigen pedagogisk tanke</title>
       <link>http://kodsnack.se/124/</link>
       <pubDate>Tue, 13 Oct 2015 05:26:14 UTC</pubDate>
@@ -1232,77 +1371,6 @@
 &lt;li&gt;Google future&lt;/li&gt;
 &lt;li&gt;Om jag tittar på en glödlampa blir jag röd som en kräfta&lt;/li&gt;
 &lt;li&gt;Ta på sig byxor och gå ut ur lägenheten&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 111 - Feta binärer för webben</title>
-      <link>http://kodsnack.se/111/</link>
-      <pubDate>Tue, 14 Jul 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/111/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar Webassembly och försöker föreställa oss en värld där Javascript inte längre måste vara det automatiska valet för webbprogrammering. Vad kan hända? Blir allt bättre, eller riskerar webben rentav att bli mer stängd och svår att lära sig?&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;Teamcity&lt;/a&gt;, deras produkt för &lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;continuous integration&lt;/a&gt;. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.react-europe.org/2015.html&#34;&gt;React Europe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://conf.reactjs.com/&#34;&gt;Reactkonferensen i vintras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react-native/&#34;&gt;React native&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/J%C3%A4dra%C3%A5s&#34;&gt;Jädraås&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/WebAssembly&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intermediate_language#Intermediate_representation&#34;&gt;Intermediärrepresentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.w3.org/community/webassembly/participants&#34;&gt;Deltagare i Webassembly-gruppen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebKit&#34;&gt;Webkit&lt;/a&gt; - den öppna webbläsarmotor Apples Safari bygger på&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/52/&#34;&gt;Vårt snack om FTL&lt;/a&gt; - Fourth tier LLVM&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dart_%28programming_language%29&#34;&gt;Dart&lt;/a&gt; - ett språk som Google lanserat för att ersätta Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fat_binary&#34;&gt;Feta binärer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Asm.js&#34;&gt;asm.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Emscripten&#34;&gt;Emscripten&lt;/a&gt; - kompilerar till asm.js&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Abstract_syntax_tree&#34;&gt;AST&lt;/a&gt; - abstrakt syntaxträd&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/WebAssembly/design/blob/master/HighLevelGoals.md&#34;&gt;Högnivåmålen för Web assembly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Minimum_viable_product&#34;&gt;Minimum viable product&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Compiler#Back_end&#34;&gt;Kompilator-backend&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/swift/blog/?id=29&#34;&gt;Swift kommer att bli öppen källdkod under 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arc.applause.com/2015/03/27/google-dart-virtual-machine-chrome/&#34;&gt;Google lade ner sitt projekt att göra Dart likvärdigt med Javascript i Chrome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;Teamcity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;Continuous integration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; - länken som ger dig mer information och stödjer Kodsnack på samma gång&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Minification_%28programming%29&#34;&gt;Minifiering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Obfuscation_%28software%29&#34;&gt;Obfuskering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sandbox_%28computer_security%29&#34;&gt;Sandbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gruntjs.com/&#34;&gt;Grunt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lesscss.org/&#34;&gt;LESS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/&#34;&gt;Sumpsnack&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nästan som semester (i huvudet)&lt;/li&gt;
-&lt;li&gt;På samma nivå som alla andra språk i hela världen&lt;/li&gt;
-&lt;li&gt;Skriva all sin webbkod i C++&lt;/li&gt;
-&lt;li&gt;Döden för Javascript?&lt;/li&gt;
-&lt;li&gt;Feta binärer för webben&lt;/li&gt;
-&lt;li&gt;Största möjliga täckning&lt;/li&gt;
-&lt;li&gt;Alla ska kunna få leverera sin sak&lt;/li&gt;
-&lt;li&gt;Min oro är mer abstrakt&lt;/li&gt;
-&lt;li&gt;Minifierad och obfuskerad och skitsvår att läsa&lt;/li&gt;
-&lt;li&gt;Den dagliga webben&lt;/li&gt;
-&lt;li&gt;Bara göra en binärblobb&lt;/li&gt;
-&lt;li&gt;Vi kan väl ändå få hoppas litegrann&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
