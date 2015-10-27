@@ -6,7 +6,115 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 20 Oct 2015 17:26:14 UTC</updated>
+    <updated>Tue, 27 Oct 2015 17:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 126 - C&#43;&#43; har alltid varit där</title>
+      <link>http://kodsnack.se/126/</link>
+      <pubDate>Tue, 27 Oct 2015 17:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/126/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om Clangs uppdykande i Visual studio, Visual studios egenheter, vilka fördelar det kan innebära och C++ uppryckning i popularitet och uppmärksamhet som språk för korsplattformslösningar.&lt;/p&gt;
+
+&lt;p&gt;Som avslutning diskuterar Fredrik och Kristoffer den andra trailern för the Force awakens, förväntningar på filmen och hur man hanterar dem, spolierar den stora överraskningen i Rymdimperiet slår tillbaka och ja … Star wars i allmänhet. Spoilerfritt fram till att Tobias lägger på vid 35:30.&lt;/p&gt;
+
+&lt;p&gt;Och: ett litet avslöjande om ett nytt poddradioprogram och veckans videotips.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/&#34;&gt;Plex-releasen&lt;/a&gt; - ämnet för förra veckans avsnitt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theregister.co.uk/2015/10/21/microsoft_promises_clang_for_windows_in_november_visual_c_update/&#34;&gt;Clang kommer till Visual studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt; (och &lt;a href=&#34;https://twitter.com/clattner_llvm/status/656998197399711744&#34;&gt;hans kvitter&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intermediate_language#Intermediate_representation&#34;&gt;Intermediate representation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Compiler#Back_end&#34;&gt;Kompilatorbackend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Compiler#Front_end&#34;&gt;Kompilatorfrontend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.windows.com/en-us/bridges/android&#34;&gt;Windowsbryggan för androidapplikationer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.windows.com/en-us/bridges/ios&#34;&gt;Windowsbryggan för iOS-applikationer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.buildwindows.com/&#34;&gt;Microsoft Build&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Regular_expression&#34;&gt;Regular expressions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.cppreference.com/w/cpp/language/list_initialization&#34;&gt;Initializer list i C++ 11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B14&#34;&gt;C++ 14&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt; - det ska faktiskt vara på gång nu&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B17&#34;&gt;C++ 17&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mono_%28software%29&#34;&gt;Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Node.js&#34;&gt;Node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chromium_%28web_browser%29&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI&lt;/a&gt; - Application binary interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Steve_Buscemi&#34;&gt;Steve Buscemi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C99&#34;&gt;C99&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Name_mangling&#34;&gt;Namnmangling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens&#34;&gt;Star wars: the force awakens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/J._J._Abrams&#34;&gt;J.J. Abrams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Star_Wars_%28film%29&#34;&gt;Star wars: a new hope&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Empire_Strikes_Back&#34;&gt;Star wars: the empire strikes back&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Return_of_the_Jedi&#34;&gt;Star wars: return of the jedi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Leigh_Brackett&#34;&gt;Leigh Brackett&lt;/a&gt; och &lt;a href=&#34;https://en.wikipedia.org/wiki/Lawrence_Kasdan&#34;&gt;Lawrence Kasdan&lt;/a&gt; - manusförfattarna till The empire strikes back&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Irvin_Kershner&#34;&gt;Irvin Kershner&lt;/a&gt; - regissören till The empire strikes back&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alien_%28film%29&#34;&gt;Alien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers&#34;&gt;The two towers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Hobbit_%28film_series%29&#34;&gt;Hobbitfilmerna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Star_Trek_%28film%29&#34;&gt;J.J. Abrams Star trek-filmer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rian_Johnson&#34;&gt;Rian Johnson&lt;/a&gt; - regissören av Looper&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IMAX&#34;&gt;IMAX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Cosmonova&#34;&gt;Cosmonova&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Martian_%28film%29&#34;&gt;The Martian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.m.wikipedia.org/wiki/Joacim_Melin&#34;&gt;Joacim Melin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoremanmelin.se/&#34;&gt;Björeman // Melin&lt;/a&gt; - det nya poddradioprogram Fredrik är med i&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BeOS&#34;&gt;BeOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Haiku_%28operating_system%29&#34;&gt;Haiku OS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OS/2&#34;&gt;OS/2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC0sJ-t9e0NLmad5aqUyRUcg&#34;&gt;Code genius på Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brogrammer&#34;&gt;Brogrammer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iniwPUEbPUM&#34;&gt;Cascading shit show&lt;/a&gt; av &lt;a href=&#34;https://twitter.com/fat&#34;&gt;Jacob Thornton&lt;/a&gt; - Videon om CSS historia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementera en optimering&lt;/li&gt;
+&lt;li&gt;De ska inte försöka sno åt sig saker&lt;/li&gt;
+&lt;li&gt;Ganska hoppfullt&lt;/li&gt;
+&lt;li&gt;Alla kompilatorer beter sig på olika sätt&lt;/li&gt;
+&lt;li&gt;I stort sett en stor hög regular expressions&lt;/li&gt;
+&lt;li&gt;Rakt ner i kaninhålet&lt;/li&gt;
+&lt;li&gt;C++ har alltid varit där&lt;/li&gt;
+&lt;li&gt;Allt det där skulle ju döda C++&lt;/li&gt;
+&lt;li&gt;Ett språk som går att använda igen&lt;/li&gt;
+&lt;li&gt;Nu är C++ plötsligt en rörlig måltavla igen&lt;/li&gt;
+&lt;li&gt;När Microsoft är klara med sin plan&lt;/li&gt;
+&lt;li&gt;När grenen som gillar open source har makten&lt;/li&gt;
+&lt;li&gt;Det finns de som är som oss&lt;/li&gt;
+&lt;li&gt;Lens flares, kan man väl säga&lt;/li&gt;
+&lt;li&gt;Känner du att det är en safe trailer&lt;/li&gt;
+&lt;li&gt;George edition&lt;/li&gt;
+&lt;li&gt;A new hope och return of the king&lt;/li&gt;
+&lt;li&gt;Peter Jackson&amp;rsquo;s return of the jedi&lt;/li&gt;
+&lt;li&gt;Luke skyfflas undan&lt;/li&gt;
+&lt;li&gt;Luke och Leia som space truckers&lt;/li&gt;
+&lt;li&gt;Hopp om Star wars&lt;/li&gt;
+&lt;li&gt;Fler och fler lerigare och lerigare orcher med större och större ärr i ansiktet&lt;/li&gt;
+&lt;li&gt;Varför är det här tre filmer över huvud taget?&lt;/li&gt;
+&lt;li&gt;Hur det är att leva under imperiet&lt;/li&gt;
+&lt;li&gt;Det var ingen potatis som blev dålig&lt;/li&gt;
+&lt;li&gt;BeOS i 4K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 125 - Vi visste inte ens om det skulle vara möjligt</title>
@@ -1289,88 +1397,6 @@
 &lt;li&gt;Det slutar med att man har C++&lt;/li&gt;
 &lt;li&gt;Vill du ha en gammal fisk? (Vi har en gammal fisk! Vi har tre gamla fiskar!)&lt;/li&gt;
 &lt;li&gt;Alla beter sig dåligt på något sätt&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 112 - React-tänket jobbar sig neråt i stacken</title>
-      <link>http://kodsnack.se/112/</link>
-      <pubDate>Tue, 21 Jul 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/112/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar React och konferensen React Europe. Sedan berättar Kristoffer om sina problem med CORS och Ruby on rails och hur det gett honom känsla för varför folk lockas av Node. Kristoffers sug efter att bygga bättre appar för Android och trevliga sätt som Clojure att göra det utan att behöva blanda in Java och XML. Sist lite om att att jobba därifrån man är.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt;, ett kraftfullt IDE för C och C++ för såväl Linux som OS X och Windows. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;http://www.jetbrains.com/kodsnack-clion&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.react-europe.org/2015.html&#34;&gt;React Europe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tonyfreed.com/blog/what_is_virtual_dom&#34;&gt;Virtuell DOM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://diveintohtml5.info/canvas.html&#34;&gt;Canvas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/Zemce4Y1Y-A&#34;&gt;DOM as a second-class citizen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react-native/&#34;&gt;React native&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/flux/docs/overview.html&#34;&gt;Flux&lt;/a&gt; - populärt tankemönster eller arkitektur för React-applikationer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/omcljs/om&#34;&gt;Om&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/clojure/clojurescript&#34;&gt;Clojurescript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/graphql/&#34;&gt;GraphQL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_on_Rails&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cross-origin_resource_sharing&#34;&gt;CORS&lt;/a&gt; - Cross-origin resource sharing&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods&#34;&gt;HTTP OPTIONS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/David_Heinemeier_Hansson&#34;&gt;DHH&lt;/a&gt; - David Heinemeier Hansson&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ember.js&#34;&gt;Ember&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://yehudakatz.com/&#34;&gt;Yehuda Katz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Node.js&#34;&gt;Node&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Representational_state_transfer&#34;&gt;Rest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; - avsnittets sponsor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_refactoring&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.jetbrains.com/clion/2015/07/clion-1-1-eap-starts/&#34;&gt;Clion 1.1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLDB_%28debugger%29&#34;&gt;LLDB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;http://www.jetbrains.com/kodsnack-clion&lt;/a&gt; - länken du ska använda om du vill veta mer om Clion och stödja Kodsnack på samma gång&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/azproduction&#34;&gt;Mikhail Davydov&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/ee_U2t-8L48&#34;&gt;Back to text UI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Midnight_Commander&#34;&gt;Midnight commander&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MUD&#34;&gt;MUD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BBS&#34;&gt;BBS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A&#34;&gt;React Europes youtubekanal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://euroclojure.org/&#34;&gt;Euroclojure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/mVXTcAEKgF8&#34;&gt;Clojure on Android&lt;/a&gt; - Presentation av Alexander Yakushev&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://clojure-android.info/&#34;&gt;Clojure-android&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Android_application_package&#34;&gt;APK&lt;/a&gt; - Android application package&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://leiningen.org/&#34;&gt;Leiningen&lt;/a&gt; - Clojures byggsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oneplus.net/one&#34;&gt;Oneplus one&lt;/a&gt; - Kristoffers telefon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Richard Stallman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/CyanogenMod&#34;&gt;Cyanogenmod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LG_G4&#34;&gt;LG G4&lt;/a&gt; - Nya LG-telefonen som Kristoffer tycker verkar fin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://es6-features.org/#Constants&#34;&gt;Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scottberkun.com/yearwithoutpants/&#34;&gt;The year without pants&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Automattic&#34;&gt;Automattic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Matt_Mullenweg&#34;&gt;Matt Mullenweg&lt;/a&gt; - som grundat Automattic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;React-tänket jobbar sig neråt i stacken&lt;/li&gt;
-&lt;li&gt;En ganska naturlig utveckling&lt;/li&gt;
-&lt;li&gt;Jobbig HTML och webben och så&lt;/li&gt;
-&lt;li&gt;En implementationsdetalj&lt;/li&gt;
-&lt;li&gt;Hundratusen hack&lt;/li&gt;
-&lt;li&gt;Minimera kommunikationen så mycket det bara går&lt;/li&gt;
-&lt;li&gt;Helt vansinnigt på helt rätt sätt&lt;/li&gt;
-&lt;li&gt;Responsive på rätt sätt&lt;/li&gt;
-&lt;li&gt;Google future&lt;/li&gt;
-&lt;li&gt;Om jag tittar på en glödlampa blir jag röd som en kräfta&lt;/li&gt;
-&lt;li&gt;Ta på sig byxor och gå ut ur lägenheten&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
