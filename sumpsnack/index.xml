@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>06 Oct 2015 10:26 +0000</pubDate>
-        <lastBuildDate>06 Oct 2015 10:26 +0000</lastBuildDate>
+        <pubDate>03 Nov 2015 10:26 +0000</pubDate>
+        <lastBuildDate>03 Nov 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,60 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 18 - Gå på bio när man har barn on kodsnack </title>
+                <pubDate>03 Nov 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/18/</guid>
+                <link>http://kodsnack.se/sumpsnack/18/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Fredrik och Tobias snackar första Avengers-filmen och dess uppföljare, TV-serier kontra filmer, de senaste årens bondrullar och hur livssituation påverkar vilket av de två man ser mest av.&lt;/p&gt;
+
+&lt;p&gt;Och så veckans rapport om Destiny, förstås.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Avengers_%282012_film%29&#34;&gt;Avengers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://skabrewing.com/brews/modus-hoperandi-ipa/&#34;&gt;Modus hoperandi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference&#34;&gt;WWDC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Moscone_Center&#34;&gt;Moscone center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron&#34;&gt;Age of Ultron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Martian_%28film%29&#34;&gt;The Martian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Spectre_%282015_film%29&#34;&gt;Spectre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Casino_Royale_%282006_film%29&#34;&gt;Casino royale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Quantum_of_Solace&#34;&gt;Quantum of solace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Skyfall&#34;&gt;Skyfall&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/True_Detective_%28TV_series%29&#34;&gt;True detective&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Arrow_%28TV_series%29&#34;&gt;Arrow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Flash_%282014_TV_series%29&#34;&gt;The Flash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daredevil_%28TV_series%29&#34;&gt;Daredevil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.se/2.37707/code-night&#34;&gt;Code night&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2?fnode=56&#34;&gt;Magic trackpad 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Razer_Inc.&#34;&gt;Razer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gå på bio när man har barn&lt;/li&gt;
+&lt;li&gt;Jag kan inte komma på när jag hade tid att se en film sist&lt;/li&gt;
+&lt;li&gt;Damsel in distress-syndromet&lt;/li&gt;
+&lt;li&gt;När det händer som mest, då händer det en sak till&lt;/li&gt;
+&lt;li&gt;Jag har skjutit på att köpa nya batterier&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="10002496" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_18.mp3"/>
+                <itunes:duration>20:08</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 17 - Hur många gånger ser man en film? on kodsnack </title>

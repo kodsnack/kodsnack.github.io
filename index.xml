@@ -6,7 +6,95 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 27 Oct 2015 17:26:14 UTC</updated>
+    <updated>Tue, 03 Nov 2015 17:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 127 - Generaliserings-creep</title>
+      <link>http://kodsnack.se/127/</link>
+      <pubDate>Tue, 03 Nov 2015 17:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/127/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias snackar om veckans buggar och oväntade kodbeteende. Sedan funderar vi utifrån &lt;a href=&#34;http://babeljs.io/&#34;&gt;Babel&lt;/a&gt; på om det finns ett generellt mönster där saker gärna abstraheras till dess de kräver pluginsystem för att göra något alls? Utmaningen i att behålla något som är praktiskt samtidigt som man gör en lösning mer generell och kraftfull genom att generalisera den.&lt;/p&gt;
+
+&lt;p&gt;Ska du på &lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;? Leta upp Fredrik och säg hej!&lt;/p&gt;
+
+&lt;p&gt;Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/655034691930726400&#34;&gt;fåtal t-shirts kvar&lt;/a&gt;! Kontakta oss om du vill köpa en av dem för 250 riksdaler inklusive frakt.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Avengers_%282012_film%29&#34;&gt;Avengers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/&#34;&gt;Plex media player&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/65/&#34;&gt;Tidigare snack om Plex autouppdatering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenGL&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qt.io/developers/&#34;&gt;QT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ANGLE_%28software%29&#34;&gt;Angle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IMac_%28Intel-based%29#iMac_with_Retina_display&#34;&gt;iMac 5K&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.chromium.org/&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.grimremastered.com/&#34;&gt;Grim fandango remastered&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://babeljs.io/&#34;&gt;Babel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Source-to-source_compiler&#34;&gt;Transpiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://babeljs.io/blog/2015/10/29/6.0.0/&#34;&gt;Bloggposten om Babel 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ECMAScript#Harmony.2C_6th_Edition&#34;&gt;Ecmascript 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions&#34;&gt;Arrow functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.react-europe.org/2015/2015.html&#34;&gt;React Europe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OFuDvqZmUrE&#34;&gt;Sebastian McKenzies presentation på React Europe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://documentation.js.org/&#34;&gt;documentationjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=feature+creep&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#34;&gt;Feature creep&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wiktionary.org/wiki/everything_but_the_kitchen_sink#English&#34;&gt;Kitchen sink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jamie_Zawinski#Zawinski.27s_law_of_software_envelopment&#34;&gt;Alla program expanderar till dess de kan hantera mail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://netbeans.org/&#34;&gt;Netbeans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoremanmelin.se/&#34;&gt;Björeman // Melin&lt;/a&gt; - Två nördar, en podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BeOS&#34;&gt;BeOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amiga_1200&#34;&gt;Amiga 1200&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bulletin_board_system&#34;&gt;BBS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/KodSnack/status/655034691930726400&#34;&gt;Tweetet med de tröjor vi har kvar&lt;/a&gt; - och kan köpas för 250 riksdaler inklusive frakt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ett sånt där mysigt avsnitt igen&lt;/li&gt;
+&lt;li&gt;Veckans bugg&lt;/li&gt;
+&lt;li&gt;Jättetråkigt om man brickar allas installationer&lt;/li&gt;
+&lt;li&gt;Trippelkollar det en gång till&lt;/li&gt;
+&lt;li&gt;Facepalm moment&lt;/li&gt;
+&lt;li&gt;Jag håller det på något slags armlängds avstånd&lt;/li&gt;
+&lt;li&gt;Det tar ju så stopp&lt;/li&gt;
+&lt;li&gt;Lite oväntat i sitt beteende&lt;/li&gt;
+&lt;li&gt;Speciellt av någon anledning&lt;/li&gt;
+&lt;li&gt;Potentialen är ju oändlig&lt;/li&gt;
+&lt;li&gt;Commit and run&lt;/li&gt;
+&lt;li&gt;Vad ska vi göra åt det här-varianten&lt;/li&gt;
+&lt;li&gt;Inte första klassens gäst på Windows&lt;/li&gt;
+&lt;li&gt;Så satans många pixlar&lt;/li&gt;
+&lt;li&gt;Inte i torn- och språkförbistringssammanhang&lt;/li&gt;
+&lt;li&gt;Ecmascript version tidigare&lt;/li&gt;
+&lt;li&gt;En trend inom språk för tillfället&lt;/li&gt;
+&lt;li&gt;Generaliserings-creep&lt;/li&gt;
+&lt;li&gt;Försvunnit iväg i abstraktionsmolnet&lt;/li&gt;
+&lt;li&gt;Alla program generaliserar tills de inte kan göra någonting utan plugins&lt;/li&gt;
+&lt;li&gt;Låta som en trasig CD&lt;/li&gt;
+&lt;li&gt;Det löser ett problem för någon annan&lt;/li&gt;
+&lt;li&gt;Vilken uppsättning paket staplade på varandra vill du ha?&lt;/li&gt;
+&lt;li&gt;Abstraktionsslott&lt;/li&gt;
+&lt;li&gt;Våran generalitet kanske läcker igenom&lt;/li&gt;
+&lt;li&gt;Betala med Swift&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 126 - C&#43;&#43; har alltid varit där</title>
@@ -1263,140 +1351,6 @@
 &lt;li&gt;En wait-and-see-approach&lt;/li&gt;
 &lt;li&gt;Man kan ju ha en konspiratorisk syn på allt&lt;/li&gt;
 &lt;li&gt;Vill man ha den konspiratoriska aluminiumhatten på sig&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 113 - Vill du ha en gammal fisk?</title>
-      <link>http://kodsnack.se/113/</link>
-      <pubDate>Tue, 28 Jul 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/113/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar Ecmascript 6, också känt som Ecmascript 2015 eller helt enkelt den senaste standarden för Javascript. Vi går igenom nyhetslistan på &lt;a href=&#34;http://es6-features.org&#34;&gt;es6-features.org&lt;/a&gt; och vädrar våra tankar, intryck och undringar. Blir nästa upplaga av Javascript: the good parts tjockare eller tunnare?&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-resharper&#34;&gt;Resharper&lt;/a&gt;, som ger dig massor av Jetbrains smarta funktioner direkt i Visual studio. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-resharper&#34;&gt;http://www.jetbrains.com/kodsnack-resharper&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar våra livesändningar och erbjuder finfina  &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ecma-international.org/ecma-262/6.0/index.html&#34;&gt;Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.react-europe.org/2015.html&#34;&gt;Reactkonferensen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kangax.github.io/compat-table/es6/&#34;&gt;Kompatibilitetstabell för Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://babeljs.io/&#34;&gt;Babel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Polyfill&#34;&gt;Polyfill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Source-to-source_compiler&#34;&gt;Transpiler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Web_Components&#34;&gt;Web components&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sass-lang.com/&#34;&gt;SASS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lesscss.org/&#34;&gt;LESS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions&#34;&gt;Arrow functions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator&#34;&gt;Spread-operatorn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment&#34;&gt;Destructuring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6AytbSdWBKg&#34;&gt;Prat av Brendan Eich om Ecmascript 6&lt;/a&gt; och processen bakom det&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brendan_Eich&#34;&gt;Brendan Eich&lt;/a&gt; - Javascripts skapare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ecma-international.org/memento/TC39.htm&#34;&gt;TC39&lt;/a&gt; - kommittén för Ecmascripts utveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Syntactic_sugar&#34;&gt;Syntaktiskt socker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let&#34;&gt;let i Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const&#34;&gt;const i Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ecmascript.org/es4/spec/overview.pdf&#34;&gt;Ecmascript 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jaoo.dk/dl/jaoo-aarhus-2008/slides/PratapLakshman_ECMAScript31.pdf&#34;&gt;Ecmascript 3.1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://es6-features.org&#34;&gt;es6-features.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mootools.net/&#34;&gt;Mootools&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array&#34;&gt;Includes-funktionen i arrayer i Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library&#34;&gt;MFC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_Presentation_Foundation&#34;&gt;Avalon&lt;/a&gt; - Senare känt som Windows presentation foundation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language&#34;&gt;XAML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/.NET_Framework&#34;&gt;Dotnet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes&#34;&gt;Klasser i Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/&#34;&gt;Arv i Ecmascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this&#34;&gt;this i Javascript och reglerna kring det&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/CoffeeScript&#34;&gt;Coffeescript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Glossary/Hoisting&#34;&gt;Hoisting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Reducerad syntax&amp;rdquo; verkar bara var webbplatsens grej för att visa exempel med så få tecken som möjligt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.2ality.com/2015/02/es6-scoping.html#function_declarations_and_class_declarations&#34;&gt;Block scoped functions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters&#34;&gt;Default-parametrar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments&#34;&gt;Arguments-&amp;ldquo;arrayen&amp;rdquo; i äldre Ecmascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apply&#34;&gt;Apply-funktionen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings&#34;&gt;Template strings i Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unicode&#34;&gt;Unicode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/sticky&#34;&gt;Regular expression sticky matching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://egghead.io/lessons/ecmascript-6-shorthand-properties-in-es6&#34;&gt;Property shorthand&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ariya.ofilabs.com/2013/03/es6-and-method-definitions.html&#34;&gt;Method properties&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*&#34;&gt;Stjärna (*) efter funktionsnamn&lt;/a&gt; - returnerar en generatorfunktion&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment&#34;&gt;Destrukturering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; - avsnittets sponsor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;(http://www.jetbrains.com/kodsnack-resharper&#34;&gt;Resharper&lt;/a&gt;) - ger dig en stor skiva Jetbrains direkt i Visual studio&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-resharper&#34;&gt;http://www.jetbrains.com/kodsnack-resharper&lt;/a&gt; - länken du ska använda om du vill veta mer om Resharper och stödja Kodsnack på samma gång&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eviltrout.com/2014/05/03/getting-started-with-es6.html&#34;&gt;Moduler i Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/28222276/what-are-getters-and-setters-for-in-ecmascript-6-classes&#34;&gt;Getters och setters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol&#34;&gt;Symboler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols&#34;&gt;Iteratorer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.2ality.com/2015/03/es6-generators.html&#34;&gt;Generatorfunktioner och yield&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://clojure.org/sequences&#34;&gt;Sekvenser i Clojure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set&#34;&gt;Set&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map&#34;&gt;Map&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap&#34;&gt;Weakmap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet&#34;&gt;Weakset&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays&#34;&gt;Typed arrays&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Emscripten&#34;&gt;Emscripten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.w3.org/community/webassembly/&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://asmjs.org/&#34;&gt;Asm.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.2ality.com/2014/01/object-assign.html&#34;&gt;Assign&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.2ality.com/2014/05/es6-array-methods.html&#34;&gt;Find&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.2ality.com/2015/01/es6-strings.html&#34;&gt;Repeat för strängar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.2ality.com/2015/04/numbers-math-es6.html&#34;&gt;Testa typen på tal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise&#34;&gt;Promises&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy&#34;&gt;Proxy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://h3manth.com/new/blog/2015/es6-reflect-api/&#34;&gt;Reflection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://leanpub.com/exploring-es6/read&#34;&gt;Exploring ES6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://duartes.org/gustavo/blog/post/tail-calls-optimization-es6/&#34;&gt;Tail-call-optimering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bjarne_Stroustrup&#34;&gt;Bjarne Stroustrup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742&#34;&gt;Javascript: the good parts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://getfirebug.com/&#34;&gt;Firebug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop&#34;&gt;REPL&lt;/a&gt; - Read-eval-print loop&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fedora_%28operating_system%29&#34;&gt;Fedora&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det är väldigt mycket som är rött&lt;/li&gt;
-&lt;li&gt;Det som är hyfsat grönt&lt;/li&gt;
-&lt;li&gt;Alla miljoner features i ES6&lt;/li&gt;
-&lt;li&gt;De kan ju inte ta bort någonting&lt;/li&gt;
-&lt;li&gt;Då finns det där&lt;/li&gt;
-&lt;li&gt;Socker&lt;/li&gt;
-&lt;li&gt;En gigantisk standard&lt;/li&gt;
-&lt;li&gt;Nästa gång så kommer vi att vara mycket bättre&lt;/li&gt;
-&lt;li&gt;Idag så åt jag fjorton tårtor&lt;/li&gt;
-&lt;li&gt;En stor hög godis&lt;/li&gt;
-&lt;li&gt;Jag får inte alls den allergiska reaktionen&lt;/li&gt;
-&lt;li&gt;Version 1.0 för evigt&lt;/li&gt;
-&lt;li&gt;Det är ju inte en jättedålig idé&lt;/li&gt;
-&lt;li&gt;En ganska pragmatisk, vettig sak att göra&lt;/li&gt;
-&lt;li&gt;Ställa om med ögonen&lt;/li&gt;
-&lt;li&gt;(Och beter sig på) Subtilt olika (sätt)&lt;/li&gt;
-&lt;li&gt;Om man är för eller mot semikolon&lt;/li&gt;
-&lt;li&gt;En oföränderlig variabel&lt;/li&gt;
-&lt;li&gt;Const är ju konstigt (i C++)&lt;/li&gt;
-&lt;li&gt;Det kan sitta någon i en annan tråd och ändra på saker&lt;/li&gt;
-&lt;li&gt;Casta bort const&lt;/li&gt;
-&lt;li&gt;Ecmascript 6 the good parts&lt;/li&gt;
-&lt;li&gt;Javascriptsnillen spekulerar&lt;/li&gt;
-&lt;li&gt;Varför inte?&lt;/li&gt;
-&lt;li&gt;Alltid samma foo&lt;/li&gt;
-&lt;li&gt;Stjärnan som gör att det blir en iterator&lt;/li&gt;
-&lt;li&gt;Det slutar med att man har C++&lt;/li&gt;
-&lt;li&gt;Vill du ha en gammal fisk? (Vi har en gammal fisk! Vi har tre gamla fiskar!)&lt;/li&gt;
-&lt;li&gt;Alla beter sig dåligt på något sätt&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
