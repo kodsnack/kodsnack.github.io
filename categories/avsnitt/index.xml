@@ -6,7 +6,107 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 10 Nov 2015 17:26:14 UTC</updated>
+    <updated>Tue, 17 Nov 2015 17:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 129 - Inte en textur så långt ögat kan nå</title>
+      <link>http://kodsnack.se/129/</link>
+      <pubDate>Tue, 17 Nov 2015 17:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/129/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer, Fredrik och Martin snackar om falafel i Malmö (måste man vada genom drivor av falafel?) och dragbaserade racingspel. Sedan går vi in på Twofold inc, Martins nästa spel, att sälja in det man gör. Och vektorgrafik. Varför är inte vektorgrafik mer populärt? Sedan AppleTV och dess egenheter för spelutvecklare.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;Intellij IDEA&lt;/a&gt;, Jetbrains eminenta IDE för Java. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;http://www.jetbrains.com/kodsnack-idea&lt;/a&gt; för att få veta mer och stödja Kodsnack.
+Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/655034691930726400&#34;&gt;fåtal t-shirts kvar&lt;/a&gt;! Kontakta oss om du vill köpa en av dem för 250 riksdaler inklusive frakt.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/92/&#34;&gt;Vi har snackat gamejams förr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://twofoldinc.com/&#34;&gt;Twofold inc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rymdkapsel.com/&#34;&gt;Rymdkapsel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elevator_pitch&#34;&gt;Elevator pitch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pentadact.com/&#34;&gt;Tom Francis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pentadact.com/2012-03-17-gdc-talk-how-to-explain-your-game-to-an-asshole/&#34;&gt;Toms GDC-presentation How to explain your game to an asshole&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tron&#34;&gt;Tron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Holodeck&#34;&gt;Holodeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fallout_4&#34;&gt;Fallout 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim&#34;&gt;Skyrim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;Intellij IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?list=PLPZy-hmwOdEXdOtXdFzyx_XCnrF_oD2Ft&amp;amp;v=L_jXj0XTwSg&#34;&gt;Grunderna i Intellij IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-idea&#34;&gt;http://www.jetbrains.com/kodsnack-idea&lt;/a&gt; - länken som visar att du kommer från Kodsnack&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/idea/whatsnew/&#34;&gt;Nytt i version 15 av IntelliJ IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vector_graphics&#34;&gt;Vektorgrafik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Inkscape&#34;&gt;Inscsape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scalable_Vector_Graphics&#34;&gt;SVG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adobe_Illustrator&#34;&gt;Illustrator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PostScript&#34;&gt;PS-formatet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://d3js.org/&#34;&gt;D3.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/xee/source/browse/XeePhotoshopLoader.m?r=f16763d221dfca6253983824b470adf553a19e06#108&#34;&gt;Några kommentarer kring filformatet PSD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Endianness&#34;&gt;Big och little endian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Encapsulated_PostScript&#34;&gt;EPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PostScript&#34;&gt;Postscript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Forth_%28programming_language%29&#34;&gt;Forth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Stack-oriented_programming_language&#34;&gt;Stackbaserat programmeringsspråk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PARC_%28company%29&#34;&gt;XEROX Parc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/1rCNnMZrFUQ&#34;&gt;Computerphile - the dawn of desktop publishing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TeX&#34;&gt;TeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/2497146/is-css-turing-complete&#34;&gt;Är CSS turingkomplett?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP/2&#34;&gt;HTTP/2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/watchos/documentation/IDEs/Conceptual/AppDistributionGuide/AppThinning/AppThinning.html&#34;&gt;App thinning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lowlevelbits.org/bitcode-demystified/&#34;&gt;Bitcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_TV#4th_generation&#34;&gt;Nya AppleTV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.libsdl.org/&#34;&gt;SDL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Spore_%282008_video_game%29&#34;&gt;Spore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Will_Wright_%28game_designer%29&#34;&gt;Will Wright&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Malmö är någon typ av anomali&lt;/li&gt;
+&lt;li&gt;Vissa kallar det lunchdejt&lt;/li&gt;
+&lt;li&gt;Finns ingen tid att stå här och gaffla&lt;/li&gt;
+&lt;li&gt;Jag är med på den här podcasten bara när jag har någonting att kränga&lt;/li&gt;
+&lt;li&gt;Andra singeln&lt;/li&gt;
+&lt;li&gt;En så ren spelidé&lt;/li&gt;
+&lt;li&gt;Alla Tetris är redan gjorda&lt;/li&gt;
+&lt;li&gt;Bäst på någonting som ingen har gjort förut&lt;/li&gt;
+&lt;li&gt;När man gör allt och inget själv&lt;/li&gt;
+&lt;li&gt;Du är ju helt icke-trovärdig i frågan&lt;/li&gt;
+&lt;li&gt;Som blablabla fast blablabla&lt;/li&gt;
+&lt;li&gt;Jag gillar när andra säger det&lt;/li&gt;
+&lt;li&gt;Lätt att ta till sig och svårare att göra&lt;/li&gt;
+&lt;li&gt;Hitta referensramarna&lt;/li&gt;
+&lt;li&gt;Ibland säger jag att jag jobbar med data&lt;/li&gt;
+&lt;li&gt;Jag datade hela dagen igår&lt;/li&gt;
+&lt;li&gt;Det är någonting fruktansvärt absurt med spel&lt;/li&gt;
+&lt;li&gt;Inte en textur så långt ögat kan nå&lt;/li&gt;
+&lt;li&gt;Trettiosex olika storlekar&lt;/li&gt;
+&lt;li&gt;17 låter ju som en överdrift&lt;/li&gt;
+&lt;li&gt;Pixlar håller på att bli meningslösa&lt;/li&gt;
+&lt;li&gt;Man köper sig en hel estetik&lt;/li&gt;
+&lt;li&gt;Med en vanlig XML-parser&lt;/li&gt;
+&lt;li&gt;Sin egen lilla gren av vansinne&lt;/li&gt;
+&lt;li&gt;Det har varit med sedan alltid&lt;/li&gt;
+&lt;li&gt;Single-file sites&lt;/li&gt;
+&lt;li&gt;När någon sätter ner fingret&lt;/li&gt;
+&lt;li&gt;Spelutvecklingsjanuari&lt;/li&gt;
+&lt;li&gt;Hundratusen miljarders kvadratkilometers innehåll&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 128 - Kunskapsspridning och ögat på fingret</title>
@@ -1296,91 +1396,6 @@
 &lt;li&gt;Ond bråd död är ju lite av hans grej&lt;/li&gt;
 &lt;li&gt;Folk rider runt i cirklar och tittar på varandra&lt;/li&gt;
 &lt;li&gt;Rymdpositiv&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 115 - Datorerna har dragits ner till vår nivå</title>
-      <link>http://kodsnack.se/115/</link>
-      <pubDate>Tue, 11 Aug 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/115/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar utifrån &lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;s presentation &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=FvmTSpJU-Xc&#34;&gt;Normal considered harmful&lt;/a&gt;&amp;rdquo; om datavetenskapens vetenskaplighet, att kunna sin historia och att försöka ta saker framåt. Hur bitter kan man bli? Hur skräpig är egentligen webben av idag? Borde var och en av oss bygga sin egen processor, och är inte världen bättre idag än vad sjuttiotalsvisionärerna tycker?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FvmTSpJU-Xc&#34;&gt;Normal considered harmful&lt;/a&gt; - presentationen vi snackar utifrån&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Douglas_Engelbart&#34;&gt;Douglas Engelbart&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29&#34;&gt;John McCarthy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ivan_Sutherland&#34;&gt;Ivan Sutherland&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sketchpad&#34;&gt;Sketchpad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Feynman&#34;&gt;Richard Feynman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Manhattan_Project&#34;&gt;Manhattanprojektet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster&#34;&gt;Challengerkatastrofen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Informatik&#34;&gt;Informatik&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Object-oriented_programming&#34;&gt;Objektorientering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PARC_%28company%29&#34;&gt;Xerox parc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/History_of_Mac_OS&#34;&gt;Steve Jobs och Apples besök på Xerox parc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dougengelbart.org/firsts/dougs-1968-demo.html&#34;&gt;The mother of all demos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tim_Berners-Lee&#34;&gt;Tim Berners-Lee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WYSIWYG&#34;&gt;What you see is what you get&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/113/&#34;&gt;Vill du ha en gammal fisk?&lt;/a&gt; - avsnittet om Ecmascript  6&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/&#34;&gt;Javascript is the C++ of the web&lt;/a&gt; - av Maxime Chevalier-Boisvert&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebAssembly&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Disruptive_innovation&#34;&gt;Disruptionsteorier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AI_winter&#34;&gt;AI-vinter&lt;/a&gt; - en period av minskat intresse för och investering i AI-forskning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bell_Labs&#34;&gt;Bell labs&lt;/a&gt; - där C utvecklades&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Research&#34;&gt;Microsoft research&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/X_Prize_Foundation&#34;&gt;X prize&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29&#34;&gt;Bob Taylor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xerox_Alto&#34;&gt;Alto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tail_call&#34;&gt;Tail-call-optimering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Instruction_window&#34;&gt;Instruktionsfönstret&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lively-kernel.org/&#34;&gt;Lively kernel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Smalltalk&#34;&gt;Smalltalk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_Henry_Holmes_Ingalls,_Jr.&#34;&gt;Dan Ingalls&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://worrydream.com/&#34;&gt;Bret Victor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD215.PDF&#34;&gt;goto considered harmful&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Edsger_W._Dijkstra&#34;&gt;Djikstra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gotw.ca/publications/concurrency-ddj.htm&#34;&gt;The free lunch is over&lt;/a&gt; - 2005 var det hög tid att lära sig programmera mot massor av kärnor&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fullständigt uppgiven&lt;/li&gt;
-&lt;li&gt;I riktiga vetenskaper&lt;/li&gt;
-&lt;li&gt;En populärkultur&lt;/li&gt;
-&lt;li&gt;Nervösa saker som vill aspirera på att vara riktiga vetenskaper&lt;/li&gt;
-&lt;li&gt;Ingen fast bottenplatta att bygga på&lt;/li&gt;
-&lt;li&gt;Jag vill också vara en vetenskap&lt;/li&gt;
-&lt;li&gt;Bete sig som om man gjorde vetenskap&lt;/li&gt;
-&lt;li&gt;Alan Kay är ju väldigt bitter&lt;/li&gt;
-&lt;li&gt;Polarisen har återhämtat sig litegrann&lt;/li&gt;
-&lt;li&gt;Det som munkar gör med böcker&lt;/li&gt;
-&lt;li&gt;Vi vet inte hur framtiden ser ut, så gör ert bästa för att hitta den&lt;/li&gt;
-&lt;li&gt;Då har man skapat en bit av framtiden&lt;/li&gt;
-&lt;li&gt;Den bekväma vägen är att inte göra det&lt;/li&gt;
-&lt;li&gt;En vision av en bättre processor&lt;/li&gt;
-&lt;li&gt;Halvgammalt skräp&lt;/li&gt;
-&lt;li&gt;Varför sitter vi i den här stora högen med kod?&lt;/li&gt;
-&lt;li&gt;Han vill ju plocka med koncepten&lt;/li&gt;
-&lt;li&gt;Datorerna har dragits ner till vår nivå&lt;/li&gt;
-&lt;li&gt;Dreglande idiot med en stor vante som slår på en skärm&lt;/li&gt;
-&lt;li&gt;Idiotifieringen av datorerna&lt;/li&gt;
-&lt;li&gt;Människor ska upp till datorns nivå&lt;/li&gt;
-&lt;li&gt;Man får inte vara för tidig med framtiden&lt;/li&gt;
-&lt;li&gt;Vi måste lära oss av Alan Kays bitterhet&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
