@@ -9,6 +9,78 @@
     <updated>Tue, 03 Nov 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 130 - Den där vill jag ju absolut inte ha i min lista just nu</title>
+      <link>http://kodsnack.se/130/</link>
+      <pubDate>Tue, 24 Nov 2015 17:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/130/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Fredrik snackar om att försöka hantera sin flod av inkommande ärenden, hur man vill försöka sortera dem, hur det är lätt att tänka att man ska lösa allt med mer och fler system, och att det ofta nog inte är lösningen egentligen. Går det sista steget mellan dig och verktygen att göra som en generell lösning eller måste det alltid vara ditt eget speciella sätt att göra på? Och punkten att inga system blir bättre än den data man kan lägga in och underhålla i systemet.&lt;/p&gt;
+
+&lt;p&gt;Sedan en stunds nedstigande i den klassiska underjorden där man försöker reda ut invecklade kodflöden, eliminera en och annan callback och rent allmänt förstå och förenkla hur saker egentligen fungerar. Komplett med några luriga buggar.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;Teamcity&lt;/a&gt;, deras produkt för &lt;a href=&#34;http://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;continuous integration&lt;/a&gt;. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
+
+&lt;p&gt;När det här avsnittet släpps är vi på &lt;a href=&#34;https://internetdagarna.se/&#34;&gt;Internetdagarna&lt;/a&gt;, kom gärna förbi och säg hej om du är där!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hack for refugees på &lt;a href=&#34;https://www.facebook.com/events/165309683822188/&#34;&gt;Facebook&lt;/a&gt; och &lt;a href=&#34;http://hackforrefugees.com/register/&#34;&gt;hackforrefugees.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/104/&#34;&gt;Vårt avsnitt om Gothenburg startup hack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Trello&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kanban_%28development%29&#34;&gt;Kanban&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Getting_Things_Done&#34;&gt;Getting things done&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Basecamp_%28company%29&#34;&gt;Basecamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JIRA&#34;&gt;JIRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;CI&lt;/a&gt; - Continuous integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;Teamcity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://confluence.jetbrains.com/display/TW/TeamCity+Plugins&#34;&gt;Plugins för Teamcity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hubot.github.com/&#34;&gt;Hubot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Slack_%28software%29&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-teamcity&#34;&gt;http://www.jetbrains.com/kodsnack-teamcity&lt;/a&gt; - för mer information och för att stödja Kodsnack&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/False_precision&#34;&gt;Falsk precision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Haskell_%28programming_language%29&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/111122950&#34;&gt;James Mickens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se/&#34;&gt;Internetdagarna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/video/&#34;&gt;Kodsnacksvideo från Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sedan urminnes tider&lt;/li&gt;
+&lt;li&gt;Alla som inte är utvecklingsavdelningen&lt;/li&gt;
+&lt;li&gt;Allt möjligt för att hålla reda på vad jag ska göra&lt;/li&gt;
+&lt;li&gt;Hantera alla todo-listor&lt;/li&gt;
+&lt;li&gt;Bra och nyttiga men inte just nu&lt;/li&gt;
+&lt;li&gt;Den där vill jag ju absolut inte ha i min lista just nu&lt;/li&gt;
+&lt;li&gt;Lita på att tankarna kommer tillbaka igen&lt;/li&gt;
+&lt;li&gt;Att fixa buggar har ju ett pris&lt;/li&gt;
+&lt;li&gt;Som just nu inte är värt att fixa&lt;/li&gt;
+&lt;li&gt;Masterinterfacet mot dig&lt;/li&gt;
+&lt;li&gt;Ett system för det sista steget&lt;/li&gt;
+&lt;li&gt;Inte värda att automatisera&lt;/li&gt;
+&lt;li&gt;Inga verktyg är bättre än datan&lt;/li&gt;
+&lt;li&gt;För vem har den den här prioriteten?&lt;/li&gt;
+&lt;li&gt;Färre callbacks är vägen till lycka och framgång&lt;/li&gt;
+&lt;li&gt;Haskell på klientsidan&lt;/li&gt;
+&lt;li&gt;Tornet av komplexitet&lt;/li&gt;
+&lt;li&gt;Komplexa torn av abstraktioner&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 129 - Inte en textur så långt ögat kan nå</title>
       <link>http://kodsnack.se/129/</link>
       <pubDate>Tue, 17 Nov 2015 17:26:14 UTC</pubDate>
@@ -1306,96 +1378,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;Det som händer på Facebook är värst&lt;/li&gt;
 &lt;li&gt;Tvungna att jobba runt verkligheten - igen&lt;/li&gt;
 &lt;li&gt;Riva av plåstret och köra&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 116 - Mejl om att andra roar sig</title>
-      <link>http://kodsnack.se/116/</link>
-      <pubDate>Tue, 18 Aug 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/116/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar sladdar och switchar, att vara tillbaka på jobbet, att försöka navigera undan socker. Böcker och semesterstress. Vi försöker återhämta oss från semestern. Utifrånpespektivet när man jobbar på distans utan att alla gör det och vilka kontaktvägar och verktyg som gäller för Kristoffers del som distansjobbare. Det tråkiga i att populära verktyg oftast är slutna numera, vad det kan bero på och vilka problem som finns med verktygen. Och så böcker; John Cleese självbiografi, Richard Feynman och saker runt honom, Alastair Reynolds, Andy Weir och Ensam på Mars.&lt;/p&gt;
-
-&lt;p&gt;Det är skönt att äntligen känna sig rymdpositiv igen!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Network_switch&#34;&gt;Switch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gmailblog.blogspot.se/2008/10/new-in-labs-stop-sending-mail-you-later.html&#34;&gt;Matteproblemsextension för Gmail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/FirstClass&#34;&gt;First class&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bulletin_board_system&#34;&gt;BBS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AOL&#34;&gt;AOL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/CompuServe&#34;&gt;Compuserve&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fedupmovie.com/&#34;&gt;Fed up&lt;/a&gt; - dokumentären om socker som Kristoffer sett
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sciencebasedmedicine.org/does-the-movie-fed-up-make-sense/&#34;&gt;Does the movie Fed up make sense?&lt;/a&gt; - nej, inte helt&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth&#34;&gt;Svärdet och spiran&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ken_Follett&#34;&gt;Ken Follett&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Red_Hat&#34;&gt;Red hat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Slack_%28software%29&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gitter&#34;&gt;Gitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Snapchat&#34;&gt;Snapchat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.facebook.com/&#34;&gt;Saker Facebook gör med öppen källkod (facebook.github.io)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/115/&#34;&gt;Förra programmet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.uk/So-Anyway-Autobiography-John-Cleese/dp/1847946968&#34;&gt;John Cleese självbiografi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Feynman&#34;&gt;Richard Feynman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fotuva.org/feynman/what_is_science.html&#34;&gt;Länken Kristoffer skickade mig om vad vetenskap är&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fotuva.org/faq/index.html&#34;&gt;Friends of Tuva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tuva&#34;&gt;Tuva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Overtone_singing&#34;&gt;Strupsång&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.genghisblues.com/&#34;&gt;Dokumentären om Friends of Tuva?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alastair_Reynolds&#34;&gt;Alastair Reynolds&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Blue_Remembered_Earth&#34;&gt;Blue remembered Earth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/On_the_Steel_Breeze&#34;&gt;On the steel breeze&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Revelation_Space_universe&#34;&gt;Revelation space-serien&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/House_of_Suns&#34;&gt;House of suns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pushing_Ice&#34;&gt;Pushing ice&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/9/&#34;&gt;Vårt avsnitt om Pushing ice&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Culture&#34;&gt;Culture-böckerna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Iain_Banks&#34;&gt;Ian Banks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Player_of_Games&#34;&gt;The player of games&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kim_Stanley_Robinson&#34;&gt;Kim Stanley Robinson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mars_trilogy&#34;&gt;Red mars, green Mars, blue Mars, the Martians&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29&#34;&gt;Ensam på Mars&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Andy_Weir_%28writer%29&#34;&gt;Andy Weir&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gMfuLtjgzA8&#34;&gt;Google-snack med Andy Weir&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Min situation med sladdar&lt;/li&gt;
-&lt;li&gt;Det är väl inte kaos direkt&lt;/li&gt;
-&lt;li&gt;Är det okej att koppla en switch till en switch?&lt;/li&gt;
-&lt;li&gt;Den enda sanningen är den experimentella sanningen&lt;/li&gt;
-&lt;li&gt;Det är bara jag som är dum i huvudet&lt;/li&gt;
-&lt;li&gt;Uppenbart socker&lt;/li&gt;
-&lt;li&gt;Tio procent socker, i bästa fall&lt;/li&gt;
-&lt;li&gt;Jag ska läsa alla papers&lt;/li&gt;
-&lt;li&gt;Semester är nog bland det värsta som finns&lt;/li&gt;
-&lt;li&gt;Jag kände i alla fall igen koden&lt;/li&gt;
-&lt;li&gt;Mejl om att andra roar sig&lt;/li&gt;
-&lt;li&gt;Jag ramlade ur den delen av internet&lt;/li&gt;
-&lt;li&gt;Hålla en diskussion i en nattklubb&lt;/li&gt;
-&lt;li&gt;I princip Snapchat alltihop&lt;/li&gt;
-&lt;li&gt;Bittersvacka&lt;/li&gt;
-&lt;li&gt;Fet chans att han får åka till Sovjet&lt;/li&gt;
-&lt;li&gt;Mer karaktärsdrivet än teknikdrivet&lt;/li&gt;
-&lt;li&gt;Ond bråd död är ju lite av hans grej&lt;/li&gt;
-&lt;li&gt;Folk rider runt i cirklar och tittar på varandra&lt;/li&gt;
-&lt;li&gt;Rymdpositiv&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
