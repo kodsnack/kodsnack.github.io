@@ -6,7 +6,109 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 24 Nov 2015 17:26:14 UTC</updated>
+    <updated>Tue, 01 Dec 2015 17:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 131 - Motverka monoliten</title>
+      <link>http://kodsnack.se/131/</link>
+      <pubDate>Tue, 01 Dec 2015 17:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/131/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Fredrik snackar höstens konferenser och vårt deltagande i Øredev, Susecon och Internetdagarna. Vi komer bland annat in på standarder och stora företag som vill låsa in internet och även Kristoffers invändningar mot singulariteter och kolonisation av rymden.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-resharper&#34;&gt;Resharper&lt;/a&gt;, som ger dig massor av Jetbrains smarta funktioner direkt i Visual studio. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-resharper&#34;&gt;http://www.jetbrains.com/kodsnack-resharper&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mynoise.net/NoiseMachines/fireNoiseGenerator.php&#34;&gt;Eldstadsgeneratorn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; - &lt;a href=&#34;http://kodsnack.se/video/&#34;&gt;vår&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/76/&#34;&gt;insats&lt;/a&gt; 2014&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Jantelagen&#34;&gt;Jantelagen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/video/&#34;&gt;kodsnack.se/video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/floydophone&#34;&gt;Pete Hunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.smyte.com/&#34;&gt;Smyte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jamesturnbull.net/&#34;&gt;James Turnbull&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Docker_%28software%29&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aaron-gustafson.com/&#34;&gt;Aaron Gustafson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/&#34;&gt;Tim Urban&lt;/a&gt; - skribenten bakom Wait but why&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2014/05/fermi-paradox.html&#34;&gt;Fermiparadoxen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html&#34;&gt;Tesla, SpaceX och Elon Musk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2014/09/muhammad-isis-iraqs-full-story.html&#34;&gt;Från Muhammed till ISIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/144847615&#34;&gt;Tims keynote om AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;Tims artikel om AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/vet_torill&#34;&gt;Torill Kornfeldt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/144804778&#34;&gt;Torills keynote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.livescience.com/50886-scientific-progress-dino-chicken.html&#34;&gt;Projekt svans på kyckling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xDu4-o4uFRQ&#34;&gt;Tims och Torills diskussion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ray_Kurzweil&#34;&gt;Ray Kurzweil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_P._Friedman&#34;&gt;Dan Friedman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ccs.neu.edu/home/matthias/BTLS/&#34;&gt;The little Schemer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages&#34;&gt;The essentials of programming languages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_in_Small_Pieces&#34;&gt;Lisp in small pieces&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Logic_programming&#34;&gt;Logikprogrammering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Prolog&#34;&gt;Prolog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://racket-lang.org/&#34;&gt;Racket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://steveonjava.com/&#34;&gt;Stephen Chin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/138954118&#34;&gt;Stephens presentation om att bygga retrokonsoller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/David_Cronenberg&#34;&gt;David Kroenenberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.susecon.com/&#34;&gt;Susecon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ErzuXjv5RFk&#34;&gt;Keynotevideon&lt;/a&gt; från Susecon - delen Kristoffer bidragit till&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openstack.org/&#34;&gt;Openstack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://saltstack.com/&#34;&gt;Saltstack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/ReactJS-Goteborg/&#34;&gt;Reactmeetupen i Göteborg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://randsinrepose.com/&#34;&gt;Michael Lopp/Rands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-resharper&#34;&gt;Resharper&lt;/a&gt; - Jetbrains smarta tillägg för Visual studio&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_smell&#34;&gt;Kodlukter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se/&#34;&gt;Internetdagarna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se/nyheter/varldshistorien-borjade-inte-for-trettio-ar-sedan/&#34;&gt;Evgenij Morozov&lt;/a&gt; - Evgenijs presentation (längst ner på sidan)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se/nyheter/uppkoppling_och_atkomst/&#34;&gt;Nnenna Nwakanma&lt;/a&gt; - och hennes presentation (längst ner på sidan)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/31/&#34;&gt;Kodsnack&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/avsnitt/&#34;&gt;var&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/avsnitt/32&#34;&gt;på&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/avsnitt/&#34;&gt;Internetdagarna&lt;/a&gt; &lt;a href=&#34;http://kodsnack.se/avsnitt/&#34;&gt;2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html&#34;&gt;Vad sägs om ett år utan nya saker på webben&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se/nyheter/ar-den-oppna-webben-pa-vag-mot-sitt-slut/&#34;&gt;Dan Sinker och hans presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Monsanto&#34;&gt;Monsanto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Black_Mirror_%28TV_series%29&#34;&gt;Black mirror&lt;/a&gt; - brittisk TV-serie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/BostonDynamics&#34;&gt;Bigdog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DrHMBletjXg&#34;&gt;Femte elementets spionkackerlacka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/ind15-lessthanthree&#34;&gt;Vårt internetdagshack på Github&lt;/a&gt; - kan spelas &lt;a href=&#34;http://bjoreman.com/ind15/&#34;&gt;här&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://threejs.org/&#34;&gt;Three.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&#34;&gt;Web audio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag var på en annan konferens samtidigt&lt;/li&gt;
+&lt;li&gt;Jag är pinsamt nöjd&lt;/li&gt;
+&lt;li&gt;Vi ignorerar dem, men vi lyssnar&lt;/li&gt;
+&lt;li&gt;Det är ganska utmattande&lt;/li&gt;
+&lt;li&gt;Jag vill bara ha en hyperintelligent mördardinosaurie&lt;/li&gt;
+&lt;li&gt;Insatt från båda håll&lt;/li&gt;
+&lt;li&gt;Bonusmaterial till deras presentationer&lt;/li&gt;
+&lt;li&gt;Om jag glömde min skruvmejsel så finns den på en annan planet&lt;/li&gt;
+&lt;li&gt;När vi inte ens kan flytta ner i ett dike&lt;/li&gt;
+&lt;li&gt;Vi är så långt från att vara intelligenta&lt;/li&gt;
+&lt;li&gt;David Croenenbergs framtid&lt;/li&gt;
+&lt;li&gt;Kodsnack som hack&lt;/li&gt;
+&lt;li&gt;Förändring har blivit ett självändamål&lt;/li&gt;
+&lt;li&gt;Facebook är Myspace i framtiden&lt;/li&gt;
+&lt;li&gt;Det blir Word av alltihop&lt;/li&gt;
+&lt;li&gt;Motverka monoliten&lt;/li&gt;
+&lt;li&gt;Information som våra telefoner ger bort hela tiden&lt;/li&gt;
+&lt;li&gt;Teknikhallelujaskepticismen har börjat sätta in på allvar&lt;/li&gt;
+&lt;li&gt;Tekniknaiv&lt;/li&gt;
+&lt;li&gt;Infernalisk soppa av horribla API:er&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 130 - Den där vill jag ju absolut inte ha i min lista just nu</title>
@@ -1318,66 +1420,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;Språk spelar inte så jättestor roll&lt;/li&gt;
 &lt;li&gt;Trasigt av historiska skäl&lt;/li&gt;
 &lt;li&gt;Varje C++-projekt är sitt eget universum&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 117 - Det finns inget bra sätt att släppa en ny app</title>
-      <link>http://kodsnack.se/117/</link>
-      <pubDate>Tue, 25 Aug 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/117/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Tobias snackar att komma tillbaka från semestern, refactoring och sedan, via tidsuppskattning, stora omskrivningar och att släppa stora nya versioner av appar för iOS. Allt utifrån Plex senaste uppdatering för iOS och återkopplingen från användare. Det är alltid svårt att balansera önskemål, speciellt mellan de som tycker att allting fungerar bra och de som tycker att allt borde göras om och förbättras.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av säkerhetskonferensen &lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt;, en endagskonferens med ingen mindre än &lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; som dragplåster! Evenemanget går av stapeln 22 september i Stockholm och 23 september i Göteborg. Kodsnacklyssnare får dessutom 400 kronor i rabatt, ange bara koden &amp;ldquo;kodsnack&amp;rdquo; i anmälningsformuläret!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.refactoring.com/&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/08/10/our-shiny-new-ios-app/&#34;&gt;Plex iOS-app&lt;/a&gt; - 4.0!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IOS_version_history#iPhone_OS_2.x&#34;&gt;iOS 2&lt;/a&gt; - släpptes 2008&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IOS_7&#34;&gt;iOS 7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IOS_8&#34;&gt;iOS 8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010853-CH13-SW1&#34;&gt;Autolayout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plex.tv/subscription/about&#34;&gt;Plex pass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt; 2015 - 22 september i Stockholm, 23 september i Göteborg. Ange koden kodsnack för 400 kronor rabatt!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Merlin_Mann&#34;&gt;Merlin Mann&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/108/&#34;&gt;Snacket om Plex omskrivning och certifikatsutmaningar&lt;/a&gt; - som bland annat motiverar inloggning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://overcast.fm/&#34;&gt;Overcast&lt;/a&gt; - eminent poddradioapp för iOS&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.relay.fm/upgrade&#34;&gt;Upgrade&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.relay.fm/upgrade/49&#34;&gt;Upgrade 49&lt;/a&gt; - där bland annat Twitter och Jasons förhållande till det tas upp&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hitta alla trådarna&lt;/li&gt;
-&lt;li&gt;Att använda hjärnan igen&lt;/li&gt;
-&lt;li&gt;En alldeles för stor refactoring&lt;/li&gt;
-&lt;li&gt;Hålet blir bara djupare&lt;/li&gt;
-&lt;li&gt;Djupt nere i refactoringhålet&lt;/li&gt;
-&lt;li&gt;Vår mainfil har ett copyrightdatum från 2008&lt;/li&gt;
-&lt;li&gt;Man blir påverkad av allt&lt;/li&gt;
-&lt;li&gt;Mjukvara är svårt&lt;/li&gt;
-&lt;li&gt;Det finns inget bra sätt att släppa en ny app&lt;/li&gt;
-&lt;li&gt;Då är du en snäll användare&lt;/li&gt;
-&lt;li&gt;Ett generellt internetproblem&lt;/li&gt;
-&lt;li&gt;Det är så otroligt svårt med empati på internet&lt;/li&gt;
-&lt;li&gt;Det man inte fick just nu är det man vill ha&lt;/li&gt;
-&lt;li&gt;En annan sak hur man uttrycker det&lt;/li&gt;
-&lt;li&gt;Aktiveras av mänsklig kontakt&lt;/li&gt;
-&lt;li&gt;Det som händer på Facebook är värst&lt;/li&gt;
-&lt;li&gt;Tvungna att jobba runt verkligheten - igen&lt;/li&gt;
-&lt;li&gt;Riva av plåstret och köra&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
