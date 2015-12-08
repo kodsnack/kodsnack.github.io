@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>03 Nov 2015 10:26 +0000</pubDate>
-        <lastBuildDate>03 Nov 2015 10:26 +0000</lastBuildDate>
+        <pubDate>08 Dec 2015 10:26 +0000</pubDate>
+        <lastBuildDate>08 Dec 2015 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,50 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 19 - Man har blandat ihop tråkigt och svårt on kodsnack </title>
+                <pubDate>08 Dec 2015 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/19/</guid>
+                <link>http://kodsnack.se/sumpsnack/19/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Tobias överväger att köpa en Xbox, Kristoffer har svårt att stå emot Star wars-hypen.&lt;/p&gt;
+
+&lt;p&gt;Och Tobias spelar fortfarande mycket Destiny.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider&#34;&gt;Rise of Tomb raider&lt;/a&gt; - nya Tomb Raider&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/No_Man%27s_Sky&#34;&gt;No man&amp;rsquo;s sky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Star_Wars_Battlefront_%282015_video_game%29&#34;&gt;Star wars Battlefront&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/StarCraft_II:_Legacy_of_the_Void&#34;&gt;Legacy of the void&lt;/a&gt; - senaste expansionen till &lt;a href=&#34;https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty&#34;&gt;Starcraft II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/SVTPlay/videos/1050816918273317/&#34;&gt;GW Persson och hans skumbanan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag trodde du var 100% Destiny&lt;/li&gt;
+&lt;li&gt;Jag gjorde min karaktär - det tog sju timmar&lt;/li&gt;
+&lt;li&gt;Det är för mycket, jag vet inte hur jag ska hantera det&lt;/li&gt;
+&lt;li&gt;Jag behöver inte det här i mitt liv&lt;/li&gt;
+&lt;li&gt;Ett grafikkort som kostade lika mycket som en Xbox&lt;/li&gt;
+&lt;li&gt;De drar ström som ett mindre land&lt;/li&gt;
+&lt;li&gt;Man har blandat ihop tråkigt och svårt&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="6375080" type="audio/mpeg" url="http://feeds.kodsnack.se/sumpsnack/Sumpsnack_19.mp3"/>
+                <itunes:duration>12:47</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 18 - Gå på bio när man har barn on kodsnack </title>

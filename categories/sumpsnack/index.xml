@@ -6,7 +6,82 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 03 Nov 2015 10:26:14 UTC</updated>
+    <updated>Tue, 08 Dec 2015 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 132 - En ny demon som måste matas med tårar</title>
+      <link>http://kodsnack.se/132/</link>
+      <pubDate>Tue, 08 Dec 2015 17:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/132/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Tobias snackar refactoring. När ska man skriva om saker, när ska man det inte? Tobias berättar om några av de hörn som behövde filas lite mer efter den senaste stora releasen av Plex media player. Automatisering och tester är tvåeggade svärd. Det är lätt att börja på något och försvinna ner i kaninhål.&lt;/p&gt;
+
+&lt;p&gt;Sedan går diskussionen vidare utifrån Wordpress nysläppta admingränssnitt byggt i Javascript och React om spänningsmomenten med att göra stora byten som kan kräva omställning för många. Hur förändrar man sig utan att göra alla missnöjda? Kan det vara så jobbigt att man faktiskt behöver ha de där missnöjda användarna för att lyckats göra någonting riktigt bra? Är varje ny version en ny demon som måste matas med tårar för att växa och frodas?&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt;, ett kraftfullt IDE för C och C++ för såväl Linux som OS X och Windows. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;http://www.jetbrains.com/kodsnack-clion&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_refactoring&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/125/&#34;&gt;Plex media player-släppet&lt;/a&gt; har Tobias berättat om tidigare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;CI&lt;/a&gt; - continuous integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Wget&#34;&gt;wget&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chef_%28software%29&#34;&gt;Chef&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GnuWin32&#34;&gt;Gnuwin32&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cygwin&#34;&gt;Cygwin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tar_%28computing%29&#34;&gt;Tar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/steveeJ/python-wget/blob/master/wget.py&#34;&gt;wget.py&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Inertia&#34;&gt;Inertia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work&#34;&gt;property-decoratorn&lt;/a&gt; i Python&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy&#34;&gt;Sunk cost fallacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt; - Jetbrains IDE för C och C++&lt;/li&gt;
+&lt;li&gt;* &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;http://www.jetbrains.com/kodsnack-clion&lt;/a&gt; - länken du ska använda om du vill veta mer om Clion och stödja Kodsnack på samma gång&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Automattic&#34;&gt;Automattic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.wordpress.com/2015/11/23/the-story-behind-the-new-wordpress-com/&#34;&gt;Automattic har skrivit om&lt;/a&gt; admingränssnitten för Wordpress i Javascript med React och Node&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Automattic/wp-calypso&#34;&gt;Den nya kodbasen&lt;/a&gt; på Github&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ma.tt/2015/11/dance-to-calypso/&#34;&gt;Wordpress VD om förändringen&lt;/a&gt; - &amp;ldquo;One of the hardest things to do in technology is disrupt yourself.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react/index.html&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Itanium&#34;&gt;Intel Itanium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacklang.org/&#34;&gt;Hack&lt;/a&gt; - Facebooks försök att &amp;ldquo;skriva om PHP&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gwtproject.org/overview.html&#34;&gt;Googles GWT&lt;/a&gt; - Google web toolkit&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ingen bra situation&lt;/li&gt;
+&lt;li&gt;En två veckor lång refactoring&lt;/li&gt;
+&lt;li&gt;Varför har jag suttit och våndats över det här?&lt;/li&gt;
+&lt;li&gt;Det blir mer trögflytande&lt;/li&gt;
+&lt;li&gt;Varje iteration tar tre timmar&lt;/li&gt;
+&lt;li&gt;Vad det var man väntade på egentligen&lt;/li&gt;
+&lt;li&gt;Spenderar jag verkligen min tid korrekt nu&lt;/li&gt;
+&lt;li&gt;Ett tydligt bra svar&lt;/li&gt;
+&lt;li&gt;Stoppa det i en branch och låta det vara&lt;/li&gt;
+&lt;li&gt;Apropå att skriva om saker&lt;/li&gt;
+&lt;li&gt;Definitionen av PHP-kod&lt;/li&gt;
+&lt;li&gt;Tagit deras ost och bytt ut mot Javascript&lt;/li&gt;
+&lt;li&gt;Ingen annan väg för det än stagnation&lt;/li&gt;
+&lt;li&gt;Någonting som kan hända vem som helst&lt;/li&gt;
+&lt;li&gt;Förändras eller försvinna&lt;/li&gt;
+&lt;li&gt;Här har du någonting som är sämre idag&lt;/li&gt;
+&lt;li&gt;En ny demon som måste matas med tårar&lt;/li&gt;
+&lt;li&gt;Sälja in försämringar&lt;/li&gt;
+&lt;li&gt;Ett serverprogram och ett klientprogram&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 131 - Motverka monoliten</title>
@@ -1344,82 +1419,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;Där säkerheten hindrar saker som är legitima&lt;/li&gt;
 &lt;li&gt;Det höjer ju alltid besvärsnivån litegrann&lt;/li&gt;
 &lt;li&gt;En trygghetsstämpel&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 118 - Buggfixar och prestandaförbättringar</title>
-      <link>http://kodsnack.se/118/</link>
-      <pubDate>Tue, 01 Sep 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/118/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar information om nya versioner, hur man bokför vad man gjort och vad av det man gjort man bör informera sina användare om. Vad hör hemma i kommentarer i koden, vad hör hemma i commitmeddelanden, och vad ska med i informationen kring en ny version? Har du en åsikt vill vi höra den!&lt;/p&gt;
-
-&lt;p&gt;Vi snackar också om Go som nyligen nått version 1.5 och om self hosting.&lt;/p&gt;
-
-&lt;p&gt;Omkring en halvtimme in i programmet har Kristoffer egentligen inga klagomål!&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi språktrender på Github och i Tiobe-indexet och vad respektive trender egentligen innebär. Tobias försöker sätta fingret på vad som skaver med Javascript för honom (i grund och botten att det inte landat än som något man skriver på ett mer enhetligt sätt) och Kristoffer erkänner att han gillar Javascript mer nu än tidigare.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av säkerhetskonferensen &lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt;, en endagskonferens med ingen mindre än &lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; som dragplåster! Evenemanget går av stapeln 22 september i Stockholm och 23 september i Göteborg. Kodsnacklyssnare får dessutom 400 kronor i rabatt, ange bara koden &amp;ldquo;kodsnack&amp;rdquo; i anmälningsformuläret!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.omnipolloshatt.com/&#34;&gt;Omnipollos hatt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Regular_expression&#34;&gt;Regex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://martinfowler.com/bliki/TwoHardThings.html&#34;&gt;De två svåra sakerna i datavetenskap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theguardian.com/technology/2015/aug/18/tumblr-app-release-notes-david-karp-rippling-muscles&#34;&gt;Tumblrs uppsats i versionsinformationen till 4.3.1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/David_Karp&#34;&gt;David Karp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.subtraction.com/2014/12/05/slacks-release-notes/&#34;&gt;Slack och deras versionsinformation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Annotation#Software_engineering&#34;&gt;Blame&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/files/pulog.html&#34;&gt;Pocket universe senaste versionslogg … eller saga&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks&#34;&gt;Git-hookar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt; 2015 - 22 september i Stockholm, 23 september i Göteborg. Ange koden kodsnack för 400 kronor rabatt!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.golang.org/go1.5&#34;&gt;Go  1.5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Self-hosting&#34;&gt;Self hosting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Matryoshka_doll&#34;&gt;Babushkadockor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Turtles_all_the_way_down&#34;&gt;Turtles all the way down&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GCC&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bootstrapping#Software_development&#34;&gt;Bootstrapping&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://golang.org/doc/go1.5#c&#34;&gt;Gos sida om self hosting/bootstrapping&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Source-to-source_compiler&#34;&gt;Transpiling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blog/2047-language-trends-on-github&#34;&gt;Github om språktrender&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_on_Rails&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html&#34;&gt;Tiobe-indexet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/sv-SE/docs/Web/JavaScript&#34;&gt;Mozillas javascriptsida&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.w3schools.com/tags/att_script_defer.asp&#34;&gt;Defer för Javascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebAssembly&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.freedesktop.org/wiki/Software/fontconfig/&#34;&gt;Fontconfig&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hur mycket svårare ska koden vara att skriva&lt;/li&gt;
-&lt;li&gt;En snygg liten klass&lt;/li&gt;
-&lt;li&gt;Buggfixar och prestandaförbättringar&lt;/li&gt;
-&lt;li&gt;Commitmeddelanden som säger ingenting&lt;/li&gt;
-&lt;li&gt;När någonting ser batshit crazy ut&lt;/li&gt;
-&lt;li&gt;Slösa bort en halvtimme av någons kod&lt;/li&gt;
-&lt;li&gt;De vet bättre vad som kommer att förvirra folk&lt;/li&gt;
-&lt;li&gt;Dra sig upp från ingenting&lt;/li&gt;
-&lt;li&gt;En stor C-klump&lt;/li&gt;
-&lt;li&gt;Då har jag egentligen inga klagomål&lt;/li&gt;
-&lt;li&gt;Språk spelar inte så jättestor roll&lt;/li&gt;
-&lt;li&gt;Trasigt av historiska skäl&lt;/li&gt;
-&lt;li&gt;Varje C++-projekt är sitt eget universum&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
