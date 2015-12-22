@@ -9,6 +9,92 @@
     <updated>Tue, 08 Dec 2015 10:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 134 - Allowed to be a beginner again</title>
+      <link>http://kodsnack.se/134/</link>
+      <pubDate>Tue, 22 Dec 2015 17:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/134/</guid>
+      <description>
+
+&lt;p&gt;Fredrik talks to &lt;a href=&#34;http://rachelree.se/about/&#34;&gt;Rachel Reese&lt;/a&gt; about F#, Xamarin, the &lt;a href=&#34;http://rachelree.se/the-mit-study/&#34;&gt;the MIT study&lt;/a&gt; (on diversity, sexism and career for women faculty at MIT) and related topics. We also cover good communities and being allowed (by yourself and others) to be a beginner.&lt;/p&gt;
+
+&lt;p&gt;This episode was recorded during the developer conference &lt;a href=&#34;https://vimeo.com/144824775&#34;&gt;Øredev 2015&lt;/a&gt;, where Rachel gave &lt;a href=&#34;https://vimeo.com/144692770&#34;&gt;two&lt;/a&gt; &lt;a href=&#34;https://vimeo.com/144824775&#34;&gt;talks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
+
+&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/F_Sharp_%28programming_language%29&#34;&gt;F#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TechEd&#34;&gt;TechEd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projecteuler.net/about&#34;&gt;The project Euler problems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://skillsmatter.com/&#34;&gt;Skills matter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://skillsmatter.com/explore?q=progressive+f%23+tutorials&#34;&gt;The progressive F# tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tryfs.net/snippets/snippet-bG&#34;&gt;The F# koans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/K%C5%8Dan&#34;&gt;Koan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Don_Syme&#34;&gt;Don Syme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/hh156509.aspx&#34;&gt;Type providers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fsharp.github.io/FSharp.Data/library/WorldBank.html&#34;&gt;The World bank type provider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Type_inference&#34;&gt;Type inference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Swift_%28programming_language%29&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jet.com/&#34;&gt;Jet&lt;/a&gt; - where Rachel works&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cross-cutting_concern&#34;&gt;Cross-cutting concerns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikibooks.org/wiki/F_Sharp_Programming/Higher_Order_Functions#The_.7C.3E_Operator&#34;&gt;Pipelines in F#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Powershell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rachelree.se/rewriting-from-c-into-f/&#34;&gt;Rachel&amp;rsquo;s blog post about rewriting an application from C# to F#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/dd233226.aspx&#34;&gt;Discriminated union&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xamarin&#34;&gt;Xamarin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Haskell_%28programming_language%29&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OCaml&#34;&gt;Ocaml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Generic_programming&#34;&gt;Generics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fsharpnews.blogspot.se/2012/05/f-vs-c-performance.html&#34;&gt;John Harrop&lt;/a&gt; - F# vs C++ performance&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mono_%28software%29&#34;&gt;Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Minesweeper_%28video_game%29&#34;&gt;Minesweeper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rachelree.se/the-mit-study/&#34;&gt;The MIT study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Science,_Technology,_Engineering,_and_Mathematics&#34;&gt;STEM&lt;/a&gt; - Science, technology, engineering, and mathematics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WISE_Campaign&#34;&gt;Women in science and engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rosalind_Franklin&#34;&gt;Rosalyn Franklin&lt;/a&gt; - contributed to the understanding of DNA, RNA, viruses, coal, and graphite&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Physical_Review&#34;&gt;Physical review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cocoaheads.org/&#34;&gt;Cocoaheads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Monad_%28functional_programming%29&#34;&gt;Monad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.ian.gent/2013/10/the-petrie-multiplier-why-attack-on.html&#34;&gt;The petrie multiplier&lt;/a&gt; - the blog post Rachel mentioned&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Titles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Some big American conference&lt;/li&gt;
+&lt;li&gt;I figured out what a script file did&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m definitely not advanced&lt;/li&gt;
+&lt;li&gt;I just sat there amazed&lt;/li&gt;
+&lt;li&gt;The magic grandfather&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a lot of little things&lt;/li&gt;
+&lt;li&gt;It could have been like this all the time&lt;/li&gt;
+&lt;li&gt;A natural next step&lt;/li&gt;
+&lt;li&gt;A perceived lack of support&lt;/li&gt;
+&lt;li&gt;A discriminated union&lt;/li&gt;
+&lt;li&gt;I love to hate Xcode&lt;/li&gt;
+&lt;li&gt;Surely it&amp;rsquo;s slow?&lt;/li&gt;
+&lt;li&gt;Release the Herrup&lt;/li&gt;
+&lt;li&gt;Package it in a view and pretend it&amp;rsquo;s native&lt;/li&gt;
+&lt;li&gt;Exactly like the study said it would&lt;/li&gt;
+&lt;li&gt;Do I want this now?&lt;/li&gt;
+&lt;li&gt;The most depressing thing I&amp;rsquo;ve ever heard&lt;/li&gt;
+&lt;li&gt;Too senior to be encouraged anymore&lt;/li&gt;
+&lt;li&gt;To be allowed to be a beginner again&lt;/li&gt;
+&lt;li&gt;They thought I had been speaking&lt;/li&gt;
+&lt;li&gt;People still want me to speak, apparently&lt;/li&gt;
+&lt;li&gt;There has been progress everywhere else&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 133 - Precis allt man kunde hoppas på</title>
       <link>http://kodsnack.se/133/</link>
       <pubDate>Tue, 15 Dec 2015 17:26:14 UTC</pubDate>
@@ -1347,77 +1433,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;Timelapse på hur tvätten snurrar&lt;/li&gt;
 &lt;li&gt;Livsfarligt att hålla tyst&lt;/li&gt;
 &lt;li&gt;Säg upp dig&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 120 - Fler svar, tidigare</title>
-      <link>http://kodsnack.se/120/</link>
-      <pubDate>Tue, 15 Sep 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/120/</guid>
-      <description>
-
-&lt;p&gt;Tobias och Fredrik snackar med &lt;a href=&#34;https://twitter.com/bagder&#34;&gt;Daniel Stenberg&lt;/a&gt;, skapare av &lt;a href=&#34;http://curl.haxx.se/&#34;&gt;curl&lt;/a&gt; och nätverkskodare på &lt;a href=&#34;https://www.mozilla.org/sv-SE/&#34;&gt;Mozilla&lt;/a&gt;, om curl, att driva populära öppna källkodsprojekt på fritiden och &lt;a href=&#34;https://http2.github.io/&#34;&gt;HTTP/2&lt;/a&gt;. Visste du att HTTP/2 i praktiken alltid är krypterat i webbläsare, trots att specifikationen inte kräver det? Och en del av anledningen är att det i praktiken blir lättare att göra det nya protkollet med TLS istället för utan?&lt;/p&gt;
-
-&lt;p&gt;Men med curl kan du givetvis använda båda varianterna.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av säkerhetskonferensen &lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt;, en endagskonferens med ingen mindre än &lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt; som dragplåster! Evenemanget går av stapeln 22 september i Stockholm och 23 september i Göteborg. Kodsnacklyssnare får dessutom 400 kronor i rabatt, ange bara koden &amp;ldquo;kodsnack&amp;rdquo; i anmälningsformuläret!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bagder&#34;&gt;Daniel Stenberg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/sv-SE/&#34;&gt;Mozilla&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://curl.haxx.se/&#34;&gt;curl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://curl.haxx.se/docs/history.html&#34;&gt;httpget var verktyget som Daniel började anpassa och som blev curl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force&#34;&gt;IETF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://datatracker.ietf.org/wg/httpbis/documents/&#34;&gt;HTTP-gruppen inom IETF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Relay_Chat&#34;&gt;IRC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IRC_bot&#34;&gt;IRC-bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://http2.github.io/&#34;&gt;HTTP/2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tools.ietf.org/html/draft-mbelshe-httpbis-spdy-00&#34;&gt;SPDY&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.python.org/moin/Python2orPython3&#34;&gt;Python 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tools.ietf.org/html/rfc7540&#34;&gt;RFC:n för HTTP 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://daniel.haxx.se/blog/2015/08/27/content-over-http2/&#34;&gt;Daniels artikel om det CDN som var först med HTTP 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt; 2015 - 22 september i Stockholm, 23 september i Göteborg. Ange koden kodsnack för 400 kronor rabatt!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bruce_Schneier&#34;&gt;Bruce Schneier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP_pipelining&#34;&gt;Pipelining i HTTP 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Slow-start&#34;&gt;TCP har slow start&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://trafficserver.apache.org/&#34;&gt;Apache traffic server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://h2o.examp1e.net/&#34;&gt;H20&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robustness_principle&#34;&gt;Be liberal in what you accept&lt;/a&gt; - ett mantra som inte gäller för HTTP 2&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bagder&#34;&gt;@bagder&lt;/a&gt; - Daniel på Twitter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://daniel.haxx.se/&#34;&gt;daniel.haxx.se&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;HTTP-biblioteket som nästan alla använder till nästan allting&lt;/li&gt;
-&lt;li&gt;Konsult i alla år sedan evigheter&lt;/li&gt;
-&lt;li&gt;Jag ville hämta valutakurser från webben&lt;/li&gt;
-&lt;li&gt;När open source-projekt blir större&lt;/li&gt;
-&lt;li&gt;Jag sitter här på min övervåning&lt;/li&gt;
-&lt;li&gt;Fascinerande långt gånget i implementation&lt;/li&gt;
-&lt;li&gt;Bara för att folk surfar till Google&lt;/li&gt;
-&lt;li&gt;När man skriver Telnet till port 80&lt;/li&gt;
-&lt;li&gt;I själva verket har väldigt få gjort telnet&lt;/li&gt;
-&lt;li&gt;Multipla strömmar över samma koppel&lt;/li&gt;
-&lt;li&gt;Ge mig allt nu, så mycket du bara kan&lt;/li&gt;
-&lt;li&gt;Du frågar efter allting på en gång&lt;/li&gt;
-&lt;li&gt;Fler svar, tidigare&lt;/li&gt;
-&lt;li&gt;Blir det fel så stänger den av&lt;/li&gt;
-&lt;li&gt;Det leder ju bara till smärta efter några år&lt;/li&gt;
-&lt;li&gt;Det är ingen som märker någon skillnad (där heller)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
