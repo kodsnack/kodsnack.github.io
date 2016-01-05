@@ -2,11 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avsnitt on Kodsnack </title>
-    <link>http://kodsnack.se/avsnitt/index.xml</link>
+    <link>http://kodsnack.se/avsnitt/</link>
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Wed, 30 Dec 2015 17:26:14 UTC</updated>
+    <updated>Tue, 05 Jan 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 137 - Mitt dagliga problem</title>
+      <link>http://kodsnack.se/137/</link>
+      <pubDate>Tue, 05 Jan 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/137/</guid>
+      <description>
+
+&lt;p&gt;Programmeringsövningar och tips till nybörjare på programmering.&lt;/p&gt;
+
+&lt;p&gt;Fredrik och Kristoffer snackar att koppla bort på semestern och mer om övningar för programmerare. Vi funderar över upprepningens värde för lärandet och undrar om inte hela utvecklarvärlden byggt upp en missriktad rädsla för upprepning.&lt;/p&gt;
+
+&lt;p&gt;Har ni fler förslag på bra dagliga problem? Fortsätt skicka in dem! &lt;a href=&#34;https://twitter.com/LudvigGislason&#34;&gt;Ludvig Gislason&lt;/a&gt; hörde av sig med två tips:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;http://www.hackerrank.com&#34;&gt;Hackerrank&lt;/a&gt; har gjort lite sport av det och där finns tävlingar, ranking osv men framförallt har de en stor drös problem att lösa och stöd för att du laddar upp dina lösningar till dem i en mängd olika språk. För mig som gillar att knacka kod lite som andra tycker om att spela tvspel var det här upptäckandet en riktigt trevlig överraskning. Jag upptäckte sidan genom en inspelad livesession på youtube av en användare som kallar sig SnapDragon.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.exercism.io&#34;&gt;Exercism.io&lt;/a&gt; har ett antal problemset utformade som test suites i ett 20-tal språk som du ska få gröna. De har byggt ett CLI-verktyg runt tjänsten för att hantera problem och lösningar där du authar via github. Användare kan sedan &amp;ldquo;nitpicka&amp;rdquo; varandras lösningar och komma med förslag så att man kan iterera över sin lösning och submitta eventuella förbättringar. Jag har bara gjort ett par stycken men jag gillar verkligen initiativet och bredden.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Fredrik återupptäcker charmen med dataimport - i PHP dessutom. Hur många procent av all kod som skrivs handlar om import och export (och lite massage på vägen) av data? Har det bidragit till uppskattningen av funktionell programmering? Blir alla problem mer lätthanterade av att omformuleras som datamanipulering?&lt;/p&gt;
+
+&lt;p&gt;Som andra huvudämne snackar vi utifrån lyssnares frågor om utmaningarna kring att komma igång med programmering. Det viktiga är inte vilket språk eller vilka verktyg man väljer utan att man börjar göra saker. Kommer man på att något inte passar en upptäcker man det med tiden, och då går det utmärkt att växla till något annat språk eller andra verktyg. Vi undrar om Javascript är ett bra språk att börja med, för att det är populärt och användbart men kanske ännu mer för att allt man behöver för att börja är en webbläsare och kanske ett textredigeringsprogram och båda delarna redan finns på varenda dator, och konstaterar att vi tyvärr inte har några tips på bra nybörjarböcker.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:e6dcc01bdd30077b6ad72b9a29ab3475&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;Kodsnacks Github-repo för Advent of code-lösningar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/133/&#34;&gt;Kodsnack 136&lt;/a&gt; - avsnittet där Kristoffer efterlyste dagliga övningar för programmerare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codekata.com/&#34;&gt;Kodkator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projecteuler.net/&#34;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hackerrank.com/&#34;&gt;Hackerrank&lt;/a&gt; - tips från Ludvig Gislason&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.exercism.io/&#34;&gt;Exercism&lt;/a&gt; - tips från Ludvig Gislason&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Breakout_%28video_game%29&#34;&gt;Breakout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://es6-features.org/#Constants&#34;&gt;Ecmascript 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/kod/&#34;&gt;En liten sida på Kodsnack för kod&lt;/a&gt; - inte bara Advent of code&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.m.wikipedia.org/wiki/Joacim_Melin&#34;&gt;Melin&lt;/a&gt; - Joacim Melin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoremanmelin.se/&#34;&gt;Björeman // Melin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.macpro.se/&#34;&gt;Macpro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tyler.io/importing-jekyll-posts-into-wordpress/&#34;&gt;Exempelskriptet för import av markdownfiler till Wordpress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/&#34;&gt;Varför folk som bryr sig om språk inte gillar PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://php.net/manual/en/index.php&#34;&gt;PHP-dokumentationen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodcentrum.se/&#34;&gt;Kodcentrum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scratch.mit.edu/&#34;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PEEK_and_POKE&#34;&gt;Peek och poke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://squeak.org/&#34;&gt;Squeak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers.productCd-0764579088.html&#34;&gt;Professional Javascript, av Nicholas Zakas. Fredrik hade tydligen första upplagan, den andra var den som började få för mycket att omfamna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596517748.do&#34;&gt;Javascript the good parts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Andr%C3%A9_LaMothe&#34;&gt;André Lamothe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs&#34;&gt;SICP&lt;/a&gt; - Structure and interpretation of computer programs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ccs.neu.edu/home/matthias/BTLS/&#34;&gt;The little schemer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Metaprogramming&#34;&gt;Metaprogrammering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gerald_Jay_Sussman&#34;&gt;Gerald Sussman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Feynman&#34;&gt;Richard Feynman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overcast.fm/+I_JFBNKk&#34;&gt;Debug 76 med Melton och Ganatra&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:e6dcc01bdd30077b6ad72b9a29ab3475&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag kan inte riktigt koppla bort det&lt;/li&gt;
+&lt;li&gt;Daglig övning för programmering&lt;/li&gt;
+&lt;li&gt;Man går alltid vidare till nästa sak&lt;/li&gt;
+&lt;li&gt;Repetitionen som är kärnan i att lära sig&lt;/li&gt;
+&lt;li&gt;Mitt dagliga problem&lt;/li&gt;
+&lt;li&gt;Innan det kan bli ett dagligt problem&lt;/li&gt;
+&lt;li&gt;Ren datamanipulering är ju ganska kul&lt;/li&gt;
+&lt;li&gt;När jag använde PHP så var det väldigt länge sedan&lt;/li&gt;
+&lt;li&gt;Stack overflow i dokumentationen&lt;/li&gt;
+&lt;li&gt;Vad jag tror är ett bra sätt att börja&lt;/li&gt;
+&lt;li&gt;Vem är det som vill börja programmera?&lt;/li&gt;
+&lt;li&gt;En helt annan panik i rösten&lt;/li&gt;
+&lt;li&gt;Tankar som man helst bara skjuter åt sidan&lt;/li&gt;
+&lt;li&gt;Både roligt och begripligt&lt;/li&gt;
+&lt;li&gt;Vilka verktyg ska jag köpa?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 136 - You can do all of this with the brain of a sesame seed</title>
@@ -18,7 +102,7 @@
 
 &lt;p&gt;This episode is a little special. It is kind of bonus material for the &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev conference&lt;/a&gt; of 2015. In it, you will hear Tim Urban and Torill Kornfeldt discuss artificial intelligence, life extension and the differing mindsets of technology and biology.&lt;/p&gt;
 
-&lt;p&gt;Tim Urban is the writer of &lt;a href=&#34;http://waitbutwhy.com/&#34;&gt;Wait but why&lt;/a&gt;y, a fantastic website of deep dives into topics like &lt;a href=&#34;http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;artificial intelligence&lt;/a&gt;, &lt;a href=&#34;http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html&#34;&gt;Tesla and SpaceX&lt;/a&gt; but also softer topics like &lt;a href=&#34;http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html&#34;&gt;procrastination&lt;/a&gt; and &lt;a href=&#34;http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html&#34;&gt;the fear of what other people think&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tim Urban is the writer of &lt;a href=&#34;http://waitbutwhy.com/&#34;&gt;Wait but why&lt;/a&gt;, a fantastic website of deep dives into topics like &lt;a href=&#34;http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;artificial intelligence&lt;/a&gt;, &lt;a href=&#34;http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html&#34;&gt;Tesla and SpaceX&lt;/a&gt; but also softer topics like &lt;a href=&#34;http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html&#34;&gt;procrastination&lt;/a&gt; and &lt;a href=&#34;http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html&#34;&gt;the fear of what other people think&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/vet_Torill&#34;&gt;Torill Kornfeldt&lt;/a&gt; is a biologist and science journalist who is currently working on a book about de-extinction - the bringing back of extinct species.&lt;/p&gt;
 
@@ -28,7 +112,7 @@
 
 &lt;p&gt;We are so happy this conversation came together and how it turned out, pure audio quality aside, and we hope you will enjoy it too!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Links&lt;/h2&gt;
+&lt;h2 id=&#34;links:d6086952b9eb3b25ab4fd390dd295a10&#34;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://vimeo.com/144847615&#34;&gt;Tim&amp;rsquo;s keynote&lt;/a&gt; - The AI revolution: the road to superintelligence&lt;/li&gt;
@@ -50,7 +134,7 @@
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cryonics&#34;&gt;Cryonics&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Cryopreservation&#34;&gt;cryopreservation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titles&lt;/h2&gt;
+&lt;h2 id=&#34;titles:d6086952b9eb3b25ab4fd390dd295a10&#34;&gt;Titles&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;You can do all of this with the brain of a sesame seed&lt;/li&gt;
@@ -86,7 +170,7 @@
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:abd11168f9e30954449843c980ce9bde&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/vet_Torill&#34;&gt;Torill på Twitter&lt;/a&gt;&lt;/li&gt;
@@ -103,7 +187,7 @@
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_P._Friedman&#34;&gt;Daniel Friedman&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:abd11168f9e30954449843c980ce9bde&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Det är lätt att bli lite lat i det&lt;/li&gt;
@@ -148,7 +232,7 @@
 
 &lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Links&lt;/h2&gt;
+&lt;h2 id=&#34;links:acae682d07038a0765a65a5814dfa9eb&#34;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/F_Sharp_%28programming_language%29&#34;&gt;F#&lt;/a&gt;&lt;/li&gt;
@@ -187,7 +271,7 @@
 &lt;li&gt;&lt;a href=&#34;http://blog.ian.gent/2013/10/the-petrie-multiplier-why-attack-on.html&#34;&gt;The petrie multiplier&lt;/a&gt; - the blog post Rachel mentioned&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titles&lt;/h2&gt;
+&lt;h2 id=&#34;titles:acae682d07038a0765a65a5814dfa9eb&#34;&gt;Titles&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Some big American conference&lt;/li&gt;
@@ -236,7 +320,7 @@
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:715d5013818a9b42002143588dd5a66b&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://kodsnack.se/132/&#34;&gt;En ny demon som måste matas med tårar&lt;/a&gt; - förra veckans avsnitt&lt;/li&gt;
@@ -271,7 +355,7 @@
 &lt;li&gt;&lt;a href=&#34;http://www.openrice.com/en/hongkong/restaurant/tsim-sha-tsui-whats-dogs/461926&#34;&gt;What&amp;rsquo;s dogs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:715d5013818a9b42002143588dd5a66b&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Alla tre i podcasten, samtidigt&lt;/li&gt;
@@ -310,7 +394,7 @@
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:0dc63353c7091791cf4d2c39ff9da4da&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_refactoring&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
@@ -339,7 +423,7 @@
 &lt;li&gt;&lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:0dc63353c7091791cf4d2c39ff9da4da&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Ingen bra situation&lt;/li&gt;
@@ -383,7 +467,7 @@
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:e5b2f82f147e78223997bf726b622ab0&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://mynoise.net/NoiseMachines/fireNoiseGenerator.php&#34;&gt;Eldstadsgeneratorn&lt;/a&gt;&lt;/li&gt;
@@ -440,7 +524,7 @@
 &lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API&#34;&gt;Web audio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:e5b2f82f147e78223997bf726b622ab0&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Jag var på en annan konferens samtidigt&lt;/li&gt;
@@ -489,7 +573,7 @@
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:1c877f5ea619f259386c13c82aa719eb&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Hack for refugees på &lt;a href=&#34;https://www.facebook.com/events/165309683822188/&#34;&gt;Facebook&lt;/a&gt; och &lt;a href=&#34;http://hackforrefugees.com/register/&#34;&gt;hackforrefugees.com&lt;/a&gt;&lt;/li&gt;
@@ -514,7 +598,7 @@
 &lt;li&gt;&lt;a href=&#34;http://kodsnack.se/video/&#34;&gt;Kodsnacksvideo från Øredev&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:1c877f5ea619f259386c13c82aa719eb&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Sedan urminnes tider&lt;/li&gt;
@@ -558,7 +642,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:c0d6e6478733e9ceb75a9f2d792c343c&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
@@ -603,7 +687,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Will_Wright_%28game_designer%29&#34;&gt;Will Wright&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:c0d6e6478733e9ceb75a9f2d792c343c&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Malmö är någon typ av anomali&lt;/li&gt;
@@ -659,7 +743,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:65ffd55ca491ab7907ebb9a150619666&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.iteam.se/coworkers/johan/&#34;&gt;Johan Öbrink&lt;/a&gt;&lt;/li&gt;
@@ -699,7 +783,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;DPU&lt;/a&gt; - Die progress unit - den mängd förändring som tar död på en tidsresenär genom ren chock. (Länken går till artikeln Tims tal till stor del byggde på)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:65ffd55ca491ab7907ebb9a150619666&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Det är jag som har roligast här&lt;/li&gt;
@@ -757,7 +841,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:61e3398bae2e76e89556f8e9d4b338e6&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Avengers_%282012_film%29&#34;&gt;Avengers&lt;/a&gt;&lt;/li&gt;
@@ -792,7 +876,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/KodSnack/status/655034691930726400&#34;&gt;Tweetet med de tröjor vi har kvar&lt;/a&gt; - och kan köpas för 250 riksdaler inklusive frakt&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:61e3398bae2e76e89556f8e9d4b338e6&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Ett sånt där mysigt avsnitt igen&lt;/li&gt;
@@ -845,7 +929,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:4d75d94f9dd65bd15e3e98d25c67fb76&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/&#34;&gt;Plex-releasen&lt;/a&gt; - ämnet för förra veckans avsnitt&lt;/li&gt;
@@ -900,7 +984,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iniwPUEbPUM&#34;&gt;Cascading shit show&lt;/a&gt; av &lt;a href=&#34;https://twitter.com/fat&#34;&gt;Jacob Thornton&lt;/a&gt; - Videon om CSS historia&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:4d75d94f9dd65bd15e3e98d25c67fb76&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Implementera en optimering&lt;/li&gt;
@@ -949,7 +1033,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:7fa7388dc19c744016196bfe720f5ae7&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight3/&#34;&gt;Code night 3&lt;/a&gt; - Framtidens arkitekturer&lt;/li&gt;
@@ -1012,7 +1096,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HDMI#CEC&#34;&gt;CEC&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:7fa7388dc19c744016196bfe720f5ae7&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Ett hotellrum i Stockholm&lt;/li&gt;
@@ -1090,7 +1174,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:95efed9b9d26d8c00e3f7bb8cc838603&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.gbgstartuphack.com/&#34;&gt;Gothenburg startup hack&lt;/a&gt;&lt;/li&gt;
@@ -1122,7 +1206,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;&lt;a href=&#34;https://vimeo.com/69255635&#34;&gt;En godispresentation&lt;/a&gt; - &amp;ldquo;Classical inheritance is obsolete - how to think in prototypal OO&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:95efed9b9d26d8c00e3f7bb8cc838603&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;IT-föräldrarnas barn&lt;/li&gt;
@@ -1150,7 +1234,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 
 &lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:b55542b5781134934d1bafc43c66314b&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://kodsnack.se/events/&#34;&gt;Framträdanden&lt;/a&gt; - tillställningar vi på Kodsnack deltar i&lt;/li&gt;
@@ -1210,7 +1294,7 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Generics_in_Java&#34;&gt;Generics i Java&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:b55542b5781134934d1bafc43c66314b&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;I Silicon valley heter det brogold&lt;/li&gt;
@@ -1255,98 +1339,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;Det finns inga gränser för vad man kan göra i Scala&lt;/li&gt;
 &lt;li&gt;Jag vill allt&lt;/li&gt;
 &lt;li&gt;Språkutbrott&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 122 - Lättillgängligt om säkerhet</title>
-      <link>http://kodsnack.se/122/</link>
-      <pubDate>Tue, 29 Sep 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/122/</guid>
-      <description>
-
-&lt;p&gt;Tobias, Fredrik och, lite oväntat, &lt;a href=&#34;https://twitter.com/joltcan&#34;&gt;Fredrik&lt;/a&gt; snackar om endagssäkerhetskonferensen &lt;a href=&#34;http://www.nextgenerationthreats.se&#34;&gt;Next generation threats&lt;/a&gt;: innehåll, åsikter och idéer.Vi täcker både formen på dagen, talarnas presentationer, diskussioner utifrån presentationerna, våra idéer utifrån dem och försöker knyta ihop allt till någon sorts helhet. Hur ska man ge respons på hack? Spelar det någon roll om det är en ensam galning eller en hel nation bakom? Vem ska man ringa när man blir hackad? Och vilken presentation var egentligen viktigast?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/ngt15/2015/&#34;&gt;Next generation threats 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/joltcan&#34;&gt;Fredrik Lundhag&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.proceranetworks.com/index.php&#34;&gt;Procera&lt;/a&gt; - Fredriks jobb&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34;&gt;Jira&lt;/a&gt; - projekt- och ärendehanteringssystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/about.html&#34;&gt;Bruce Schneier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Transportation_Security_Administration&#34;&gt;TSA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security_theater&#34;&gt;Säkerhetsteater&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/books/beyond_fear/&#34;&gt;Beyond fear&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/books/liars_and_outliers/&#34;&gt;Liars and outliers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sony_Pictures_Entertainment_hack&#34;&gt;Sony-hacket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fortune.com/sony-hack-part-1/&#34;&gt;Artikeln Bruce rekommenderade&lt;/a&gt; - i Fortune(?)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Edward_Snowden&#34;&gt;Edward Snowden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Main_Page&#34;&gt;Incidentrespons&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zero-day_%28computing%29&#34;&gt;Zero-day exploit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/07/02/security-notice-forum-user-password-resets/&#34;&gt;Hacket av Plex forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/rootkovska/&#34;&gt;Joanna Rutkowska&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://invisiblethingslab.com/itl/Welcome.html&#34;&gt;Invisible things labs&lt;/a&gt; - Joannas företag&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Trusted_computing_base&#34;&gt;TCB&lt;/a&gt; - trusted computing base&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.qubes-os.org/&#34;&gt;Qubes OS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/rootkovska/status/646270667936010240&#34;&gt;Lågnivå, det där var inte lågnivå&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Opcode&#34;&gt;Opkoder&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/jwunsche&#34;&gt;Jan Wünsche&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Milit%C3%A4ra_underr%C3%A4ttelse-_och_s%C3%A4kerhetstj%C3%A4nsten&#34;&gt;Must&lt;/a&gt; - Militära underrättelse- och säkerhetstjänsten&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pub/robin-blokker/0/a9a/772&#34;&gt;Robin Blokker&lt;/a&gt; - FRA-deltagaren på NGT 2014&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.truesec.com/Profiles&#34;&gt;Marcus Murray&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.truesec.com/&#34;&gt;Truesec&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.arduino.cc/&#34;&gt;Arduino&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Powershell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Azure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Keystroke_logging&#34;&gt;Keylogger&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/plastfolie&#34;&gt;Hanna Lidzell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Phishing&#34;&gt;Phising&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/books/applied_cryptography/&#34;&gt;Bruce tidiga bok om kryptering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.schneier.com/crypto-gram/&#34;&gt;Bruce nyhetsbrev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dubbelt så mycket Fredrik&lt;/li&gt;
-&lt;li&gt;Ganska lössläppt diskussion&lt;/li&gt;
-&lt;li&gt;Lite lagom uppstyrt&lt;/li&gt;
-&lt;li&gt;En frågestund som faktiskt ger någonting&lt;/li&gt;
-&lt;li&gt;Att lyssna på smarta människor är ju alltid intressant&lt;/li&gt;
-&lt;li&gt;Vi säger Björeman då&lt;/li&gt;
-&lt;li&gt;Pragmatisk säkerhet&lt;/li&gt;
-&lt;li&gt;Lättillgängligt om säkerhet&lt;/li&gt;
-&lt;li&gt;I ett samhälle som alltid är uppkopplat och ständigt närvarande&lt;/li&gt;
-&lt;li&gt;Inte någon på hela internet som trodde på dem&lt;/li&gt;
-&lt;li&gt;Ett intressant dubbeleggat svärd&lt;/li&gt;
-&lt;li&gt;Slåss i cyberrymden&lt;/li&gt;
-&lt;li&gt;Något slags terrorbalans&lt;/li&gt;
-&lt;li&gt;Alla vi som jobbar på internet&lt;/li&gt;
-&lt;li&gt;Det kan vara två personer i en källare, det kan vara en hel nation&lt;/li&gt;
-&lt;li&gt;Flera veckor innan man vet vem som gjorde vad&lt;/li&gt;
-&lt;li&gt;Vi har helt plötsligt en rutin&lt;/li&gt;
-&lt;li&gt;Vem ska jag ringa och vad ska jag slå av?&lt;/li&gt;
-&lt;li&gt;Låta gamla system rulla och hoppas på det bästa&lt;/li&gt;
-&lt;li&gt;Mitt företag är nog för litet för att vara ett mål&lt;/li&gt;
-&lt;li&gt;Han gick bara upp med ett papper i handen&lt;/li&gt;
-&lt;li&gt;Ingen kedja är svagare än dess svagaste länk&lt;/li&gt;
-&lt;li&gt;Ingen sak som är lätt att mäta&lt;/li&gt;
-&lt;li&gt;De har inga mandat att göra någonting&lt;/li&gt;
-&lt;li&gt;Själva trolleritricket när man byter ut någonting bakom ryggen&lt;/li&gt;
-&lt;li&gt;När man väl fått in sin keylogger&lt;/li&gt;
-&lt;li&gt;Man måste ju alltid lita på ett system någonstans&lt;/li&gt;
-&lt;li&gt;Du kan ju inte tvinga folk att bli säkerhetsmedvetna&lt;/li&gt;
-&lt;li&gt;Allt är kört&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

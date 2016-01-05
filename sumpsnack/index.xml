@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>08 Dec 2015 10:26 +0000</pubDate>
-        <lastBuildDate>08 Dec 2015 10:26 +0000</lastBuildDate>
+        <pubDate>05 Jan 2016 10:26 +0000</pubDate>
+        <lastBuildDate>05 Jan 2016 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -36,8 +36,66 @@
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
         
             <item>
-                <pubDate>08 Dec 2015 10:26 +0000</pubDate>
+                <title>Sumpsnack 20 - Autentiskt gammaldags digitalt </title>
+                <pubDate>05 Jan 2016 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/20/</guid>
+                <link>http://kodsnack.se/sumpsnack/20/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Kristoffer pratar om att sätta ihop en studio runt och med en dator och alla problem man kan köra fast i. Ljuddrivrutiner och deras problem, buffertar, ljudredigeringsprogram och charmen med analog inspelning.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:eae282e3e4b12108386442085f9d1a62&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntustudio.org/&#34;&gt;Ubuntu studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OS_X_El_Capitan&#34;&gt;El capitan&lt;/a&gt; - 2015 års version av Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Audio_Stream_Input/Output&#34;&gt;ASIO-drivrutiner&lt;/a&gt; - Audio stream input/output&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Steinberg_Cubase&#34;&gt;Cubase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Logic_Studio&#34;&gt;Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/REAPER&#34;&gt;Reaper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mac_Pro&#34;&gt;Mac pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://steveonjava.com/&#34;&gt;Stephen Chin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IMac_G4&#34;&gt;Klassiska Imac på arm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Power_Mac_G4_Cube&#34;&gt;&amp;ldquo;Kuben&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/blog/raspberry-pi-zero/&#34;&gt;Raspberry pi zero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rasplex.com/&#34;&gt;Plex på Raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://line6.com/&#34;&gt;Line 6&lt;/a&gt; - tillverkare av Kristoffers effektpedal&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.asio4all.com/&#34;&gt;ASIO4all&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:eae282e3e4b12108386442085f9d1a62&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linuxvänlig&lt;/li&gt;
+&lt;li&gt;Rökarfiltret&lt;/li&gt;
+&lt;li&gt;Som alltid när det är teknik i frågan&lt;/li&gt;
+&lt;li&gt;Små buffrar för ljudet&lt;/li&gt;
+&lt;li&gt;Ackumulerat jox&lt;/li&gt;
+&lt;li&gt;En rå gitarrsignal&lt;/li&gt;
+&lt;li&gt;Både I och O på samma gång&lt;/li&gt;
+&lt;li&gt;Rackmontering av Raspberry pi&lt;/li&gt;
+&lt;li&gt;Ljudet av buffrar som blir fulla&lt;/li&gt;
+&lt;li&gt;Retromysigt&lt;/li&gt;
+&lt;li&gt;Autentiskt gammaldags digitalt&lt;/li&gt;
+&lt;li&gt;Det låter som 2000-talet&lt;/li&gt;
+&lt;li&gt;Digitalnostalgiker&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="12968167" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_20.mp3"/>
+                <itunes:duration>26:17</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
+        
+            <item>
                 <title>Sumpsnack 19 - Man har blandat ihop tråkigt och svårt </title>
+                <pubDate>08 Dec 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/19/</guid>
                 <link>http://kodsnack.se/sumpsnack/19/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -48,7 +106,7 @@
 
 &lt;p&gt;Och Tobias spelar fortfarande mycket Destiny.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:2768a00e5ca857b1ea13c84a9c9c7d91&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider&#34;&gt;Rise of Tomb raider&lt;/a&gt; - nya Tomb Raider&lt;/li&gt;
@@ -58,7 +116,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.facebook.com/SVTPlay/videos/1050816918273317/&#34;&gt;GW Persson och hans skumbanan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:2768a00e5ca857b1ea13c84a9c9c7d91&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Jag trodde du var 100% Destiny&lt;/li&gt;
@@ -80,8 +138,8 @@
             </item>
         
             <item>
-                <pubDate>03 Nov 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 18 - Gå på bio när man har barn </title>
+                <pubDate>03 Nov 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/18/</guid>
                 <link>http://kodsnack.se/sumpsnack/18/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -92,7 +150,7 @@
 
 &lt;p&gt;Och så veckans rapport om Destiny, förstås.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:bbec135fe53a2fe60481f0e57358a7ad&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Avengers_%282012_film%29&#34;&gt;Avengers&lt;/a&gt;&lt;/li&gt;
@@ -114,7 +172,7 @@
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Razer_Inc.&#34;&gt;Razer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:bbec135fe53a2fe60481f0e57358a7ad&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gå på bio när man har barn&lt;/li&gt;
@@ -134,8 +192,8 @@
             </item>
         
             <item>
-                <pubDate>06 Oct 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 17 - Hur många gånger ser man en film? </title>
+                <pubDate>06 Oct 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/17/</guid>
                 <link>http://kodsnack.se/sumpsnack/17/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -144,7 +202,7 @@
 
 &lt;p&gt;Fredrik och Kristoffer snackar sevärda filmer, strömmande och priset på att hyra över nätet och att titta på 4K-saker. Och ett boktips.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:8ab06f9a4093dbea0d581b89e7fcf8e6&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road&#34;&gt;Mad Max fury road&lt;/a&gt;&lt;/li&gt;
@@ -162,7 +220,7 @@
 &lt;li&gt;&lt;a href=&#34;http://www.sf.se/biografer/goteborg-biopalatset/&#34;&gt;Biopalatset&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:8ab06f9a4093dbea0d581b89e7fcf8e6&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Hur många gånger ser man en film?&lt;/li&gt;
@@ -181,8 +239,8 @@
             </item>
         
             <item>
-                <pubDate>25 Aug 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 16 - Jag måste ju åka till Toscana </title>
+                <pubDate>25 Aug 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/16/</guid>
                 <link>http://kodsnack.se/sumpsnack/16/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -191,7 +249,7 @@
 
 &lt;p&gt;Omvälvande händelser i destinyvärlden, och hur gör man sig bäst förtjänt av exotiska vapen? Och så årets största första världen-problem.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:61ee445a55ff4f7c2d2862f2c1719807&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
@@ -206,7 +264,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.the100.io/&#34;&gt;The 100&lt;/a&gt; - hitta bra folk att spela Destiny med&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:61ee445a55ff4f7c2d2862f2c1719807&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gick helt sönder&lt;/li&gt;
@@ -228,8 +286,8 @@
             </item>
         
             <item>
-                <pubDate>15 Aug 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 15 - Röd istället för grön </title>
+                <pubDate>15 Aug 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/15/</guid>
                 <link>http://kodsnack.se/sumpsnack/15/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -238,13 +296,13 @@
 
 &lt;p&gt;Mikrofonmysterier och semestersysslor.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:33c5139a5c41b47d8e98d1b80005b3ab&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.rode.com/microphones/podcaster&#34;&gt;Røde podcaster&lt;/a&gt; - mikrofonen alla i Kodsnack använder&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:33c5139a5c41b47d8e98d1b80005b3ab&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Röd istället för grön&lt;/li&gt;
@@ -260,8 +318,8 @@
             </item>
         
             <item>
-                <pubDate>12 Aug 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 14 - Jag var utomhus igår </title>
+                <pubDate>12 Aug 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/14/</guid>
                 <link>http://kodsnack.se/sumpsnack/14/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -270,7 +328,7 @@
 
 &lt;p&gt;Utmaning i spel, Last of us story (utan spoilers) och Batman Arkham knights trasighet.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:76e8ecb8f550946cd307b4b297270d30&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://rogueamoeba.com/audiohijack/&#34;&gt;Audio Hijack&lt;/a&gt;&lt;/li&gt;
@@ -282,7 +340,7 @@
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rocksteady_Studios&#34;&gt;Rocksteady&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:76e8ecb8f550946cd307b4b297270d30&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Jag var utomhus igår&lt;/li&gt;
@@ -300,8 +358,8 @@
             </item>
         
             <item>
-                <pubDate>06 Aug 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 13 - Aktivera sig på ett sätt som inte involverar hjärnan </title>
+                <pubDate>06 Aug 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/13/</guid>
                 <link>http://kodsnack.se/sumpsnack/13/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -312,7 +370,7 @@
 
 &lt;p&gt;Sist lite spelsnack och en varning om att kombinera Microsoft med Microsoft.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:32ab7b0c6e5c0847de57dbe972bf41b1&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://5by5.tv/b2w&#34;&gt;Back to work&lt;/a&gt;&lt;/li&gt;
@@ -333,7 +391,7 @@
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Icewind_Dale&#34;&gt;Icewind dale&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:32ab7b0c6e5c0847de57dbe972bf41b1&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Sortera sig bättre&lt;/li&gt;
@@ -359,8 +417,8 @@
             </item>
         
             <item>
-                <pubDate>09 Jun 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 12 - Off-book </title>
+                <pubDate>09 Jun 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/12/</guid>
                 <link>http://kodsnack.se/sumpsnack/12/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -369,7 +427,7 @@
 
 &lt;p&gt;Kristoffer berättar för Fredrik vad han måste se.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:f8f77b88bd8a459db740f47c2bc9577e&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mad_Max&#34;&gt;Mad Max&lt;/a&gt;&lt;/li&gt;
@@ -402,8 +460,8 @@
             </item>
         
             <item>
-                <pubDate>14 Apr 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 11 - Fröken Ur började komma in i bilden </title>
+                <pubDate>14 Apr 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/11/</guid>
                 <link>http://kodsnack.se/sumpsnack/11/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -412,7 +470,7 @@
 
 &lt;p&gt;Josefin, Kristoffer och Fredrik diskuterar respons på Kodsnack, språk på utbildningar, skott-tidsenheter och tidszoner.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:0d5879b806136f0fa50ee21553892511&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.bluej.org&#34;&gt;Bluej&lt;/a&gt;&lt;/li&gt;
@@ -425,7 +483,7 @@
 &lt;li&gt;&lt;a href=&#34;http://day9.tv/&#34;&gt;Day9&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:0d5879b806136f0fa50ee21553892511&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Nu har vi inte gjort det så lätt för folk att ge respons längre&lt;/li&gt;
@@ -450,8 +508,8 @@
             </item>
         
             <item>
-                <pubDate>07 Apr 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 10 - En gammal långsam snurrande disk </title>
+                <pubDate>07 Apr 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/10/</guid>
                 <link>http://kodsnack.se/sumpsnack/10/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -460,7 +518,7 @@
 
 &lt;p&gt;Fredrik berättar för Kristoffer vad som hänt i applevärlden på sistone och funderar på planer för att leva med en enda USB-port.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:308567cfbd1525551cff24e29a6013b6&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://9to5mac.com/tag/os-x-10-10-3/&#34;&gt;10.10.3&lt;/a&gt;&lt;/li&gt;
@@ -475,7 +533,7 @@
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MagSafe&#34;&gt;Magsafe&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:308567cfbd1525551cff24e29a6013b6&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;På redan när jag väckte den&lt;/li&gt;
@@ -494,8 +552,8 @@
             </item>
         
             <item>
-                <pubDate>24 Feb 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 9 - Kul att det finns så nischade saker </title>
+                <pubDate>24 Feb 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/9/</guid>
                 <link>http://kodsnack.se/sumpsnack/9/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -504,7 +562,7 @@
 
 &lt;p&gt;Fredrik och &lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;Cenny&lt;/a&gt; snackar poddradio som koncept. Tillgängligheten på nischade saker är bättre än någonsin. Värdet av att ha, höra och diskutera olika åsikter. Och så lite fönster- och filhantering. Diskussion av första intryck av Apples nya fotoapplikation Bilder. Icloud kontra Dropbox. Och kan det nya Apple vara bättre än det gamla?!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:6a1322aee4e58bdcf88063043cbd86e6&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.esn.fm/systematic/&#34;&gt;Systematic&lt;/a&gt;&lt;/li&gt;
@@ -547,7 +605,7 @@
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IAd&#34;&gt;Iad&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:6a1322aee4e58bdcf88063043cbd86e6&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Som en riktigt bra sagoberättare&lt;/li&gt;
@@ -570,8 +628,8 @@
             </item>
         
             <item>
-                <pubDate>17 Feb 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 8 - Våga vägra industrisemlan </title>
+                <pubDate>17 Feb 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/8/</guid>
                 <link>http://kodsnack.se/sumpsnack/8/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -580,7 +638,7 @@
 
 &lt;p&gt;Vi snackar skrivbord, semlor och små, små datorer.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:f5241d3893893fe6fff8f57bd2dbf29a&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.ikea.com/se/sv/catalog/categories/departments/workspaces/18960/&#34;&gt;Bekant&lt;/a&gt; - IKEAs skrivbord&lt;/li&gt;
@@ -598,7 +656,7 @@
 &lt;li&gt;&lt;a href=&#34;https://rogueamoeba.com/audiohijack/&#34;&gt;Audio hijack&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:f5241d3893893fe6fff8f57bd2dbf29a&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Jag blir ju bara tokig av att lyssna på det där&lt;/li&gt;
@@ -618,8 +676,8 @@
             </item>
         
             <item>
-                <pubDate>10 Feb 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 7 - Jag har uppgraderat min podcaststudio </title>
+                <pubDate>10 Feb 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/7/</guid>
                 <link>http://kodsnack.se/sumpsnack/7/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -628,7 +686,7 @@
 
 &lt;p&gt;Fredrik och Tobias snackar poddradiotillbehör.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:3fe6470b8b5545950067d3d709c8e634&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.rode.com/microphones/podcaster&#34;&gt;Røde podcaster&lt;/a&gt; - mikrofonen alla i Kodsnack använder&lt;/li&gt;
@@ -640,7 +698,7 @@
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Flat_Display_Mounting_Interface&#34;&gt;VESA-fästen&lt;/a&gt; - standard för att fästa TV-apparater och andra platta skärmar på armar och andra typer av ställ&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:3fe6470b8b5545950067d3d709c8e634&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Jag har uppgraderat min podcaststudio&lt;/li&gt;
@@ -658,8 +716,8 @@
             </item>
         
             <item>
-                <pubDate>27 Jan 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 6 - Ett lager till av trasighet </title>
+                <pubDate>27 Jan 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/6/</guid>
                 <link>http://kodsnack.se/sumpsnack/6/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -668,7 +726,7 @@
 
 &lt;p&gt;Vi snackar Portal och Portal 2, Matrix-trilogin, ljudinspelning och ljud-API:er.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:7c4156473a0d57f79901cf8c5eff898e&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Twitch.tv&#34;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
@@ -688,7 +746,7 @@
 &lt;li&gt;&lt;a href=&#34;https://handmadehero.org/&#34;&gt;Handmade hero&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:7c4156473a0d57f79901cf8c5eff898e&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Det är ju testkammare&lt;/li&gt;
@@ -713,8 +771,8 @@
             </item>
         
             <item>
-                <pubDate>20 Jan 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 5 - Den fastnar bra i bordet </title>
+                <pubDate>20 Jan 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/5/</guid>
                 <link>http://kodsnack.se/sumpsnack/5/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -723,7 +781,7 @@
 
 &lt;p&gt;Fredrik och Tobias snackar om nya leksaker.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:4108045d631e1ffc0a8f9e461e342847&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/tapbot_paul&#34;&gt;Paul Haddad&lt;/a&gt;&lt;/li&gt;
@@ -742,7 +800,7 @@
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:4108045d631e1ffc0a8f9e461e342847&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Den fastnar bra i bordet&lt;/li&gt;
@@ -760,8 +818,8 @@
             </item>
         
             <item>
-                <pubDate>18 Jan 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 4 - Vi är hycklare allihop </title>
+                <pubDate>18 Jan 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/4/</guid>
                 <link>http://kodsnack.se/sumpsnack/4/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -774,7 +832,7 @@
 
 &lt;p&gt;Därpå följer huvuddelen av avsnittet. Den är inspelad några dagar senare och diskuterar vidare uppföljning av utvecklingen, folks reaktioner, extremism, yttranderfrihet, hur man svarar på extremism med mera.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:e7fd8297e2196d1a566a3e2e51cbb23a&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Charlie_Hebdo_shooting&#34;&gt;Dådet mot Charlie hebdo&lt;/a&gt;&lt;/li&gt;
@@ -794,7 +852,7 @@
 &lt;li&gt;&lt;a href=&#34;http://www.dailykos.com/story/2015/01/11/1357057/-The-Charlie-Hebdo-cartoons-no-one-is-showing-you&#34;&gt;The Charlie hebdo cartoons no one is showing you&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:e7fd8297e2196d1a566a3e2e51cbb23a&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;En terrorattack i sin sanna, riktiga mening&lt;/li&gt;
@@ -823,8 +881,8 @@
             </item>
         
             <item>
-                <pubDate>09 Jan 2015 10:26 +0000</pubDate>
                 <title>Sumpsnack 3 - Alla C64-minnen är svartvita för mig </title>
+                <pubDate>09 Jan 2015 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/3/</guid>
                 <link>http://kodsnack.se/sumpsnack/3/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -833,7 +891,7 @@
 
 &lt;p&gt;Dagens ungdom kan inte hantera en gammal hederlig handkontroll. Vi snackar om vad vi spelat och läst på sistone, och hittar kanske ett framtida ämne.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:ae9997a2769c75053f068259cadd520a&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://brickset.com/sets/75059-1/Sandcrawler&#34;&gt;Nya Lego Star wars-modeller&lt;/a&gt;&lt;/li&gt;
@@ -855,7 +913,7 @@
 &lt;li&gt;&lt;a href=&#34;https://oneplus.net/se/one&#34;&gt;Oneplus one&lt;/a&gt; - &amp;ldquo;telefonen&amp;rdquo; i fråga&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:ae9997a2769c75053f068259cadd520a&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Har ni gjort något annat kul då?&lt;/li&gt;
@@ -879,8 +937,8 @@
             </item>
         
             <item>
-                <pubDate>21 Oct 2014 10:26 +0000</pubDate>
                 <title>Sumpsnack 2 - Cyberpunk och super-episk science fiction </title>
+                <pubDate>21 Oct 2014 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/2/</guid>
                 <link>http://kodsnack.se/sumpsnack/2/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -889,7 +947,7 @@
 
 &lt;p&gt;Kristoffer och Tobias rekommenderar science fiction-böcker och pratar lite politik.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:f5776ce002083f17f7a8f8f37568a092&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Ancillary_Justice&#34;&gt;Ancillary justice&lt;/a&gt;&lt;/li&gt;
@@ -928,7 +986,7 @@
 &lt;li&gt;&lt;a href=&#34;http://blog.svd.se/ledarbloggen/2014/10/15/asa-romson-och-det-uteblivna-drevet/&#34;&gt;Åsa Romson och det uteblivna drevet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:f5776ce002083f17f7a8f8f37568a092&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Boksnack&lt;/li&gt;
@@ -948,8 +1006,8 @@
             </item>
         
             <item>
-                <pubDate>23 Sep 2014 10:26 +0000</pubDate>
                 <title>Sumpsnack 1 - Det roligaste jag haft med ett dåligt spel </title>
+                <pubDate>23 Sep 2014 10:26 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/1/</guid>
                 <link>http://kodsnack.se/sumpsnack/1/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -958,7 +1016,7 @@
 
 &lt;p&gt;Tobias berättar om Destiny.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:10d8aa81d13021669fdcd5a46901e0c0&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
@@ -981,7 +1039,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/kodsnack-android&#34;&gt;Kodsnackappen för Android&lt;/a&gt; - DU kan också bidra!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:10d8aa81d13021669fdcd5a46901e0c0&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Det roligaste jag haft med ett dåligt spel&lt;/li&gt;
@@ -1003,8 +1061,8 @@
             </item>
         
             <item>
-                <pubDate>03 Sep 2014 20:20 +0000</pubDate>
                 <title>Sumpsnack 0 - En attack mot min dumhet </title>
+                <pubDate>03 Sep 2014 20:20 +0000</pubDate>
                 <guid>http://kodsnack.se/sumpsnack/0/</guid>
                 <link>http://kodsnack.se/sumpsnack/0/</link>
                 <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
@@ -1013,7 +1071,7 @@
 
 &lt;p&gt;Vi snackar Feminist frequency-debaklet, spelvärlden, folk som hotar och hatar, valår och sverigedemokrater. Sedan försöker vi muntra upp oss genom att diskutera bra spel till Playstation 4.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Länkar&lt;/h2&gt;
+&lt;h2 id=&#34;länkar:62c399877c1a2b345a98d82fb6dca28c&#34;&gt;Länkar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.feministfrequency.com&#34;&gt;Feminist frequency&lt;/a&gt;&lt;/li&gt;
@@ -1063,7 +1121,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/bjoreman/sets/72157627198570402/detail/&#34;&gt;Hackversionen av Plex Apple TV-klient - fanns redan 2011&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Titlar&lt;/h2&gt;
+&lt;h2 id=&#34;titlar:62c399877c1a2b345a98d82fb6dca28c&#34;&gt;Titlar&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Shit, vilken dålig person jag är ibland&lt;/li&gt;
