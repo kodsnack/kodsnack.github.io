@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>05 Jan 2016 10:26 +0000</pubDate>
-        <lastBuildDate>05 Jan 2016 10:26 +0000</lastBuildDate>
+        <pubDate>12 Jan 2016 10:26 +0000</pubDate>
+        <lastBuildDate>12 Jan 2016 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,89 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 21 - Jag hoppas och tror att ingen hinner lyssna på allting </title>
+                <pubDate>12 Jan 2016 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/21/</guid>
+                <link>http://kodsnack.se/sumpsnack/21/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Filmer, TV-serier och mikrofonpositioner.&lt;/p&gt;
+
+&lt;p&gt;Fredriks mikrofonuppställning:
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://kodsnack.se/img/fredrikstudio.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Fredriks mikrofonuppställning&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Kristoffers mikrofonuppställning:
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://kodsnack.se/img/kristofferstudio.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Kristoffers mikrofonuppställning&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:1b5cc0e0e36db826a9a1ce42345d1563&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rode.com/microphones/podcaster&#34;&gt;Røde podcaster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rogueamoeba.com/audiohijack/&#34;&gt;Audio hijack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/20/&#34;&gt;Vi pratade om att bygga musikstudio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xquartz.org/&#34;&gt;X11 och sånt på Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theincomparable.com/theincomparable/281/index.php&#34;&gt;Incomparables återblick på 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theincomparable.com/work/star-wars-episode-7/index.php&#34;&gt;Alla Incomparables avsnitt om Star wars: the force awakens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/True_Detective_%28TV_series%29&#34;&gt;True detective&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://denmakalosa.se/&#34;&gt;Den makalösa&lt;/a&gt; - nyskapad podd för att prata film och TV och annat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fargo_%28TV_series%29&#34;&gt;Fargo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jessica_Jones_%28TV_series%29&#34;&gt;Jessica Jones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_%28TV_series%29&#34;&gt;Halt and catch fire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Silicon_Valley_%28TV_series%29&#34;&gt;Silicon valley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Theory_of_Everything_%282014_film%29&#34;&gt;The theory of everything&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Eddie_Redmayne&#34;&gt;Eddie Redmayne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jupiter_Ascending&#34;&gt;Jupiter ascending&lt;/a&gt; - en film jag och Kristoffer gillar mycket mer än genomsnittet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theincomparable.com/ump/20/&#34;&gt;Jupiter ascending diskuteras i podden Unjustly maligned&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adam_Driver&#34;&gt;Adam Driver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6WCRAuIcjsc&#34;&gt;Please Mr. Kennedy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ex_Machina_%28film%29&#34;&gt;Ex machina&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:1b5cc0e0e36db826a9a1ce42345d1563&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Om det får byggas upp lite skräp i hörnen&lt;/li&gt;
+&lt;li&gt;Jag hoppas och tror att ingen hinner lyssna på allting&lt;/li&gt;
+&lt;li&gt;Det är Poe Dameron som har huvudrollen i Ex machina&lt;/li&gt;
+&lt;li&gt;Låt aldrig folket bestämma hur filmer ska fortsätta&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="15:26" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_21.mp3"/>
+                <itunes:duration>6728690</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 20 - Autentiskt gammaldags digitalt </title>

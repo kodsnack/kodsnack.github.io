@@ -6,7 +6,80 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 05 Jan 2016 05:26:14 UTC</updated>
+    <updated>Tue, 12 Jan 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 138 - En wiki som ingen uppdaterar</title>
+      <link>http://kodsnack.se/138/</link>
+      <pubDate>Tue, 12 Jan 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/138/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar om vårens utmaningar, bland annat att dokumentera och informera andra. Hur får man egentligen en wiki - eller något annat sätt att distribuera informarion - att fungera? Krävs det någon sorts kritisk massa? Är den bra lösningen på dokumentation i själva verket densamma som för kod - att skriva så lite och exakt som möjligt? Vi kommer också in på de eviga utmaningarna att abstrahera saker på olika nivåer, speciellt när gränssnitt och bakomliggande lösningar skiljer sig tydligt åt, och verktyg som tvingar en att ta omvägar för att få göra det man vill och behöver för att lösa sitt problem.&lt;/p&gt;
+
+&lt;p&gt;Hur hade världen sett ut om webbläsaren utvecklades till eller ersattes av något mer rent och applikationsvänligt?&lt;/p&gt;
+
+&lt;p&gt;Finns det någon som bygger riktigt häftig datorhårdvara numera? Vi vill att det ska hända fler häftiga saker med datorer!&lt;/p&gt;
+
+&lt;p&gt;Vi presenterar vår vision för nästa bondskurks försvarssystem. Plus krigsdystopier och några utbrott om Android, Facebook och Linkedin. Finns det någon tjänst på internet vi fortfarande gillar och tror på?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:4d8ce39552b8e0feaa675409033340e8&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.opensuse.org/V%C3%A4lkommen_till_openSUSE.org&#34;&gt;OpenSuse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mediawiki.org/wiki/MediaWiki&#34;&gt;Mediawiki&lt;/a&gt; - plattformen wikipedia bygger på&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clusterlabs.org/wiki/Hawk&#34;&gt;Hawk&lt;/a&gt; - projektet Kristoffer (bland annat) jobbar med&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Network_File_System&#34;&gt;NFS&lt;/a&gt; - nätverksfilsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JQuery&#34;&gt;Jquery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://glyphicons.com/&#34;&gt;Glyphicons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://momentjs.com/&#34;&gt;Moment.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unikernel&#34;&gt;Unikernels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/144811096&#34;&gt;Unikernelpresentation från Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bitcoinmining.com/bitcoin-mining-hardware/&#34;&gt;Bitcoin miners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoremanmelin.se/podcast/avsnitt-10-cirkus-tramiel/&#34;&gt;Atari-avsnittet&lt;/a&gt; av Björeman // Melin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Atari_Transputer_Workstation&#34;&gt;Atari transputer workstation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cfmoto.se/1.0.1.0/55/1/?item=prod_prod-s1%2F2&#34;&gt;Andra saker som kallas ATV 800&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Larrabee](&lt;a href=&#34;https://en.wikipedia.org/wiki/Larrabee_(microarchitecture&#34;&gt;https://en.wikipedia.org/wiki/Larrabee_(microarchitecture&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vector_processor&#34;&gt;Vektorprocessor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cell_%28microprocessor%29&#34;&gt;Cell broadband engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nvidia_Tesla&#34;&gt;Nvidia Tesla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Itanium&#34;&gt;Intel Itanium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Qi_%28inductive_power_standard%29&#34;&gt;Qi&lt;/a&gt; - induktionsladdning&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xkcd.com/1626/&#34;&gt;XKCD om kärnvapen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://developer.android.com/guide/components/intents-filters.html&#34;&gt;Intents på Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.mozilla.org/futurereleases/2015/12/08/announcing-focus-by-firefox-a-content-blocker-for-ios/&#34;&gt;Focus&lt;/a&gt; - Mozillas innehållsblockerare för iOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoreman.com/main.php?mainId=1821&#34;&gt;Free now, ads later&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://denmakalosa.se/&#34;&gt;Den makalösa podcasten&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:4d8ce39552b8e0feaa675409033340e8&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag har inte programmerat sedan början av december&lt;/li&gt;
+&lt;li&gt;Alla projekt är mina projekt nu&lt;/li&gt;
+&lt;li&gt;Kasta sig ut i luften med silkesmaskar&lt;/li&gt;
+&lt;li&gt;Så länge man får göra saker och har någon att prata med&lt;/li&gt;
+&lt;li&gt;Det kan bli mycket resa till Nürnberg&lt;/li&gt;
+&lt;li&gt;(Det finns) en wiki som ingen uppdaterar&lt;/li&gt;
+&lt;li&gt;Vem som helst kan editera det, och ingen gör det&lt;/li&gt;
+&lt;li&gt;De har nått sin kritiska frekvens&lt;/li&gt;
+&lt;li&gt;Lösningen på att skriva program (över huvud taget)&lt;/li&gt;
+&lt;li&gt;När man har slitit hela legotornet i bitar&lt;/li&gt;
+&lt;li&gt;Exponera en abstrakt maskin&lt;/li&gt;
+&lt;li&gt;Det borde göras på ett filmiskt sätt&lt;/li&gt;
+&lt;li&gt;Tiotusen tyska drönare&lt;/li&gt;
+&lt;li&gt;Icke-notiser hela tiden&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 137 - Mitt dagliga problem</title>
@@ -1212,133 +1285,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;IT-föräldrarnas barn&lt;/li&gt;
 &lt;li&gt;En gedigen pedagogisk tanke&lt;/li&gt;
 &lt;li&gt;Att leva i en mystisk värld&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 123 - Beroendefabriken</title>
-      <link>http://kodsnack.se/123/</link>
-      <pubDate>Tue, 06 Oct 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/123/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar lite om telefoner - roséguldets utmaningar och Oneplus two. Sedan en diskussion om Kristoffers försök att bygga en app för Android vilket leder över till Kristoffers erfarenheter i närheten av Ruby on rails. Har Rails dragit till sig för många personer som är för fokuserade på abstraktioner? Mjuvara och folks tillvägagångssätt drar lätt iväg åt håll som inte nödvändigtvis är bra i längden, hur får man fason på det? Och vem kan göra det? Skillnader och likheter mellan Ruby och Python och de utmaningar det kan leda till när man ska växla mellan språken. För att inte tala om skillnaderna mellan Ruby och Rails. Kristoffer upplever Python som mer pragmatiskt än Ruby. Sedan snackar vi om problemen med databindning och överdrivet fokus på patterns och bästa praxis. Det hjälper oss egentligen inte att programmera, utan bara - möjligtvis - att sortera saker. Och att sortera saker om man inte förstår dem, som en ersättning för att försöka förstå dem, tar en sällan framåt.&lt;/p&gt;
-
-&lt;p&gt;Slutligen Scalas fascinerande … bredd och möjligheter.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:b55542b5781134934d1bafc43c66314b&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/events/&#34;&gt;Framträdanden&lt;/a&gt; - tillställningar vi på Kodsnack deltar i&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight3&#34;&gt;Code night 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se&#34;&gt;Internetdagarna&lt;/a&gt; - registrera dig med koden IND2015 för 20% rabatt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.apple.com/shop/buy-iphone/iphone6s/4.7-inch-display-64gb-rose-gold&#34;&gt;Årets modeller av Iphone går att få i &amp;ldquo;roséguld&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oneplus.net/2&#34;&gt;Oneplus 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oneplus.net/2/oxygenos&#34;&gt;OxygenOS&lt;/a&gt; - Oneplus eget operativsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/CyanogenMod&#34;&gt;Cyanogenmod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oneplus.net/one&#34;&gt;Oneplus one&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/krig/passyapp&#34;&gt;Kristoffers lösenordsgenererare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://developer.android.com/tools/studio/index.html&#34;&gt;Android studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://developer.android.com/reference/android/app/Activity.html&#34;&gt;Activity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://developer.android.com/reference/android/content/Intent.html&#34;&gt;Intent&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://developer.android.com/guide/topics/ui/actionbar.html&#34;&gt;Action bar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.android.com/tools/support-library/index.html&#34;&gt;Android compatibility library&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://phonegap.com/&#34;&gt;Phonegap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Android_application_package&#34;&gt;APK&lt;/a&gt; - Android application package&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_on_Rails&#34;&gt;Rails&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events&#34;&gt;Server-sent events&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://edgeapi.rubyonrails.org/classes/ActionController/Live.html&#34;&gt;Live controller&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tenderlovemaking.com/&#34;&gt;Tenderlove&lt;/a&gt; - en av Rails kärnutvecklare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.engineyard.com/2013/rails-4-changes&#34;&gt;Rails 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller&#34;&gt;Model-view-controller&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Visitor_pattern&#34;&gt;Visitor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sinatra_%28software%29&#34;&gt;Sinatra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rack_%28web_server_interface%29&#34;&gt;Rack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gigamonkeys.com/flowers/&#34;&gt;Let a 1000 flowers bloom. Then rip 999 of them out by the roots.&lt;/a&gt; - artikeln som Fredrik läst&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gigamonkeys.com/resume/&#34;&gt;Peter Seibel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gigamonkeys.com/book/&#34;&gt;Practical common Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.rocketpoweredjetpants.com/2015/04/monorepo-one-source-code-repository-to.html&#34;&gt;Monorepo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scala-lang.org/&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.haskell.org/&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Convention_over_configuration&#34;&gt;Convention over configuration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Interactive_Ruby_Shell&#34;&gt;IRB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rubylearning.com/satishtalim/ruby_blocks.html&#34;&gt;Block i Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Data_binding&#34;&gt;Databindning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://knockoutjs.com/&#34;&gt;Knockout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sproutcore.com/&#34;&gt;Sproutcore&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CocoaBindings/Concepts/WhatAreBindings.html&#34;&gt;Databindning i Cocoa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library&#34;&gt;MFC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Cecil_Martin&#34;&gt;&amp;ldquo;Uncle Bob&amp;rdquo; Martin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Don%27t_repeat_yourself&#34;&gt;DRY&lt;/a&gt; - Don&amp;rsquo;t repeat yourself&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Object-relational_mapping&#34;&gt;ORM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29&#34;&gt;Cohesion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29&#34;&gt;Coupling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/RubyGems&#34;&gt;Rubygems&lt;/a&gt; - pakethanterare för Ruby&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.npmjs.com/files/package.json&#34;&gt;package.json&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Boost_%28C%2B%2B_libraries%29&#34;&gt;Boost&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.scala-lang.org/tutorials/tour/implicit-parameters.html&#34;&gt;Implicita parametrar i Scala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scala_%28programming_language%29#History&#34;&gt;Scalas historia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Generics_in_Java&#34;&gt;Generics i Java&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:b55542b5781134934d1bafc43c66314b&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I Silicon valley heter det brogold&lt;/li&gt;
-&lt;li&gt;Komma ut i friska luften&lt;/li&gt;
-&lt;li&gt;Nackdelen med att uppgradera&lt;/li&gt;
-&lt;li&gt;Nära bas-android&lt;/li&gt;
-&lt;li&gt;Grejer som stör är det ju fortfarande&lt;/li&gt;
-&lt;li&gt;Hörlursuttaget satt på fel sida av telefonen&lt;/li&gt;
-&lt;li&gt;Som att hålla i en bit asfalt&lt;/li&gt;
-&lt;li&gt;Uppenbarligen så kan ju folk göra appar till Android&lt;/li&gt;
-&lt;li&gt;Det är ju bara jag på något sätt&lt;/li&gt;
-&lt;li&gt;Släng din dator och karva på den här bananen&lt;/li&gt;
-&lt;li&gt;Det är bara början på mina klagomål&lt;/li&gt;
-&lt;li&gt;Koden som faktiskt löser problemet&lt;/li&gt;
-&lt;li&gt;Action this and action that&lt;/li&gt;
-&lt;li&gt;Byggda för att vara sitt eget universum&lt;/li&gt;
-&lt;li&gt;Bygga saker i Rails om och om igen&lt;/li&gt;
-&lt;li&gt;Samma inferno av abstraktioner&lt;/li&gt;
-&lt;li&gt;Folk har ju fel&lt;/li&gt;
-&lt;li&gt;Vi har två monorepon&lt;/li&gt;
-&lt;li&gt;Trädgårdsmästarrollen&lt;/li&gt;
-&lt;li&gt;Det skulle vara jobbigt att vara ogräset&lt;/li&gt;
-&lt;li&gt;Det är ju jobbigt att samarbeta med folk&lt;/li&gt;
-&lt;li&gt;Objektorientering som det var på nittiotalet&lt;/li&gt;
-&lt;li&gt;Rubyismer och knaserier från Perl&lt;/li&gt;
-&lt;li&gt;Personer i det abstrakta&lt;/li&gt;
-&lt;li&gt;Det handlar om ägandeskap&lt;/li&gt;
-&lt;li&gt;Man återupptäcker saker&lt;/li&gt;
-&lt;li&gt;Två kodrader som ens liknar varandra&lt;/li&gt;
-&lt;li&gt;Den mest komplicerade knaskoden i världen&lt;/li&gt;
-&lt;li&gt;Vi vill gärna bygga hierarkier&lt;/li&gt;
-&lt;li&gt;Nu har vi en blå trekant&lt;/li&gt;
-&lt;li&gt;Sortera din DVD-samling på alla sätt samtidigt&lt;/li&gt;
-&lt;li&gt;Teoretisk arkitektur&lt;/li&gt;
-&lt;li&gt;Den konkreta koden som gör någonting&lt;/li&gt;
-&lt;li&gt;Ickeprogrammering&lt;/li&gt;
-&lt;li&gt;Slänga in kod och låtsas att man förstår vad som händer&lt;/li&gt;
-&lt;li&gt;gem install 24&lt;/li&gt;
-&lt;li&gt;Kod gör allt möjligt&lt;/li&gt;
-&lt;li&gt;Slita sitt hår och gråta blod&lt;/li&gt;
-&lt;li&gt;Beroendefabriken&lt;/li&gt;
-&lt;li&gt;Det finns inga gränser för vad man kan göra i Scala&lt;/li&gt;
-&lt;li&gt;Jag vill allt&lt;/li&gt;
-&lt;li&gt;Språkutbrott&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
