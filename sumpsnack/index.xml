@@ -110,8 +110,8 @@
 &lt;/ul&gt;
 
                 </description>
-                <enclosure length="15:26" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_21.mp3"/>
-                <itunes:duration>6728690</itunes:duration>
+                <enclosure length="6728690" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_21.mp3"/>
+                <itunes:duration>15:26</itunes:duration>
                 <itunes:explicit>yes</itunes:explicit>
                 <itunes:keywords/>
                 <itunes:subtitle>
