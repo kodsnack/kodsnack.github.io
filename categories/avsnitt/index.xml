@@ -6,29 +6,7 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 19 Jan 2016 05:26:14 UTC</updated>
-    
-    <item>
-      <title>Kodsnack 139 - En wiki som ingen uppdaterar</title>
-      <link>http://kodsnack.se/139/</link>
-      <pubDate>Tue, 19 Jan 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/139/</guid>
-      <description>
-
-&lt;p&gt;Fredrik, Cenny Davidsson och Jack Nutting snackar Swift.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:a6f819384de328714d5baf50b78df9ce&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;h2 id=&#34;titlar:a6f819384de328714d5baf50b78df9ce&#34;&gt;Titlar&lt;/h2&gt;
-</description>
-    </item>
+    <updated>Tue, 12 Jan 2016 05:26:14 UTC</updated>
     
     <item>
       <title>Kodsnack 138 - En wiki som ingen uppdaterar</title>
@@ -1248,6 +1226,66 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;Mjukvara: fortfarande skitsvårt (att estimera)&lt;/li&gt;
 &lt;li&gt;457 byggen&lt;/li&gt;
 &lt;li&gt;Helt hemligt och stängt bakom lås och bom&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kodsnack 124 - En gedigen pedagogisk tanke</title>
+      <link>http://kodsnack.se/124/</link>
+      <pubDate>Tue, 13 Oct 2015 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/124/</guid>
+      <description>
+
+&lt;p&gt;Fredrik har varit på &lt;a href=&#34;http://www.kodcentrum.se/&#34;&gt;Kodcentrums&lt;/a&gt; &lt;a href=&#34;http://www.kodcentrum.se/nyheter/barnhack-hos-informator&#34;&gt;hackathon för barn i Göteborg&lt;/a&gt;, pratat med arrangörer och volontärer och inspirerats.&lt;/p&gt;
+
+&lt;p&gt;Om barn kan programmera visuellt, och vi med Tickle kan programmera robotar och drönare visuellt, varför kan vi inte programmera appar visuellt?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:95efed9b9d26d8c00e3f7bb8cc838603&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gbgstartuphack.com/&#34;&gt;Gothenburg startup hack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodcentrum.se/&#34;&gt;Kodcentrum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodcentrum.se/kodstugor&#34;&gt;Kodstugor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scratch.mit.edu/&#34;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.kodcentrum.se/nyheter/barnhack-hos-informator&#34;&gt;Barnhacket Fredrik gick på&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://informator.se/&#34;&gt;Informator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.se/2.37707&#34;&gt;Code night&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.linkedin.com/in/lisasoderlund&#34;&gt;Lisa Söderlund&lt;/a&gt; - projektledare för pedagogik och kommunikation på Kodcentrum&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/profile/view?id=AAMAAAmquU4BYPFwRD-GTzFUMP_AxjLOURTC2vw&amp;amp;authType=name&amp;amp;authToken=faoc&amp;amp;trk=hp-feed-member-name&#34;&gt;Gaya&lt;/a&gt; - Gayathri Mudigonda, projektledare på Kodcentrum&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tickleapp.com/en-us/&#34;&gt;Tickle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sphero.com/starwars&#34;&gt;BB-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sphero.com/&#34;&gt;Sphero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://makeymakey.com/&#34;&gt;Makey makey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.arduino.cc/&#34;&gt;Arduino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/help/what-is-a-raspberry-pi/&#34;&gt;Raspberry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/profile/view?id=2401236&amp;amp;trk=eml_inv_status_profile_non_email&#34;&gt;Emil Robertsson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BASIC&#34;&gt;Basic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_VIC-20&#34;&gt;VIC-20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/TBV&#34;&gt;TBV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gurteen.com/gurteen/gurteen.nsf/id/no-smarter-than-you&#34;&gt;Steve Jobs-citatet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uk.linkedin.com/pub/samuel-genheden/34/376/976&#34;&gt;Samuel Genheden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cartesian_coordinate_system&#34;&gt;Kartesiska koordinater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight3/&#34;&gt;Code night 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/events/&#34;&gt;Framträdanden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se/&#34;&gt;Internetdagarna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/69255635&#34;&gt;En godispresentation&lt;/a&gt; - &amp;ldquo;Classical inheritance is obsolete - how to think in prototypal OO&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:95efed9b9d26d8c00e3f7bb8cc838603&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IT-föräldrarnas barn&lt;/li&gt;
+&lt;li&gt;En gedigen pedagogisk tanke&lt;/li&gt;
+&lt;li&gt;Att leva i en mystisk värld&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
