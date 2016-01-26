@@ -6,7 +6,76 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 19 Jan 2016 05:26:14 UTC</updated>
+    <updated>Tue, 26 Jan 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 140 - Det är okej att ta någon annans idé</title>
+      <link>http://kodsnack.se/140/</link>
+      <pubDate>Tue, 26 Jan 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/140/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer får uppföljning från förra avsnittet. Vi snackar Swifts relation till andra språk och den positiva öppenheten när det gäller språk som lånar idéer av varandra. Därifrån är steget givetvis kort till att ondgöra sig över patent.&lt;/p&gt;
+
+&lt;p&gt;Sedan kommer vi in på superdatorer och ställer oss frågan om Seif kan vara vägen till en bättre plattform för applikationer än webbläsaren? Finns det ens hopp om säkerhet med tekniska lösningar, man kan ju ändå inte göra folk bättre? Man måste se helheter för att kunna göra säker kod, eller ens greppa säkerhetsriskerna.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:b30b0d9623dd7159b89e2e1d5798f06a&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/139/&#34;&gt;Förra veckans avsnitt&lt;/a&gt; - Swift med &lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;Cenny Davidsson&lt;/a&gt; och &lt;a href=&#34;http://nuthole.com/&#34;&gt;Jack Nutting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/146391965&#34;&gt;The better parts&lt;/a&gt; - Jack spelar ukulele på Øredev 2015&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codeofrob.com/blog.html&#34;&gt;Rob Ashton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Pastisch&#34;&gt;Pastisch&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://danielglass.com/deconstructing-rock-around-the-clock-2/&#34;&gt;Deconstructing &amp;ldquo;Rock around the clock&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rock_Around_the_Clock&#34;&gt;Rock around the clock&lt;/a&gt; - ibland kallad den första rocklåten&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rock_the_Joint&#34;&gt;Rock the joint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.maxtannone.com/projects/dcyh/&#34;&gt;Double-check your head&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.relay.fm/inquisitive&#34;&gt;Inquisitive om favoritalbum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.relay.fm/inquisitive/43&#34;&gt;Avsnittet av Inquisitive om All day av Girl talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_on_Rails&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tonyfreed.com/blog/what_is_virtual_dom&#34;&gt;React, DOM:en och den virtuella DOM:en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture&#34;&gt;Lessons from fashion&amp;rsquo;s free culture&lt;/a&gt; - tal från TED&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Larrabee_%28microarchitecture%29&#34;&gt;Larrabee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xeon_Phi&#34;&gt;Xeon phi&lt;/a&gt; - byggd med lärdomar från Larrabee. Tack &lt;a href=&#34;https://www.twitter.com/dataolle&#34;&gt;Kristoffer Björk&lt;/a&gt; för länken!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tianhe-2&#34;&gt;Tianhe-2&lt;/a&gt; - kinesisk superdator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MareNostrum&#34;&gt;Marenostrum&lt;/a&gt; - superdator i Spanien&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kylin_%28operating_system%29&#34;&gt;Kylin Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tizen&#34;&gt;Tizen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LXOaCkbt4lI&amp;amp;app=desktop&#34;&gt;Linus tech tips på Youtube bygger superfet dator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/138/&#34;&gt;Avsnittet om hur trasigt internet är&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fQWRoLf7bns&amp;amp;feature=youtu.be&#34;&gt;Seif-projektet&lt;/a&gt; - tack &lt;a href=&#34;https://www.twitter.com/kalasklas&#34;&gt;Erik Edmark&lt;/a&gt; för länken!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Douglas_Crockford&#34;&gt;Douglas Crockford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qt.io/developers/&#34;&gt;QT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ActiveX&#34;&gt;Activex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dart_%28programming_language%29&#34;&gt;Dart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/paypal/seifnode&#34;&gt;Seif på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/&#34;&gt;Säkerhetshålet i Linuxkärnan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Reference_counting&#34;&gt;Referensräkning&lt;/a&gt; - sätt att hantera minne&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_virtual_machine&#34;&gt;JVM&lt;/a&gt;:en - den virtuella maskin Java och flera andra språk körs i&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:b30b0d9623dd7159b89e2e1d5798f06a&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vi pratar inte Swift idag&lt;/li&gt;
+&lt;li&gt;Inget som kommer ur ett vakuum&lt;/li&gt;
+&lt;li&gt;Olika artister spelade varandras låtar&lt;/li&gt;
+&lt;li&gt;Det är okej att ta någon annans idé&lt;/li&gt;
+&lt;li&gt;Vad har det blivit av Larrabee egentligen?&lt;/li&gt;
+&lt;li&gt;Underverk när det gäller säkerhet&lt;/li&gt;
+&lt;li&gt;Kan jag lita på mitt tangentbord?&lt;/li&gt;
+&lt;li&gt;De två i kombination bildar säkerhetshålet&lt;/li&gt;
+&lt;li&gt;Den vidare världen på datorn&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 139 - &#43;&#43; och -- betyder ingenting för den stora massan</title>
@@ -1185,145 +1254,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;Hur det är att leva under imperiet&lt;/li&gt;
 &lt;li&gt;Det var ingen potatis som blev dålig&lt;/li&gt;
 &lt;li&gt;BeOS i 4K&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 125 - Vi visste inte ens om det skulle vara möjligt</title>
-      <link>http://kodsnack.se/125/</link>
-      <pubDate>Tue, 20 Oct 2015 17:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/125/</guid>
-      <description>
-
-&lt;p&gt;Tobias, &lt;a href=&#34;https://www.twitter.com/eriksson_daniel&#34;&gt;Daniel Eriksson&lt;/a&gt; och Fredrik snackar om Plex nyss släppta &lt;a href=&#34;https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/&#34;&gt;Plex media player&lt;/a&gt; - ersättaren för Plex home theater. Tobias berättar om utvecklingsprocessen det senaste året, från problemen som ledde fram till besluten att prova nya vägar, de vägar som provades och till slut valdes och alla utmaningar på vägen. Inte minst filosofin både för utvecklingsprocessen fram till denna första version, och för det fortsatta arbetet.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:7fa7388dc19c744016196bfe720f5ae7&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://event.computersweden.se/codenight3/&#34;&gt;Code night 3&lt;/a&gt; - Framtidens arkitekturer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/ngt14/&#34;&gt;Next generation threats 2014&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/&#34;&gt;Plex media player&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/eriksson_daniel&#34;&gt;Daniel Eriksson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/12/&#34;&gt;Kodsnack 12 - Frodo, Dharma och sagan om gaffeln&lt;/a&gt; - när Tobias satte ihop systemen kring Plex home theater och hanteringen av kod från XBMC&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kodi_%28software%29&#34;&gt;XBMC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Plex_%28software%29#Plex_Media_Server&#34;&gt;Plex media server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hippojay/plugin.video.plexbmc&#34;&gt;PlexBMC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Codec&#34;&gt;Codecs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Transcoding&#34;&gt;Transcoding&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org/&#34;&gt;Raspberry pi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TiVo&#34;&gt;Tivo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NPAPI&#34;&gt;NPAPI&lt;/a&gt; - gammalt plugin-API för webbläsare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NPAPI#Browser_support&#34;&gt;Deadlines på NPAPI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_applet&#34;&gt;Java applets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Native_Client&#34;&gt;NaCL&lt;/a&gt; - Google native client&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/nwjs/nw.js/&#34;&gt;Node webkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.chromium.org/&#34;&gt;Chromium&lt;/a&gt; - det öppna webbläsarprojekt på vilket Googles Chrome byggs&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Qt_%28software%29&#34;&gt;QT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/KDE&#34;&gt;KDE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Opera_%28web_browser%29&#34;&gt;Opera&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Qt_Quick&#34;&gt;Declarative QT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.qt.io/Qt_WebKit&#34;&gt;QT webkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.videolan.org/vlc/&#34;&gt;VLC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FFmpeg&#34;&gt;FFMPEG&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MPlayer&#34;&gt;MPlayer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mpv.io/&#34;&gt;MPV&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.qt.io/QtWebEngine&#34;&gt;QTWebEngine&lt;/a&gt; - QTs förpackade Chromium&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Direct3D&#34;&gt;Direct3d&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Quartz_%28graphics_layer%29&#34;&gt;Quartz&lt;/a&gt; - grafiksystemet på OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/X_Window_System&#34;&gt;X11-primitiver&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/QML&#34;&gt;QML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenGL&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/On-screen_display&#34;&gt;OSD&lt;/a&gt; - On-screen display&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kerning&#34;&gt;Kerning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.qt.io/Online_Communities#IRC_channels&#34;&gt;QT:s IRC-kanaler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.qt.io/Qt-5.6-release&#34;&gt;QT 5.6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plex.tv/subscription/about&#34;&gt;Plexpass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.videolan.org/LibVLC/&#34;&gt;libvlc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Passthrough&#34;&gt;Passthrough&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Roku&#34;&gt;Roku&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.intel.com/content/www/us/en/nuc/overview.html&#34;&gt;Intel NUC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DirectX&#34;&gt;DirectX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ANGLE_%28software%29&#34;&gt;QT angle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodi.wiki/view/AudioEngine&#34;&gt;XBMC audio engine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dolby_Atmos&#34;&gt;Dolby atmos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DTS_%28sound_system%29#DTS:X&#34;&gt;DTS-X&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dolby_TrueHD&#34;&gt;TrueHD (del av Dolby Atmos)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pulse-code_modulation&#34;&gt;PCM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/S/PDIF&#34;&gt;S/PDIF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Snake_oil&#34;&gt;Snake oil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DTS-HD_Master_Audio&#34;&gt;DTS-HD MA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Skin_%28computing%29&#34;&gt;Skins&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Fire_TV&#34;&gt;Fire TV&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2&#34;&gt;GPL2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/plexinc&#34;&gt;Plex på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FreeBSD&#34;&gt;FreeBSD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HDMI#CEC&#34;&gt;CEC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:7fa7388dc19c744016196bfe720f5ae7&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ett hotellrum i Stockholm&lt;/li&gt;
-&lt;li&gt;Någonting helt annat&lt;/li&gt;
-&lt;li&gt;På ett tåg till Stockholm&lt;/li&gt;
-&lt;li&gt;Lite mer som ett intervjuoffer&lt;/li&gt;
-&lt;li&gt;Vi spolar tillbaka ett år&lt;/li&gt;
-&lt;li&gt;En tunnare klient på framsidan&lt;/li&gt;
-&lt;li&gt;Det har ju inte varit helt enkelt&lt;/li&gt;
-&lt;li&gt;En kodbas som inte är din&lt;/li&gt;
-&lt;li&gt;Det är inte det vi vill leverera&lt;/li&gt;
-&lt;li&gt;Vi skriver något eget&lt;/li&gt;
-&lt;li&gt;Vi gör slut, vi lämnar dem huset och så går vi och köper oss ett eget hus&lt;/li&gt;
-&lt;li&gt;En skitstor uppgift&lt;/li&gt;
-&lt;li&gt;Samma nivå som att skriva sin egen webbläsare&lt;/li&gt;
-&lt;li&gt;Rolls Royce-varianten av plexklienten&lt;/li&gt;
-&lt;li&gt;Ingen liten uppgift&lt;/li&gt;
-&lt;li&gt;Ten foot experience&lt;/li&gt;
-&lt;li&gt;Ingen vågar stänga av det helt&lt;/li&gt;
-&lt;li&gt;Jag är alldeles för old school och gillar min kompilator&lt;/li&gt;
-&lt;li&gt;En hel videospelare i C++&lt;/li&gt;
-&lt;li&gt;I bänkraderna, på tåget&lt;/li&gt;
-&lt;li&gt;Vi visste inte ens om det skulle vara möjligt&lt;/li&gt;
-&lt;li&gt;Innan tåget rullade in på Gävle station&lt;/li&gt;
-&lt;li&gt;Men det funkar ju i VLC!&lt;/li&gt;
-&lt;li&gt;Det här går att göra&lt;/li&gt;
-&lt;li&gt;De hade inte fått sin skit ihop&lt;/li&gt;
-&lt;li&gt;Lite sämre än ganska tråkigt&lt;/li&gt;
-&lt;li&gt;Apple och deras lilla telefon&lt;/li&gt;
-&lt;li&gt;Enhetligt fult på Windows&lt;/li&gt;
-&lt;li&gt;En vit ruta när vi spelar film&lt;/li&gt;
-&lt;li&gt;Du får ringa QT&lt;/li&gt;
-&lt;li&gt;Hur många pengar måste vi ge er?&lt;/li&gt;
-&lt;li&gt;Hans Linkedin-profil verkade passa oss bra&lt;/li&gt;
-&lt;li&gt;Utan en patch, med reservationer&lt;/li&gt;
-&lt;li&gt;En helt ny, egen app&lt;/li&gt;
-&lt;li&gt;Tryck på den här knappen för att få allt att funka som du har tänkt dig&lt;/li&gt;
-&lt;li&gt;Plex media player OS&lt;/li&gt;
-&lt;li&gt;Inte behöva ligga i framkant med allting&lt;/li&gt;
-&lt;li&gt;Full, hög eller bara dum i huvudet&lt;/li&gt;
-&lt;li&gt;Klockrent, även på OS X&lt;/li&gt;
-&lt;li&gt;Som de flesta ljudkort äter&lt;/li&gt;
-&lt;li&gt;Som de flesta stereoanläggningar äter&lt;/li&gt;
-&lt;li&gt;Den komprimerade strömmen, precis som den är&lt;/li&gt;
-&lt;li&gt;Det har tagit mig nästan tre år att förstå det här&lt;/li&gt;
-&lt;li&gt;Hur mycket jag än tycker det är skit så måste du göra det&lt;/li&gt;
-&lt;li&gt;Muspekaren dyker upp över Denzel Washington&lt;/li&gt;
-&lt;li&gt;En full webbmotor istället för något påhittat&lt;/li&gt;
-&lt;li&gt;En egenskriven … allt&lt;/li&gt;
-&lt;li&gt;Vi har inte behövt skriva våra egna knappar&lt;/li&gt;
-&lt;li&gt;En obfuskerad binärblobb&lt;/li&gt;
-&lt;li&gt;Vi är ju skitdåliga på det här egentligen&lt;/li&gt;
-&lt;li&gt;Mjukvara: fortfarande skitsvårt (att estimera)&lt;/li&gt;
-&lt;li&gt;457 byggen&lt;/li&gt;
-&lt;li&gt;Helt hemligt och stängt bakom lås och bom&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

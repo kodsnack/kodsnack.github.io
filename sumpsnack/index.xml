@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>12 Jan 2016 10:26 +0000</pubDate>
-        <lastBuildDate>12 Jan 2016 10:26 +0000</lastBuildDate>
+        <pubDate>26 Jan 2016 10:26 +0000</pubDate>
+        <lastBuildDate>26 Jan 2016 10:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,37 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 22 - Gäster till fanatikern </title>
+                <pubDate>26 Jan 2016 10:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/22/</guid>
+                <link>http://kodsnack.se/sumpsnack/22/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Kristoffer och Fredrik snackar att montera isär macar, batterier, film och TV-serier. Och Nordkorea.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:5f2e1c2b03760079fb9604596db1163b&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lucy_%282014_film%29&#34;&gt;Lucy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kick-Ass_%28film%29&#34;&gt;Kick-ass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Expanse-serien, som &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Expanse_%28novel_series%29&#34;&gt;böcker&lt;/a&gt; och &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Expanse_%28TV_series%29&#34;&gt;TV-serie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bokus.com/bok/9789113061979/kare-ledare-min-flykt-fran-nordkorea/&#34;&gt;Käre ledare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imdb.com/title/tt4206218/&#34;&gt;The propaganda game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Ensam_i_Berlin&#34;&gt;Ensam i Berlin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="12987877" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_22.mp3"/>
+                <itunes:duration>29:04</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 21 - Jag hoppas och tror att ingen hinner lyssna på allting </title>
