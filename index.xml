@@ -6,7 +6,108 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 02 Feb 2016 05:26:14 UTC</updated>
+    <updated>Tue, 09 Feb 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 142 - Vi vet inte varför och vi har ingen debugger</title>
+      <link>http://kodsnack.se/142/</link>
+      <pubDate>Tue, 09 Feb 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/142/</guid>
+      <description>
+
+&lt;p&gt;Tobias bygger kompilatorer själv och Kristoffer hackar CSS.&lt;/p&gt;
+
+&lt;p&gt;Vi snackar om varför Kristoffer varit uppe hela  natten och hackat CSS. (Det är inte så illa som det låter och leder in på lite bra spelsnack.) Varför har alla bättre förstärkare stora hörlursuttag? Tobias berättar om sina ramverksval och funderingar för möjliga hobbyprojekt - bra webbramverk för Python, någon? Det är lätt att hamna i cirklar av att försöka utvärdera ramverk för att börja bygga det man egentligen vill ha gjort …&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi det senaste kring Tobias äventyr i byggsystemens värld och jakten på att hitta det bästa sättet att (kors-)kompilera och bygga för alla Plex behov.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:7c307a6f844231afe9eb6aa6df015536&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hembiobutiken.se/hembioskolan/10-forstarkare-av-receiver/&#34;&gt;HDMI-förstärkare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Witness_%282016_video_game%29&#34;&gt;The witness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clusterlabs.org/wiki/Hawk&#34;&gt;Hawk&lt;/a&gt; - webbgränssnitt för högtillgänglighetskluster&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hawk-ui.github.io&#34;&gt;Sidan om Hawk&lt;/a&gt; Kristoffer byggt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lesscss.org/&#34;&gt;Less&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sass-lang.com/&#34;&gt;Sass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://purecss.io/&#34;&gt;Pure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Representational_state_transfer&#34;&gt;Rest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://flask.pocoo.org/&#34;&gt;Flask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sqlalchemy.org/&#34;&gt;SQLAlchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.djangoproject.com/&#34;&gt;Django&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kocsnack-clion&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/XCOM_2&#34;&gt;XCOM 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.boost.org/doc/libs/1_31_0/tools/build/jam_src/index.html&#34;&gt;Boost jam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/8/&#34;&gt;Byggare Bob&lt;/a&gt; - gammalt avsnitt om byggsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmake.org/&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://waf.io/&#34;&gt;Waf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scons.org/&#34;&gt;Scons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GYP_%28software%29&#34;&gt;GYP&lt;/a&gt; - Chromes byggsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34;&gt;JSON&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ninja-build.org/&#34;&gt;Ninja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://visualstudiogallery.msdn.microsoft.com/6d1586a9-1c98-4ac7-b54f-7615d5f9fbc7&#34;&gt;Cmake-plugin för Visual studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scratchbox.org/&#34;&gt;Scratchbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cross_compiler&#34;&gt;Korskompilering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/QEMU&#34;&gt;QEMU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jenkins-ci.org/&#34;&gt;Jenkins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Precompiled_header&#34;&gt; Precompiled headers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_Compiler_Collection&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B11&#34;&gt;C++ 11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_Binutils&#34;&gt;Binutils&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bootstrapping&#34;&gt;Bootstrapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fosdem.org/2016/schedule/event/hunting_the_bug_from_hell/&#34;&gt;Hunting the bug from hell&lt;/a&gt; - presentationen Kristoffer såg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://openjdk.java.net/&#34;&gt;OpenJDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.arm.com/products/processors/armv8-architecture.php&#34;&gt;Arm arch 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/gdb/&#34;&gt;GDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.gnome.org/mcatanzaro/2016/02/01/on-webkit-security-updates/&#34;&gt;Om säkerhetsuppdateringar av Webkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nwjs/nw.js/&#34;&gt;Node-webkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://webkitgtk.org/&#34;&gt;WebkitGTK+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/RPM_Package_Manager&#34;&gt;RPM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:7c307a6f844231afe9eb6aa6df015536&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag glömde bort att jag var mitt i ett avsnitt&lt;/li&gt;
+&lt;li&gt;Jag har varit uppe hela natten och hackat CSS&lt;/li&gt;
+&lt;li&gt;Hjärnan är fortfarande i pusselläge&lt;/li&gt;
+&lt;li&gt;Det är ingen hemlighet&lt;/li&gt;
+&lt;li&gt;Någonting alla gör hela tiden&lt;/li&gt;
+&lt;li&gt;En restbaksida&lt;/li&gt;
+&lt;li&gt;Väldigt mycket för att komma upp till ytan&lt;/li&gt;
+&lt;li&gt;Go är sitt eget universum där allt är konstigt&lt;/li&gt;
+&lt;li&gt;Vi har sex olika byggsystem&lt;/li&gt;
+&lt;li&gt;Den som skrivit tretton olika byggsystem&lt;/li&gt;
+&lt;li&gt;Ett helt eget påhitt&lt;/li&gt;
+&lt;li&gt;Känns riktigt för en windowsutvecklare&lt;/li&gt;
+&lt;li&gt;Bäst att du bygger något som ser ut exakt som Chrome&lt;/li&gt;
+&lt;li&gt;Väldigt bekväm i Visual studio&lt;/li&gt;
+&lt;li&gt;Otroligt spännande på många sätt&lt;/li&gt;
+&lt;li&gt;Det är i stort sett omöjligt att göra&lt;/li&gt;
+&lt;li&gt;GCC mot Clang&lt;/li&gt;
+&lt;li&gt;I teorin får vi effektivare kod&lt;/li&gt;
+&lt;li&gt;Clang på OS X är allt&lt;/li&gt;
+&lt;li&gt;Bootstrapproblem är bland det bästa som finns&lt;/li&gt;
+&lt;li&gt;Just nu känns allting bortkastat&lt;/li&gt;
+&lt;li&gt;Upp till de som kodar att göra rätt&lt;/li&gt;
+&lt;li&gt;Vi vet inte varför och vi har ingen debugger&lt;/li&gt;
+&lt;li&gt;Ett alternativ som ändå kan kallas moget&lt;/li&gt;
+&lt;li&gt;Hellre stöta på bekymmer någon annan stött på&lt;/li&gt;
+&lt;li&gt;Du har valt en värld av smärta&lt;/li&gt;
+&lt;li&gt;Så många lager i lagerkakan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 141 - We end up with everybody being better</title>
@@ -1116,94 +1217,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;Framför allt så är folk räddare idag&lt;/li&gt;
 &lt;li&gt;Kommer tillbaka efter helgen och avlider&lt;/li&gt;
 &lt;li&gt;Euforisk kreativitet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 127 - Generaliserings-creep</title>
-      <link>http://kodsnack.se/127/</link>
-      <pubDate>Tue, 03 Nov 2015 17:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/127/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Tobias snackar om veckans buggar och oväntade kodbeteende. Sedan funderar vi utifrån &lt;a href=&#34;http://babeljs.io/&#34;&gt;Babel&lt;/a&gt; på om det finns ett generellt mönster där saker gärna abstraheras till dess de kräver pluginsystem för att göra något alls? Utmaningen i att behålla något som är praktiskt samtidigt som man gör en lösning mer generell och kraftfull genom att generalisera den.&lt;/p&gt;
-
-&lt;p&gt;Ska du på &lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;? Leta upp Fredrik och säg hej!&lt;/p&gt;
-
-&lt;p&gt;Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/655034691930726400&#34;&gt;fåtal t-shirts kvar&lt;/a&gt;! Kontakta oss om du vill köpa en av dem för 250 riksdaler inklusive frakt.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:61e3398bae2e76e89556f8e9d4b338e6&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Avengers_%282012_film%29&#34;&gt;Avengers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/&#34;&gt;Plex media player&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/65/&#34;&gt;Tidigare snack om Plex autouppdatering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenGL&#34;&gt;OpenGL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.qt.io/developers/&#34;&gt;QT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ANGLE_%28software%29&#34;&gt;Angle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IMac_%28Intel-based%29#iMac_with_Retina_display&#34;&gt;iMac 5K&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.chromium.org/&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.grimremastered.com/&#34;&gt;Grim fandango remastered&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://babeljs.io/&#34;&gt;Babel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Source-to-source_compiler&#34;&gt;Transpiler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://babeljs.io/blog/2015/10/29/6.0.0/&#34;&gt;Bloggposten om Babel 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ECMAScript#Harmony.2C_6th_Edition&#34;&gt;Ecmascript 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions&#34;&gt;Arrow functions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.react-europe.org/2015/2015.html&#34;&gt;React Europe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OFuDvqZmUrE&#34;&gt;Sebastian McKenzies presentation på React Europe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://documentation.js.org/&#34;&gt;documentationjs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=feature+creep&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#34;&gt;Feature creep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wiktionary.org/wiki/everything_but_the_kitchen_sink#English&#34;&gt;Kitchen sink&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jamie_Zawinski#Zawinski.27s_law_of_software_envelopment&#34;&gt;Alla program expanderar till dess de kan hantera mail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://netbeans.org/&#34;&gt;Netbeans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bjoremanmelin.se/&#34;&gt;Björeman // Melin&lt;/a&gt; - Två nördar, en podcast&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amiga&#34;&gt;Amiga&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BeOS&#34;&gt;BeOS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NeXT&#34;&gt;Next&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amiga_1200&#34;&gt;Amiga 1200&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bulletin_board_system&#34;&gt;BBS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/KodSnack/status/655034691930726400&#34;&gt;Tweetet med de tröjor vi har kvar&lt;/a&gt; - och kan köpas för 250 riksdaler inklusive frakt&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:61e3398bae2e76e89556f8e9d4b338e6&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ett sånt där mysigt avsnitt igen&lt;/li&gt;
-&lt;li&gt;Veckans bugg&lt;/li&gt;
-&lt;li&gt;Jättetråkigt om man brickar allas installationer&lt;/li&gt;
-&lt;li&gt;Trippelkollar det en gång till&lt;/li&gt;
-&lt;li&gt;Facepalm moment&lt;/li&gt;
-&lt;li&gt;Jag håller det på något slags armlängds avstånd&lt;/li&gt;
-&lt;li&gt;Det tar ju så stopp&lt;/li&gt;
-&lt;li&gt;Lite oväntat i sitt beteende&lt;/li&gt;
-&lt;li&gt;Speciellt av någon anledning&lt;/li&gt;
-&lt;li&gt;Potentialen är ju oändlig&lt;/li&gt;
-&lt;li&gt;Commit and run&lt;/li&gt;
-&lt;li&gt;Vad ska vi göra åt det här-varianten&lt;/li&gt;
-&lt;li&gt;Inte första klassens gäst på Windows&lt;/li&gt;
-&lt;li&gt;Så satans många pixlar&lt;/li&gt;
-&lt;li&gt;Inte i torn- och språkförbistringssammanhang&lt;/li&gt;
-&lt;li&gt;Ecmascript version tidigare&lt;/li&gt;
-&lt;li&gt;En trend inom språk för tillfället&lt;/li&gt;
-&lt;li&gt;Generaliserings-creep&lt;/li&gt;
-&lt;li&gt;Försvunnit iväg i abstraktionsmolnet&lt;/li&gt;
-&lt;li&gt;Alla program generaliserar tills de inte kan göra någonting utan plugins&lt;/li&gt;
-&lt;li&gt;Låta som en trasig CD&lt;/li&gt;
-&lt;li&gt;Det löser ett problem för någon annan&lt;/li&gt;
-&lt;li&gt;Vilken uppsättning paket staplade på varandra vill du ha?&lt;/li&gt;
-&lt;li&gt;Abstraktionsslott&lt;/li&gt;
-&lt;li&gt;Våran generalitet kanske läcker igenom&lt;/li&gt;
-&lt;li&gt;Betala med Swift&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
