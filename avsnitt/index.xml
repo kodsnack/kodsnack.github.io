@@ -6,7 +6,90 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 09 Feb 2016 05:26:14 UTC</updated>
+    <updated>Tue, 16 Feb 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 143 - The web standards bug</title>
+      <link>http://kodsnack.se/143/</link>
+      <pubDate>Tue, 16 Feb 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/143/</guid>
+      <description>
+
+&lt;p&gt;Fredrik talks to &lt;a href=&#34;https://aaron-gustafson.com/&#34;&gt;Aaron Gustafson&lt;/a&gt; about web standards. His origin story, how he got into web standards. How the standards work and who should get involved. The problems with prefixes and how we use them.&lt;/p&gt;
+
+&lt;p&gt;This episode was recorded during the developer conference &lt;a href=&#34;https://vimeo.com/144824775&#34;&gt;Øredev 2015&lt;/a&gt;, where Aaron gave &lt;a href=&#34;https://vimeo.com/144870932&#34;&gt;two&lt;/a&gt; &lt;a href=&#34;https://vimeo.com/144979022&#34;&gt;talks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
+
+&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;links:6a1a284c8b6d032293e89d7d74c655a6&#34;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frameset&#34;&gt;Frameset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/QuarkXPress&#34;&gt;Quark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adobe_Dreamweaver&#34;&gt;Dreamweaver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fetch_%28FTP_client%29&#34;&gt;Fetch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_A._Meyer&#34;&gt;Eric Meyer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quirksmode.org/js/dom0.html&#34;&gt;DOM level 0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alistapart.com/about&#34;&gt;A list apart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jeffrey_Zeldman&#34;&gt;Jeffrey Zeldman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/XHTML&#34;&gt;XHTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/COMDEX&#34;&gt;COMDEX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Molly_Holzschlag&#34;&gt;Molly Holzschlag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/South_by_Southwest&#34;&gt;South by southwest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FileMaker&#34;&gt;Filemaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/veen?lang=sv&#34;&gt;Jeff Veen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jennifer_Niederst_Robbins&#34;&gt;Jen Robbins&lt;/a&gt; - &lt;a href=&#34;http://shop.oreilly.com/product/9780596009878.do&#34;&gt;Web design in a nutshell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adactio.com/&#34;&gt;Jeremy Keith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clearleft.com/is/andy-budd&#34;&gt;Andy Budd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clearleft.com/is/richard-rutter&#34;&gt;Richard Rutter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clearleft.com/&#34;&gt;Clearleft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webstandards.org/&#34;&gt;The web standards project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webstandards.org/about/members/goodwitch/&#34;&gt;Glenda Simms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webstandards.org/about/members/feather/&#34;&gt;Derek Featherstone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/&#34;&gt;W3C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/TPAC/&#34;&gt;TPAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adobe_InDesign&#34;&gt;Indesign&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adobe_PageMaker&#34;&gt;Pagemaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.html5rocks.com/en/tutorials/shapes/getting-started/&#34;&gt;CSS shapes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/community/wicg/&#34;&gt;Web platform incubator community group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scalable_Vector_Graphics&#34;&gt;SVG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/netinfo-api/&#34;&gt;Network information API&lt;/a&gt; - seems to have been shut down&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix&#34;&gt;Vendor prefixes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Edge&#34;&gt;Edge&lt;/a&gt; - Microsoft&amp;rsquo;s successor to Internet explorer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@slightlylate/doing-science-on-the-web-af26d9be2faa#.6zu2sj3y1&#34;&gt;Alex Russell on vendor prefixes&lt;/a&gt; and their problems&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://whatwg.org/&#34;&gt;WHATWG&lt;/a&gt; - Web hypertext application technology working group&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Web_SQL_Database&#34;&gt;Web SQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/12/8/9872802/mozilla-has-killed-the-firefox-phone&#34;&gt;Firefox phones did not last&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zork&#34;&gt;Zork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Basecamp_%28software%29&#34;&gt;Basecamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Harvest_%28software%29&#34;&gt;Harvest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adaptivewebdesign.info/2nd-edition/&#34;&gt;Adaptive web design&lt;/a&gt;, second edition&lt;/li&gt;
+&lt;li&gt;Aaron&amp;rsquo;s &lt;a href=&#34;https://vimeo.com/144870932&#34;&gt;two&lt;/a&gt; &lt;a href=&#34;https://vimeo.com/144979022&#34;&gt;talks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titles:6a1a284c8b6d032293e89d7d74c655a6&#34;&gt;Titles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You&amp;rsquo;re the web standards guy&lt;/li&gt;
+&lt;li&gt;Who falls into web standards and how does it happen?&lt;/li&gt;
+&lt;li&gt;Between midnight and 5 a.m.&lt;/li&gt;
+&lt;li&gt;Things were starting to stabilize a bit on the web&lt;/li&gt;
+&lt;li&gt;The only way to build a solid foundation&lt;/li&gt;
+&lt;li&gt;The web standards bug&lt;/li&gt;
+&lt;li&gt;Before coming to the web&lt;/li&gt;
+&lt;li&gt;In the trenches every day making web pages&lt;/li&gt;
+&lt;li&gt;Help make other specs better&lt;/li&gt;
+&lt;li&gt;Vendor prefixes have bitten us in the ass&lt;/li&gt;
+&lt;li&gt;We don&amp;rsquo;t experience the web the way everyone else does&lt;/li&gt;
+&lt;li&gt;I can&amp;rsquo;t believe I want them to make their ads more accessible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 142 - Vi vet inte varför och vi har ingen debugger</title>
@@ -1119,104 +1202,6 @@ Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/65503469193072640
 &lt;li&gt;När någon sätter ner fingret&lt;/li&gt;
 &lt;li&gt;Spelutvecklingsjanuari&lt;/li&gt;
 &lt;li&gt;Hundratusen miljarders kvadratkilometers innehåll&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 128 - Kunskapsspridning och ögat på fingret</title>
-      <link>http://kodsnack.se/128/</link>
-      <pubDate>Tue, 10 Nov 2015 17:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/128/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och &lt;a href=&#34;https://www.iteam.se/coworkers/johan/&#34;&gt;Johan Öbrink&lt;/a&gt; - technical creative director på &lt;a href=&#34;https://www.iteam.se/&#34;&gt;Iteam&lt;/a&gt; - snackar om att skaffa sig erfarenhet och växa som utvecklare. Från att det saknas bra konferensinnehåll för de som är nya på ett område till behovet och kanske nästan ansvaret bland de med mycket erfarenhet att se till att den förs vidare till de med mindre. Upplevs det inte som &amp;ldquo;fint&amp;rdquo; nog att ha presentationer som är introduktioner eller grundläggande? Det är lätt att tänka att man kan hitta introduktioner på nätet, men det kanske finns aspekter som man inte kan fånga via nätet. Personlig utveckling får också stort utrymme, och vi får veta varför Johan vill lägga ner hela konceptet med resurskonsulter. Och så ett poddtips och lite hantering av entusiasm och stress.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras av &lt;a href=&#34;https://www.jetbrains.com/&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-webstorm&#34;&gt;Webstorm&lt;/a&gt;, Jetbrains IDE för webbutveckling.&lt;/p&gt;
-
-&lt;p&gt;Vi har ett &lt;a href=&#34;https://twitter.com/KodSnack/status/655034691930726400&#34;&gt;fåtal t-shirts kvar&lt;/a&gt;! Kontakta oss om du vill köpa en av dem för 250 riksdaler inklusive frakt.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:65ffd55ca491ab7907ebb9a150619666&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iteam.se/coworkers/johan/&#34;&gt;Johan Öbrink&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iteam.se/&#34;&gt;Iteam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/2015&#34;&gt;Øredev 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nighthacking.com&#34;&gt;Nighthacking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nighthacking.com/kodsnack-interviewing-pete-hunt/&#34;&gt;Vårt snack med Pete Hunt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nighthacking.com/kodsnack-interviewing-james-turnbull/&#34;&gt;Vårt snack med James Turnbull&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nighthacking.com/kodsnack-interviewing-aaron-gustafson/&#34;&gt;Vårt snack med Aaron Gustafson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nighthacking.com/kodsnack-discussion-with-tim-urban-and-torill-kornfeldt/&#34;&gt;Tim Urban och Torill Kornfeldt snackar AI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nerdist.com/podcasts/nerdist-podcast-channel/&#34;&gt;Nerdist&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chris_Hardwick&#34;&gt;Chris Hardwick (?)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://enpoddomteknik.se/&#34;&gt;En podd om teknik&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nerdist.com/nerdist-podcast-tom-hanks/&#34;&gt;Nerdists första intervju med Tom Hanks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lettersofnote.com/&#34;&gt;Letters of note&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nerdist.com/the-tom-hanks-typewriter-saga/&#34;&gt;Tom Hanks svar på att få en skrivmaskin som inbjudan till en podd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_delivery&#34;&gt;Continuous delivery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;Continuous deployment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/sthlm-js/&#34;&gt;sthlm.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/ReactJS-Goteborg/&#34;&gt;Reactjs Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Don%27t_repeat_yourself&#34;&gt;DRY&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Docker_%28software%29&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_SQL_Server&#34;&gt;SQL server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Heuristic&#34;&gt;Heuristik&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Stockholm_syndrome&#34;&gt;Stockholmssyndromet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-webstorm&#34;&gt;Webstorm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kodsnack.se/kodsnack-idea&#34;&gt;Intellij IDEA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-webstorm&#34;&gt;jetbrains.com/kodsnack-webstorm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; - testdriven utveckling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Integration_testing&#34;&gt;Integrationstester&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Finansiell_ekonomi&#34;&gt;Finansiell ekonomi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Creative_destruction&#34;&gt;Kreativ förstörelse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vimeo.com/144847615&#34;&gt;Tim Urbans keynote kvällen innan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;DPU&lt;/a&gt; - Die progress unit - den mängd förändring som tar död på en tidsresenär genom ren chock. (Länken går till artikeln Tims tal till stor del byggde på)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:65ffd55ca491ab7907ebb9a150619666&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det är jag som har roligast här&lt;/li&gt;
-&lt;li&gt;Alla mittemellan&lt;/li&gt;
-&lt;li&gt;Evangelismdel av det&lt;/li&gt;
-&lt;li&gt;Varje senior som programmerar istället för att mentorera är en katastrof&lt;/li&gt;
-&lt;li&gt;Fler möten på konferenser&lt;/li&gt;
-&lt;li&gt;Konferensdeltagarrytmen&lt;/li&gt;
-&lt;li&gt;Alla i talarcirkusen&lt;/li&gt;
-&lt;li&gt;De slumpmässiga mötena försvinner&lt;/li&gt;
-&lt;li&gt;Inte snabbt på det sättet du tror&lt;/li&gt;
-&lt;li&gt;Folk tror fortfarande att hastighet är hastighet&lt;/li&gt;
-&lt;li&gt;Känna ett branschansvar&lt;/li&gt;
-&lt;li&gt;En junior som inte får mentorering är bara underbetald&lt;/li&gt;
-&lt;li&gt;Då man inser att man faktiskt kan någonting&lt;/li&gt;
-&lt;li&gt;Inte lika fast i dina förväntningar&lt;/li&gt;
-&lt;li&gt;Hur kan du inte använda git&lt;/li&gt;
-&lt;li&gt;Kär i din kidnappare&lt;/li&gt;
-&lt;li&gt;Vem borde jobba med vem, kring vad?&lt;/li&gt;
-&lt;li&gt;Kunskapsspridning och ögat på fingret&lt;/li&gt;
-&lt;li&gt;En prompt, det är vad jag har&lt;/li&gt;
-&lt;li&gt;Alldeles för bekväm i min lilla nisch&lt;/li&gt;
-&lt;li&gt;Jag har data här till dig, kan du ge mig information?&lt;/li&gt;
-&lt;li&gt;Personen som håller ihop kontoret&lt;/li&gt;
-&lt;li&gt;Det sociala kittet&lt;/li&gt;
-&lt;li&gt;Helt fel personer att prata med&lt;/li&gt;
-&lt;li&gt;De andra som man gnällt tillsammans med&lt;/li&gt;
-&lt;li&gt;Att optimera sig själv genom andra&lt;/li&gt;
-&lt;li&gt;Min smak får en bättre utdelning när hon väljer&lt;/li&gt;
-&lt;li&gt;Jag är över 40, jag får ge upp&lt;/li&gt;
-&lt;li&gt;Framför allt så är folk räddare idag&lt;/li&gt;
-&lt;li&gt;Kommer tillbaka efter helgen och avlider&lt;/li&gt;
-&lt;li&gt;Euforisk kreativitet&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
