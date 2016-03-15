@@ -6,7 +6,76 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 08 Mar 2016 05:26:14 UTC</updated>
+    <updated>Tue, 15 Mar 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 147 - Det där var ett helt nytt drag</title>
+      <link>http://kodsnack.se/147/</link>
+      <pubDate>Tue, 15 Mar 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/147/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar AI som spelar Go och besvär med drag och släpp och tidslinjer i Javascript. Var tar en AI som kan vinna i Go och verka kreativ vägen härnäst? Kommer den att ge mänskliga spelare nya idéer?&lt;/p&gt;
+
+&lt;p&gt;Har vi några lyssnare som spelar Go och/eller kodar neurala nätverk? Hör gärna av er med åsikter och insikter!&lt;/p&gt;
+
+&lt;p&gt;Efter avsnittet vann Alphago även det tredje partiet och därmed hela matchen.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:c06aae4572b9f5f76cc2aa20528ed9fa&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_%28game%29&#34;&gt;Go&lt;/a&gt; - spelet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://deepmind.com/alpha-go.html&#34;&gt;Alphago&lt;/a&gt; - Googles gospelande AI&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lee_Sedol&#34;&gt;Lee Sedol&lt;/a&gt; - en av världens bästa gospelare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gogameguru.com/tag/deepmind-alphago-lee-sedol/&#34;&gt;Om mötet mellan Alphago och Lee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ohminteractive.wordpress.com/ohmchesshd/&#34;&gt;Ohm chess&lt;/a&gt; - schackspelet Kristoffer och Tobias skrev&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning&#34;&gt;Alpha-beta pruning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googleresearch.blogspot.se/2016/01/alphago-mastering-ancient-game-of-go.html&#34;&gt;Google om hur Alphago är byggd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googleresearch.blogspot.se/2016/01/alphago-mastering-ancient-game-of-go.html&#34;&gt;Artikel om Alphago&lt;/a&gt; med länk till &lt;a href=&#34;http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html&#34;&gt;paper i Nature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Monte_Carlo_tree_search&#34;&gt;Monte carlo tree search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Garry_Kasparov&#34;&gt;Kasparov, Garry&lt;/a&gt; - en av världens bästa schackspelare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Deep_Blue_%28chess_computer%29&#34;&gt;Deep blue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://deepmind.com&#34;&gt;Google deepmind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Computer_poker_players#Artificial_Intelligence&#34;&gt;AI som spelar poker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fan_Hui&#34;&gt;Fan Hui&lt;/a&gt; - europeisk gomästare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wired.com/2016/02/googles-self-driving-car-may-caused-first-crash/&#34;&gt;Googlebilen var med om sin första krock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/cNZPRsrwumQ?t=34s&#34;&gt;Big dog - den springande fyrbenta roboten - blir sparkad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MIME#Content-Type&#34;&gt;MIME-typ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.json.org/&#34;&gt;JSON&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JQuery&#34;&gt;Jquery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quirksmode.org/blog/archives/2009/09/the_html5_drag.html&#34;&gt;The HTML 5 drag and drop disaster&lt;/a&gt; - en varning för oss alla&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://visjs.org/&#34;&gt;Timeslider&lt;/a&gt; för Jquery&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://momentjs.com/&#34;&gt;Moment.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hammerjs.github.io/&#34;&gt;Hammer.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:c06aae4572b9f5f76cc2aa20528ed9fa&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Schack är besegrat, det är över&lt;/li&gt;
+&lt;li&gt;Den fanns inte när jag gick i skolan&lt;/li&gt;
+&lt;li&gt;Den blandar även in ett neuralt nätverk&lt;/li&gt;
+&lt;li&gt;Personen som skriver koden behöver inte kunna spela Go över huvud taget&lt;/li&gt;
+&lt;li&gt;Här hittar jag en lösning som ingen tidigare gjort&lt;/li&gt;
+&lt;li&gt;Ta Alphago och slänga schack på den&lt;/li&gt;
+&lt;li&gt;Allt matas in i det neurala nätverket&lt;/li&gt;
+&lt;li&gt;Det finns inga bättre människor att testa mot&lt;/li&gt;
+&lt;li&gt;Vi har slut på testcase&lt;/li&gt;
+&lt;li&gt;Uppgradera enskilda neuroner&lt;/li&gt;
+&lt;li&gt;Det där var ett helt nytt drag&lt;/li&gt;
+&lt;li&gt;Man vill ju inte spela Go mot Alphago&lt;/li&gt;
+&lt;li&gt;Tänk när Alphago kan ersätta webben åt oss&lt;/li&gt;
+&lt;li&gt;Ett neuralt nätverk som jag kan träna med timelinekontroller&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 146 - Model-view-controller i kaffekoppen</title>
@@ -1057,81 +1126,6 @@
 &lt;li&gt;En del av Visual studio i framtiden&lt;/li&gt;
 &lt;li&gt;Ett C# för Swift&lt;/li&gt;
 &lt;li&gt;En nivå av professionalitet som saknas&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 132 - En ny demon som måste matas med tårar</title>
-      <link>http://kodsnack.se/132/</link>
-      <pubDate>Tue, 08 Dec 2015 17:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/132/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Tobias snackar refactoring. När ska man skriva om saker, när ska man det inte? Tobias berättar om några av de hörn som behövde filas lite mer efter den senaste stora releasen av Plex media player. Automatisering och tester är tvåeggade svärd. Det är lätt att börja på något och försvinna ner i kaninhål.&lt;/p&gt;
-
-&lt;p&gt;Sedan går diskussionen vidare utifrån Wordpress nysläppta admingränssnitt byggt i Javascript och React om spänningsmomenten med att göra stora byten som kan kräva omställning för många. Hur förändrar man sig utan att göra alla missnöjda? Kan det vara så jobbigt att man faktiskt behöver ha de där missnöjda användarna för att lyckats göra någonting riktigt bra? Är varje ny version en ny demon som måste matas med tårar för att växa och frodas?&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; och &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt;, ett kraftfullt IDE för C och C++ för såväl Linux som OS X och Windows. Surfa in på &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;http://www.jetbrains.com/kodsnack-clion&lt;/a&gt; för att få veta mer och stödja Kodsnack.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:0dc63353c7091791cf4d2c39ff9da4da&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_refactoring&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/125/&#34;&gt;Plex media player-släppet&lt;/a&gt; har Tobias berättat om tidigare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;CI&lt;/a&gt; - continuous integration&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Wget&#34;&gt;wget&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chef_%28software%29&#34;&gt;Chef&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GnuWin32&#34;&gt;Gnuwin32&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cygwin&#34;&gt;Cygwin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tar_%28computing%29&#34;&gt;Tar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/steveeJ/python-wget/blob/master/wget.py&#34;&gt;wget.py&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Inertia&#34;&gt;Inertia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work&#34;&gt;property-decoratorn&lt;/a&gt; i Python&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy&#34;&gt;Sunk cost fallacy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com&#34;&gt;Jetbrains&lt;/a&gt; - veckans sponsor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt; - Jetbrains IDE för C och C++&lt;/li&gt;
-&lt;li&gt;* &lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;http://www.jetbrains.com/kodsnack-clion&lt;/a&gt; - länken du ska använda om du vill veta mer om Clion och stödja Kodsnack på samma gång&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Automattic&#34;&gt;Automattic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.wordpress.com/2015/11/23/the-story-behind-the-new-wordpress-com/&#34;&gt;Automattic har skrivit om&lt;/a&gt; admingränssnitten för Wordpress i Javascript med React och Node&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Automattic/wp-calypso&#34;&gt;Den nya kodbasen&lt;/a&gt; på Github&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ma.tt/2015/11/dance-to-calypso/&#34;&gt;Wordpress VD om förändringen&lt;/a&gt; - &amp;ldquo;One of the hardest things to do in technology is disrupt yourself.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react/index.html&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Itanium&#34;&gt;Intel Itanium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hacklang.org/&#34;&gt;Hack&lt;/a&gt; - Facebooks försök att &amp;ldquo;skriva om PHP&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gwtproject.org/overview.html&#34;&gt;Googles GWT&lt;/a&gt; - Google web toolkit&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:0dc63353c7091791cf4d2c39ff9da4da&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ingen bra situation&lt;/li&gt;
-&lt;li&gt;En två veckor lång refactoring&lt;/li&gt;
-&lt;li&gt;Varför har jag suttit och våndats över det här?&lt;/li&gt;
-&lt;li&gt;Det blir mer trögflytande&lt;/li&gt;
-&lt;li&gt;Varje iteration tar tre timmar&lt;/li&gt;
-&lt;li&gt;Vad det var man väntade på egentligen&lt;/li&gt;
-&lt;li&gt;Spenderar jag verkligen min tid korrekt nu&lt;/li&gt;
-&lt;li&gt;Ett tydligt bra svar&lt;/li&gt;
-&lt;li&gt;Stoppa det i en branch och låta det vara&lt;/li&gt;
-&lt;li&gt;Apropå att skriva om saker&lt;/li&gt;
-&lt;li&gt;Definitionen av PHP-kod&lt;/li&gt;
-&lt;li&gt;Tagit deras ost och bytt ut mot Javascript&lt;/li&gt;
-&lt;li&gt;Ingen annan väg för det än stagnation&lt;/li&gt;
-&lt;li&gt;Någonting som kan hända vem som helst&lt;/li&gt;
-&lt;li&gt;Förändras eller försvinna&lt;/li&gt;
-&lt;li&gt;Här har du någonting som är sämre idag&lt;/li&gt;
-&lt;li&gt;En ny demon som måste matas med tårar&lt;/li&gt;
-&lt;li&gt;Sälja in försämringar&lt;/li&gt;
-&lt;li&gt;Ett serverprogram och ett klientprogram&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
