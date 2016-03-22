@@ -6,7 +6,74 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 15 Mar 2016 05:26:14 UTC</updated>
+    <updated>Tue, 22 Mar 2016 10:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 148 - Gå ut, ha sönder lite kod</title>
+      <link>http://kodsnack.se/148/</link>
+      <pubDate>Tue, 22 Mar 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/148/</guid>
+      <description>
+
+&lt;p&gt;Vi värmer upp med helskärmslägens diskreta charm på olika operativsystem och Standarder som blir för stora, kommer ivägen och innehåller för många bitar som inte tänker på varandra. Det är inte bara svårt att komma in i dem, utan ur dem också.&lt;/p&gt;
+
+&lt;p&gt;Sedan försöker vi besvara frågan hur man blir programmerare, hur man börjar programmera och var vi egentligen började. Att göra fel är att göra rätt!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:ce3ffed388d8cbd1dd0b71846d972c2c&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HDMI#CEC&#34;&gt;CEC-standarden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/gadgets/2015/11/google-engineer-leaves-scathing-reviews-of-dodgy-usb-type-c-cables-on-amazon/&#34;&gt;Google-snubben som recenserar alla USB 3-kablar på Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oneplus.net/se/2&#34;&gt;Oneplus 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vulkan_%28API%29&#34;&gt;Vulkan&lt;/a&gt; - grafik-API&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Common_Lisp&#34;&gt;Common lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Undefined_behavior&#34;&gt;Odefinierat beteende&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Multicast&#34;&gt;Multicast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Turbo_Pascal&#34;&gt;Turbo pascal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PEEK_and_POKE&#34;&gt;Peek och poke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/QBasic&#34;&gt;Qbasic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gorillas_%28video_game%29&#34;&gt;Gorillas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AUTOEXEC.BAT&#34;&gt;Autoexec.bat&lt;/a&gt; och &lt;a href=&#34;https://en.wikipedia.org/wiki/CONFIG.SYS&#34;&gt;config.sys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.coldwood.com/&#34;&gt;Coldwood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.unravelgame.com/&#34;&gt;Unravel&lt;/a&gt; - fantastiskt &lt;a href=&#34;http://bjoreman.com/thoughts/unraveling.html&#34;&gt;mysigt&lt;/a&gt; plattformspussel&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BeOS&#34;&gt;Beos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BeBox&#34;&gt;Bebox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Perl_6&#34;&gt;Perl 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ocw.mit.edu/courses/intro-programming/&#34;&gt;MIT-kurser om programmering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Leslie_Lamport&#34;&gt;Leslie Lamport&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/147/&#34;&gt;Kodsnack 147&lt;/a&gt; - om &lt;a href=&#34;https://deepmind.com/alpha-go.html&#34;&gt;Alphago&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ietf.org/rfc.html&#34;&gt;RFC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:ce3ffed388d8cbd1dd0b71846d972c2c&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det här är din nya skalning&lt;/li&gt;
+&lt;li&gt;Jag måste bara lista ut rätt ordning&lt;/li&gt;
+&lt;li&gt;Man lägger hack på varandra&lt;/li&gt;
+&lt;li&gt;Hej kom och hjälp mig-logik&lt;/li&gt;
+&lt;li&gt;Hjälpsamt lite oftare än stjälpsamt&lt;/li&gt;
+&lt;li&gt;De som bygger kablarna har ingen logik&lt;/li&gt;
+&lt;li&gt;Alla implementationer gör fel&lt;/li&gt;
+&lt;li&gt;Det får domstolarna avgöra senare&lt;/li&gt;
+&lt;li&gt;Det går dåligt, jag spelar ett spel istället&lt;/li&gt;
+&lt;li&gt;Man kastas rakt in i basic-prompten&lt;/li&gt;
+&lt;li&gt;Om man fick luftballongen att fungera&lt;/li&gt;
+&lt;li&gt;Det har jag gjort genom att inte ha någon fritid&lt;/li&gt;
+&lt;li&gt;Biten av programmeringsbuggen&lt;/li&gt;
+&lt;li&gt;När man surfat på de två webbsidor som fanns&lt;/li&gt;
+&lt;li&gt;Gå ut, ha sönder lite kod&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 147 - Det där var ett helt nytt drag</title>
@@ -1052,80 +1119,6 @@
 &lt;li&gt;They thought I had been speaking&lt;/li&gt;
 &lt;li&gt;People still want me to speak, apparently&lt;/li&gt;
 &lt;li&gt;There has been progress everywhere else&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 133 - Precis allt man kunde hoppas på</title>
-      <link>http://kodsnack.se/133/</link>
-      <pubDate>Tue, 15 Dec 2015 17:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/133/</guid>
-      <description>
-
-&lt;p&gt;Den fulltaliga panelen inleder med uppföljning från förra veckan. Långsamma byggen, lite rättelser och uppdateringar angående både Wordpress stora omskrivning och automatisering på Windows. Tobias uppskattar Windows 10 och ger ett snabbt utlåtande om Visual studio code.&lt;/p&gt;
-
-&lt;p&gt;Veckans huvudämne är att Apple just öppnat Swift, med besked! Är det något problem för Apple om Swift inte portas till Windows? Vad händer med Swift om Chris Lattner blir påkörd av en universell seriell buss? Frågorna är många men intrycken goda och förhoppningarna höga.&lt;/p&gt;
-
-&lt;p&gt;Till slut snackar vi om att öva grunderna i programmering på samma sätt som till exempel musiker gör inom sitt område. Kodkator och liknande. Vet någon hur många författare som har en uppvärmning innan de börjar skriva varje dag?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:715d5013818a9b42002143588dd5a66b&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/132/&#34;&gt;En ny demon som måste matas med tårar&lt;/a&gt; - förra veckans avsnitt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/mannew&#34;&gt;Emanuel Winblad&lt;/a&gt; och &lt;a href=&#34;https://twitter.com/mannew/status/674283908834451456&#34;&gt;hans kommentar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/jsackerud&#34;&gt;Jonas Sackerud&lt;/a&gt; och &lt;a href=&#34;https://twitter.com/jsackerud/status/674324133379969025&#34;&gt;hans kommentar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chocolatey.org/&#34;&gt;Chocolatey nuget&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NuGet&#34;&gt;Nuget och dess historia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cmake.org/&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ninja-build.org/&#34;&gt;Ninja&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://therning.org/magnus/&#34;&gt;Magnus Therning&lt;/a&gt; och &lt;a href=&#34;https://twitter.com/magthe/status/674463317201694720&#34;&gt;hans kommentar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://swift.org/&#34;&gt;Swift&lt;/a&gt; är numera öppen källkod&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift-evolution&#34;&gt;Roadmap för Swift 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple&#34;&gt;Apple på github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift/commit/afc81c1855bf711315b8e5de02db138d3d487eeb&#34;&gt;Första commiten på Swift&lt;/a&gt; - 18 juli 2010&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/POSIX&#34;&gt;POSIX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Berkeley_Software_Distribution&#34;&gt;BSD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theregister.co.uk/2015/10/21/microsoft_promises_clang_for_windows_in_november_visual_c_update/&#34;&gt;Clang kommer in i Visual studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://brew.sh/&#34;&gt;Homebrew&lt;/a&gt; - &amp;ldquo;The missing package manager for OS X&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift-package-manager&#34;&gt;Swift package manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/mxcl?lang=sv&#34;&gt;Max Howell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.gnome.org/Projects/Vala&#34;&gt;Vala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://codekata.com/&#34;&gt;Kodkata&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nanowrimo.org/&#34;&gt;Nanowrimo&lt;/a&gt; - National novel writing month&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;Kodsnacks repository för Advent of code 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.erlang.org/&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pragprog.com/book/jaerlang2/programming-erlang&#34;&gt;Programming Erlang&lt;/a&gt; - Armstrongs erlangbok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.stacksicecream.com/&#34;&gt;Stacks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.openrice.com/en/hongkong/restaurant/tsim-sha-tsui-whats-dogs/461926&#34;&gt;What&amp;rsquo;s dogs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:715d5013818a9b42002143588dd5a66b&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Alla tre i podcasten, samtidigt&lt;/li&gt;
-&lt;li&gt;Jag är glad att meddela att jag fortfarande inte är klar&lt;/li&gt;
-&lt;li&gt;Allting tar fortfarande så himla lång tid&lt;/li&gt;
-&lt;li&gt;Laptops från 1989&lt;/li&gt;
-&lt;li&gt;Aldrig sett öppen källkod såhär förut&lt;/li&gt;
-&lt;li&gt;Precis allt man kunde hoppas på&lt;/li&gt;
-&lt;li&gt;En rensad historia&lt;/li&gt;
-&lt;li&gt;Ett språks första stapplande steg&lt;/li&gt;
-&lt;li&gt;Ett sidospår som har tagit över hela projektet&lt;/li&gt;
-&lt;li&gt;En del av Visual studio i framtiden&lt;/li&gt;
-&lt;li&gt;Ett C# för Swift&lt;/li&gt;
-&lt;li&gt;En nivå av professionalitet som saknas&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
