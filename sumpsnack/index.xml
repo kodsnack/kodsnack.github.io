@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>22 Mar 2016 10:26 +0000</pubDate>
-        <lastBuildDate>22 Mar 2016 10:26 +0000</lastBuildDate>
+        <pubDate>29 Mar 2016 05:26 +0000</pubDate>
+        <lastBuildDate>29 Mar 2016 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,35 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 25 - Som IRC fast stängt </title>
+                <pubDate>29 Mar 2016 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/25/</guid>
+                <link>http://kodsnack.se/sumpsnack/25/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Möjliga alternativ till tjänsterna vi använder och svåra frågor om gnäll.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:92cddbb485ac6bcf88633357741f2071&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TeamSpeak&#34;&gt;Teamspeak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mumble_%28software%29&#34;&gt;Mumble&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Discord_%28software%29&#34;&gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IChat#iChat_4&#34;&gt;Ichat theater&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="1515028" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_25.mp3"/>
+                <itunes:duration>03:08</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 24 - Jag har lärt mit ett nytt gitkommando </title>
