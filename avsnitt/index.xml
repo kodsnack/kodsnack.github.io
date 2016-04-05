@@ -6,7 +6,67 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 29 Mar 2016 05:26:14 UTC</updated>
+    <updated>Tue, 05 Apr 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 150 - Man tar väldigt lätt på beroenden</title>
+      <link>http://kodsnack.se/150/</link>
+      <pubDate>Tue, 05 Apr 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/150/</guid>
+      <description>
+
+&lt;p&gt;Utifrån en &lt;a href=&#34;http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm&#34;&gt;incident med paket i pakethanteringssystemet npm&lt;/a&gt; snackar Fredrik och Kristoffer om vad som hände, vad vi tycker och tänker utifrån det och vilka problem pakethanteringssystem har att försöka lösa. Beroenden och vilka beroenden man drar på sig direkt och indirekt. Hur mycket kontroll har och bör vi egentligen ha på den kod vi gör oss beroende av? Kommer den här incidenten att förändra något? Är beroendehygien ett ämne vi alla borde prata mer om?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:80b8fd34ab21697fb1a50acf6bdeeed0&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Npm_%28software%29&#34;&gt;Npm&lt;/a&gt; - standardpakethanteraren för &lt;a href=&#34;https://en.wikipedia.org/wiki/Node.js&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/&#34;&gt;How one developer just broke Node, Babel and thousands of projects in 11 lines of Javascript&lt;/a&gt; - ganska typisk artikel som summerar händelsen vi diskuterar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm&#34;&gt;Npm-bloggens postmortem&lt;/a&gt; om händelsen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.417lcia5r&#34;&gt;Azer Koçulus bloggpost&lt;/a&gt; om varför han tog bort sina paket&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/left-pad&#34;&gt;left-pad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; - mycket populär &amp;ldquo;kompilator för Javascript&amp;rdquo; som ofta används för att skriva modern Javascript och översätta den till äldre versioner (som har bredare stöd i webbläsare och servrar)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/~westlac&#34;&gt;Cameron Westland&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/&#34;&gt;isArray-paketet och har vi glömt hur man programmerar?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/RubyGems&#34;&gt;Rubygems&lt;/a&gt; - pakethantering för Ruby&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Systemd&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://virtualenv.pypa.io/en/latest/&#34;&gt;Virtualenv för Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.npmjs.com/cli/shrinkwrap&#34;&gt;Shrinkwrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Not_invented_here&#34;&gt;NIH - Not invented here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keybase.io/&#34;&gt;Keybase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://crates.io/&#34;&gt;Cargo&lt;/a&gt; - pakethanterare för Rust&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/~sindresorhus&#34;&gt;Sindresorhus&lt;/a&gt; har många paket&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/~substack&#34;&gt;Substack&lt;/a&gt; är också en person med många paket på sin lyra&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://emilschutte.com/stackoverflow-autocomplete/&#34;&gt;Kodkomplettering via Stack overflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gkoberger.github.io/stacksort/&#34;&gt;Stacksort&lt;/a&gt;  - sortera saker med hjälp av Stack overflow&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.christoffer.me/no-we-havent-forgotten-how-to-code-javascript-just-needs-to-become-a-better-language/&#34;&gt;Nej, vi har inte glömt hur man programmerar&lt;/a&gt; - replik på posten som undrar om vi glömt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cpan.org/&#34;&gt;CPAN&lt;/a&gt; - Comprehensive Perl archive network - pakethanteringssystem för Perl&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:80b8fd34ab21697fb1a50acf6bdeeed0&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hur roligt man kan ha med NPM nuförtiden&lt;/li&gt;
+&lt;li&gt;Lösningen är containers&lt;/li&gt;
+&lt;li&gt;Barockt på så många sätt&lt;/li&gt;
+&lt;li&gt;Man tar väldigt lätt på beroenden&lt;/li&gt;
+&lt;li&gt;Du vet inte alls vad det är du får&lt;/li&gt;
+&lt;li&gt;Kultur av att kolla upp vad man faktiskt har i sina paket&lt;/li&gt;
+&lt;li&gt;Offline-polyfill&lt;/li&gt;
+&lt;li&gt;Jag ska dependa på alla paket&lt;/li&gt;
+&lt;li&gt;Outragekulturen&lt;/li&gt;
+&lt;li&gt;En kulturskillnad&lt;/li&gt;
+&lt;li&gt;Dependencyhygien&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 149 - Jag är faktiskt rockstjärna</title>
@@ -1031,66 +1091,6 @@
 &lt;li&gt;Every single want is a chemical&lt;/li&gt;
 &lt;li&gt;That good enough-level&lt;/li&gt;
 &lt;li&gt;A completely different take on aging&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 135 - Oavsett vad du pratar om berättar du en historia</title>
-      <link>http://kodsnack.se/135/</link>
-      <pubDate>Tue, 29 Dec 2015 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/135/</guid>
-      <description>
-
-&lt;p&gt;Fredrik snackar med &lt;a href=&#34;https://www.linkedin.com/in/torill-kornfeldt-2b82b629&#34;&gt;Torill Kornfeldt&lt;/a&gt; - biolog, vetenskapsjournalist och författare - under &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev&lt;/a&gt; 2015. Vi snackar poddradio, forskning och en hel del kommunikation. Hamnar du också ofta i fällan att du berättar allt du vet om Närke när du kommunicerar?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:abd11168f9e30954449843c980ce9bde&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/vet_Torill&#34;&gt;Torill på Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vimeo.com/144804778&#34;&gt;Torill&amp;rsquo;s keynote&lt;/a&gt; på Øredev - The real Jurassic park - rebirth of extinct species&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sverigesradio.se/sida/avsnitt?programid=793&#34;&gt;Filosofiska rummet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.relay.fm/people/mykehurley&#34;&gt;Myke Hurley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.relay.fm/inquisitive&#34;&gt;Inquisitive&lt;/a&gt; - Mykes intervjupodcast&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.relay.fm/inquisitive/27&#34;&gt;Inquisitive behind the app&lt;/a&gt; - den mer producerade versionen av Inquisitive&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thisamericanlife.org/&#34;&gt;This american life&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Loudness_war&#34;&gt;Loudness wars&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TweetDeck&#34;&gt;Tweetdeck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nuzzel.com/&#34;&gt;Nuzzel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Box_jellyfish&#34;&gt;Kubmaneter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_P._Friedman&#34;&gt;Daniel Friedman&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:abd11168f9e30954449843c980ce9bde&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det är lätt att bli lite lat i det&lt;/li&gt;
-&lt;li&gt;Det är länge, och känns länge&lt;/li&gt;
-&lt;li&gt;Formmässigt briljanta&lt;/li&gt;
-&lt;li&gt;Man kan höra mängden arbete&lt;/li&gt;
-&lt;li&gt;Det finns någon sorts lägstanivå&lt;/li&gt;
-&lt;li&gt;Djupare och djupare ner i sin egen åsiktskorridor&lt;/li&gt;
-&lt;li&gt;Maneter som ser på TV&lt;/li&gt;
-&lt;li&gt;Maneter var inte min grej&lt;/li&gt;
-&lt;li&gt;Hur flyger man lagom fort, som insekt?&lt;/li&gt;
-&lt;li&gt;Man antar att ens läsare eller lyssnare är idioter&lt;/li&gt;
-&lt;li&gt;Jag har annan kunskap&lt;/li&gt;
-&lt;li&gt;Folk är ju inte idioter&lt;/li&gt;
-&lt;li&gt;Inte bara ta bort trösklar utan gräva en grop&lt;/li&gt;
-&lt;li&gt;Inte för mycket klappa på huvudet&lt;/li&gt;
-&lt;li&gt;Oavsett vad du pratar om berättar du en historia&lt;/li&gt;
-&lt;li&gt;Varför vill jag att någon ska veta det här?&lt;/li&gt;
-&lt;li&gt;Överbelamrar språket som någon sorts skyddsmekanism&lt;/li&gt;
-&lt;li&gt;När är språket ett kommunikationsmedel och när är det något annat?&lt;/li&gt;
-&lt;li&gt;Lojalitet med lyssnarna&lt;/li&gt;
-&lt;li&gt;Jag är en representant för något annat&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

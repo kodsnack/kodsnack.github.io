@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>29 Mar 2016 05:26 +0000</pubDate>
-        <lastBuildDate>29 Mar 2016 05:26 +0000</lastBuildDate>
+        <pubDate>05 Apr 2016 05:26 +0000</pubDate>
+        <lastBuildDate>05 Apr 2016 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,53 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 26 - Bismak i munnen </title>
+                <pubDate>05 Apr 2016 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/26/</guid>
+                <link>http://kodsnack.se/sumpsnack/26/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Munkar, kaffe och diskussion av innehållet i the Division (spoilerhornet avfyras innan) och en del intressanta tankar om hela spelbranschen utifrån det.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:1fd210ca6cdfcabc688bd15ea0db40b5&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.relay.fm/topfour/11&#34;&gt;Top four om munkar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dunkin%27_Donuts&#34;&gt;Dunkin&amp;rsquo; donuts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tim_Hortons&#34;&gt;Tim Hortons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cichorium&#34;&gt;Cikoria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gongfu_tea_ceremony&#34;&gt;Kung fu-teritual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division&#34;&gt;The Division&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Destiny_%28video_game%29&#34;&gt;Destiny&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rikers_Island&#34;&gt;Rikers island&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_Mordor&#34;&gt;Shadow of Mordor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.grimremastered.com/&#34;&gt;Grim fandango remastered&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Shadow_volume&#34;&gt;Stencilskuggor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:1fd210ca6cdfcabc688bd15ea0db40b5&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;För mycket av sött och fett&lt;/li&gt;
+&lt;li&gt;Fullt tillräckligt för en månad&lt;/li&gt;
+&lt;li&gt;Alla slentriankoppar&lt;/li&gt;
+&lt;li&gt;Dricka aska&lt;/li&gt;
+&lt;li&gt;Ta en paus och göra sin lilla ritual&lt;/li&gt;
+&lt;li&gt;Bismak i munnen&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="8689163" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_26.mp3"/>
+                <itunes:duration>19:20</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 25 - Som IRC fast stängt </title>
