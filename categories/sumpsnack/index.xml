@@ -9,6 +9,85 @@
     <updated>Tue, 05 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 151 - Bash är ju väldigt bra</title>
+      <link>http://kodsnack.se/151/</link>
+      <pubDate>Tue, 12 Apr 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/151/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Fredrik snackar utifrån Microsofts konferens Build 2016. Alla blir ju uppjagade av tanken att kunna köra Bash och linuxprogram på Windows. Vi pratar också lite om Hololens och övriga saker, som de gradvis sjunkande barriärerna för att utveckla för konsoller.&lt;/p&gt;
+
+&lt;p&gt;Sist en liten puff för att titta i &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015/&#34;&gt;Kodsnacks Advent of code-repo&lt;/a&gt;! Gå gärna in och titta, och bidra med egna lösningar både i nya och gamla språk!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:813070a0a89d6c0cb0ad5747cb92e526&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://build.microsoft.com/?aspxerrorpath=/2016&#34;&gt;Build 2016&lt;/a&gt; - Microsofts utvecklarkonferens&lt;/li&gt;
+&lt;li&gt;Sammanfattningsartiklar av nyheterna från Build - &lt;a href=&#34;http://thenextweb.com/microsoft/2016/03/30/everything-microsoft-announced-build-2016-day-1/&#34;&gt;dag ett&lt;/a&gt; och &lt;a href=&#34;http://thenextweb.com/microsoft/2016/03/31/everything-microsoft-announced-build-2016-day-2/&#34;&gt;dag två&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Keynotepresentationerna från Build, &lt;a href=&#34;https://channel9.msdn.com/Events/Build/2016/KEY01&#34;&gt;dag ett&lt;/a&gt; och &lt;a href=&#34;https://channel9.msdn.com/Events/Build/2016/KEY02&#34;&gt;dag två&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Powershell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mingw.org/wiki/msys&#34;&gt;MSYS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mingw.org/&#34;&gt;Mingw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cygwin.com/&#34;&gt;Cygwin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/windows/upcoming-features&#34;&gt;Windows 10 anniversary update&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/information-technology/2016/03/ubuntus-bash-and-linux-command-line-coming-to-windows-10/&#34;&gt;Hur Bash för Windows fungerar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.winehq.org/&#34;&gt;Wine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;CI&lt;/a&gt; - continuous integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://manpages.ubuntu.com/manpages/trusty/man8/apt-get.8.html&#34;&gt;apt-get&lt;/a&gt; - verktyg för pakethantering för paketsystemet &lt;a href=&#34;https://en.wikipedia.org/wiki/Advanced_Packaging_Tool&#34;&gt;APT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/POSIX&#34;&gt;POSIX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://insider.windows.com/&#34;&gt;Windows insider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manytricks.com/moom/&#34;&gt;Moom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesome.naquadah.org/&#34;&gt;awesome&lt;/a&gt; - linuxfönsterhanterare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNOME&#34;&gt;GNOME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lua.org/&#34;&gt;Lua&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fusion_Drive&#34;&gt;Fusion drive&lt;/a&gt; - applekoncept för att använda SSD tillsammans med traditionell snurrande disk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jetbrains.com/kodsnack-clion&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/CMake&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_HoloLens&#34;&gt;Hololens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTC_Vive&#34;&gt;HTC Vive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_Windows_Platform&#34;&gt;Universal Windows platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xamarin&#34;&gt;Xamarin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mono_%28software%29&#34;&gt;Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.botframework.com/&#34;&gt;Microsofts botramverk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tay_%28bot%29&#34;&gt;Tay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xbox_One_system_software&#34;&gt;Systemmjukvaran i Xbox one&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Canonical_%28company%29&#34;&gt;Canonical&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mark_Shuttleworth&#34;&gt;Mark Shuttleworth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015/&#34;&gt;Kodsnacks Advent of code-repo på Github&lt;/a&gt; - bidra gärna med dina egna lösningar!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:813070a0a89d6c0cb0ad5747cb92e526&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bash är ju väldigt bra&lt;/li&gt;
+&lt;li&gt;Är det här samma företag?&lt;/li&gt;
+&lt;li&gt;Ingen superwindowskille&lt;/li&gt;
+&lt;li&gt;Jag kan inte den världen&lt;/li&gt;
+&lt;li&gt;Jag använder min windowsdator nästan varje vecka&lt;/li&gt;
+&lt;li&gt;Wine in reverse&lt;/li&gt;
+&lt;li&gt;Ett otroligt smart drag&lt;/li&gt;
+&lt;li&gt;Ett bra drag för mig&lt;/li&gt;
+&lt;li&gt;Är du utvecklare och har tretusen dollar&lt;/li&gt;
+&lt;li&gt;De är tillbaka i våra diskussioner&lt;/li&gt;
+&lt;li&gt;Bra steg framåt&lt;/li&gt;
+&lt;li&gt;MS-Linux&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 150 - Man tar väldigt lätt på beroenden</title>
       <link>http://kodsnack.se/150/</link>
       <pubDate>Tue, 05 Apr 2016 05:26:14 UTC</pubDate>
@@ -1029,68 +1108,6 @@
 &lt;li&gt;Tankar som man helst bara skjuter åt sidan&lt;/li&gt;
 &lt;li&gt;Både roligt och begripligt&lt;/li&gt;
 &lt;li&gt;Vilka verktyg ska jag köpa?&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 136 - You can do all of this with the brain of a sesame seed</title>
-      <link>http://kodsnack.se/136/</link>
-      <pubDate>Wed, 30 Dec 2015 17:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/136/</guid>
-      <description>
-
-&lt;p&gt;This episode is a little special. It is kind of bonus material for the &lt;a href=&#34;http://www.oredev.org&#34;&gt;Øredev conference&lt;/a&gt; of 2015. In it, you will hear Tim Urban and Torill Kornfeldt discuss artificial intelligence, life extension and the differing mindsets of technology and biology.&lt;/p&gt;
-
-&lt;p&gt;Tim Urban is the writer of &lt;a href=&#34;http://waitbutwhy.com/&#34;&gt;Wait but why&lt;/a&gt;, a fantastic website of deep dives into topics like &lt;a href=&#34;http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html&#34;&gt;artificial intelligence&lt;/a&gt;, &lt;a href=&#34;http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html&#34;&gt;Tesla and SpaceX&lt;/a&gt; but also softer topics like &lt;a href=&#34;http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html&#34;&gt;procrastination&lt;/a&gt; and &lt;a href=&#34;http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html&#34;&gt;the fear of what other people think&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/vet_Torill&#34;&gt;Torill Kornfeldt&lt;/a&gt; is a biologist and science journalist who is currently working on a book about de-extinction - the bringing back of extinct species.&lt;/p&gt;
-
-&lt;p&gt;We call this bonus material because you probably want some background in order to enjoy their conversation to its fullest. We highly recommend watching both their Øredev keynotes, and Tim&amp;rsquo;s ideas are of course well covered on Wait but why as well.&lt;/p&gt;
-
-&lt;p&gt;The conversation was recorded on stage at the conference and is also available in &lt;a href=&#34;https://www.youtube.com/watch?v=xDu4-o4uFRQ&#34;&gt;video form&lt;/a&gt;. Unfortunately there is some buzzing in the audio which I&amp;rsquo;ve done my best to filter out in this version. That&amp;rsquo;s why it sounds pretty processed. Special thanks to &lt;a href=&#34;http://steveonjava.com/&#34;&gt;Stephen Chin&lt;/a&gt; of &lt;a href=&#34;http://nighthacking.com/&#34;&gt;nighthacking.com&lt;/a&gt; for providing all the tech and expertise which made this recording possible!&lt;/p&gt;
-
-&lt;p&gt;We are so happy this conversation came together and how it turned out, pure audio quality aside, and we hope you will enjoy it too!&lt;/p&gt;
-
-&lt;h2 id=&#34;links:d6086952b9eb3b25ab4fd390dd295a10&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vimeo.com/144847615&#34;&gt;Tim&amp;rsquo;s keynote&lt;/a&gt; - The AI revolution: the road to superintelligence&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vimeo.com/144804778&#34;&gt;Torill&amp;rsquo;s keynote&lt;/a&gt; - The real Jurassic park - rebirth of extinct species&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/&#34;&gt;Wait but why&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/vet_Torill&#34;&gt;Torill on Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oredev.org&#34;&gt;The Øredev conference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Biological_neural_network&#34;&gt;Neural networks in biology&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.merkle.com/brainLimits.html&#34;&gt;Calculations per second of the brain&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.npr.org/2013/06/14/191614360/decoding-the-most-complex-object-in-the-universe&#34;&gt;The human brain is &amp;ldquo;the most complex object in the known universe&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1h81E-hlSbQ&#34;&gt;Bees killing their queen by heating&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wikihow.com/Pull-an-All-Nighter&#34;&gt;All-nighter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ray_Kurzweil&#34;&gt;Ray Kurzweil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cephalopod_intelligence&#34;&gt;Communicating with octopus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wired.com/2014/01/google-buying-way-making-brain-irrelevant/&#34;&gt;Billions of dollars&lt;/a&gt; spent on AI research&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Future_of_Life_Institute&#34;&gt;Future of life institute&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence&#34;&gt;AI safety&lt;/a&gt; research&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_longest-living_organisms#Clonal_plant_and_fungi_colonies&#34;&gt;The oldest organisms in the world&lt;/a&gt; are trees&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.npr.org/templates/story/story.php?storyId=12877984&#34;&gt;Every animal gets the same number of heartbeats&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cryonics&#34;&gt;Cryonics&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Cryopreservation&#34;&gt;cryopreservation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titles:d6086952b9eb3b25ab4fd390dd295a10&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can do all of this with the brain of a sesame seed&lt;/li&gt;
-&lt;li&gt;People both overestimate and underestimate the brain&lt;/li&gt;
-&lt;li&gt;Kill the queen in a hot ball of fire&lt;/li&gt;
-&lt;li&gt;That is so annoying for her&lt;/li&gt;
-&lt;li&gt;Can we just talk about bees?&lt;/li&gt;
-&lt;li&gt;I don&amp;rsquo;t talk to enough biologists&lt;/li&gt;
-&lt;li&gt;Lacking a good definition of intelligence&lt;/li&gt;
-&lt;li&gt;From the drive to get a Nobel price to the drive to go to the toilet&lt;/li&gt;
-&lt;li&gt;We&amp;rsquo;re going to have a huge problem communicating with it&lt;/li&gt;
-&lt;li&gt;The constantly changing hardwarex&lt;/li&gt;
-&lt;li&gt;Every single want is a chemical&lt;/li&gt;
-&lt;li&gt;That good enough-level&lt;/li&gt;
-&lt;li&gt;A completely different take on aging&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
