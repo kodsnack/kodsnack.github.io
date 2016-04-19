@@ -6,7 +6,67 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 12 Apr 2016 05:26:14 UTC</updated>
+    <updated>Tue, 19 Apr 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 152 - Den här felkoden kanske hjälper dig</title>
+      <link>http://kodsnack.se/152/</link>
+      <pubDate>Tue, 19 Apr 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/152/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias följer upp tips och kommentarer på tidigare avsnitt kring fönsterhanterare, Bash för Windows, riskerna med att prova betaversioner och oväntade javascriptprojekt.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi om Swifts helt nya officella androidstöd. Tänk om vi får ett enda språk för utveckling på alla stora plattformar, och som dessutom har sitt ursprung hos Apple. Det hade vi inte gissat.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:4c06e77bce5b2d53ef69a86753d9d26f&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit-2016/&#34;&gt;Devops summit 2016&lt;/a&gt; - 15 juni i Stockholm. Anmäl dig med koden &amp;ldquo;kodsnack&amp;rdquo; och få 500 kronor rabatt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesome.naquadah.org/&#34;&gt;Awesome&lt;/a&gt; - fönsterhanteringsramverk för Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt; - tiling window manager för Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ianyh.com/amethyst/&#34;&gt;Amethyst&lt;/a&gt; - tiling window manager med öppen källkod för Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mizage.com/divvy/&#34;&gt;Divvy&lt;/a&gt; - fönsterhantering för såväl Windows som Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manytricks.com/moom/&#34;&gt;Moom&lt;/a&gt; - fönsterhantering för Mac OS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Powershell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://insider.windows.com/&#34;&gt;Windows insider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Developer_Network&#34;&gt;MSDN&lt;/a&gt; - Microsoft developer network&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BIOS&#34;&gt;BIOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/santinic/how2&#34;&gt;how2&lt;/a&gt; - Stack overflow från terminalen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Man_page&#34;&gt;man&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.goodreads.com/book/show/29437996-copying-and-pasting-from-stack-overflow&#34;&gt;Essential copying and pasting from Stack overflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://phpjs.org/about/&#34;&gt;PHPJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt; - bidra gärna med dina egna lösningar och se andras i &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;Kodsnacks repo på Github&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_POSIX_subsystem&#34;&gt;Posix-stöd i Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_Services_for_UNIX&#34;&gt;Windows services for Unix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift/pull/1442&#34;&gt;Swiftstöd för Android har infogats i kodbasen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modocache.io/&#34;&gt;Brian Gesiak&lt;/a&gt; - huvudpersonen bakom androidporten&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:4c06e77bce5b2d53ef69a86753d9d26f&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Om man hela sitt liv suttit i Bash&lt;/li&gt;
+&lt;li&gt;Vissa saker är så otroligt Windows&lt;/li&gt;
+&lt;li&gt;Den här felkoden kanske hjälper dig&lt;/li&gt;
+&lt;li&gt;Nu får jag börja om och vänta i 14 timmar till&lt;/li&gt;
+&lt;li&gt;Tyvärr så ligger det en total ominstallation i min framtid&lt;/li&gt;
+&lt;li&gt;Två-tre minuter innan maskinen bluescreenar&lt;/li&gt;
+&lt;li&gt;Vi kan väl kanalisera Kristoffer&lt;/li&gt;
+&lt;li&gt;Samma kod på framsida och baksida&lt;/li&gt;
+&lt;li&gt;Man lär sig någonting som inte finns där på riktigt&lt;/li&gt;
+&lt;li&gt;Något som inte bör lämna prototypstadiet&lt;/li&gt;
+&lt;li&gt;Spekulation från vår sida&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 151 - Bash är ju väldigt bra</title>
@@ -1024,90 +1084,6 @@
 &lt;li&gt;Det borde göras på ett filmiskt sätt&lt;/li&gt;
 &lt;li&gt;Tiotusen tyska drönare&lt;/li&gt;
 &lt;li&gt;Icke-notiser hela tiden&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 137 - Mitt dagliga problem</title>
-      <link>http://kodsnack.se/137/</link>
-      <pubDate>Tue, 05 Jan 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/137/</guid>
-      <description>
-
-&lt;p&gt;Programmeringsövningar och tips till nybörjare på programmering.&lt;/p&gt;
-
-&lt;p&gt;Fredrik och Kristoffer snackar att koppla bort på semestern och mer om övningar för programmerare. Vi funderar över upprepningens värde för lärandet och undrar om inte hela utvecklarvärlden byggt upp en missriktad rädsla för upprepning.&lt;/p&gt;
-
-&lt;p&gt;Har ni fler förslag på bra dagliga problem? Fortsätt skicka in dem! &lt;a href=&#34;https://twitter.com/LudvigGislason&#34;&gt;Ludvig Gislason&lt;/a&gt; hörde av sig med två tips:&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;&lt;a href=&#34;http://www.hackerrank.com&#34;&gt;Hackerrank&lt;/a&gt; har gjort lite sport av det och där finns tävlingar, ranking osv men framförallt har de en stor drös problem att lösa och stöd för att du laddar upp dina lösningar till dem i en mängd olika språk. För mig som gillar att knacka kod lite som andra tycker om att spela tvspel var det här upptäckandet en riktigt trevlig överraskning. Jag upptäckte sidan genom en inspelad livesession på youtube av en användare som kallar sig SnapDragon.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.exercism.io&#34;&gt;Exercism.io&lt;/a&gt; har ett antal problemset utformade som test suites i ett 20-tal språk som du ska få gröna. De har byggt ett CLI-verktyg runt tjänsten för att hantera problem och lösningar där du authar via github. Användare kan sedan &amp;ldquo;nitpicka&amp;rdquo; varandras lösningar och komma med förslag så att man kan iterera över sin lösning och submitta eventuella förbättringar. Jag har bara gjort ett par stycken men jag gillar verkligen initiativet och bredden.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Fredrik återupptäcker charmen med dataimport - i PHP dessutom. Hur många procent av all kod som skrivs handlar om import och export (och lite massage på vägen) av data? Har det bidragit till uppskattningen av funktionell programmering? Blir alla problem mer lätthanterade av att omformuleras som datamanipulering?&lt;/p&gt;
-
-&lt;p&gt;Som andra huvudämne snackar vi utifrån lyssnares frågor om utmaningarna kring att komma igång med programmering. Det viktiga är inte vilket språk eller vilka verktyg man väljer utan att man börjar göra saker. Kommer man på att något inte passar en upptäcker man det med tiden, och då går det utmärkt att växla till något annat språk eller andra verktyg. Vi undrar om Javascript är ett bra språk att börja med, för att det är populärt och användbart men kanske ännu mer för att allt man behöver för att börja är en webbläsare och kanske ett textredigeringsprogram och båda delarna redan finns på varenda dator, och konstaterar att vi tyvärr inte har några tips på bra nybörjarböcker.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:e6dcc01bdd30077b6ad72b9a29ab3475&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;Kodsnacks Github-repo för Advent of code-lösningar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/133/&#34;&gt;Kodsnack 136&lt;/a&gt; - avsnittet där Kristoffer efterlyste dagliga övningar för programmerare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://codekata.com/&#34;&gt;Kodkator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://projecteuler.net/&#34;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hackerrank.com/&#34;&gt;Hackerrank&lt;/a&gt; - tips från Ludvig Gislason&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.exercism.io/&#34;&gt;Exercism&lt;/a&gt; - tips från Ludvig Gislason&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Breakout_%28video_game%29&#34;&gt;Breakout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://es6-features.org/#Constants&#34;&gt;Ecmascript 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/kod/&#34;&gt;En liten sida på Kodsnack för kod&lt;/a&gt; - inte bara Advent of code&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.m.wikipedia.org/wiki/Joacim_Melin&#34;&gt;Melin&lt;/a&gt; - Joacim Melin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bjoremanmelin.se/&#34;&gt;Björeman // Melin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.macpro.se/&#34;&gt;Macpro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tyler.io/importing-jekyll-posts-into-wordpress/&#34;&gt;Exempelskriptet för import av markdownfiler till Wordpress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/&#34;&gt;Varför folk som bryr sig om språk inte gillar PHP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://php.net/manual/en/index.php&#34;&gt;PHP-dokumentationen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kodcentrum.se/&#34;&gt;Kodcentrum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scratch.mit.edu/&#34;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PEEK_and_POKE&#34;&gt;Peek och poke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://squeak.org/&#34;&gt;Squeak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers.productCd-0764579088.html&#34;&gt;Professional Javascript, av Nicholas Zakas. Fredrik hade tydligen första upplagan, den andra var den som började få för mycket att omfamna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/9780596517748.do&#34;&gt;Javascript the good parts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Andr%C3%A9_LaMothe&#34;&gt;André Lamothe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs&#34;&gt;SICP&lt;/a&gt; - Structure and interpretation of computer programs&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ccs.neu.edu/home/matthias/BTLS/&#34;&gt;The little schemer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Metaprogramming&#34;&gt;Metaprogrammering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gerald_Jay_Sussman&#34;&gt;Gerald Sussman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Feynman&#34;&gt;Richard Feynman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://overcast.fm/+I_JFBNKk&#34;&gt;Debug 76 med Melton och Ganatra&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:e6dcc01bdd30077b6ad72b9a29ab3475&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jag kan inte riktigt koppla bort det&lt;/li&gt;
-&lt;li&gt;Daglig övning för programmering&lt;/li&gt;
-&lt;li&gt;Man går alltid vidare till nästa sak&lt;/li&gt;
-&lt;li&gt;Repetitionen som är kärnan i att lära sig&lt;/li&gt;
-&lt;li&gt;Mitt dagliga problem&lt;/li&gt;
-&lt;li&gt;Innan det kan bli ett dagligt problem&lt;/li&gt;
-&lt;li&gt;Ren datamanipulering är ju ganska kul&lt;/li&gt;
-&lt;li&gt;När jag använde PHP så var det väldigt länge sedan&lt;/li&gt;
-&lt;li&gt;Stack overflow i dokumentationen&lt;/li&gt;
-&lt;li&gt;Vad jag tror är ett bra sätt att börja&lt;/li&gt;
-&lt;li&gt;Vem är det som vill börja programmera?&lt;/li&gt;
-&lt;li&gt;En helt annan panik i rösten&lt;/li&gt;
-&lt;li&gt;Tankar som man helst bara skjuter åt sidan&lt;/li&gt;
-&lt;li&gt;Både roligt och begripligt&lt;/li&gt;
-&lt;li&gt;Vilka verktyg ska jag köpa?&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
