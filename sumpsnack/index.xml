@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>05 Apr 2016 05:26 +0000</pubDate>
-        <lastBuildDate>05 Apr 2016 05:26 +0000</lastBuildDate>
+        <pubDate>26 Apr 2016 05:26 +0000</pubDate>
+        <lastBuildDate>26 Apr 2016 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,68 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 27 - Perfekt att börja måndagen med </title>
+                <pubDate>26 Apr 2016 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/27/</guid>
+                <link>http://kodsnack.se/sumpsnack/27/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Golfturister, Game of thrones-rutiner och lite diskussion om episod VII av Star wars. Extramaterial är underbart! Och så lite bra och dåliga spel.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:3be577d4993d98e747a8ec4f59d565cb&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Game_of_Thrones_%28season_6%29&#34;&gt;Game of thrones, sjätte säsongen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slashfilm.com/category/features/slashfilmcast/a-cast-of-kings/&#34;&gt;A cast of kings&lt;/a&gt; - podcast om Game of thrones&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slashfilm.com/category/features/slashfilmcast/&#34;&gt;/filmcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theincomparable.com/work/star-wars-episode-7/index.php&#34;&gt;Incomparableavsnitt om Star wars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theincomparable.com/theincomparable/297/index.php&#34;&gt;Incomparable om Nausicaä&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theincomparable.com/work/kikis-delivery-service/index.php&#34;&gt;Kiki&amp;rsquo;s delivery service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theincomparable.com/work/post-16/index.php&#34;&gt;My neighbor Totoro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_%28manga%29&#34;&gt;Nausicaä-serien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Spirited_Away&#34;&gt;Spirited away&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Princess_Mononoke&#34;&gt;Princess mononoke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slashfilm.com/the-force-awakens-and-a-new-hope-comparison/&#34;&gt;Star wars kontra The force awakens - scen för scen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bad_Taste&#34;&gt;Bad taste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Rodriguez&#34;&gt;Robert Rodriguez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/El_Mariachi&#34;&gt;El Mariachi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Primer_%28film%29&#34;&gt;Primer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Donald_Knuth&#34;&gt;Donald Knuth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TeX&#34;&gt;TeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lost_in_La_Mancha&#34;&gt;Lost in la Mancha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Man_Who_Killed_Don_Quixote&#34;&gt;The man who killed Don Quixote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unravel_%28video_game%29&#34;&gt;Unravel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Game_of_Thrones_%282014_video_game&#34;&gt;Telltales Game of thrones-spel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_Mordor&#34;&gt;Shadow of Mordor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Strong_Bad&#34;&gt;Strongbad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sam_%26_Max_Save_the_World&#34;&gt;Sam &amp;amp; Max&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brothers:_A_Tale_of_Two_Sons&#34;&gt;Brothers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Josef_Fares&#34;&gt;Josef Fares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/No_Man%27s_Sky&#34;&gt;No man&amp;rsquo;s sky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/High-availability_cluster&#34;&gt;HA - high availability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:3be577d4993d98e747a8ec4f59d565cb&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag har väldigt lite i huvudet&lt;/li&gt;
+&lt;li&gt;Perfekt att börja måndagen med&lt;/li&gt;
+&lt;li&gt;Moderna filmer ser helt fantastiska ut&lt;/li&gt;
+&lt;li&gt;Sympati för de som betalar för hans filmer&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="10199250" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_27.mp3"/>
+                <itunes:duration>25:37</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 26 - Bismak i munnen </title>
