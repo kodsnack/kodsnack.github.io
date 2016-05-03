@@ -9,6 +9,80 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 154 - Så exakta funktioner som möjligt</title>
+      <link>http://kodsnack.se/154/</link>
+      <pubDate>Tue, 03 May 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/154/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Fredrik blir sugna på mindre telefoner - när kommer reseläge på telefoner som komplement till flygplansläge? - och snackar sedan om webbläsaren Vivaldi.&lt;/p&gt;
+
+&lt;p&gt;Sedan blir det callbacks, omskrivningar av kod och verktyg som hjälper en att skriva bättre kod. Fredrik har dykt in i callbacks och börjat se nytta med ytterligare ett tankesätt kring dataflöde. Vi undrar om vi inte väldigt ofta gör precis fel när vi skriver om saker, och om vi inte är helt fel ute när vi tänker att man inte ska upprepa sig. Do repeat yourself är kanske ett mantra vi borde följa lite oftare? Och testar folk på fel sätt? Vi känner oss lite typtveksamma och Kristoffer kanske har något att hämta i Typescript.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:7b7c4dac3ce5e7d2dc517fa633d8bc17&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rode.com/microphones/podcaster&#34;&gt;Mikrofonen vi använder&lt;/a&gt; - Røde podcaster&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IPhone_SE&#34;&gt;Iphone SE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vivaldi.com/&#34;&gt;Vivaldi&lt;/a&gt; - ny webbläsare för dig som vill ställa in saker efter eget huvud&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/information-technology/2016/04/even-at-1-0-vivaldi-closes-in-on-the-cure-for-the-common-browser/2/&#34;&gt;Ars technicas artikel om Vivaldi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Blink_%28web_engine%29&#34;&gt;Blink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Opera_Mini&#34;&gt;Opera mini&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Douglas_Crockford&#34;&gt;Douglas Crockford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.crockford.com/javascript/jsmin.html&#34;&gt;Jsmin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Douglas_Crockford#.22Good.2C_not_Evil.22&#34;&gt;Jsmin-licensen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MIT_License&#34;&gt;MIT-&lt;/a&gt;licensen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jon_Stephenson_von_Tetzchner&#34;&gt;Jon Stephenson von Tetzchner&lt;/a&gt; - grundare av Vivaldi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://callbackhell.com/&#34;&gt;Callback hell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/&#34;&gt;Vilken färg har din funktion?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/89/&#34;&gt;Vi snackade om artikeln i avsnitt 89&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react/docs/flux-overview.html&#34;&gt;Flux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://redux.js.org/index.html&#34;&gt;Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://egghead.io/series/getting-started-with-redux&#34;&gt;Videointroduktion till Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/dan_abramov?lang=sv&#34;&gt;Dan Abramov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://knockoutjs.com/&#34;&gt;Knockout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/erikbrannstrom&#34;&gt;Erik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Second-system_effect&#34;&gt;Second system syndrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Not_invented_here&#34;&gt;Not invented here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TypeScript&#34;&gt;Typescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dart_%28programming_language%29&#34;&gt;Dart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gradual_typing&#34;&gt;Gradual typing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Racket_%28programming_language%29&#34;&gt;Racket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.racket-lang.org/ts-guide/&#34;&gt;Typed racket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lint_%28software%29&#34;&gt;Lint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://danluu.com/empirical-pl/&#34;&gt;Dan Luu undersöker literatur kring statisk kontra dynamisk typning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:7b7c4dac3ce5e7d2dc517fa633d8bc17&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Väldigt löjlig&lt;/li&gt;
+&lt;li&gt;För stor för att vara bekväm att använda med en hand&lt;/li&gt;
+&lt;li&gt;Den där tappar man inte i första taget&lt;/li&gt;
+&lt;li&gt;Buzzword compliant&lt;/li&gt;
+&lt;li&gt;Kompislicensen&lt;/li&gt;
+&lt;li&gt;Du ville prata om callback hell&lt;/li&gt;
+&lt;li&gt;Jag är allmänt ganska skeptisk till filosofier&lt;/li&gt;
+&lt;li&gt;Inte mot att försöka hitta lösningar på problem&lt;/li&gt;
+&lt;li&gt;Hitta det sanna problemet&lt;/li&gt;
+&lt;li&gt;Så exakta funktioner som möjligt&lt;/li&gt;
+&lt;li&gt;Användbart till något specifikt&lt;/li&gt;
+&lt;li&gt;Idén om det perfekta programmet&lt;/li&gt;
+&lt;li&gt;Fastnar på gränsen mellan mitt program och de andras program&lt;/li&gt;
+&lt;li&gt;Jag tror inte på typer längre&lt;/li&gt;
+&lt;li&gt;De är bara där för din skull&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 153 - I den nisch han är så stämmer det han säger</title>
       <link>http://kodsnack.se/153/</link>
       <pubDate>Tue, 26 Apr 2016 05:26:14 UTC</pubDate>
@@ -991,104 +1065,6 @@
 &lt;li&gt;Kan jag lita på mitt tangentbord?&lt;/li&gt;
 &lt;li&gt;De två i kombination bildar säkerhetshålet&lt;/li&gt;
 &lt;li&gt;Den vidare världen på datorn&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 139 - &#43;&#43; och -- betyder ingenting för den stora massan</title>
-      <link>http://kodsnack.se/139/</link>
-      <pubDate>Tue, 19 Jan 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/139/</guid>
-      <description>
-
-&lt;p&gt;Fredrik, &lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;Cenny Davidsson&lt;/a&gt; och &lt;a href=&#34;http://nuthole.com&#34;&gt;Jack Nutting&lt;/a&gt; snackar om Apples programmeringsspråk Swift - ett språk som känns som ett hopkok på ett bra sätt. Vi går igenom var språket står idag, nyss släppt som öppen källkod, vad som är spännande (det mesta) i språket och hur det verkar ha fått fotfäste och väckt intresse hos många nya grupper. Vi diskuterar också nyttan med bra pakethantering och funderar över när det är läge att hoppa på swifttåget.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:a6f819384de328714d5baf50b78df9ce&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Swift_%28programming_language%29&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/91/&#34;&gt;Avsluta med ett nil&lt;/a&gt; - vårt tidigare avsnitt med Cenny om Swift&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://swift.org/&#34;&gt;swift.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://swift.org/community/#mailing-lists&#34;&gt;E-postdiskussionsgrupperna om Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple&#34;&gt;Apples kod på Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Core_Foundation&#34;&gt;Core foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Grand_Central_Dispatch&#34;&gt;Libdispatch&lt;/a&gt; - också känt som Grand central dispatch, ett ramverk för hantering av samtidiga processer inom samma program&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Darwin_%28operating_system%29&#34;&gt;Darwin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift-evolution&#34;&gt;Swift evolution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift-evolution/blob/master/commonly_proposed.md&#34;&gt;Dokumentet med förslag som ofta skickats in och nekats&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Struct_%28C_programming_language%29&#34;&gt;struct&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2015-408/&#34;&gt;Protokollorienterad programmering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/the-traveled-ios-developers-guide/swift-bool-d67985ca934#.sryzm3tw9&#34;&gt;Boolean i Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://thoughtbot.com/&#34;&gt;Thoughtbot&lt;/a&gt; - där Jack jobbar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/The-Classical-Code-Reading-Group-of-Stockholm/&#34;&gt;The classical code reading group of Stockholm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/xcode/download/&#34;&gt;Senaste betan av Xcode&lt;/a&gt; - Apples utvecklingsverktyg&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift-evolution&#34;&gt;Planerna för Swift 2.2 och 3.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tuple&#34;&gt;Tuple&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/PerfectlySoft/Perfect&#34;&gt;Webbramverk i Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://swift.org/blog/swift-linux-port/&#34;&gt;Swift på Linux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Option_type&#34;&gt;Optionals&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Higher-order_function&#34;&gt;Higher-order-funktioner&lt;/a&gt; - funktioner som tar in och/eller returnerar funktioner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikibooks.org/wiki/Haskell/Understanding_monads/Maybe&#34;&gt;Maybe-monaden i Haskell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenStep&#34;&gt;Openstep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://english.stackexchange.com/questions/38837/where-does-this-translation-of-saint-exuperys-quote-on-design-come-from&#34;&gt;Design handlar inte om vad du kan lägga till utan om vad du kan ta bort&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Race_condition&#34;&gt;Race condition&lt;/a&gt; - när två processer påverkar varandra på oavsiktliga sätt som påverkas av hur snabbt arbetet går&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.golang-book.com/books/intro/10&#34;&gt;Concurrency i Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chris_Lattner&#34;&gt;Chris Lattner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://quoteinvestigator.com/2013/03/06/artists-steal/&#34;&gt;Good artists copy, great artists steal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lemmy&#34;&gt;Lemmy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/thoughtbot/Argo&#34;&gt;Argo&lt;/a&gt; - Thoughtbots JSON-hanteringsramverk&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackage.haskell.org/package/aeson&#34;&gt;Aeson&lt;/a&gt; - JSON-ramverk i Haskell&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/recipes/Playground_Help/Chapters/AboutPlaygrounds.html&#34;&gt;Playgrounds&lt;/a&gt; för Swift i Xcode&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://haskellformac.com/&#34;&gt;Haskell for Mac&lt;/a&gt; - något av playgrounds för Haskell. Veckans tips från Cenny&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://omz-software.com/pythonista/&#34;&gt;Pythonista&lt;/a&gt; - fantastisk pythonmiljö för iOS&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sparkinspector.com/&#34;&gt;Spark inspector&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://swift.org/package-manager/&#34;&gt;Pakethanteraren för Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cocoapods.org/&#34;&gt;Cocoapods&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Carthage/Carthage&#34;&gt;Carthage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://brew.sh/&#34;&gt;Homebrew&lt;/a&gt; - finfin pakethanterare för OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift-corelibs-xctest&#34;&gt;Xctest&lt;/a&gt; - ramverk för enhetstestning&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift-corelibs-foundation&#34;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Heroku&#34;&gt;Heroku&lt;/a&gt; - plattformstjänst&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;Continuous integration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/&#34;&gt;Xcode server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jenkins-ci.org/&#34;&gt;Jenkins&lt;/a&gt; - automatiseringsserver&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.natashatherobot.com/&#34;&gt;Natasha the robot&lt;/a&gt;, hennes &lt;a href=&#34;https://swiftnews.curated.co/&#34;&gt;swiftveckonyhetsbrev&lt;/a&gt; och &lt;a href=&#34;https://www.natashatherobot.com/swift-jobs/&#34;&gt;jobbsida&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:a6f819384de328714d5baf50b78df9ce&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Då ska jag snacka skallen ur dig ikväll&lt;/li&gt;
-&lt;li&gt;Min superkraft är att prata&lt;/li&gt;
-&lt;li&gt;Tjänsten &amp;ldquo;fyll min brevlåda&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;De här låts härja fritt&lt;/li&gt;
-&lt;li&gt;När det här är klart kanske jag kan få en uppfattning om vad det betyder&lt;/li&gt;
-&lt;li&gt;Kompilera idag eller nästa år&lt;/li&gt;
-&lt;li&gt;Frihet att jobba med de saker man har&lt;/li&gt;
-&lt;li&gt;Ganska konfundersamma&lt;/li&gt;
-&lt;li&gt;Tänk om Java kunde göra så&lt;/li&gt;
-&lt;li&gt;++ och &amp;ndash; betyder ingenting för den stora massan&lt;/li&gt;
-&lt;li&gt;(Det är) bara naturligt för programmerare&lt;/li&gt;
-&lt;li&gt;Ett bra Frankensteins monster&lt;/li&gt;
-&lt;li&gt;Lite av ett hopkok, på ett bra sätt&lt;/li&gt;
-&lt;li&gt;Det finns inte ett verktyg som löser alla problem&lt;/li&gt;
-&lt;li&gt;Det jag går och dreglar efter&lt;/li&gt;
-&lt;li&gt;Hur de modellerar den här biten av världen&lt;/li&gt;
-&lt;li&gt;Det blir i år, och något år kommer det att stämma&lt;/li&gt;
-&lt;li&gt;Jag kommer aldrig på något praktiskt exempel där jag skulle vilja använda det&lt;/li&gt;
-&lt;li&gt;Xcode vet, kompilatorn vet&lt;/li&gt;
-&lt;li&gt;Då är Swift där C++ var alldeles nyss&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
