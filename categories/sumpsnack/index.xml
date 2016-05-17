@@ -9,6 +9,101 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 156 - Erlang har inte kommit från intet</title>
+      <link>http://kodsnack.se/156/</link>
+      <pubDate>Tue, 17 May 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/156/</guid>
+      <description>
+
+&lt;p&gt;Kristoffer och Fredrik snackar med Joe Armstrong om Erlang, dess historia och des tid och plats i världen. Vi pratar även om Joes bakgrund och var dator-, mjukvaru- och teknikvärlden är på väg. Vi diskuterar också kopplingen mellan musik och programmering, och att lära sig för att verkligen bli bra på saker.&lt;/p&gt;
+
+&lt;p&gt;I avsnittet gav Joe några utmaningar till våra lyssnare:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Prove that &lt;code&gt;5!! &amp;gt;&amp;gt; # protons in universe&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Then show that &lt;code&gt;5!!&lt;/code&gt; is TINY compared to Graham&amp;rsquo;s number&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Watch a youtube video explaining Graham&amp;rsquo;s number&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:6c85a8317f3881adfcbb9c0087ecc367&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://joearms.github.io/index.html&#34;&gt;Joe Armstrong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qyVvGjNjBOA&#34;&gt;Hello Joe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PLEX_%28programming_language%29&#34;&gt;PLEX&lt;/a&gt; - Programming language for exchanges - språk Ericsons telefonväxlar skrevs i&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AXE_telephone_exchange&#34;&gt;AXE10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html&#34;&gt;Whatsapp är skrivet i Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fortran&#34;&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/COBOL&#34;&gt;COBOL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Message_passing&#34;&gt;Meddelandeskickande&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Carl_Hewitt&#34;&gt;Carl Hewitt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Actor_model&#34;&gt;Aktörsmodellen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.erlang-factory.com/sfbay2016#home&#34;&gt;Erlang factory&lt;/a&gt; - konferensen i San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Swedish_Space_Corporation&#34;&gt;Rymdbolaget&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Turing&#34;&gt;Alan Turing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robin_Popplestone&#34;&gt;Robin Popplestone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/James_Lighthill&#34;&gt;James Lighthill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lighthill_report&#34;&gt;Lighthill-rapporten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AI_winter&#34;&gt;AI-vinter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Prolog&#34;&gt;Prolog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Kowalski&#34;&gt;Robert Kowalski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Viking_%28satellite%29&#34;&gt;Viking-satelliten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nyteknik.se/digitalisering/ganget-bakom-bluetail-startar-pa-nytt-6439686&#34;&gt;Bluetail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sics.se/&#34;&gt;SICS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WordStar&#34;&gt;Wordstar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thestrangeloop.com/&#34;&gt;Strange loop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lKXe3HUG2l4&#34;&gt;The mess we&amp;rsquo;re in&lt;/a&gt; - Joes föredrag på Strange loop&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.erlang.se/euc/04/erlguten.pdf&#34;&gt;Erlguten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Helvetica&#34;&gt;Helvetica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Arial&#34;&gt;Arial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://erlangcentral.org/tag/beam/&#34;&gt;BEAM&lt;/a&gt; - Erlangs virtuella maskin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elixir_%28programming_language%29&#34;&gt;Elixir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LFE_%28programming_language%29&#34;&gt;LFE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rob_Pike&#34;&gt;Rob Pike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://book.realworldhaskell.org/read/&#34;&gt;Real world Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.serpentine.com/blog/&#34;&gt;Bryan O&amp;rsquo;Sullivan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://community.haskell.org/~simonmar/&#34;&gt;Simon Marlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://homepages.inf.ed.ac.uk/wadler/&#34;&gt;Phil Wadler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hack_%28programming_language%29&#34;&gt;Hack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cray-1&#34;&gt;Cray-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Manchester_Mark_1&#34;&gt;Manchester mark 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/VAX-11#VAX-11.2F750&#34;&gt;VAX &lt;sup&gt;11&lt;/sup&gt;&amp;frasl;&lt;sub&gt;750&lt;/sub&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Raspberry_Pi&#34;&gt;Raspberry pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://venturebeat.com/2016/04/05/nvidia-creates-a-15b-transistor-chip-for-deep-learning/&#34;&gt;Nvidias AI-chip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://deepmind.com/&#34;&gt;Deepmind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vint_Cerf&#34;&gt;Vint Cerf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=STeLOogWqWk&#34;&gt;Digital vellum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scientificamerican.com/article/black-hole-computers-2007-04/&#34;&gt;Svarta hål-datorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Factorial&#34;&gt;Fakultet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Graham%27s_number&#34;&gt;Grahams tal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:6c85a8317f3881adfcbb9c0087ecc367&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Turing librarian&lt;/li&gt;
+&lt;li&gt;En intelligent kudde&lt;/li&gt;
+&lt;li&gt;Man hackar sig in genom en brödrost&lt;/li&gt;
+&lt;li&gt;Vad är den svåraste biten?&lt;/li&gt;
+&lt;li&gt;Erlang har inte kommit från intet&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 155 - Sämre standard för sanning</title>
       <link>http://kodsnack.se/155/</link>
       <pubDate>Tue, 10 May 2016 05:26:14 UTC</pubDate>
@@ -1003,64 +1098,6 @@
 &lt;li&gt;Hellre stöta på bekymmer någon annan stött på&lt;/li&gt;
 &lt;li&gt;Du har valt en värld av smärta&lt;/li&gt;
 &lt;li&gt;Så många lager i lagerkakan&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 141 - We end up with everybody being better</title>
-      <link>http://kodsnack.se/141/</link>
-      <pubDate>Tue, 02 Feb 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/141/</guid>
-      <description>
-
-&lt;p&gt;Fredrik talks to &lt;a href=&#34;http://www.twitter.com/salFreudenberg&#34;&gt;Sallyann Freudenberg&lt;/a&gt; - &amp;ldquo;Agile/Lean coach and practitioner, psychology of software development researcher, neuro-diversity advocate, ageing punk-rocker.&amp;rdquo; - about her research into pair programming, offices for everyone and how people actually (do not) split work when pair programming.&lt;/p&gt;
-
-&lt;p&gt;We also discuss what makes an expert an expert? What are lists and verbalization really good for? Research versus practise and how and what each side can learn from the other. And why the rift is there in the first place. The goals and methods of the two groups are pretty different.&lt;/p&gt;
-
-&lt;p&gt;We talked ina surprisingly noisy hotel lobby, so apologies for all the background noise. The conversation is clear enough that further filtering mostly made everything sound worse.&lt;/p&gt;
-
-&lt;p&gt;This episode was recorded during the developer conference &lt;a href=&#34;https://vimeo.com/144824775&#34;&gt;Øredev 2015&lt;/a&gt;, where Sallyann gave a &lt;a href=&#34;https://vimeo.com/144658723&#34;&gt;keynote presentation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
-
-&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;links:a09a54f3310e9887892d07870785b263&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vimeo.com/144658723&#34;&gt;Understanding and supporting neurodiversity in software development&lt;/a&gt; - Sallyann&amp;rsquo;s keynote at Øredev 2015&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://salfreudenberg.wordpress.com/publications/&#34;&gt;Sallyann&amp;rsquo;s research&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ethnography#Communication_studies&#34;&gt;Etnographic studies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Legitimate_peripheral_participation&#34;&gt;Legitimate peripheral participation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www9.open.ac.uk/mct/people/laura.plonka&#34;&gt;Laura Plonka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Neurodiversity&#34;&gt;Neurodiversity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.brainpickings.org/2013/08/28/the-art-of-thought-graham-wallas-stages/&#34;&gt;The art of thought&lt;/a&gt; - Graham Wallas in 1926 on the four stages of creativity&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_P._Friedman&#34;&gt;Daniel Friedman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://puttingtheteaintoteam.blogspot.se/&#34;&gt;Ivan Moore&lt;/a&gt; - tea-driven development&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://chilab.asu.edu/&#34;&gt;Micki Chi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Verbal_overshadowing&#34;&gt;Verbal overshadowing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Distributed_cognition&#34;&gt;Cognitive offload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://leanpub.com/leprechauns&#34;&gt;Laurent Bossavit - The leprechauns of software engineering&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titles:a09a54f3310e9887892d07870785b263&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;More about everything&lt;/li&gt;
-&lt;li&gt;Commercial pair programmers&lt;/li&gt;
-&lt;li&gt;The softer, broader stuff&lt;/li&gt;
-&lt;li&gt;The benefits of pair programming&lt;/li&gt;
-&lt;li&gt;We end up with everybody being better&lt;/li&gt;
-&lt;li&gt;Knocking down all the offices with sledge hammers&lt;/li&gt;
-&lt;li&gt;What I&amp;rsquo;d like to see is a blended environment&lt;/li&gt;
-&lt;li&gt;14500 pieces of pair programmer dialogue&lt;/li&gt;
-&lt;li&gt;We want to think we&amp;rsquo;re so structured&lt;/li&gt;
-&lt;li&gt;Everybody needs a quiet space from time to time&lt;/li&gt;
-&lt;li&gt;My sample size of one&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
