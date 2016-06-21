@@ -6,7 +6,85 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 14 Jun 2016 05:26:14 UTC</updated>
+    <updated>Tue, 21 Jun 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 161 - Högst upp i keynoten</title>
+      <link>http://kodsnack.se/161/</link>
+      <pubDate>Tue, 21 Jun 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/161/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias snackar Apples utvecklarkonferens och de saker som presenterades där. Utvecklar du i Swift? Vad tycker du i så fall om språkets utveckling såhär långt?&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.dfkompetens.se/&#34;&gt;Dataföreningen kompetens&lt;/a&gt; som rekommenderar kursen &lt;a href=&#34;http://www.dfkompetens.se/lead&#34;&gt;Certified lead developer&lt;/a&gt; som en karriärväg för utvecklare. Tack för att ni stödjer Kodsnack!&lt;/p&gt;
+
+&lt;p&gt;En teaser: när Kodsnack fyller 200 avsnitt vill vi hitta på något trevligt. Håll några luckor i kalendern framåt våren!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:628cb9fccf7c7b02e9841ef0e75aede6&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference&#34;&gt;WWDC&lt;/a&gt; - Apples utvecklarkonferens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2016/101/&#34;&gt;Apples keynote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Någon annan podd som går igenom vad som presenterades?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc2016&#34;&gt;Alla presentationer från WWDC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInwatchOS/Articles/watchOS3.html&#34;&gt;Nyheter för utvecklare i Apple watch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html&#34;&gt;Spritekit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/SceneKit/Reference/SceneKit_Framework/&#34;&gt;Scenekit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/watchos/documentation/General/Conceptual/WatchKitProgrammingGuide/index.html?utm_source=designernews&#34;&gt;Watchkit&lt;/a&gt; - den numera avskaffade första lösning för att skriva appar för Apple watch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adcdownload.apple.com/WWDC_2016/tvOS_10_beta/tvOS_10_beta_Release_Notes.pdf&#34;&gt;Nyheter för utvecklare i Apple TV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;a href=&#34;http://www.macrumors.com/2015/09/20/xcodeghost-chinese-malware-faq/&#34;&gt;Den felsignerade Xcode-appen&lt;/a&gt;&amp;ldquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Craig_Federighi&#34;&gt;Craig Federighi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HFS_Plus&#34;&gt;HFS+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40016999&#34;&gt;APFS - Apples ny filsystem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Andrew_File_System&#34;&gt;AFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ZFS&#34;&gt;ZFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Btrfs&#34;&gt;Btrfs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html&#34;&gt;Superduper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://daringfireball.net/thetalkshow/2016/06/17/ep-158&#34;&gt;The talk show med Phil Schiller och Craig Federighi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/sirikit/&#34;&gt;Sirikit&lt;/a&gt; - Siri-API:et&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Echo&#34;&gt;Amazon echo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dfkompetens.se/&#34;&gt;Dataföreningen kompetens&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dfkompetens.se/lead&#34;&gt;Certified lead developer&lt;/a&gt; - kursen Dataföreningen kompetens rekommenderar som en karriärväg för utvecklare&lt;/li&gt;
+&lt;li&gt;Kursledaren Jimmy Flink &lt;a href=&#34;https://www.youtube.com/watch?v=4rHa75kLfJs&#34;&gt;berättar mer om utbildningen&lt;/a&gt; (film på två minuter)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dfkompetens.se/dfk-play/v/?id=185&#34;&gt;Bli en bättre lead på en timme&lt;/a&gt;. Kostnadsfri eftersändning av frukostmöte (film cirka en timme)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/swift/playgrounds/&#34;&gt;Playgrounds&lt;/a&gt; - en app för att lära sig koda i Swift på Ipad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2016/102/&#34;&gt;Platforms state of the union&lt;/a&gt; - &amp;ldquo;utvecklarkeynoten&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;Sublime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clang.llvm.org/docs/AddressSanitizer.html&#34;&gt;Address saintizer&lt;/a&gt; och &lt;a href=&#34;http://clang.llvm.org/docs/ThreadSanitizer.html&#34;&gt;thread sanitizer&lt;/a&gt; för Clang&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2016/415/&#34;&gt;Session om att använda Swift på servrar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/113/&#34;&gt;Resharper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/safari/technology-preview/&#34;&gt;Safari technology preview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API&#34;&gt;Indexeddb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Web_Components/Shadow_DOM&#34;&gt;Shadow DOM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2015/408/&#34;&gt;Protokollorienterad programmering&lt;/a&gt; - regelbundet rekommenderad session från förra årets WWDC&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idg.se/2.37707/code-night&#34;&gt;Code night&lt;/a&gt; - vi kommer att vara med framöver&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:628cb9fccf7c7b02e9841ef0e75aede6&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kristoffer bytte vi ut mot den här kaffekoppen&lt;/li&gt;
+&lt;li&gt;Högst upp i keynoten&lt;/li&gt;
+&lt;li&gt;Fler keynotes varje år&lt;/li&gt;
+&lt;li&gt;Nytt namn och Siri&lt;/li&gt;
+&lt;li&gt;Det räcker med dyra Ipads&lt;/li&gt;
+&lt;li&gt;Ge honom en kommandorad&lt;/li&gt;
+&lt;li&gt;Det här ska jag stresstesta&lt;/li&gt;
+&lt;li&gt;En väldigt märklig frankenlanguage-grej&lt;/li&gt;
+&lt;li&gt;Skuffa undan plugins&lt;/li&gt;
+&lt;li&gt;Inte någon fokuserad keynote&lt;/li&gt;
+&lt;li&gt;En bättre grund att jobba på&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 160 - Den mentala urtvättningen</title>
@@ -999,70 +1077,6 @@
 &lt;li&gt;Man vill ju inte spela Go mot Alphago&lt;/li&gt;
 &lt;li&gt;Tänk när Alphago kan ersätta webben åt oss&lt;/li&gt;
 &lt;li&gt;Ett neuralt nätverk som jag kan träna med timelinekontroller&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 146 - Model-view-controller i kaffekoppen</title>
-      <link>http://kodsnack.se/146/</link>
-      <pubDate>Tue, 08 Mar 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/146/</guid>
-      <description>
-
-&lt;p&gt;Fredrik snackar med &lt;a href=&#34;http://eriksvedang.com/&#34;&gt;Erik Svedäng&lt;/a&gt;, en av skaparna av kodäventyret &lt;a href=&#34;http://elseheartbreak.com/&#34;&gt;else Heart.Break()&lt;/a&gt;, om just else Heart.Break(). Vad spelet är, hur det kom till och allting runtomkring. Inga spoilers. Lite om hur gemenskapen kring indiespel ser ut.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:be79ec08add80d6824d470925534ad12&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://eriksvedang.com/&#34;&gt; Erik Svedäng&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cigg.org/&#34;&gt;CIGG&lt;/a&gt; - Consortium of independent game developers in Gothenburg&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://elseheartbreak.com/&#34;&gt;else Heart.Break()&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://elhuervo.tumblr.com/&#34;&gt;Niklas Åkerblad&lt;/a&gt; - koncept, animation och 3D&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/soundproof_&#34;&gt;Oscar Rydelius&lt;/a&gt; - ljud&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/johannesgotlen&#34;&gt;Johannes Gotlén&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tron:_Evolution&#34;&gt;Tron: evolution&lt;/a&gt; - ett spel vars framtoning inspirerade Erik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hack_%27n%27_Slash&#34;&gt;Hack &amp;lsquo;n&amp;rsquo; slash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markus_Persson&#34;&gt;Notch&lt;/a&gt; - mannen bakom Minecraft&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/0x10c&#34;&gt;ox10c&lt;/a&gt; - ymdskeppsspelet Notch påbörjade och lade ner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Halting_problem&#34;&gt;Halting problem&lt;/a&gt; - problemet att avgöra om ett program kommer att avslutas eller köra för evigt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim&#34;&gt;Skyrim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/img/EHBWorldMap.jpg&#34;&gt;Kartan&lt;/a&gt; Niklas ritade vid projektets start (skall beundras i så stort format som möjligt!)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pragprog.com/book/tpdsl/language-implementation-patterns&#34;&gt;Language implementation patterns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs&#34;&gt;Structure and interpretation of computer programs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unity_%28game_engine%29&#34;&gt;Unity&lt;/a&gt; - spelmotor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/eriksvedang/Sprak&#34;&gt;Sprak&lt;/a&gt; på Github - programmeringsspråket som används i spelet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Green_threads&#34;&gt;Green thread&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wieselgren.se/&#34;&gt;Eva Wieselgrens&lt;/a&gt; &lt;a href=&#34;http://wieselgren.se/blog/2015/09/23/stannar-nog-i-dorisburg-ett-tag/&#34;&gt;första&lt;/a&gt; och &lt;a href=&#34;http://wieselgren.se/blog/2015/10/26/spelet-dar-du-blir-en-hacker/&#34;&gt;andra&lt;/a&gt; inlägg om else Heart.Break()&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/trevortomesh/sprakos&#34;&gt;Det påbörjade Unix-operativsystemet inuti spelet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eriksvedang.com/2015/03/23/secret-arcade-jam-entries/&#34;&gt;Secret arcade jam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eriksvedang.com/blueberrygarden/&#34;&gt;Blueberry garden&lt;/a&gt; - Eriks första spel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/grapefrukt&#34;&gt;Grapefrukt-Martin&lt;/a&gt; och &lt;a href=&#34;http://www.twofoldinc.com&#34;&gt;Twofold&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nomoresweden.com/about/&#34;&gt;No more Sweden&lt;/a&gt; - gamejam arrangerat av Erik och Martin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/242373545813554/&#34;&gt;Indiespel GBG&lt;/a&gt; på Facebook&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:be79ec08add80d6824d470925534ad12&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En simluerad värld&lt;/li&gt;
-&lt;li&gt;Väldigt inspirerad av Göteborg&lt;/li&gt;
-&lt;li&gt;En Tolkien-grej att göra&lt;/li&gt;
-&lt;li&gt;Vi ville bygga en stor plats&lt;/li&gt;
-&lt;li&gt;Vi simulerar hela världen i bakgrunden&lt;/li&gt;
-&lt;li&gt;På engelska låter allting coolt&lt;/li&gt;
-&lt;li&gt;Om muggen kraschar&lt;/li&gt;
-&lt;li&gt;Model-view-controller i kaffekoppen&lt;/li&gt;
-&lt;li&gt;Spelet klarar sig själv&lt;/li&gt;
-&lt;li&gt;Global copy-paste för ditt liv&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
