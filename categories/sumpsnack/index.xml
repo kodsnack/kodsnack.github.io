@@ -9,6 +9,87 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 162 - Den nya bilden av Microsoft</title>
+      <link>http://kodsnack.se/162/</link>
+      <pubDate>Tue, 28 Jun 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/162/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Fredrik snackar med Dag König från Microsoft om att podda. Och om .NET cores nyliga släpp för Linux och Mac. Vad det innebär, vad det är som släpps och hur det visar på Microsofts anda nu och framåt.&lt;/p&gt;
+
+&lt;p&gt;En teaser: när Kodsnack fyller 200 avsnitt vill vi hitta på något trevligt. Håll några luckor i kalendern framåt våren!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:09121b84e16315d04a02d2708b35721a&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/isallmaroon/status/745555989928214528&#34;&gt;Kristoffer var på konferens i Tyskland&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/buzzfrog&#34;&gt;Dag König&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xenix&#34;&gt;Xenix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/&#34;&gt;Bash kommer till Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.buzzfrog.se/dev-casts/&#34;&gt;Dev.cast&lt;/a&gt; - Dags podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.buzzfrog.se/&#34;&gt;buzzfrog.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Azure&#34;&gt;Azure&lt;/a&gt; - Microsofts molnplattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/59/&#34;&gt;Kodsnack 59 - Lära sig nya saker eller att bara skeppa&lt;/a&gt; - ett av många avsnitt där vi pratat om att ständigt lära sig&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Safari_Books_Online&#34;&gt;Safari books online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Transact-SQL&#34;&gt;T-SQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dotnet.github.io/&#34;&gt;.NET core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.buzzfrog.se/dev-cast-151-asp-net-core-nu-ar-den-snart-dags/&#34;&gt;Dev.cast 151&lt;/a&gt; - handlar om .NET core&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.devnation.org/&#34;&gt;Red hat devnation&lt;/a&gt; - konferensen under vilken Dotnet core släpps&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ASP.NET&#34;&gt;ASP.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ASP.NET_MVC&#34;&gt;ASP.net MVC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/dotnet/2016/06/09/thank-you-for-watching-dotnetconf-2016/&#34;&gt;Mer om både .NET core och ASP.net core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Express.js&#34;&gt;Express&lt;/a&gt; - utbrett ramverk för att skapa webbapplikationer med Node&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dotnet/roslyn&#34;&gt;Roslyn&lt;/a&gt; - Microsofts öppna kompilator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Information_Services&#34;&gt;IIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache&#34;&gt;Apache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.dotnetnerd.dk/post/2015/11/08/Kestrel-the-new-web-server-for-ASPNET-5.aspx&#34;&gt;Kestrel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jetty_%28web_server%29&#34;&gt;Jetty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Docker_%28software%29&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://msdn.microsoft.com/en-us/virtualization/windowscontainers/about/faq&#34;&gt;Containerteknologi i Windows&lt;/a&gt; - nanoserver och virtualiseringsteknologier, man får lättviktscontainrar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xbox_One_system_software#System&#34;&gt;Xboxen och virtualisering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mono_%28software%29&#34;&gt;Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Yeoman_%28computing%29&#34;&gt;Yeoman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sublime_Text&#34;&gt;Sublime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.devsum.se/&#34;&gt;Devsum&lt;/a&gt; (kan man se videon av presentationen) innehöll en bra presentation om Visual studio code&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/&#34;&gt;Plattformen Stack overflow körs på&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.techempower.com/benchmarks/&#34;&gt;Tech empower&lt;/a&gt; mäter prestanda på webbramverk&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/#sm.0001vkw4dl73of6dpsb14786syjyz&#34;&gt;Microsofts SQL server kommer till Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TypeScript&#34;&gt;Typescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nodejs/node-chakracore&#34;&gt;Node på Chakra&lt;/a&gt; - Microsofts javascriptmotor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:09121b84e16315d04a02d2708b35721a&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Microsoftplattformen&lt;/li&gt;
+&lt;li&gt;När man slutar är det fara å färde&lt;/li&gt;
+&lt;li&gt;Jag är en radiokille&lt;/li&gt;
+&lt;li&gt;Den nya bilden av Microsoft&lt;/li&gt;
+&lt;li&gt;Vi började med source open&lt;/li&gt;
+&lt;li&gt;En read-only-version av koden&lt;/li&gt;
+&lt;li&gt;Allting är inför öppen ridå&lt;/li&gt;
+&lt;li&gt;En nystart&lt;/li&gt;
+&lt;li&gt;Bara det som är nödvändigt&lt;/li&gt;
+&lt;li&gt;Allting som är nödvändigt&lt;/li&gt;
+&lt;li&gt;Allting är avstängt&lt;/li&gt;
+&lt;li&gt;Snabba och små&lt;/li&gt;
+&lt;li&gt;Affärsmodellen att sälja allt&lt;/li&gt;
+&lt;li&gt;Produktutveckling i 40 år&lt;/li&gt;
+&lt;li&gt;Jag har inte varit bekväm på windowsplattformen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 161 - Högst upp i keynoten</title>
       <link>http://kodsnack.se/161/</link>
       <pubDate>Tue, 21 Jun 2016 05:26:14 UTC</pubDate>
@@ -1008,75 +1089,6 @@
 &lt;li&gt;Biten av programmeringsbuggen&lt;/li&gt;
 &lt;li&gt;När man surfat på de två webbsidor som fanns&lt;/li&gt;
 &lt;li&gt;Gå ut, ha sönder lite kod&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 147 - Det där var ett helt nytt drag</title>
-      <link>http://kodsnack.se/147/</link>
-      <pubDate>Tue, 15 Mar 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/147/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar AI som spelar Go och besvär med drag och släpp och tidslinjer i Javascript. Var tar en AI som kan vinna i Go och verka kreativ vägen härnäst? Kommer den att ge mänskliga spelare nya idéer?&lt;/p&gt;
-
-&lt;p&gt;Har vi några lyssnare som spelar Go och/eller kodar neurala nätverk? Hör gärna av er med åsikter och insikter!&lt;/p&gt;
-
-&lt;p&gt;Efter avsnittet vann Alphago även det tredje partiet och därmed hela matchen.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:c06aae4572b9f5f76cc2aa20528ed9fa&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_%28game%29&#34;&gt;Go&lt;/a&gt; - spelet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepmind.com/alpha-go.html&#34;&gt;Alphago&lt;/a&gt; - Googles gospelande AI&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lee_Sedol&#34;&gt;Lee Sedol&lt;/a&gt; - en av världens bästa gospelare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gogameguru.com/tag/deepmind-alphago-lee-sedol/&#34;&gt;Om mötet mellan Alphago och Lee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohminteractive.wordpress.com/ohmchesshd/&#34;&gt;Ohm chess&lt;/a&gt; - schackspelet Kristoffer och Tobias skrev&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning&#34;&gt;Alpha-beta pruning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleresearch.blogspot.se/2016/01/alphago-mastering-ancient-game-of-go.html&#34;&gt;Google om hur Alphago är byggd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://googleresearch.blogspot.se/2016/01/alphago-mastering-ancient-game-of-go.html&#34;&gt;Artikel om Alphago&lt;/a&gt; med länk till &lt;a href=&#34;http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html&#34;&gt;paper i Nature&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Monte_Carlo_tree_search&#34;&gt;Monte carlo tree search&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Garry_Kasparov&#34;&gt;Kasparov, Garry&lt;/a&gt; - en av världens bästa schackspelare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Deep_Blue_%28chess_computer%29&#34;&gt;Deep blue&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepmind.com&#34;&gt;Google deepmind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Computer_poker_players#Artificial_Intelligence&#34;&gt;AI som spelar poker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fan_Hui&#34;&gt;Fan Hui&lt;/a&gt; - europeisk gomästare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wired.com/2016/02/googles-self-driving-car-may-caused-first-crash/&#34;&gt;Googlebilen var med om sin första krock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/cNZPRsrwumQ?t=34s&#34;&gt;Big dog - den springande fyrbenta roboten - blir sparkad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MIME#Content-Type&#34;&gt;MIME-typ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.json.org/&#34;&gt;JSON&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JQuery&#34;&gt;Jquery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.quirksmode.org/blog/archives/2009/09/the_html5_drag.html&#34;&gt;The HTML 5 drag and drop disaster&lt;/a&gt; - en varning för oss alla&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://visjs.org/&#34;&gt;Timeslider&lt;/a&gt; för Jquery&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://momentjs.com/&#34;&gt;Moment.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hammerjs.github.io/&#34;&gt;Hammer.js&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:c06aae4572b9f5f76cc2aa20528ed9fa&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Schack är besegrat, det är över&lt;/li&gt;
-&lt;li&gt;Den fanns inte när jag gick i skolan&lt;/li&gt;
-&lt;li&gt;Den blandar även in ett neuralt nätverk&lt;/li&gt;
-&lt;li&gt;Personen som skriver koden behöver inte kunna spela Go över huvud taget&lt;/li&gt;
-&lt;li&gt;Här hittar jag en lösning som ingen tidigare gjort&lt;/li&gt;
-&lt;li&gt;Ta Alphago och slänga schack på den&lt;/li&gt;
-&lt;li&gt;Allt matas in i det neurala nätverket&lt;/li&gt;
-&lt;li&gt;Det finns inga bättre människor att testa mot&lt;/li&gt;
-&lt;li&gt;Vi har slut på testcase&lt;/li&gt;
-&lt;li&gt;Uppgradera enskilda neuroner&lt;/li&gt;
-&lt;li&gt;Det där var ett helt nytt drag&lt;/li&gt;
-&lt;li&gt;Man vill ju inte spela Go mot Alphago&lt;/li&gt;
-&lt;li&gt;Tänk när Alphago kan ersätta webben åt oss&lt;/li&gt;
-&lt;li&gt;Ett neuralt nätverk som jag kan träna med timelinekontroller&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
