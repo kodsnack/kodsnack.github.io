@@ -6,7 +6,54 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 26 Jul 2016 05:26:14 UTC</updated>
+    <updated>Tue, 02 Aug 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 167 - You&#39;re part of the sample</title>
+      <link>http://kodsnack.se/167/</link>
+      <pubDate>Tue, 02 Aug 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/167/</guid>
+      <description>
+
+&lt;p&gt;From the podcaster&amp;rsquo;s corner at &lt;a href=&#34;http://www.devsum.se/&#34;&gt;Devsum 16&lt;/a&gt;, Fredrik talks to &lt;a href=&#34;http://barbarafusinska.com/&#34;&gt;Basia Fusinska&lt;/a&gt; about data science, R and data analysis. We discuss the ethics and science around data science and analysis. All of us are giving out a lot of data all the time, and there are so many aspects worth considering around what and how we give our data away. Briefly, we talk about what impressions we have of the .NET community, an impression which is changing even as we speak.&lt;/p&gt;
+
+&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;The Kodsnack book club is coming back! Our next book is the short story &lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Nnedi_Okorafor&#34;&gt;Nnedi Okorafor&lt;/a&gt;. It is a short and sweet read and can be found in many places, like &lt;a href=&#34;http://www.sfbok.se/produkt/binti-148570&#34;&gt;this&lt;/a&gt; and &lt;a href=&#34;https://www.amazon.com/gp/product/B010GJG4PE/ref=kics_hp_typ_dp&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
+
+&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;links:a14808426c9eb0b2aaccccc2bc0328d9&#34;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://barbarafusinska.com/&#34;&gt;Basia Fusinska&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Platform_as_a_service&#34;&gt;PAAS&lt;/a&gt; - Platform as a service&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Software_as_a_service&#34;&gt;SAAS&lt;/a&gt; - Software as a service&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29&#34;&gt;IAAS&lt;/a&gt; - Infrastructure as a service&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bbc.com/news/technology-35559439&#34;&gt;Study on gender and code quality on Github&lt;/a&gt; - raises questions&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.githubarchive.org/&#34;&gt;Github data archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://how-old.net/&#34;&gt;how-old.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/159/&#34;&gt;Our  talk after the Devsum 16 keynote&lt;/a&gt; is in its own episode&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://karl-henrik.se/&#34;&gt;Karl-Henrik Nilsson&lt;/a&gt;&amp;rsquo;s IOT presentation is unfortunately not available online&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/R_%28programming_language%29&#34;&gt;R programming language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/L-reduction&#34;&gt;Linear reduction algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titles:a14808426c9eb0b2aaccccc2bc0328d9&#34;&gt;Titles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data solutions architects - whatever that means&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m still figuring out what that means&lt;/li&gt;
+&lt;li&gt;Adding up numbers&lt;/li&gt;
+&lt;li&gt;As scientific as can be&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re part of the sample&lt;/li&gt;
+&lt;li&gt;Once you have this Stockholm syndrome&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 166 - On the periphery of the monolith</title>
@@ -1054,66 +1101,6 @@
 &lt;li&gt;Ett spel där man inte väljer&lt;/li&gt;
 &lt;li&gt;I den nisch han är så stämmer det han säger&lt;/li&gt;
 &lt;li&gt;Så lite magi som möjligt&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 152 - Den här felkoden kanske hjälper dig</title>
-      <link>http://kodsnack.se/152/</link>
-      <pubDate>Tue, 19 Apr 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/152/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Tobias följer upp tips och kommentarer på tidigare avsnitt kring fönsterhanterare, Bash för Windows, riskerna med att prova betaversioner och oväntade javascriptprojekt.&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi om Swifts helt nya officella androidstöd. Tänk om vi får ett enda språk för utveckling på alla stora plattformar, och som dessutom har sitt ursprung hos Apple. Det hade vi inte gissat.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:4c06e77bce5b2d53ef69a86753d9d26f&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit-2016/&#34;&gt;Devops summit 2016&lt;/a&gt; - 15 juni i Stockholm. Anmäl dig med koden &amp;ldquo;kodsnack&amp;rdquo; och få 500 kronor rabatt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://awesome.naquadah.org/&#34;&gt;Awesome&lt;/a&gt; - fönsterhanteringsramverk för Linux&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt; - tiling window manager för Linux&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ianyh.com/amethyst/&#34;&gt;Amethyst&lt;/a&gt; - tiling window manager med öppen källkod för Mac OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mizage.com/divvy/&#34;&gt;Divvy&lt;/a&gt; - fönsterhantering för såväl Windows som Mac OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://manytricks.com/moom/&#34;&gt;Moom&lt;/a&gt; - fönsterhantering för Mac OS X&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Powershell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://insider.windows.com/&#34;&gt;Windows insider&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Developer_Network&#34;&gt;MSDN&lt;/a&gt; - Microsoft developer network&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BIOS&#34;&gt;BIOS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/santinic/how2&#34;&gt;how2&lt;/a&gt; - Stack overflow från terminalen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Man_page&#34;&gt;man&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.goodreads.com/book/show/29437996-copying-and-pasting-from-stack-overflow&#34;&gt;Essential copying and pasting from Stack overflow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://phpjs.org/about/&#34;&gt;PHPJS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt; - bidra gärna med dina egna lösningar och se andras i &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;Kodsnacks repo på Github&lt;/a&gt;!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_POSIX_subsystem&#34;&gt;Posix-stöd i Windows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_Services_for_UNIX&#34;&gt;Windows services for Unix&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift/pull/1442&#34;&gt;Swiftstöd för Android har infogats i kodbasen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://modocache.io/&#34;&gt;Brian Gesiak&lt;/a&gt; - huvudpersonen bakom androidporten&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:4c06e77bce5b2d53ef69a86753d9d26f&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Om man hela sitt liv suttit i Bash&lt;/li&gt;
-&lt;li&gt;Vissa saker är så otroligt Windows&lt;/li&gt;
-&lt;li&gt;Den här felkoden kanske hjälper dig&lt;/li&gt;
-&lt;li&gt;Nu får jag börja om och vänta i 14 timmar till&lt;/li&gt;
-&lt;li&gt;Tyvärr så ligger det en total ominstallation i min framtid&lt;/li&gt;
-&lt;li&gt;Två-tre minuter innan maskinen bluescreenar&lt;/li&gt;
-&lt;li&gt;Vi kan väl kanalisera Kristoffer&lt;/li&gt;
-&lt;li&gt;Samma kod på framsida och baksida&lt;/li&gt;
-&lt;li&gt;Man lär sig någonting som inte finns där på riktigt&lt;/li&gt;
-&lt;li&gt;Något som inte bör lämna prototypstadiet&lt;/li&gt;
-&lt;li&gt;Spekulation från vår sida&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
