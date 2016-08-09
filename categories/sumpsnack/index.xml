@@ -9,6 +9,43 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 168 - Man behöver inte äta hela devopselefanten på en gång</title>
+      <link>http://kodsnack.se/168/</link>
+      <pubDate>Tue, 09 Aug 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/168/</guid>
+      <description>
+
+&lt;p&gt;På scen på &lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit-2016/&#34;&gt;Devops summit&lt;/a&gt; pratar Tobias och Fredrik med &lt;a href=&#34;https://twitter.com/CeciliaBorg&#34;&gt;Cecilia Borg&lt;/a&gt; om devops som begrepp och praktik. Äter utvecklare upp allt jobb och ansvar? Vad händer med de som gillar att sköta servrar? Och hur kan testning komma ivägen för devops?&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:d10910012f465d6b435851a43781798f&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit-2016/&#34;&gt;Devops summit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/156/&#34;&gt;Vår intervju&lt;/a&gt; med &lt;a href=&#34;https://joearms.github.io/index.html&#34;&gt;Joe Armstrong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/CeciliaBorg&#34;&gt;Cecilia Borg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DevOps&#34;&gt;Devops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://looklet.com/&#34;&gt;Looklet&lt;/a&gt; - där Cecilia är CTO&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Minimum_viable_product&#34;&gt;Minimum viable product&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:d10910012f465d6b435851a43781798f&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Devops kan ju betyda så otroligt mycket&lt;/li&gt;
+&lt;li&gt;Kulturen är viktigare än tekniken&lt;/li&gt;
+&lt;li&gt;Nu ska vi ha en kurs och en certifiering&lt;/li&gt;
+&lt;li&gt;Man behöver inte äta hela devopselefanten på en gång&lt;/li&gt;
+&lt;li&gt;Nulltestning i flera veckor&lt;/li&gt;
+&lt;li&gt;Släpp först, testa sedan?&lt;/li&gt;
+&lt;li&gt;Kulturen över tekniken&lt;/li&gt;
+&lt;li&gt;Den stora devopselefanten&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 167 - You&#39;re part of the sample</title>
       <link>http://kodsnack.se/167/</link>
       <pubDate>Tue, 02 Aug 2016 05:26:14 UTC</pubDate>
@@ -1022,85 +1059,6 @@
 &lt;li&gt;Fastnar på gränsen mellan mitt program och de andras program&lt;/li&gt;
 &lt;li&gt;Jag tror inte på typer längre&lt;/li&gt;
 &lt;li&gt;De är bara där för din skull&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 153 - I den nisch han är så stämmer det han säger</title>
-      <link>http://kodsnack.se/153/</link>
-      <pubDate>Tue, 26 Apr 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/153/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Fredrik snackar esoteriska kalender- och e-postsystem, Meetup och trevliga grupper att gå med i och knepigheter kring att organisera möten (man kör fast i tanken att någon måste presentera något varje gång). Sedan snackar vi om Gothenburg startup hack och andra ställen Kodsnack dyker upp under våren. Vi funderar också på om utvecklingsbranschen, kanske främst spelbranschen, kan lära något av filmbranschen. Och har någon provat  att bygga ett flerspelarspel om demokrati?&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi Jonathan Blows tankar om mjukvarukvalité, att bygga verktyg enligt sina egna värderingar och att ha ett öppnare sinne för andra perspektiv än sitt eget eller de mest populära.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.accounting.pe/&#34;&gt;PE accounting&lt;/a&gt;. PE söker erfarna javautvecklare som vill automatisera en hel bransch. Surfa in på &lt;a href=&#34;http://www.accounting.pe/karriar&#34;&gt;PE:s karriärsida&lt;/a&gt; för att läsa mer och söka!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:eab166534ec7aae4f0d04790b0a5898f&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/&#34;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cocoaheads.org/&#34;&gt;Cocoaheads&lt;/a&gt;, och &lt;a href=&#34;http://www.meetup.com/cocoaheads-goteborg/&#34;&gt;gruppen för Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/gbgnodejs/&#34;&gt;Node-gruppen i Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/ReactJS-Goteborg/&#34;&gt;React-gruppen i Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Scrum-beers-Goteborg/&#34;&gt;Scrum beers Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/delphi-gbg/&#34;&gt;Delphigruppen i Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Goteborg-Podcasting-Meetup-GOT-Poddradio/&#34;&gt;Podcastgruppen i Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/got-js/&#34;&gt;Javascriptgruppen i Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gbgstartuphack.com/&#34;&gt;Gothenburg startup hack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/104/&#34;&gt;Kodsnack 104 - inte alltid min starka sida&lt;/a&gt;. Vårt avsnitt om förra årets startuphack&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gbgtechweek.com/#startuparena&#34;&gt;Startup arena&lt;/a&gt; - 14 maj kommer Fredrik med fler att snacka på scen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.devsum.se/&#34;&gt;Devsum&lt;/a&gt; - 26-27 maj kommer hela Kodsnack att vara på plats&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit-2016/&#34;&gt;Devops summit&lt;/a&gt; - 15 juni i Stockholm. Kodsnack livepoddar från scen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/ngt16/&#34;&gt;Next generation threats&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://saltstack.com/&#34;&gt;Saltstack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/SaltStack-Stockholm/&#34;&gt;Saltstackmeetupen i Stockholm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chef_%28software%29&#34;&gt;Chef&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Puppet_%28software%29&#34;&gt;Puppet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ansible_%28software%29&#34;&gt;Ansible&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eloquentjavascript.net/00_intro.html&#34;&gt;Eloquent javascript&lt;/a&gt; - lär dig programmera, i Javascript, från grunden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.accounting.pe/&#34;&gt;PE accounting&lt;/a&gt; - veckans sponsor som söker erfarna javautvecklare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.accounting.pe/karriar&#34;&gt;PE accountings karriärsida&lt;/a&gt; - stället att surfa in på för att söka&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://spelskaparna.com/episode/5/&#34;&gt;Podden Spelskaparnas intervju med Jens Andersson&lt;/a&gt; - svensk kille som bland annat jobbat på Lucasfilm&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nationstates.net&#34;&gt;Nationstates&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Witness_%282016_video_game%29&#34;&gt;The witness&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jonathan_Blow&#34;&gt;Jonatahan Blow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=k56wra39lwA&#34;&gt;Jonathan Blow pratar mjukvarukvalité&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md&#34;&gt;JAI&lt;/a&gt; - språket Jonathan Blow bygger&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Macro_%28computer_science%29&#34;&gt;Makron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Abstract_syntax_tree&#34;&gt;AST&lt;/a&gt; - abstrakt syntaxträd&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.llvm.org/&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Domain-specific_language&#34;&gt;Domänspecifika språk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/YAML&#34;&gt;YAML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34;&gt;JSON&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hibernate.org/&#34;&gt;Hibernate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://c9x.me/compile/&#34;&gt;QBE&lt;/a&gt; - liknar LLVM fast mycket mindre&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:eab166534ec7aae4f0d04790b0a5898f&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kristoffer har tagit över det här&lt;/li&gt;
-&lt;li&gt;Ett möte varannan vecka&lt;/li&gt;
-&lt;li&gt;En fruktansvärd procentuell ökning&lt;/li&gt;
-&lt;li&gt;Mardrömmen som är kalendersystem&lt;/li&gt;
-&lt;li&gt;Då var jag halvmigrerad&lt;/li&gt;
-&lt;li&gt;Ni har träffats i köttet&lt;/li&gt;
-&lt;li&gt;Ett myller av människor som aldrig har jobbat tillsammans&lt;/li&gt;
-&lt;li&gt;Alla känner varandra i Hollywood&lt;/li&gt;
-&lt;li&gt;Ett spel där man inte väljer&lt;/li&gt;
-&lt;li&gt;I den nisch han är så stämmer det han säger&lt;/li&gt;
-&lt;li&gt;Så lite magi som möjligt&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
