@@ -9,6 +9,77 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 170 - Byggt för att man ska tappa grejer</title>
+      <link>http://kodsnack.se/170/</link>
+      <pubDate>Tue, 23 Aug 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/170/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias snackar strulande lagring, säkerhetskopiering och, lite oväntat, hur Ipad pro dykt upp och hittat platser i deras vardag. Har du hittat platser för surfplattor i din vardag och arbetsdag?&lt;/p&gt;
+
+&lt;p&gt;Nästa bokklubbsbok är &lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; av Nnedi Okorafor, som vi troligen kommer att diskutera inom ett par veckor. Den finns att köpa på många ställen, till exempel &lt;a href=&#34;https://www.amazon.com/gp/product/B010GJG4PE/ref=kics_hp_typ_dp&#34;&gt;här&lt;/a&gt; och &lt;a href=&#34;http://www.sfbok.se/tips-topplistor/tips/boktips/rekommenderad-sf/binti&#34;&gt;här&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:ec8eae20ab8d4b114e53d306d82f1d2c&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ZFS&#34;&gt;ZFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://linux.die.net/man/8/klogd&#34;&gt;Kernelloggande&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Serial_ATA&#34;&gt;SATA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PCI_Express&#34;&gt;PCIE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.synology.com/sv-se/&#34;&gt;Synology&lt;/a&gt; - NAS-prylar många gillar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.netgear.com/business/products/storage/readynas/?cid=wmt_netgear_organic&#34;&gt;Readynas&lt;/a&gt; - NAS-prylar från Netgear&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html&#34;&gt;Superduper&lt;/a&gt; - lokal säkerhetskopiering för Macos&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.crashplan.com/en-us/&#34;&gt;Crashplan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.backblaze.com/&#34;&gt;Backblaze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/RAID&#34;&gt;RAID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_File_System&#34;&gt;APFS&lt;/a&gt; - Apples kommande filsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.co.uk/apple/2016/06/apfs-apple-new-file-system-dev-details/&#34;&gt;APFS-artikeln på Ars technica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/HFS_Plus&#34;&gt;HFS(+)&lt;/a&gt; - Apples nuvarande filsystem&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Be_File_System&#34;&gt;BFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dominic_Giampaolo&#34;&gt;Dominic Giampaolo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2016/701/&#34;&gt;APFS-presentationen från WWDC&lt;/a&gt; - med Dominic&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nobius.org/~dbg/practical-file-system-design.pdf&#34;&gt;Practical file system design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/se/smart-keyboard/&#34;&gt;Apple smart keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/thoughts/k811.html&#34;&gt;Logitech K811&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://panic.com/prompt/&#34;&gt;Prompt&lt;/a&gt; - SSH-klient för IOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wooji-juice.com/products/ferrite/&#34;&gt;Ferrite&lt;/a&gt; - ljudinspelning och redigering för IOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rogueamoeba.com/audiohijack/&#34;&gt;Audio hijack&lt;/a&gt; - ljudinspelning från källor på in Mac&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/swift/playgrounds/&#34;&gt;Playgrounds&lt;/a&gt; - Ipad-app för att lära sig och leka med programmering i &lt;a href=&#34;https://en.wikipedia.org/wiki/Swift_%28programming_language%29&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/12/7/9869802/playstation-messages-app-ios-android&#34;&gt;Playstation messages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justgetflux.com/&#34;&gt;F.lux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sparkmailapp.com/&#34;&gt;Spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/&#34;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overcast.fm&#34;&gt;Overcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/codenight6/&#34;&gt;Code night om UX&lt;/a&gt; - 15 september&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; - nästa bok vi kommer att diskutera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hugo_Award&#34;&gt;Hugo award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nebula_Award&#34;&gt;Nebula award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Locus_Award&#34;&gt;Locus award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nnedi_Okorafor&#34;&gt;Nnedi Okorafor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:ec8eae20ab8d4b114e53d306d82f1d2c&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efter att ha lusläst kernelloggen&lt;/li&gt;
+&lt;li&gt;Hyfsat superliten&lt;/li&gt;
+&lt;li&gt;Läskigt manuell&lt;/li&gt;
+&lt;li&gt;Lite väl hands on&lt;/li&gt;
+&lt;li&gt;Byggt för att man ska tappa grejer&lt;/li&gt;
+&lt;li&gt;Ipad - konstigt att det är en grej igen&lt;/li&gt;
+&lt;li&gt;Hittepå i huvudet&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 169 - Hur var din första planet?</title>
       <link>http://kodsnack.se/169/</link>
       <pubDate>Tue, 16 Aug 2016 05:26:14 UTC</pubDate>
@@ -995,71 +1066,6 @@
 &lt;li&gt;Man hackar sig in genom en brödrost&lt;/li&gt;
 &lt;li&gt;Vad är den svåraste biten?&lt;/li&gt;
 &lt;li&gt;Erlang har inte kommit från intet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 155 - Sämre standard för sanning</title>
-      <link>http://kodsnack.se/155/</link>
-      <pubDate>Tue, 10 May 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/155/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Fredrik värmer upp med små telefoner, framför allt Iphone SE och att växla över till IOS från Android. Huvudämnet är nya rykten och påståenden kring vem som egentligen ligger bakom pseudonymen Satoshi Nakamoto - personen eller personerna som ligger bakom Bitcoin. Vi snackar både om vad som hänt och om medias många gånger märkliga hantering av nyheter.&lt;/p&gt;
-
-&lt;p&gt;Slutligen lite nedvarvning med 360-video och annat.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://www.dfkompetens.se/&#34;&gt;Dataföreningen kompetens&lt;/a&gt; som rekommenderar kursen &lt;a href=&#34;http://www.dfkompetens.se/lead&#34;&gt;Certified lead developer&lt;/a&gt; som en karriärväg för utvecklare. Tack för att ni stödjer Kodsnack!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:ebf2f0ed4a13ba06924f599517b3bf5e&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vi snackade små telefoner i &lt;a href=&#34;http://kodsnack.se/154/&#34;&gt;förra avsnittet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fredriks &lt;a href=&#34;http://bjoreman.com/thoughts/downsizing.html&#34;&gt;text om att vara sugen på en Iphone SE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Craig_Steven_Wright&#34;&gt;Craig Wright&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bitcoin&#34;&gt;Bitcoin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin&#34;&gt;Economists artikel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Satoshi_Nakamoto&#34;&gt;Satoshi Nakamoto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.wired.com/2015/12/new-clues-suggest-satoshi-suspect-craig-wright-may-be-a-hoaxer/&#34;&gt;Wireds artikel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.svt.se/nyheter/utrikes/efter-ar-av-spekulationer-han-ar-bitcoins-skapare&#34;&gt;SVT:s &amp;ldquo;artikel&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gavinandresen.ninja/satoshi&#34;&gt;Gavin Andresen tror att Craig är Satoshi Nakamoto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.drcraigwright.net/jean-paul-sartre-signing-significance/&#34;&gt;Craig Wrights eget inlägg&lt;/a&gt;, med &amp;ldquo;bevis&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dfkompetens.se/&#34;&gt;Dataföreningen kompetens&lt;/a&gt; - veckans sponsor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dfkompetens.se/lead&#34;&gt;Certifierad lead developer&lt;/a&gt; – en karriärväg för utvecklare! Utbildning på 4x2 dagar&lt;/li&gt;
-&lt;li&gt;Kursledaren Jimmy Flink &lt;a href=&#34;https://www.youtube.com/watch?v=4rHa75kLfJs&#34;&gt;berättar mer om utbildningen&lt;/a&gt; (film på två minuter)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dfkompetens.se/dfk-play/v/?id=185&#34;&gt;Bli en bättre lead på en timme&lt;/a&gt;. Kostnadsfri eftersändning av frukostmöte (film cirka en timme)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/James_Randi&#34;&gt;James Randi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Uri_Geller&#34;&gt;Uri Geller&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jean-Paul_Sartre&#34;&gt;Sartre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/42/&#34;&gt;Vårt tidigare avsnitt om Bitcoin&lt;/a&gt;, med &lt;a href=&#34;https://www.twitter.com/blippie&#34;&gt;Noa Resare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=g5PJEjlSSaQ&#34;&gt;3D-inspelning av föredrag om React native&lt;/a&gt; från &lt;a href=&#34;http://www.meetup.com/ReactJS-Goteborg/&#34;&gt;React-gruppen i Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tii.se/&#34;&gt;Interactive institute&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gbgtechweek.com/#startuparena&#34;&gt;Kodsnack på scen på Startup arena 14 maj&lt;/a&gt;! Kom och lyssna, och snacka!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/youtube/comments/3x2qq1/can_someone_please_explain_what_the_resolution/&#34;&gt;1080s-upplösning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.aliexpress.com/&#34;&gt;Aliexpress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twit.tv/shows/triangulation/episodes/247&#34;&gt;Intervju med Bill Atkinson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bill_Atkinson&#34;&gt;Bill Atkinson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HyperCard&#34;&gt;Hypercard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.goodreads.com/quotes/542554-taking-lsd-was-a-profound-experience-one-of-the-most&#34;&gt;Steve Jobs om LSD&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:ebf2f0ed4a13ba06924f599517b3bf5e&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det började på morgonen med Game of thrones&lt;/li&gt;
-&lt;li&gt;Allt det jobbiga kommer sist&lt;/li&gt;
-&lt;li&gt;Man stoppar den i fickan så försvinner den&lt;/li&gt;
-&lt;li&gt;Det hackar nästan aldrig&lt;/li&gt;
-&lt;li&gt;Sämre standard för sanning&lt;/li&gt;
-&lt;li&gt;Alla är lika extrema på sina kanter&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
