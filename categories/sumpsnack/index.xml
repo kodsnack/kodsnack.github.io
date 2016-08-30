@@ -9,6 +9,94 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 171 - Nedlusad med lambdas och anonyma funktioner/En väldigt meditativ tillvaro</title>
+      <link>http://kodsnack.se/171/</link>
+      <pubDate>Tue, 30 Aug 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/171/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar nyheter i C# 7 och vad vi tycker och tänker om dem. Tupler eller utparametrar, vad tycker du? Är C# 7 klockrent, konstigt eller någonstans mitt i för dig som jobbar hela dagarna med C#.&lt;/p&gt;
+
+&lt;p&gt;15 september är det dags &lt;a href=&#34;http://techworld.event.idg.se/event/codenight6/&#34;&gt;Code night&lt;/a&gt; i Stockholm igen, och vi kommer att vara där. Kom och säg hej, lyssna på intressanta talare och oss!&lt;/p&gt;
+
+&lt;p&gt;Veckans andra huvudämne är science fiction-novellen &lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; av Nnedi Okorafor. Boksnacket börjar vid 41:24. Vi börjar med ett snack om recensioner och betyg över lag, sedan (46:55) kommer vi in på själva boken och diskuterar hela handlingen i boken blandat med våra åsikter och tankar.&lt;/p&gt;
+
+&lt;p&gt;Som avslutning vad vi läser nu.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:346163af5019164eeb7f5afd565b80b6&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/&#34;&gt;Nyheter i C# 7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; - veckans bok&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Anonymous_function&#34;&gt;Lambda/anonym funktion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mutual_exclusion&#34;&gt;Mutex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.devsum.se/speaker/kathleen-dollard/&#34;&gt;Kathleen Dollard&lt;/a&gt; presenterade nyheter i C# 7 på &lt;a href=&#34;http://www.devsum.se/&#34;&gt;Devsum&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tuple&#34;&gt;Tuple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parameter_%28computer_programming%29#Parameters_and_arguments&#34;&gt;Utvariabler&lt;/a&gt; - eller utparametrar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Immutable_object&#34;&gt;Immutable&lt;/a&gt; - att någonting är oföränderligt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/24328679/does-java-se-8-have-pairs-or-tuples&#34;&gt;Java har inte tupler&lt;/a&gt;, åtminstone inte i Java 8&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pattern_matching&#34;&gt;Pattern matching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nested_function&#34;&gt;Lokala&lt;/a&gt; - eller nästlade - funktioner&lt;/li&gt;
+&lt;li&gt;Funktionen vi har svårt att förstå är rubriken &amp;ldquo;Ref returns and locals&amp;rdquo; i artikeln&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/codenight6/&#34;&gt;Code night om UX&lt;/a&gt; - 15 september&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nnedi_Okorafor&#34;&gt;Nnedi Okorafor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hugo_Award&#34;&gt;Hugo award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nebula_Award&#34;&gt;Nebula award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.strangehorizons.com/reviews/2016/03/binti_by_nnedi_.shtml&#34;&gt;Arikel om Binti&lt;/a&gt; på Strange horizon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scottberkun.com/yearwithoutpants/&#34;&gt;The year without pants&lt;/a&gt; av Scott Berkun&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Seveneves&#34;&gt;Seveneaves&lt;/a&gt; av &lt;a href=&#34;https://en.wikipedia.org/wiki/Neal_Stephenson&#34;&gt;Neil Stephenson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cryptonomicon&#34;&gt;Cryptonomicon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Snow_Crash&#34;&gt;Snow crash&lt;/a&gt; - kanske den bästa Stephenson att börja med&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Reamde&#34;&gt;Reamde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.goodreads.com/book/show/25695756-stiletto&#34;&gt;Stiletto&lt;/a&gt; av &lt;a href=&#34;http://www.rookfiles.com/&#34;&gt;Daniel O&amp;rsquo;Malley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hellboy&#34;&gt;Hellboy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Traitor_Baru_Cormorant&#34;&gt;The traitor Baru Cormorant&lt;/a&gt; av &lt;a href=&#34;https://en.wikipedia.org/wiki/Seth_Dickinson&#34;&gt;Seth Dickinson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alastair_Reynolds&#34;&gt;Alistair Reynolds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Peter_F._Hamilton&#34;&gt;Peter F Hamilton&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:346163af5019164eeb7f5afd565b80b6&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lite nyhetsvärdiga&lt;/li&gt;
+&lt;li&gt;Jag kan ha skrivit några rader C#&lt;/li&gt;
+&lt;li&gt;14 år i C#-gruvorna&lt;/li&gt;
+&lt;li&gt;Nedlusad med lambdas och anonyma funktioner&lt;/li&gt;
+&lt;li&gt;Vad tänker du när du ser C#?&lt;/li&gt;
+&lt;li&gt;Vi är upphovsmännen till C# 7&lt;/li&gt;
+&lt;li&gt;Java med mojs&lt;/li&gt;
+&lt;li&gt;Hellre C# än Java&lt;/li&gt;
+&lt;li&gt;Ett hack från C-världen&lt;/li&gt;
+&lt;li&gt;Gruppen som försöker bygga ett bättre C&lt;/li&gt;
+&lt;li&gt;Tupelgänget får hacka lite på utparametergänget&lt;/li&gt;
+&lt;li&gt;Språket spricker i sömmarna&lt;/li&gt;
+&lt;li&gt;Ett tunt lager socker ovanpå klassbullen&lt;/li&gt;
+&lt;li&gt;Fast i C-tänket&lt;/li&gt;
+&lt;li&gt;Alla har vi en lång define&lt;/li&gt;
+&lt;li&gt;Sidospår med Kristoffer Grönlund&lt;/li&gt;
+&lt;li&gt;Jag har varit på internet den senaste tiden&lt;/li&gt;
+&lt;li&gt;Det här är en trea&lt;/li&gt;
+&lt;li&gt;En väldigt meditativ tillvaro&lt;/li&gt;
+&lt;li&gt;Språnget ut i ingenstans&lt;/li&gt;
+&lt;li&gt;En enorm metafor&lt;/li&gt;
+&lt;li&gt;En jättestor rymdräka&lt;/li&gt;
+&lt;li&gt;En mojäng&lt;/li&gt;
+&lt;li&gt;Slutet är otroligt ointressant&lt;/li&gt;
+&lt;li&gt;Vi pratar om det och går vidare&lt;/li&gt;
+&lt;li&gt;Som solförnekad blek inomhussvensk&lt;/li&gt;
+&lt;li&gt;Allt det enorma händer i bakgrunden&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 170 - Byggt för att man ska tappa grejer</title>
       <link>http://kodsnack.se/170/</link>
       <pubDate>Tue, 23 Aug 2016 05:26:14 UTC</pubDate>
@@ -971,101 +1059,6 @@
 &lt;li&gt;The luxury of chasing the dream&lt;/li&gt;
 &lt;li&gt;Suddenly we did know shit&lt;/li&gt;
 &lt;li&gt;Stop disrupting shit&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 156 - Erlang har inte kommit från intet</title>
-      <link>http://kodsnack.se/156/</link>
-      <pubDate>Tue, 17 May 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/156/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Fredrik snackar med Joe Armstrong om Erlang, dess historia och des tid och plats i världen. Vi pratar även om Joes bakgrund och var dator-, mjukvaru- och teknikvärlden är på väg. Vi diskuterar också kopplingen mellan musik och programmering, och att lära sig för att verkligen bli bra på saker.&lt;/p&gt;
-
-&lt;p&gt;I avsnittet gav Joe några utmaningar till våra lyssnare:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Prove that &lt;code&gt;5!! &amp;gt;&amp;gt; # protons in universe&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Then show that &lt;code&gt;5!!&lt;/code&gt; is TINY compared to Graham&amp;rsquo;s number&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Watch a youtube video explaining Graham&amp;rsquo;s number&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:6c85a8317f3881adfcbb9c0087ecc367&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://joearms.github.io/index.html&#34;&gt;Joe Armstrong&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qyVvGjNjBOA&#34;&gt;Hello Joe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PLEX_%28programming_language%29&#34;&gt;PLEX&lt;/a&gt; - Programming language for exchanges - språk Ericsons telefonväxlar skrevs i&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AXE_telephone_exchange&#34;&gt;AXE10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html&#34;&gt;Whatsapp är skrivet i Erlang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fortran&#34;&gt;Fortran&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/COBOL&#34;&gt;COBOL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Message_passing&#34;&gt;Meddelandeskickande&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Carl_Hewitt&#34;&gt;Carl Hewitt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Actor_model&#34;&gt;Aktörsmodellen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.erlang-factory.com/sfbay2016#home&#34;&gt;Erlang factory&lt;/a&gt; - konferensen i San Francisco&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Swedish_Space_Corporation&#34;&gt;Rymdbolaget&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Turing&#34;&gt;Alan Turing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robin_Popplestone&#34;&gt;Robin Popplestone&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/James_Lighthill&#34;&gt;James Lighthill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lighthill_report&#34;&gt;Lighthill-rapporten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AI_winter&#34;&gt;AI-vinter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Prolog&#34;&gt;Prolog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Kowalski&#34;&gt;Robert Kowalski&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Viking_%28satellite%29&#34;&gt;Viking-satelliten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nyteknik.se/digitalisering/ganget-bakom-bluetail-startar-pa-nytt-6439686&#34;&gt;Bluetail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sics.se/&#34;&gt;SICS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WordStar&#34;&gt;Wordstar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thestrangeloop.com/&#34;&gt;Strange loop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=lKXe3HUG2l4&#34;&gt;The mess we&amp;rsquo;re in&lt;/a&gt; - Joes föredrag på Strange loop&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.erlang.se/euc/04/erlguten.pdf&#34;&gt;Erlguten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Helvetica&#34;&gt;Helvetica&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Arial&#34;&gt;Arial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://erlangcentral.org/tag/beam/&#34;&gt;BEAM&lt;/a&gt; - Erlangs virtuella maskin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elixir_%28programming_language%29&#34;&gt;Elixir&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LFE_%28programming_language%29&#34;&gt;LFE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rob_Pike&#34;&gt;Rob Pike&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://book.realworldhaskell.org/read/&#34;&gt;Real world Haskell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.serpentine.com/blog/&#34;&gt;Bryan O&amp;rsquo;Sullivan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://community.haskell.org/~simonmar/&#34;&gt;Simon Marlow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://homepages.inf.ed.ac.uk/wadler/&#34;&gt;Phil Wadler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hack_%28programming_language%29&#34;&gt;Hack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cray-1&#34;&gt;Cray-1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Manchester_Mark_1&#34;&gt;Manchester mark 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/VAX-11#VAX-11.2F750&#34;&gt;VAX &lt;sup&gt;11&lt;/sup&gt;&amp;frasl;&lt;sub&gt;750&lt;/sub&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Raspberry_Pi&#34;&gt;Raspberry pi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://venturebeat.com/2016/04/05/nvidia-creates-a-15b-transistor-chip-for-deep-learning/&#34;&gt;Nvidias AI-chip&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepmind.com/&#34;&gt;Deepmind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vint_Cerf&#34;&gt;Vint Cerf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=STeLOogWqWk&#34;&gt;Digital vellum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.scientificamerican.com/article/black-hole-computers-2007-04/&#34;&gt;Svarta hål-datorer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Factorial&#34;&gt;Fakultet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Graham%27s_number&#34;&gt;Grahams tal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:6c85a8317f3881adfcbb9c0087ecc367&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Turing librarian&lt;/li&gt;
-&lt;li&gt;En intelligent kudde&lt;/li&gt;
-&lt;li&gt;Man hackar sig in genom en brödrost&lt;/li&gt;
-&lt;li&gt;Vad är den svåraste biten?&lt;/li&gt;
-&lt;li&gt;Erlang har inte kommit från intet&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
