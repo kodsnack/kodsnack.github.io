@@ -9,6 +9,118 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 173 - En kombination av Javascript och Scala</title>
+      <link>http://kodsnack.se/173/</link>
+      <pubDate>Tue, 13 Sep 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/173/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar med &lt;a href=&#34;https://www.linkedin.com/in/tohlson&#34;&gt;Tomas Ohlson&lt;/a&gt;, medgrundare och teknikchef på &lt;a href=&#34;http://www.trueflow.io/&#34;&gt;Trueflow&lt;/a&gt; om Go på servrar, API:er, Swift och en massa annat kul. Som att gå från Angular till React. Tomas har skrivit Swift så länge språket har funnits och använt det i produktion nästan lika länge. Docker, hur Truflow använder det, hur de rullar ut versioner och en massa annat godis. Språk som är bra och vad som är bra och viktigt med ett IDE. Ett IDE ska hjälpa dig att förstå ditt språk och din miljö. Swifts framtid på servrar. Det blir också en del intressant snack om inhomuspositionering med beacons, ett problem Trueflow egentligen inte ville pyssla med men behöver lösa.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet spelades som höres in i äkta cafémiljö, på &lt;a href=&#34;http://www.damatteo.se/victoriapassagen.html&#34;&gt;da Matteo&lt;/a&gt; i Göteborg.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:b75fbe22d50bae17e67b636f65654ec9&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/protocol-buffers/&#34;&gt;Protofbuf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.grpc.io/&#34;&gt;GRPC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swift.org/about/&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kangax.github.io/compat-table/es6/&#34;&gt;ES6&lt;/a&gt; - den just nu (2016) mest populära versionen av Javascript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/React_%28JavaScript_library%29&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/React_%28JavaScript_library%29#JSX&#34;&gt;JSX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TypeScript&#34;&gt;Typescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rollout.io/&#34;&gt;Rollout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kotlin_%28programming_language%29&#34;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/ctime/mktime/&#34;&gt;mktime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Docker_%28software%29&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/compose/&#34;&gt;Docker compose&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/swarm/&#34;&gt;Docker swarm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://redis.io/&#34;&gt;Redis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/&#34;&gt;AWS lastbalansering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gbgstartuphack.com/&#34;&gt;Gothenburg startup hack&lt;/a&gt; - årligt hackathon Tomas var med och grundade och Fredrik hjälpt till med&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hashicorp.com/&#34;&gt;Hashicorp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;CI&lt;/a&gt; - continuous integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Wallet_%28application%29&#34;&gt;Passbook&lt;/a&gt; - teknik från Apple för att skapa och hantera biljetter kuponger och liknande i mobilen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://coreos.com/etcd/docs/latest/&#34;&gt;etcd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hub.docker.com/&#34;&gt;Docker hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://about.gitlab.com/&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wired.com/2015/09/google-2-billion-lines-codeand-one-place/&#34;&gt;Google kör det mesta&lt;/a&gt; i ett enda källkodsrepo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jeff_Dean_%28computer_scientist%29&#34;&gt;Jeff Dean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/ProgrammerHumor/comments/45g4he/googles_most_badass_engineer_jeff_dean_facts/&#34;&gt;Jeff Dean facts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scala_%28programming_language%29&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kalman_filter&#34;&gt;Kalmanfilter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/timeedit-api&#34;&gt;NPM-paket för att skrapa Timeedits webbschema&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tour.golang.org/concurrency/1&#34;&gt;Trådning i Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Core_Data&#34;&gt;Core data&lt;/a&gt; - &lt;a href=&#34;https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatNewCoreData2016/ReleaseNotes.html&#34;&gt;förändringar i IOS 10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Enterprise_Objects_Framework&#34;&gt;EOF&lt;/a&gt; - föregångaren till Core data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ycombinator.com/&#34;&gt;Y combinator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/what-is-bigquery&#34;&gt;Bigquery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bigtable&#34;&gt;Bigtable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/rds/aurora/faqs/&#34;&gt;Amazon Aurora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_Cordova&#34;&gt;Phonegap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; - kompilerar nytt Javascript till äldre Javascript så att man kan använda nya funktioner innan de är standard&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.jonathanoliver.com/golang-has-generics/&#34;&gt;Generics i Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift/blob/master/docs/proposals/Concurrency.rst&#34;&gt;Swifts föreslagna concurrency-lösningar&lt;/a&gt;, starkt inspirerade av Go&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IBM-Swift/Kitura&#34;&gt;IBM Kitura&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CoreLocation_Framework/&#34;&gt;Corelocation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html&#34;&gt;Core Bluetooth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_Native_Interface&#34;&gt;JNI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react-native/&#34;&gt;React native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://redux.js.org/&#34;&gt;Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/necolas/react-native-web&#34;&gt;React native för webben&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ionicframework.com/&#34;&gt;Ionic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dart_%28programming_language%29&#34;&gt;Dart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_Wave&#34;&gt;Wave&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:b75fbe22d50bae17e67b636f65654ec9&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lite olika saker som är katastrof&lt;/li&gt;
+&lt;li&gt;Allt av allt&lt;/li&gt;
+&lt;li&gt;Sättet man ska skriva frontend&lt;/li&gt;
+&lt;li&gt;Man kan få det att funka en gång&lt;/li&gt;
+&lt;li&gt;Alla språk går mot samma syntax&lt;/li&gt;
+&lt;li&gt;Swift är bäst på att stjäla från de flesta&lt;/li&gt;
+&lt;li&gt;Här är en konfig: läs den, det kommer att bli roligt&lt;/li&gt;
+&lt;li&gt;Docker är ju smidigt att starta om&lt;/li&gt;
+&lt;li&gt;Man jobbar lokalt, helt enkelt&lt;/li&gt;
+&lt;li&gt;Bryt upp det och fortsätt som om ingenting hade hänt&lt;/li&gt;
+&lt;li&gt;Massa massa Gauss&lt;/li&gt;
+&lt;li&gt;Splitta upp det och testa det&lt;/li&gt;
+&lt;li&gt;Våra test säger att det är ditt fel&lt;/li&gt;
+&lt;li&gt;Kartdatan är värst av allt&lt;/li&gt;
+&lt;li&gt;Automatiska algoritmer, a.k.a. ett kontor i Indien&lt;/li&gt;
+&lt;li&gt;for-loopa ut trådar&lt;/li&gt;
+&lt;li&gt;Trådar i många nivåer ner&lt;/li&gt;
+&lt;li&gt;Det ser seriellt ut&lt;/li&gt;
+&lt;li&gt;Man hör aldrig någon som gillar Oracle&lt;/li&gt;
+&lt;li&gt;Angular hade sin version av allt&lt;/li&gt;
+&lt;li&gt;Hur många kilo hår har det kostat?&lt;/li&gt;
+&lt;li&gt;Hackfärdigt&lt;/li&gt;
+&lt;li&gt;Det här värdet är större än slutet&lt;/li&gt;
+&lt;li&gt;(Någonting som var) Roligt och härligt och hårdtypat&lt;/li&gt;
+&lt;li&gt;Världen rullar ju på Java&lt;/li&gt;
+&lt;li&gt;En kombination av Javascript och Scala&lt;/li&gt;
+&lt;li&gt;Du kan rädda dig själv efter hand&lt;/li&gt;
+&lt;li&gt;Det grå håret är garbage collection&lt;/li&gt;
+&lt;li&gt;En tröja från ett utdött googleprojekt&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 172 - Varje frukost är unik</title>
       <link>http://kodsnack.se/172/</link>
       <pubDate>Tue, 06 Sep 2016 05:26:14 UTC</pubDate>
@@ -989,93 +1101,6 @@
 &lt;li&gt;C++ the good parts&lt;/li&gt;
 &lt;li&gt;Good parts-perioden&lt;/li&gt;
 &lt;li&gt;C-defines som emulerar Pascal&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 158 - Jag blir stressad av att prata med robotar</title>
-      <link>http://kodsnack.se/158/</link>
-      <pubDate>Tue, 31 May 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/158/</guid>
-      <description>
-
-&lt;p&gt;Vi gräver ner oss i tangentbord, modeller, knappupphängningsvarianter och ergonomi. Sedan snackar vi lite Google I/O och … lite mer om tvisten mellan Google och Oracle kring Java och API:er.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:170ecf3ce438c9619fd987f18aace738&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.apple.com/macbook/&#34;&gt;Macbook &amp;ldquo;one&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cnet4.cbsistatic.com/hub/i/r/2010/08/17/ea5dc695-67c3-11e3-a665-14feb5ca9861/thumbnail/770x433/cebfa7bde6d04c51a507c0f9833995bd/32568475_OVR.png&#34;&gt;Apples trådlösa tangentbord&lt;/a&gt; - före-2015-modellen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chiclet_keyboard&#34;&gt;Chiclet-tangentbord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/thoughts/k811.html&#34;&gt;Logitech K811&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cnet.com/products/microsoft-sculpt-ergonomic-desktop/&#34;&gt;Microsoft sculpt ergonomic keyboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/hardware/sv-se/p/natural-ergonomic-keyboard-4000&#34;&gt;Microsofts ergonomiska tangentbord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard&#34;&gt;Dvorak-tangentbordslayout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.trulyergonomic.com/store/index.php&#34;&gt;Truly ergonomic keyboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/&#34;&gt;Kinesis advantage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ergodox.org/&#34;&gt;Ergodox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://matias.ca/ergopro/pc/&#34;&gt;Matias ergo pro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.keyboardco.com/&#34;&gt;Keyboard company&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Model_M_keyboard&#34;&gt;IBM model M&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DIP_switch&#34;&gt;DIP switch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vimium.github.io/&#34;&gt;Vimium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OS/2&#34;&gt;OS/2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IBM_Personal_System/2&#34;&gt;IBM PS/2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://events.google.com/io2016/&#34;&gt;Goggle I/O&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/wwdc/&#34;&gt;WWDC&lt;/a&gt; - Apples utvecklarkonferens&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fbf8.com/&#34;&gt;Facebook F8&lt;/a&gt; ägde rum i april&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://build.microsoft.com/&#34;&gt;Microsoft build&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Oracle_America,_Inc._v._Google,_Inc.&#34;&gt;Oracles stämning mot Google&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kotlin_%28programming_language%29&#34;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vr.google.com/daydream/&#34;&gt;Daydream&lt;/a&gt; - Googles VR-plattform&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Cardboard&#34;&gt;Google cardboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Grapefrukt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://betanews.com/2016/05/23/snowden-google-allo-dangerous/&#34;&gt;Allo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2016/5/18/11690728/google-duo-video-call-app-vs-apple-facetime-io-2016&#34;&gt;Duo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://home.google.com/&#34;&gt;Google home&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Echo&#34;&gt;Amazon echo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Her_%28film%29&#34;&gt;Her&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Android_N&#34;&gt;Android N&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.android.com/versions/name-n/&#34;&gt;Föreslå namn på Android N&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vulkan_%28API%29&#34;&gt;Vulkan&lt;/a&gt; - maskinnära API för 3d-grafik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wareable.com/android-wear/android-wear-update-everything-you-need-to-know-2735&#34;&gt;Android wear 2.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bbc.com/news/uk-36225652&#34;&gt;Boaty Mcboatface&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:170ecf3ce438c9619fd987f18aace738&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tangentbordssnack&lt;/li&gt;
-&lt;li&gt;Fantastiskt att vi lyckas ibland&lt;/li&gt;
-&lt;li&gt;Trådlösa bluetooth&lt;/li&gt;
-&lt;li&gt;Tangentbord som inte är mekaniska&lt;/li&gt;
-&lt;li&gt;Ett mekaniskt tangentbord&lt;/li&gt;
-&lt;li&gt;Ta pauser och byt ställning&lt;/li&gt;
-&lt;li&gt;Dagens nya tangentbord&lt;/li&gt;
-&lt;li&gt;Värsta typen av jättesmå tangenter&lt;/li&gt;
-&lt;li&gt;Escapeknappen är så otroligt liten&lt;/li&gt;
-&lt;li&gt;Jag var inte ute efter ett nytt projekt, jag var ute efter ett tangentbord&lt;/li&gt;
-&lt;li&gt;Ibland är det roligt att få vad man behöver&lt;/li&gt;
-&lt;li&gt;En jättestor escapeknapp&lt;/li&gt;
-&lt;li&gt;Imponera med sitt tangentbordande&lt;/li&gt;
-&lt;li&gt;En katastrof för öppen mjukvara&lt;/li&gt;
-&lt;li&gt;Ett advokatdrivet företag&lt;/li&gt;
-&lt;li&gt;Vad är Oracles mål med Java?&lt;/li&gt;
-&lt;li&gt;Det är suddigt och jag mår dåligt&lt;/li&gt;
-&lt;li&gt;Jag blir stressad av att prata med robotar&lt;/li&gt;
-&lt;li&gt;Suddigt gränssnitt till datorer&lt;/li&gt;
-&lt;li&gt;Sätta en timer rätt upp i luften&lt;/li&gt;
-&lt;li&gt;Byta musik rätt ut i luften&lt;/li&gt;
-&lt;li&gt;Det skönaste klocktangentbordet någonsin&lt;/li&gt;
-&lt;li&gt;Skicka era favorittangentbord&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
