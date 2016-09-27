@@ -9,6 +9,48 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 175 - It&#39;s let me leave work earlier</title>
+      <link>http://kodsnack.se/175/</link>
+      <pubDate>Tue, 27 Sep 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/175/</guid>
+      <description>
+
+&lt;p&gt;Fredrik talks to &lt;a href=&#34;https://twitter.com/floydophone&#34;&gt;Pete Hunt&lt;/a&gt; about monoliths, breaking them up and when not to. And of course React, how it came about and how the introduction to the world looked from the inside. How to handle releases of software and working with communication around it. What happens when you go from underdog to being the safe choice?&lt;/p&gt;
+
+&lt;p&gt;This episode was recorded during the developer conference &lt;a href=&#34;https://vimeo.com/144824775&#34;&gt;Øredev 2015&lt;/a&gt;, where Pete gave presentations on &lt;a href=&#34;http://oredev.org/2015/sessions/monolith-first-apps-with-node-js&#34;&gt;monolith-first apps with Node&lt;/a&gt; and &lt;a href=&#34;http://oredev.org/2015/sessions/building-a-react-js-backend&#34;&gt;building React backends&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
+
+&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;links:71f7b541b312853ee8e51d2cd3601a66&#34;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/floydophone&#34;&gt;Pete Hunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://leebyron.com/&#34;&gt;Lee Byron&lt;/a&gt; and his talk on &lt;a href=&#34;https://en.wikipedia.org/wiki/GraphQL&#34;&gt;Graphql&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WQLzZf34FJ8&#34;&gt;The Graphql introduction talk&lt;/a&gt; from React Europe 2015&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.smyte.com/&#34;&gt;Smyte&lt;/a&gt; - where Pete currently works&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=x7cQ3mrcKaY&#34;&gt;Pete&amp;rsquo;s talk from JSconf EU&lt;/a&gt; - Rethinking best practises&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs&#34;&gt;The future of Javascript MVC frameworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/chenglou/react-motion&#34;&gt;React-motion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titles:71f7b541b312853ee8e51d2cd3601a66&#34;&gt;Titles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Everyone has a monolith&lt;/li&gt;
+&lt;li&gt;Follow the hype train&lt;/li&gt;
+&lt;li&gt;HTML in my Javascript!&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s let me leave work earlier&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 174 - UX är inte ett strössel</title>
       <link>http://kodsnack.se/174/</link>
       <pubDate>Tue, 20 Sep 2016 05:26:14 UTC</pubDate>
@@ -996,72 +1038,6 @@
 &lt;li&gt;Skuffa undan plugins&lt;/li&gt;
 &lt;li&gt;Inte någon fokuserad keynote&lt;/li&gt;
 &lt;li&gt;En bättre grund att jobba på&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 160 - Den mentala urtvättningen</title>
-      <link>http://kodsnack.se/160/</link>
-      <pubDate>Tue, 14 Jun 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/160/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer värmer upp med lite barfotapromenad. Sedan blir det tangentbordsuppföljning och folk som letar efter det perfekta klicket.&lt;/p&gt;
-
-&lt;p&gt;Huvudämnet är vad vi gör för att försöka hålla oss i någon sorts fysisk form med vårt stillasittande yrke. Bollar, skrivbord, ergonomi och motion avhandlas. Det blir en del löpning efteersom det råkar vara Fredriks sätt att röra sig och rensa huvudet. Sätt att motivera sig att träna - tricket är att det inte finns så mycket utan bara är att göra. Fredriks grej är att hålla rutinen.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:1d296db8db5d9cc70c894087ac638147&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;Cenny&lt;/a&gt; har varit med i &lt;a href=&#34;http://kodsnack.se/91/&#34;&gt;några&lt;/a&gt; avsnitt &lt;a href=&#34;http://kodsnack.se/139/&#34;&gt;förr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vibram_FiveFingers&#34;&gt;Fivefingers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://news.ycombinator.com/item?id=11808551&#34;&gt;Alan Kay kommenterar på Hacker news&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/156/&#34;&gt;Vi snackade nyligen med Joe Armstrong&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rust-lang.org&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.opensuse.org/V%C3%A4lkommen_till_openSUSE.org&#34;&gt;Opensuse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lab.hakim.se/reveal-js/#/&#34;&gt;reveal.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chef_%28software%29&#34;&gt;Chef&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.typematrix.com/&#34;&gt;Typematrix&lt;/a&gt; - tack &lt;a href=&#34;https://twitter.com/magthe&#34;&gt;Magnus Therning&lt;/a&gt; för tipsen och kommentarerna!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard&#34;&gt;Dvorak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://thegleebox.com/&#34;&gt;Gleebox&lt;/a&gt; - alternativ till &lt;a href=&#34;https://vimium.github.io/&#34;&gt;vimium&lt;/a&gt;, tack &lt;a href=&#34;https://twitter.com/jensrantil&#34;&gt;Jens Rantil&lt;/a&gt; för tipset!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ergodox.org/&#34;&gt;Ergodox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/&#34;&gt;Cherry-switchar&lt;/a&gt; i olika färger&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/nllptr&#34;&gt;Simon Wessel&lt;/a&gt; föreslog avsnittets ämne, tack!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Eddie_Izzard&#34;&gt;Eddie Izzard&lt;/a&gt; har sprungit &lt;a href=&#34;http://news.bbc.co.uk/2/hi/8256589.stm&#34;&gt;långt och ofta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://danielglass.com/tackling-life-pt-1-preparation/&#34;&gt;Trumpodden Kristoffer lyssnade&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.lejonbragden.se/&#34;&gt;Lejonbragden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.loparlarsson.se/&#34;&gt;Rune Larsson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Rune Larssons text om att springa 100 km verkar tyvärr inte ligga ute på nätet längre&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:1d296db8db5d9cc70c894087ac638147&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hur mår fötterna?&lt;/li&gt;
-&lt;li&gt;Jag tycker ändå det kändes värt&lt;/li&gt;
-&lt;li&gt;Rättad av Joe Armstrong&lt;/li&gt;
-&lt;li&gt;Ett jobbjox&lt;/li&gt;
-&lt;li&gt;Sitta och bråka med abstraktioner&lt;/li&gt;
-&lt;li&gt;Mata inte konsulterna&lt;/li&gt;
-&lt;li&gt;Sexan på vänster sida&lt;/li&gt;
-&lt;li&gt;Sex på ena sidan&lt;/li&gt;
-&lt;li&gt;Väldigt slöseri med ett stort finger&lt;/li&gt;
-&lt;li&gt;Tobias kör med sin egen crazylayout&lt;/li&gt;
-&lt;li&gt;Folk som letar det perfekta klicket&lt;/li&gt;
-&lt;li&gt;Det dåliga samvetet jag skulle ha behövt&lt;/li&gt;
-&lt;li&gt;Den mentala urtvättningen&lt;/li&gt;
-&lt;li&gt;Som att kasta tärning&lt;/li&gt;
-&lt;li&gt;Nyårslöftesfaran&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
