@@ -9,6 +9,47 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 180 - Apple hade sitt &#39;Hello again&#39;-avsnitt</title>
+      <link>http://kodsnack.se/180/</link>
+      <pubDate>Tue, 01 Nov 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/180/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar om Apples &amp;ldquo;Hello again&amp;rdquo;-presentation där de uppdaterade Macbook pro. Vi snackar datorerna i allmänhet, plus en kort snutt om Apples nya TV-app, men i synnerhet om Touch bar - den beröringskänsliga skärm som ersätter funktionstangenterna och innebär den största hårdvarunyheten i datorerna. Skärmen har redan både ett &lt;a href=&#34;https://developer.apple.com/reference/appkit/nstouchbar&#34;&gt;API&lt;/a&gt; och &lt;a href=&#34;https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html&#34;&gt;designriktlinjer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi om och kontrasterar med Microsofts Surface-event som hölls dagen innan.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:d1d43554932b43addf5254606ce3ba39&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.apple.com/apple-events/october-2016/&#34;&gt;Apples presentation&lt;/a&gt; och allt som släpptes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/reference/appkit/nstouchbar&#34;&gt;Touch bar-API:et&lt;/a&gt; och &lt;a href=&#34;https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html&#34;&gt;riktlinjerna för design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/octoberevent&#34;&gt;Microsofts Surface-event&lt;/a&gt; (&lt;a href=&#34;https://www.microsoft.com/en-us/octoberevent/microsoft-live-event&#34;&gt;direktlänk till video&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/surface/devices/surface-studio&#34;&gt;Surface studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hypercritical.co/2013/03/08/the-case-for-a-true-mac-pro-successor&#34;&gt;John Siracusas text&lt;/a&gt; om halo-bilar och andra produkter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/surface/accessories/surface-dial&#34;&gt;Surface dial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Griffins &lt;a href=&#34;https://griffintechnology.com/us/powermate-bluetooth&#34;&gt;Powermate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:d1d43554932b43addf5254606ce3ba39&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Apple hade sitt &amp;ldquo;Hello again&amp;rdquo;-avsnitt&lt;/li&gt;
+&lt;li&gt;Det som blev kvar av en mycket större vision&lt;/li&gt;
+&lt;li&gt;Känns inte det supernischat?&lt;/li&gt;
+&lt;li&gt;Viktigt att det sker, mer, här&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 179 - Ett gäng nördar i t-shirts</title>
       <link>http://kodsnack.se/179/</link>
       <pubDate>Tue, 25 Oct 2016 05:26:14 UTC</pubDate>
@@ -907,86 +948,6 @@
 &lt;li&gt;My commits tend to be more documentation than code&lt;/li&gt;
 &lt;li&gt;Aspects of being an engineer&lt;/li&gt;
 &lt;li&gt;A higher level of tolerance and precision&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 165 - Jag säger: kan du ta alternativen igen?</title>
-      <link>http://kodsnack.se/165/</link>
-      <pubDate>Tue, 19 Jul 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/165/</guid>
-      <description>
-
-&lt;p&gt;Vi firar sommaren med en riktig specialare: Tobias sätter Fredrik och Kristoffer på prov med tidernas första kodsnacksquiz!&lt;/p&gt;
-
-&lt;p&gt;Vill du testa dig själv eller andra finns frågor och svar &lt;a href=&#34;http://www.kodsnack.se/quiz1&#34;&gt;här&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;En teaser: när Kodsnack fyller 200 avsnitt vill vi hitta på något trevligt. Håll några luckor i kalendern framåt våren!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:246cada5a28d78ecdc68f11ea21ad022&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://brygd.com/ol/brewski-passionfeber-ipa/&#34;&gt;Passionfeber IPA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.stroustrup.com/&#34;&gt;Bjarne Stroustrup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cfront&#34;&gt;Cfront&lt;/a&gt; var den första kompilatorn för C++&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brendan_Eich&#34;&gt;Brendan Eich&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Preprocessor&#34;&gt;Preprocessor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ActiveX&#34;&gt;Activex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language&#34;&gt;The C++ programming language&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ecma_International&#34;&gt;Ecma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hQVTIJBZook&#34;&gt;Javascript the good parts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ALGOL_60&#34;&gt;Algol 60&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Simula&#34;&gt;Simula&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Object_Pascal&#34;&gt;Object Pascal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Objective-C&#34;&gt;Objective-C&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/B_%28programming_language%29&#34;&gt;B&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BCPL&#34;&gt;BCPL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ajax_%28programming%29&#34;&gt;Ajax&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/XMLHttpRequest&#34;&gt;Xmlhttprequest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Standard_Template_Library&#34;&gt;STL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alexander_Stepanov&#34;&gt;Alexander Stepanov&lt;/a&gt;, som skrev STL&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rhino_%28JavaScript_engine%29&#34;&gt;Rhino&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SpiderMonkey#TraceMonkey&#34;&gt;Tracemonkey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SpiderMonkey&#34;&gt;Spidermonkey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization&#34;&gt;RAII&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.golang.org/defer-panic-and-recover&#34;&gt;Defer-nyckelordet i Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof&#34;&gt;typeof i Javascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Reserved_keywords_as_of_ECMAScript_6&#34;&gt;Reserverade ord i Javascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B11&#34;&gt;C++11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Boost_%28C%2B%2B_libraries%29&#34;&gt;Boost&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/hh279674.aspx&#34;&gt;Smart pointer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/functional/bind/&#34;&gt;Bind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cprogramming.com/c++11/c++11-lambda-closures.html&#34;&gt;Lambda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Node.js&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tinyclouds.org/&#34;&gt;Ryan Dahl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Joyent&#34;&gt;Joyent&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.javaworld.com/article/2855639/open-source-tools/qanda-why-io-js-decided-to-fork-node-js.html&#34;&gt;Node.js - IO.js-splittringen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Linus_Torvalds&#34;&gt;Linus Torvalds&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.christianheilmann.com/&#34;&gt;Chris Heilmann&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.theincomparable.com/gameshow/&#34;&gt;Incomparables frågeprogram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:246cada5a28d78ecdc68f11ea21ad022&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ett alldeles speciellt avsnitt av Kodsnack&lt;/li&gt;
-&lt;li&gt;Quizmaster&lt;/li&gt;
-&lt;li&gt;Jag börjar med att förhala lite&lt;/li&gt;
-&lt;li&gt;Som straffläggning i EM&lt;/li&gt;
-&lt;li&gt;Redo men nervös&lt;/li&gt;
-&lt;li&gt;Jag läste den inte förrän senare&lt;/li&gt;
-&lt;li&gt;Jag säger: kan du ta alternativen igen?&lt;/li&gt;
-&lt;li&gt;Ett helt program om vad RAII är och betyder&lt;/li&gt;
-&lt;li&gt;Duck typing på svaren&lt;/li&gt;
-&lt;li&gt;Det är ju inte som att det går att resonera sig fram till svaret&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
