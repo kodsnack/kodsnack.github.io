@@ -9,6 +9,59 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 181 - Ett märkligt val</title>
+      <link>http://kodsnack.se/181/</link>
+      <pubDate>Tue, 08 Nov 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/181/</guid>
+      <description>
+
+&lt;p&gt;Vi berättar historien om Tobias bärbara datorer och avslöjar nästa kapitel i historien. Utifrån det kommer vi in på arbetsdatorer, vad man behöver i en bärbar och tankar kring att jobba med och i Linux.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:2c797bec90520de46fa5e1c945fb7bde&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security by obscurity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security_theater&#34;&gt;Security theater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2016/10/27/13433320/apple-macbook-pro-hello-again-event-timing&#34;&gt;De nya macarna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hyper-threading&#34;&gt;Hyper-threads&lt;/a&gt;
+*&lt;a href=&#34;https://en.wikipedia.org/wiki/PowerBook_G4#Discontinuation&#34;&gt; Apples sista femtontummare med G4-processor&lt;/a&gt; kom 2005&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.techradar.com/reviews/pc-mac/laptops-portable-pcs/laptops-and-netbooks/hp-zbook-studio-g3-1308737/review&#34;&gt;HP zenbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/2/13/8030821/dell-xps-13-laptop-ultrabook-review&#34;&gt;Dell XPS 13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kaby_Lake&#34;&gt;Kaby lake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;Pycharm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/clion/?utm_source=kodsnack&amp;amp;utm_medium=sponslink&amp;amp;utm_content=clionge&amp;amp;utm_campaign=clion&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard&#34;&gt;Dvorak&lt;/a&gt; - ett alternativ till den vanliga layouten på tangentbord&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://unity.ubuntu.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnome.org/&#34;&gt;Gnome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tiling_window_manager&#34;&gt;Tiling window manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesome.naquadah.org/&#34;&gt;VM3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:2c797bec90520de46fa5e1c945fb7bde&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Har du också ett vinterland?&lt;/li&gt;
+&lt;li&gt;(För mig själv gjorde jag) ett märkligt val&lt;/li&gt;
+&lt;li&gt;Jag glömde min dator i Denver&lt;/li&gt;
+&lt;li&gt;Min sekundära arbetsmaskin&lt;/li&gt;
+&lt;li&gt;Jag kan strunta i att köra en virtuell maskin&lt;/li&gt;
+&lt;li&gt;En konfiguration jag känner mig bekväm med&lt;/li&gt;
+&lt;li&gt;Många följdverkningar&lt;/li&gt;
+&lt;li&gt;Den bästa linuxlaptop man kan köpa&lt;/li&gt;
+&lt;li&gt;Den är redan i Danmark&lt;/li&gt;
+&lt;li&gt;På cykel från Danmark&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 180 - Apple hade sitt &#39;Hello again&#39;-avsnitt</title>
       <link>http://kodsnack.se/180/</link>
       <pubDate>Tue, 01 Nov 2016 05:26:14 UTC</pubDate>
@@ -888,66 +941,6 @@
 &lt;li&gt;As scientific as can be&lt;/li&gt;
 &lt;li&gt;You&amp;rsquo;re part of the sample&lt;/li&gt;
 &lt;li&gt;Once you have this Stockholm syndrome&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 166 - On the periphery of the monolith</title>
-      <link>http://kodsnack.se/166/</link>
-      <pubDate>Tue, 26 Jul 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/166/</guid>
-      <description>
-
-&lt;p&gt;Fredrik talks to &lt;a href=&#34;http://www.twitter.com/kartar&#34;&gt;James Turnbull&lt;/a&gt; of Kickstarter, Docker and several other companies. Topics range from switching between types of companies and solutions to writing books, documentation and contributing to software in ways other than code. Of course, we also discuss Docker, whether it&amp;rsquo;s succeeded in various ways and where it might be going. Who should be thinking about Docker? How to start thinking about it? Where do you start picking on your monolith to start bringing it into the container future?&lt;/p&gt;
-
-&lt;p&gt;This episode was recorded during the developer conference &lt;a href=&#34;https://vimeo.com/144824775&#34;&gt;Øredev 2015&lt;/a&gt;, where James gave a presentation on &lt;a href=&#34;https://vimeo.com/144803754&#34;&gt;Orchestrating Docker&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
-
-&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;links:7e9af64c90e33c4bf617f05b4e33949c&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.twitter.com/kartar&#34;&gt;James Turnbull&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Docker - the &lt;a href=&#34;https://www.docker.com/company&#34;&gt;company&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Docker_%28software%29&#34;&gt;the software solution&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Puppet_%28the_company%29&#34;&gt;Puppet labs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Public-benefit_corporation&#34;&gt;Public-benefit corporation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://thenewstack.io/a-brief-look-at-immutable-infrastructure-and-why-it-is-such-a-quest/&#34;&gt;Immutable infrastructure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/swarm/&#34;&gt;Docker swarm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/compose/&#34;&gt;Docker compose&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kubernetes.io/docs/whatisk8s/&#34;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mesos.apache.org/&#34;&gt;Mesos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mesosphere.com/&#34;&gt;Mesosphere&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elasticsearch&#34;&gt;Elasticsearch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Memcached&#34;&gt;Memcached&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Redis&#34;&gt;Redis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/cloudformation/&#34;&gt;Amazon cloudformation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jamesturnbull.net/#books&#34;&gt;James&amp;rsquo; books&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;&gt;William Gibson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_P._Friedman&#34;&gt;Daniel Friedman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vagrant_%28software%29&#34;&gt;Vagrant&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jekyll_%28software%29&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titles:7e9af64c90e33c4bf617f05b4e33949c&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A lot of similar paralells&lt;/li&gt;
-&lt;li&gt;The unit of the container&lt;/li&gt;
-&lt;li&gt;A unit of compute&lt;/li&gt;
-&lt;li&gt;I want my code to run somewhere where it makes me money&lt;/li&gt;
-&lt;li&gt;A new way of thinking about architecture&lt;/li&gt;
-&lt;li&gt;On the periphery of the monolith&lt;/li&gt;
-&lt;li&gt;Useful information trapped in the heads of smart people&lt;/li&gt;
-&lt;li&gt;My commits tend to be more documentation than code&lt;/li&gt;
-&lt;li&gt;Aspects of being an engineer&lt;/li&gt;
-&lt;li&gt;A higher level of tolerance and precision&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
