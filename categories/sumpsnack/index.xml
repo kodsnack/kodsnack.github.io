@@ -9,6 +9,70 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 182 - En falsk ribba</title>
+      <link>http://kodsnack.se/182/</link>
+      <pubDate>Tue, 15 Nov 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/182/</guid>
+      <description>
+
+&lt;p&gt;Vi inleder med uppföljning kring det oväntat stora antal frågor och kommentarer vi fått kring Tobias köp av bärbar dator att köra Linux på. Har ni ännu fler frågor: skicka in dem!&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi om och utifrån talet &lt;a href=&#34;https://lwn.net/Articles/641779/&#34;&gt;The programming talent myth&lt;/a&gt; om talang, att programmera och vad det innebär att vara &amp;ldquo;en riktig programmerare&amp;rdquo;. Det är lätt att få bilden att man kan eller gör för lite för att vara en riktig programmerare, och det kan vara ett problem inte bara för självbilden utan också för att få in nya människor i yrket och branschen. Man kan inte kunna allt, och det är inte alls solklart vad som faktiskt är en bra programmerare.&lt;/p&gt;
+
+&lt;p&gt;Sist men inte minst pratar vi om Advent of code - vi har skapat ett repo på Github även för årets upplaga och kommer att dela ut någon form av litet pris till den som är först med att lösa alla årets problem i valfritt språk.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:6ad514199258dd7da92f822051a22729&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/&#34;&gt;Allt om Tobias laptop&lt;/a&gt; - i förra veckans avsnitt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://system76.com/&#34;&gt;System76&lt;/a&gt; - datorer av alla slag med Ubuntu&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kaby_Lake&#34;&gt;Kaby lake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.prisjakt.nu/konsument/lg-ultrafine-5k-och-ultrafine-4k-optimerade-skarmar-nya-macbook-pro/&#34;&gt;De nya LG-skärmarna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tiling_window_manager&#34;&gt;Tiling window manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lua_%28programming_language%29&#34;&gt;Lua&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;I3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fontconfig&#34;&gt;Fontconfig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lwn.net/Articles/641779/&#34;&gt;The programming talent myth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://us.pycon.org/2017/&#34;&gt;Pycon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jacobian.org/&#34;&gt;Jacob Kaplan-Moss&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.djangoproject.com/&#34;&gt;Django&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Bluffsyndromet&#34;&gt;Bluffsyndrom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NP-completeness&#34;&gt;NP-kompletta problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt; - en programmeringsuppgift om dagen fram till jul&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;Kodsnacks repo för Advent of code 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/about-pull-requests/&#34;&gt;Pull request&lt;/a&gt; - begäran att få checka in kod i ett repo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OCaml&#34;&gt;Ocaml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks repo för Advent of code 2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:6ad514199258dd7da92f822051a22729&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ännu ett avsnitt av laptopsnack&lt;/li&gt;
+&lt;li&gt;Var är datorn?&lt;/li&gt;
+&lt;li&gt;Någonting som fastnat i nittiotalet&lt;/li&gt;
+&lt;li&gt;Den framtid vi letar efter&lt;/li&gt;
+&lt;li&gt;En rockstjärna eller en ninja eller vad som helst&lt;/li&gt;
+&lt;li&gt;Ribban i våra huvuden (och inför andra)&lt;/li&gt;
+&lt;li&gt;Alla söker en rockstjärne-ninja-programmerare&lt;/li&gt;
+&lt;li&gt;Det är okej att inte vara bäst på allting&lt;/li&gt;
+&lt;li&gt;Vad betyder duktig?&lt;/li&gt;
+&lt;li&gt;En falsk ribba att nå upp till&lt;/li&gt;
+&lt;li&gt;Källkoden, laptopen och skrivbordet&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 181 - Ett märkligt val</title>
       <link>http://kodsnack.se/181/</link>
       <pubDate>Tue, 08 Nov 2016 05:26:14 UTC</pubDate>
@@ -894,53 +958,6 @@
 &lt;li&gt;Släpp först, testa sedan?&lt;/li&gt;
 &lt;li&gt;Kulturen över tekniken&lt;/li&gt;
 &lt;li&gt;Den stora devopselefanten&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 167 - You&#39;re part of the sample</title>
-      <link>http://kodsnack.se/167/</link>
-      <pubDate>Tue, 02 Aug 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/167/</guid>
-      <description>
-
-&lt;p&gt;From the podcaster&amp;rsquo;s corner at &lt;a href=&#34;http://www.devsum.se/&#34;&gt;Devsum 16&lt;/a&gt;, Fredrik talks to &lt;a href=&#34;http://barbarafusinska.com/&#34;&gt;Basia Fusinska&lt;/a&gt; about data science, R and data analysis. We discuss the ethics and science around data science and analysis. All of us are giving out a lot of data all the time, and there are so many aspects worth considering around what and how we give our data away. Briefly, we talk about what impressions we have of the .NET community, an impression which is changing even as we speak.&lt;/p&gt;
-
-&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;The Kodsnack book club is coming back! Our next book is the short story &lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Nnedi_Okorafor&#34;&gt;Nnedi Okorafor&lt;/a&gt;. It is a short and sweet read and can be found in many places, like &lt;a href=&#34;http://www.sfbok.se/produkt/binti-148570&#34;&gt;this&lt;/a&gt; and &lt;a href=&#34;https://www.amazon.com/gp/product/B010GJG4PE/ref=kics_hp_typ_dp&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
-
-&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;links:a14808426c9eb0b2aaccccc2bc0328d9&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://barbarafusinska.com/&#34;&gt;Basia Fusinska&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Platform_as_a_service&#34;&gt;PAAS&lt;/a&gt; - Platform as a service&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Software_as_a_service&#34;&gt;SAAS&lt;/a&gt; - Software as a service&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29&#34;&gt;IAAS&lt;/a&gt; - Infrastructure as a service&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bbc.com/news/technology-35559439&#34;&gt;Study on gender and code quality on Github&lt;/a&gt; - raises questions&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.githubarchive.org/&#34;&gt;Github data archive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://how-old.net/&#34;&gt;how-old.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/159/&#34;&gt;Our  talk after the Devsum 16 keynote&lt;/a&gt; is in its own episode&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://karl-henrik.se/&#34;&gt;Karl-Henrik Nilsson&lt;/a&gt;&amp;rsquo;s IOT presentation is unfortunately not available online&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/R_%28programming_language%29&#34;&gt;R programming language&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/L-reduction&#34;&gt;Linear reduction algorithms&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titles:a14808426c9eb0b2aaccccc2bc0328d9&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data solutions architects - whatever that means&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;m still figuring out what that means&lt;/li&gt;
-&lt;li&gt;Adding up numbers&lt;/li&gt;
-&lt;li&gt;As scientific as can be&lt;/li&gt;
-&lt;li&gt;You&amp;rsquo;re part of the sample&lt;/li&gt;
-&lt;li&gt;Once you have this Stockholm syndrome&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
