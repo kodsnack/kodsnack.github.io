@@ -9,6 +9,110 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 183 - Vi hade läst källkoden till den nya versionen</title>
+      <link>http://kodsnack.se/183/</link>
+      <pubDate>Tue, 22 Nov 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/183/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar med &lt;a href=&#34;https://twitter.com/lowe&#34;&gt;Anders Carling&lt;/a&gt; - medgrundare och huvudutvecklare på &lt;a href=&#34;https://www.tummylab.com/&#34;&gt;Tummy lab&lt;/a&gt; och tidigare utvecklare på &lt;a href=&#34;https://www.footballaddicts.com/&#34;&gt;Football addicts&lt;/a&gt; - om bland annat att resa och jobba på nya platser. Att läsa källkoden för viktiga projekt man beror på. När är det vettigt och inte? Hur kommer det sig att Anders har så mycket koll på Varnish och vad har han fått ut av det? Vi snackar också om större och mindre omskrivningar, pragmatiska teknik- och omskrivningsval och hur Football addicts system växt och förändrats. Vi avhandlar också Apples nya Macbook pro-modeller och dess touch bar, från maskinerna i sig till allas pågående tankar om alternativ till Apples bärbara. Sist men inte minst: hur kom Anders in på Vim, och vad Tetris har med det att göra?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:1146731cc45bc92fb533804bcd2878e7&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/lowe&#34;&gt;Anders Carling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tummylab.com/&#34;&gt;Tummy lab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks Advent of code-repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://podcastpriset.daytona.se/&#34;&gt;Svenska podcastpriset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wonderbrand.se/&#34;&gt;Wonderbrand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.baked.se/&#34;&gt;Baked&lt;/a&gt; - musiksättning av offentliga miljöer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.footballaddicts.com/&#34;&gt;Football addicts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Winter_on_Fire:_Ukraine&#39;s_Fight_for_Freedom&#34;&gt;Winter on fire&lt;/a&gt; - Netflixdokumentär om revolutionen i Ukraina&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/anders-elfving-85835a12?authType=NAME_SEARCH&amp;amp;authToken=pJLt&amp;amp;locale=en_US&amp;amp;trk=tyah&amp;amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A42672452%2CauthType%3ANAME_SEARCH%2Cidx%3A1-2-2%2CtarId%3A1479637877700%2Ctas%3Aanders%20elfving&#34;&gt;Anders Elfving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Summer_of_Love&#34;&gt;Wikipedia-artikeln om Summer of love&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/New_Relic&#34;&gt;New relic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Varnish_%28software%29&#34;&gt;Varnish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cloudflare&#34;&gt;Cloudflare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fastly.com/&#34;&gt;Fastly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/XVimProject/XVim&#34;&gt;Xvim&lt;/a&gt; - Xcode-plugin som ger Vim-tangentbordskontroll&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Slackware&#34;&gt;Slackware&lt;/a&gt; - kanske den mest smärtsamma introduktion till Linux man kunde få?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_nano&#34;&gt;nano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tetris_Attack&#34;&gt;Tetris attack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bejeweled&#34;&gt;Bejeweled&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/idea/features/&#34;&gt;Intellij&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/objc/&#34;&gt;Appcode&lt;/a&gt; - Jetbrains IDE för Mac- och IOS-utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nuthole.com/blog/2016/11/17/escape/&#34;&gt;Fler har föreslagit&lt;/a&gt; att använda paragraftangenten för att kompensera avsaknaden av escape på Macar med touch bar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/2/13/8030821/dell-xps-13-laptop-ultrabook-review&#34;&gt;Dell XPS 13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lop.se/&#34;&gt;Lop&lt;/a&gt; - göteborgsk återförsäljare och servare av Macar med tillbehör&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Asana_%28software%29&#34;&gt;Asana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Squarespace&#34;&gt;Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/what-is-github-pages/&#34;&gt;Github pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://letsencrypt.org/&#34;&gt;Let&amp;rsquo;s encrypt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Capistrano_%28software%29&#34;&gt;Capistrano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/elasticloadbalancing/&#34;&gt;Elastic load balancer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_CloudFront&#34;&gt;Cloudfront&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Percona&#34;&gt;Percona&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MariaDB&#34;&gt;Mariadb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.percona.com/software/database-tools/percona-toolkit&#34;&gt;Percona toolkit&lt;/a&gt; - verktygsuppsättning för Mysql-databaser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/InnoDB&#34;&gt;Innodb&lt;/a&gt; - lagringsmotorn Mysql använder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://curl.haxx.se/&#34;&gt;Curl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://daniel.haxx.se/&#34;&gt;Daniel Stenberg&lt;/a&gt; - Curls upphovsman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/162/&#34;&gt;.NET core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IBM-Swift/Kitura&#34;&gt;Kitura&lt;/a&gt; - IBMs webserverramverk för Swift&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/N-gram&#34;&gt;N-gram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/cocoaheads-goteborg/&#34;&gt;Cocoaheads Göteborg&lt;/a&gt; - för alla som är intresserade av utveckling på Apples plattformar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/content///documentation/Cocoa/Conceptual/CoreData/index.html&#34;&gt;Core data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/reference/uikit/uicollectionview&#34;&gt;Collection view&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yapstudios/YapDatabase&#34;&gt;Yapdatabase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rentzsch/mogenerator&#34;&gt;Mogenerator&lt;/a&gt; - Jonathan &amp;ldquo;Wolf&amp;rdquo; Rentzsch verktyg för att modellera Core data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2016/242/&#34;&gt;What&amp;rsquo;s new in Core data&lt;/a&gt; från WWDC 2016&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/&#34;&gt;Auto layout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/drapergem/draper&#34;&gt;Draper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:1146731cc45bc92fb533804bcd2878e7&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ett projekt ingen av oss ville äga&lt;/li&gt;
+&lt;li&gt;Man skulle kunna jobba från nästan var som helst&lt;/li&gt;
+&lt;li&gt;Det där har jag skrivit specen till&lt;/li&gt;
+&lt;li&gt;Vi hade läst källkoden till den nya versionen&lt;/li&gt;
+&lt;li&gt;Deras konfigfil kompileras till C-kod&lt;/li&gt;
+&lt;li&gt;Ett &amp;ldquo;bad to the bone&amp;rdquo;-C-projekt&lt;/li&gt;
+&lt;li&gt;Vet man hur det går sönder kan man i alla fall släppa det&lt;/li&gt;
+&lt;li&gt;Det är sällan trivialt att byta ut någonting&lt;/li&gt;
+&lt;li&gt;Verkligheten hade fula skarvar&lt;/li&gt;
+&lt;li&gt;Livet utan Xvim är förvirrande&lt;/li&gt;
+&lt;li&gt;Vägen in i Vim&lt;/li&gt;
+&lt;li&gt;Ett steg åt det mjukare hållet&lt;/li&gt;
+&lt;li&gt;Min Slackdator med 32 GB minne&lt;/li&gt;
+&lt;li&gt;Hur det beter sig när det börjar ta stopp&lt;/li&gt;
+&lt;li&gt;En tretusenraders Perl-best&lt;/li&gt;
+&lt;li&gt;De vet vilka de är, och de behöver inte dig&lt;/li&gt;
+&lt;li&gt;Ni gör det här på rätt sätt&lt;/li&gt;
+&lt;li&gt;Det gör vardagen roligare&lt;/li&gt;
+&lt;li&gt;tummylab-swift.h&lt;/li&gt;
+&lt;li&gt;Klasser som verkligen aldrig exponerats för världen&lt;/li&gt;
+&lt;li&gt;Tredje klassen jag översatte&lt;/li&gt;
+&lt;li&gt;Det här tar längre tid än det borde&lt;/li&gt;
+&lt;li&gt;Det här är dina komponenter, och det går att missbruka&lt;/li&gt;
+&lt;li&gt;Han som har koll är och spelar badminton&lt;/li&gt;
+&lt;li&gt;Respekten som jag kanske inte hade då&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 182 - En falsk ribba</title>
       <link>http://kodsnack.se/182/</link>
       <pubDate>Tue, 15 Nov 2016 05:26:14 UTC</pubDate>
@@ -915,49 +1019,6 @@
 &lt;li&gt;Hur var din första planet?&lt;/li&gt;
 &lt;li&gt;En stor ko med ett flughuvud&lt;/li&gt;
 &lt;li&gt;En mer enhetlig vision&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 168 - Man behöver inte äta hela devopselefanten på en gång</title>
-      <link>http://kodsnack.se/168/</link>
-      <pubDate>Tue, 09 Aug 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/168/</guid>
-      <description>
-
-&lt;p&gt;På scen på &lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit-2016/&#34;&gt;Devops summit&lt;/a&gt; pratar Tobias och Fredrik med &lt;a href=&#34;https://twitter.com/CeciliaBorg&#34;&gt;Cecilia Borg&lt;/a&gt; om devops som begrepp och praktik. Äter utvecklare upp allt jobb och ansvar? Vad händer med de som gillar att sköta servrar? Och hur kan testning komma ivägen för devops?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:d10910012f465d6b435851a43781798f&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit-2016/&#34;&gt;Devops summit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/156/&#34;&gt;Vår intervju&lt;/a&gt; med &lt;a href=&#34;https://joearms.github.io/index.html&#34;&gt;Joe Armstrong&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/CeciliaBorg&#34;&gt;Cecilia Borg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DevOps&#34;&gt;Devops&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://looklet.com/&#34;&gt;Looklet&lt;/a&gt; - där Cecilia är CTO&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Minimum_viable_product&#34;&gt;Minimum viable product&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:d10910012f465d6b435851a43781798f&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Devops kan ju betyda så otroligt mycket&lt;/li&gt;
-&lt;li&gt;Kulturen är viktigare än tekniken&lt;/li&gt;
-&lt;li&gt;Nu ska vi ha en kurs och en certifiering&lt;/li&gt;
-&lt;li&gt;Man behöver inte äta hela devopselefanten på en gång&lt;/li&gt;
-&lt;li&gt;Nulltestning i flera veckor&lt;/li&gt;
-&lt;li&gt;Släpp först, testa sedan?&lt;/li&gt;
-&lt;li&gt;Kulturen över tekniken&lt;/li&gt;
-&lt;li&gt;Den stora devopselefanten&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
