@@ -9,6 +9,83 @@
     <updated>Tue, 26 Apr 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 184 - En riktigt välbyggd dator</title>
+      <link>http://kodsnack.se/184/</link>
+      <pubDate>Tue, 29 Nov 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/184/</guid>
+      <description>
+
+&lt;p&gt;Tobias har äntligen fått sin Dell XPS 13 med Linux, så vi snackar givetvis igenom varenda intryck såhär långt. Blev det problem med textrendering? Är Linux på skrivbordet här? Hur går det att bygga olika delar av Plex med två kärnor? Och vilken fönsterhanterare är det egentligen som gäller? För att sammanfatta intrycken funkar allting riktigt bra, men vill man nyttja Linux möjligheter att få allting precis som man vill finns det fortfarande väldigt djupa kaninhål att trilla ner i.&lt;/p&gt;
+
+&lt;p&gt;Flera av problemet Tobias tar upp mot slutet har han efter avsnittet hittat lösningar på. Mer uppföljning kommer givetvis!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:bec44a4174a36646b0594b322facd302&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det var &lt;a href=&#34;https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29&#34;&gt;Black friday&lt;/a&gt; när vi spelade in&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blackboxpuzzles.com/&#34;&gt;Blackbox&lt;/a&gt; - annorlunda, roligt och tidvis frustrerande pusselspel för IOS&lt;/li&gt;
+&lt;li&gt;Tidigare avsnitt om Tobias laptop: &lt;a href=&#34;http://kodsnack.se/181/&#34;&gt;181&lt;/a&gt; och &lt;a href=&#34;http://kodsnack.se/182/&#34;&gt;182&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MacBook_Pro#Third_generation_.28Retina.29&#34;&gt;Första generationen Macbook pro med retinaskärm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.apple.com/kb/sp688?locale=sv_SE&#34;&gt;Sista generationen Imac utan retinaskärm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.asus.com/zenbook/global/index.html&#34;&gt;Zenbook&lt;/a&gt; - görs av Asus&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/2/13/8030821/dell-xps-13-laptop-ultrabook-review&#34;&gt;Dell XPS 13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dots_per_inch&#34;&gt;DPI&lt;/a&gt; och &lt;a href=&#34;https://en.wikipedia.org/wiki/Pixel_density&#34;&gt;PPI&lt;/a&gt; - dots per inch och pixels per inch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webpack.github.io/&#34;&gt;Webpack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29&#34;&gt;Ubuntu&lt;/a&gt; och &lt;a href=&#34;https://en.wikipedia.org/wiki/Unity_%28user_interface%29&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aqua_%28user_interface%29&#34;&gt;Aqua&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNOME&#34;&gt;Gnome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tiling_window_manager&#34;&gt;Tiling window manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;I3WM&lt;/a&gt; - Tobias föredragna fönsterhanterare för Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alfredapp.com/&#34;&gt;Alfred&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/index.php/dmenu&#34;&gt;dmenu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Compositing_window_manager&#34;&gt;Compositing window manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Enlightenment_%28software%29&#34;&gt;Enlightenment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Analog_television#Vertical_synchronization&#34;&gt;Vsync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nvidia_G-Sync&#34;&gt;G-sync&lt;/a&gt;/&lt;a href=&#34;https://en.wikipedia.org/wiki/FreeSync&#34;&gt;Freesync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/chjj/compton&#34;&gt;Compton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;Fira code&lt;/a&gt; - fint typsnitt för kod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://linuxcommand.org/man_pages/synclient1.html&#34;&gt;synclient&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PS/2_port&#34;&gt;PS/2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://1password.com/&#34;&gt;1password&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://slack.com/downloads/linux&#34;&gt;Slack för Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudup.com/&#34;&gt;Cloudup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.adventofcode.com&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks Advent of code-repo&lt;/a&gt; - bidra med dina lösningar!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:bec44a4174a36646b0594b322facd302&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det första som händer var att jag glömde min laptop i Denver&lt;/li&gt;
+&lt;li&gt;Jag har turen att ha två datorer&lt;/li&gt;
+&lt;li&gt;Jag har en Mac för att jag tycker om att ha en Mac&lt;/li&gt;
+&lt;li&gt;Slippa köpa windowslicensen&lt;/li&gt;
+&lt;li&gt;En riktigt välbyggd dator&lt;/li&gt;
+&lt;li&gt;Det är fortfarande Linux&lt;/li&gt;
+&lt;li&gt;Både jättejobbigt och jättekul&lt;/li&gt;
+&lt;li&gt;Du bara öppnar ett fönster&lt;/li&gt;
+&lt;li&gt;Det här är det jag vill köra på den här maskinen&lt;/li&gt;
+&lt;li&gt;Sedan började problemen&lt;/li&gt;
+&lt;li&gt;Varför ska jag behöva välja vilket program som kör igång min skärmsläckare&lt;/li&gt;
+&lt;li&gt;Det enda sättet jag öppnar appar på Mac&lt;/li&gt;
+&lt;li&gt;Tillräckligt ofta för att det ska vara otroligt irriterande&lt;/li&gt;
+&lt;li&gt;Det som ligger utanpå fönstret&lt;/li&gt;
+&lt;li&gt;Varför ska jag behöva veta det här?&lt;/li&gt;
+&lt;li&gt;Jag borde vara glad nu&lt;/li&gt;
+&lt;li&gt;Kompilera så att allting går lite långsammare&lt;/li&gt;
+&lt;li&gt;Jag kan inte scrolla på det andra sättet längre&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 183 - Vi hade läst källkoden till den nya versionen</title>
       <link>http://kodsnack.se/183/</link>
       <pubDate>Tue, 22 Nov 2016 05:26:14 UTC</pubDate>
@@ -950,75 +1027,6 @@
 &lt;li&gt;Byggt för att man ska tappa grejer&lt;/li&gt;
 &lt;li&gt;Ipad - konstigt att det är en grej igen&lt;/li&gt;
 &lt;li&gt;Hittepå i huvudet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 169 - Hur var din första planet?</title>
-      <link>http://kodsnack.se/169/</link>
-      <pubDate>Tue, 16 Aug 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/169/</guid>
-      <description>
-
-&lt;p&gt;Kristoffer och Fredrik är nyss åter från sina semestrar och snackar &lt;a href=&#34;https://en.wikipedia.org/wiki/No_Man%27s_Sky&#34;&gt;No man&amp;rsquo;s sky&lt;/a&gt;, procedurell generering och det fina i att spela spel. Eller bygga spel. Eller bygga verktyg för att bygga spel. Kristoffer berättar också varför konsollspel nästan måste ha dag ett-patchar. Se det som en bugg i systemet.&lt;/p&gt;
-
-&lt;p&gt;Nästa bokklubbsbok är &lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; av Nnedi Okorafor, som vi troligen kommer att diskutera inom ett par veckor. Den finns att köpa på många ställen, till exempel &lt;a href=&#34;https://www.amazon.com/gp/product/B010GJG4PE/ref=kics_hp_typ_dp&#34;&gt;här&lt;/a&gt; och &lt;a href=&#34;http://www.sfbok.se/tips-topplistor/tips/boktips/rekommenderad-sf/binti&#34;&gt;här&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:473f362a66fae1d8b6fb723cd0c11407&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/No_Man%27s_Sky&#34;&gt;No man&amp;rsquo;s sky&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Wing_Commander:_Privateer&#34;&gt;Privateer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Wing_Commander_%28franchise%29&#34;&gt;Wing commander&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elite_%28video_game%29&#34;&gt;Elite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Massively_multiplayer_online_game&#34;&gt;MMO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Day one-patch - uppdatering till ett spel som släpps samma dag som själva spelet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Frontier:_Elite_II&#34;&gt;Frontier - Elite II&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Procedural_generation&#34;&gt;Procedurell generering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pcg.wikidot.com/category-pcg-algorithms&#34;&gt;Algoritmer&lt;/a&gt; och koncept för att generera procedurellt innehåll&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/thoughts/shadowOfMordor.html&#34;&gt;Shadow of Mordor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Spore_%282008_video_game%29&#34;&gt;Spore&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Will_Wright_%28game_designer%29&#34;&gt;Will Wright&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Elder_Scrolls&#34;&gt;Elder scrolls-spelen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Star_Citizen&#34;&gt;Star citizen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elite:_Dangerous&#34;&gt;Elite: dangerous&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/monkeybeach&#34;&gt;Martin Sahlin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; - nästa bok vi kommer att diskutera&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nnedi_Okorafor&#34;&gt;Nnedi Okorafor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hugo_Award&#34;&gt;Hugo award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nebula_Award&#34;&gt;Nebula award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Locus_Award&#34;&gt;Locus award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015/&#34;&gt;Kodsnacks advent of code-repo&lt;/a&gt; på Github&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/senilo&#34;&gt;Senilo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.asterisk.org/&#34;&gt;Asterisk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_Installer&#34;&gt;MSI-paket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Batch_file&#34;&gt;Windows-batch-skript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AUTOEXEC.BAT&#34;&gt;Autoexec.bat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:473f362a66fae1d8b6fb723cd0c11407&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det är ganska lugnt uppåt&lt;/li&gt;
-&lt;li&gt;Semestertid är bästa tiden att jobba&lt;/li&gt;
-&lt;li&gt;Precis exakt vad jag hoppats på&lt;/li&gt;
-&lt;li&gt;När jag sett allt ledsnar jag ganska snabbt&lt;/li&gt;
-&lt;li&gt;En bugg i systemet&lt;/li&gt;
-&lt;li&gt;En gammal version redan den dagen&lt;/li&gt;
-&lt;li&gt;Allt är frivilligt på något sätt&lt;/li&gt;
-&lt;li&gt;Det procedurella fungerar otroligt bra&lt;/li&gt;
-&lt;li&gt;Hur var din första planet?&lt;/li&gt;
-&lt;li&gt;En stor ko med ett flughuvud&lt;/li&gt;
-&lt;li&gt;En mer enhetlig vision&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
