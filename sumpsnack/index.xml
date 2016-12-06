@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>26 Apr 2016 05:26 +0000</pubDate>
-        <lastBuildDate>26 Apr 2016 05:26 +0000</lastBuildDate>
+        <pubDate>06 Dec 2016 05:26 +0000</pubDate>
+        <lastBuildDate>06 Dec 2016 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,41 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 28 - Ett juste headset </title>
+                <pubDate>06 Dec 2016 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/28/</guid>
+                <link>http://kodsnack.se/sumpsnack/28/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Hörlurar för spelande och långa diskussioner.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:6f46916486ef6d372bfe0b46613e634e&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://steelseries.com/gaming-headsets/arctis-5&#34;&gt;Steelseries arctics 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cyber_Monday&#34;&gt;Cyber Monday&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://steelseries.com/gaming-headsets/siberia-200&#34;&gt;Steelseries Siberia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:6f46916486ef6d372bfe0b46613e634e&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ett juste headset&lt;/li&gt;
+&lt;li&gt;En vanlig RCA-kontakt rätt in i handkontrollen&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="2405692" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_28.mp3"/>
+                <itunes:duration>05:10</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 27 - Perfekt att börja måndagen med </title>
@@ -91,41 +126,6 @@
                 </description>
                 <enclosure length="10199250" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_27.mp3"/>
                 <itunes:duration>25:37</itunes:duration>
-                <itunes:explicit>yes</itunes:explicit>
-                <itunes:keywords/>
-                <itunes:subtitle>
-                </itunes:subtitle>
-            </item>
-        
-            <item>
-                <title>Sumpsnack 28 - Ett juste headset </title>
-                <pubDate>26 Apr 2016 05:26 +0000</pubDate>
-                <guid>http://kodsnack.se/sumpsnack/28/</guid>
-                <link>http://kodsnack.se/sumpsnack/28/</link>
-                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
-                <description>
-                    
-
-&lt;p&gt;Hörlurar för spelande och långa diskussioner.&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:6f46916486ef6d372bfe0b46613e634e&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://steelseries.com/gaming-headsets/arctis-5&#34;&gt;Steelseries arctics 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cyber_Monday&#34;&gt;Cyber Monday&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://steelseries.com/gaming-headsets/siberia-200&#34;&gt;Steelseries Siberia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:6f46916486ef6d372bfe0b46613e634e&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ett juste headset&lt;/li&gt;
-&lt;li&gt;En vanlig RCA-kontakt rätt in i handkontrollen&lt;/li&gt;
-&lt;/ul&gt;
-
-                </description>
-                <enclosure length="2405692" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_28.mp3"/>
-                <itunes:duration>05:10</itunes:duration>
                 <itunes:explicit>yes</itunes:explicit>
                 <itunes:keywords/>
                 <itunes:subtitle>
