@@ -6,7 +6,67 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 29 Nov 2016 05:26:14 UTC</updated>
+    <updated>Tue, 06 Dec 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 185 - Advent of Kodsnack</title>
+      <link>http://kodsnack.se/185/</link>
+      <pubDate>Tue, 06 Dec 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/185/</guid>
+      <description>
+
+&lt;p&gt;Såhär i adventstid diskuterar vi såklart julförberedelser i allmänhet och Advent of code i synnerhet. Tusen tack för alla bidrag hittills, fortsätt så! Vi accepterar pull requests så snabbt vi bara kan! Vi går också igenom lite uppföljning kring Tobias Linuxlaptop och några tidiga intryck från Fredrik kring femtontums Macbook pro med touch bar. Tobias har hittat lösningar på både problemet med att Slack var slött och med att spela hårdvaruaccelererad video från Youtube.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:04288a755ebb65933354a6677ed3d27e&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/&#34;&gt;Kodsnacks Advent of code-repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/estomagordo-python2&#34;&gt;estromagordos lösningar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/f00ale-cpp&#34;&gt;C++-lösningarna från f00ale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/peterw-cplusplus&#34;&gt;C++-lösningarna från peterw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs/git-submodule&#34;&gt;git submodule&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Haskell-lösningarna från &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/magthe-haskell&#34;&gt;magthe&lt;/a&gt; och &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/eriksvedang-haskell&#34;&gt;eriksvedang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;Vårt repo för Advent of code 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/&#34;&gt;Förra avsnittet&lt;/a&gt; handlade till stor del om Tobias nya bärbara&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://electron.atom.io/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.chromium.org/&#34;&gt;Chromium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rg3.github.io/youtube-dl/&#34;&gt;youtube-dl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mpv.io/&#34;&gt;mpv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.9-15-late-2016-retina-display-touch-bar-specs.html&#34;&gt;Femtontums Macbook pro med touch bar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Värt att notera är att om man på macos tar fram emojipanelen (ctrl-kommando-mellanslag) och expanderar den (med knappen uppe till höger) så finns ett sökfält för emoji där&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/avatsaev/touchbar_nyancat&#34;&gt;Nyan cat i touch bar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AkdM/KnightTouchBar2000&#34;&gt;KITT-animation i touch bar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Knight_Rider_%28franchise%29&#34;&gt;Knight rider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/diary/2016/2016-10-05.html&#34;&gt;Fredriks gamla tangentbord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matias.ca/ergopro/pc/&#34;&gt;Mathias ergo pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.satechi.net/index.php/metallic-series/satechi-slim-aluminum-type-c-multi-port-adapter-with-type-c-charging-port-4k-hdmi-video-output-and-2-usb-3-0-ports-space-gray&#34;&gt;Satechi slim aluminium USB-C multiport adapter&lt;/a&gt; - adaptern Fredrik har till jobbdatorn&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marbledcs.com/&#34;&gt;Marble&lt;/a&gt; - adaptern/dockningsstationen Fredrik backat på Indiegogo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:04288a755ebb65933354a6677ed3d27e&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Advent of Kodsnack&lt;/li&gt;
+&lt;li&gt;Vi har pyntat och hängt julgranen&lt;/li&gt;
+&lt;li&gt;Granrutan i huvudet är icheckad&lt;/li&gt;
+&lt;li&gt;Jag har firat några jular med en plastgran&lt;/li&gt;
+&lt;li&gt;Adventskalender för nördiga programmerare&lt;/li&gt;
+&lt;li&gt;Mina fläktar började spinna som ett litet turboplan&lt;/li&gt;
+&lt;li&gt;En kavalkad av misslyckanden&lt;/li&gt;
+&lt;li&gt;Inte en lösning jag skulle rekommendera till min mamma&lt;/li&gt;
+&lt;li&gt;De få gånger allting bara funkar&lt;/li&gt;
+&lt;li&gt;Lite förvirrat vad ctrl är till för&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 184 - En riktigt välbyggd dator</title>
@@ -956,77 +1016,6 @@
 &lt;li&gt;Vi pratar om det och går vidare&lt;/li&gt;
 &lt;li&gt;Som solförnekad blek inomhussvensk&lt;/li&gt;
 &lt;li&gt;Allt det enorma händer i bakgrunden&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 170 - Byggt för att man ska tappa grejer</title>
-      <link>http://kodsnack.se/170/</link>
-      <pubDate>Tue, 23 Aug 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/170/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Tobias snackar strulande lagring, säkerhetskopiering och, lite oväntat, hur Ipad pro dykt upp och hittat platser i deras vardag. Har du hittat platser för surfplattor i din vardag och arbetsdag?&lt;/p&gt;
-
-&lt;p&gt;Nästa bokklubbsbok är &lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; av Nnedi Okorafor, som vi troligen kommer att diskutera inom ett par veckor. Den finns att köpa på många ställen, till exempel &lt;a href=&#34;https://www.amazon.com/gp/product/B010GJG4PE/ref=kics_hp_typ_dp&#34;&gt;här&lt;/a&gt; och &lt;a href=&#34;http://www.sfbok.se/tips-topplistor/tips/boktips/rekommenderad-sf/binti&#34;&gt;här&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:ec8eae20ab8d4b114e53d306d82f1d2c&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ZFS&#34;&gt;ZFS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://linux.die.net/man/8/klogd&#34;&gt;Kernelloggande&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Serial_ATA&#34;&gt;SATA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PCI_Express&#34;&gt;PCIE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.synology.com/sv-se/&#34;&gt;Synology&lt;/a&gt; - NAS-prylar många gillar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.netgear.com/business/products/storage/readynas/?cid=wmt_netgear_organic&#34;&gt;Readynas&lt;/a&gt; - NAS-prylar från Netgear&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html&#34;&gt;Superduper&lt;/a&gt; - lokal säkerhetskopiering för Macos&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.crashplan.com/en-us/&#34;&gt;Crashplan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.backblaze.com/&#34;&gt;Backblaze&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/RAID&#34;&gt;RAID&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_File_System&#34;&gt;APFS&lt;/a&gt; - Apples kommande filsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arstechnica.co.uk/apple/2016/06/apfs-apple-new-file-system-dev-details/&#34;&gt;APFS-artikeln på Ars technica&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/HFS_Plus&#34;&gt;HFS(+)&lt;/a&gt; - Apples nuvarande filsystem&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Be_File_System&#34;&gt;BFS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dominic_Giampaolo&#34;&gt;Dominic Giampaolo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2016/701/&#34;&gt;APFS-presentationen från WWDC&lt;/a&gt; - med Dominic&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nobius.org/~dbg/practical-file-system-design.pdf&#34;&gt;Practical file system design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.apple.com/se/smart-keyboard/&#34;&gt;Apple smart keyboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/thoughts/k811.html&#34;&gt;Logitech K811&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://panic.com/prompt/&#34;&gt;Prompt&lt;/a&gt; - SSH-klient för IOS&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wooji-juice.com/products/ferrite/&#34;&gt;Ferrite&lt;/a&gt; - ljudinspelning och redigering för IOS&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rogueamoeba.com/audiohijack/&#34;&gt;Audio hijack&lt;/a&gt; - ljudinspelning från källor på in Mac&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.apple.com/swift/playgrounds/&#34;&gt;Playgrounds&lt;/a&gt; - Ipad-app för att lära sig och leka med programmering i &lt;a href=&#34;https://en.wikipedia.org/wiki/Swift_%28programming_language%29&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/12/7/9869802/playstation-messages-app-ios-android&#34;&gt;Playstation messages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://justgetflux.com/&#34;&gt;F.lux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sparkmailapp.com/&#34;&gt;Spark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/&#34;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://overcast.fm&#34;&gt;Overcast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/codenight6/&#34;&gt;Code night om UX&lt;/a&gt; - 15 september&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; - nästa bok vi kommer att diskutera&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hugo_Award&#34;&gt;Hugo award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nebula_Award&#34;&gt;Nebula award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Locus_Award&#34;&gt;Locus award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nnedi_Okorafor&#34;&gt;Nnedi Okorafor&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:ec8eae20ab8d4b114e53d306d82f1d2c&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efter att ha lusläst kernelloggen&lt;/li&gt;
-&lt;li&gt;Hyfsat superliten&lt;/li&gt;
-&lt;li&gt;Läskigt manuell&lt;/li&gt;
-&lt;li&gt;Lite väl hands on&lt;/li&gt;
-&lt;li&gt;Byggt för att man ska tappa grejer&lt;/li&gt;
-&lt;li&gt;Ipad - konstigt att det är en grej igen&lt;/li&gt;
-&lt;li&gt;Hittepå i huvudet&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
