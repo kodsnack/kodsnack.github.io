@@ -9,6 +9,65 @@
     <updated>Tue, 06 Dec 2016 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 186 - Det finns många frågor här</title>
+      <link>http://kodsnack.se/186/</link>
+      <pubDate>Tue, 13 Dec 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/186/</guid>
+      <description>
+
+&lt;p&gt;Vi snackar lite mer om Advent of code och tipsar om en plats att hitta mer att läsa.&lt;/p&gt;
+
+&lt;p&gt;Har ni tips på papers vi borde läsa, eller vill ni berätta om era lösningar på Advent of code-problemen? Hör av er!&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi om nyheten att Windows 10 ska komma för ARM, och dessutom ska köra emulering för att stöda x86-appar. Vi försöker reda ut vad vi tycker och tänker om det, och vad det kan tänkas innebära både för användare och utvecklare. Detta inkluderar en del av den komplicerade historien om Windows-appar för 32- och 64-bitarsarkitekturer. Har vi några windowsutvecklare i lyssnarskaran&lt;/p&gt;
+
+&lt;p&gt;Sist men inte minst: submoduler i git och deras nackdelar.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:442ae7bfa2f9bf854f132ac16f0caa41&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks Advent of code-repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rexx&#34;&gt;Rexx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AmigaOS&#34;&gt;Amiga-OS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Crystal_%28programming_language%29&#34;&gt;Crystal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://paperswelove.org/&#34;&gt;Papers we love&lt;/a&gt; diskuterar intressanta papers och har &lt;a href=&#34;https://github.com/papers-we-love/papers-we-love&#34;&gt;ett repo med sådana&lt;/a&gt; på GIthub&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Papers-We-Love-Gothenburg/&#34;&gt;Papers we love-gruppen i Göteborg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2016/12/7/13866936/microsoft-windows-10-arm-desktop-apps-support-qualcomm&#34;&gt;Windows 10 ska komma till ARM&lt;/a&gt;, och emulera x86-program&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_RT&#34;&gt;Windows RT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fat_binary&#34;&gt;Feta binärer&lt;/a&gt; - term för ett paket som innehåller körbara binärer för flera arkitekturer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.intel.se/content/www/se/sv/compute-stick/intel-compute-stick.html&#34;&gt;Compute stick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.intel.se/content/www/se/sv/nuc/overview.html&#34;&gt;Intel NUC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface&#34;&gt;UEFI&lt;/a&gt; - unified extensible firmware interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://paynedigital.com/articles/2011/10/introduction-to-git-submodules&#34;&gt;Submoduler i Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.google.com/p/git-repo/&#34;&gt;Googles git-repo-verktyg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:442ae7bfa2f9bf854f132ac16f0caa41&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dag etts första problem&lt;/li&gt;
+&lt;li&gt;Är mina commits verkligen värdiga?&lt;/li&gt;
+&lt;li&gt;Jag har fler flikar än jag har förnuft&lt;/li&gt;
+&lt;li&gt;(Här är lite) onödig fakta om det hela&lt;/li&gt;
+&lt;li&gt;ARM på Intel, eller tvärt om&lt;/li&gt;
+&lt;li&gt;Det finns många frågor här&lt;/li&gt;
+&lt;li&gt;En dum OEM&lt;/li&gt;
+&lt;li&gt;Det saknas ett incitament&lt;/li&gt;
+&lt;li&gt;En av mina Git-gurus&lt;/li&gt;
+&lt;li&gt;dotgitmodules&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 185 - Advent of Kodsnack</title>
       <link>http://kodsnack.se/185/</link>
       <pubDate>Tue, 06 Dec 2016 05:26:14 UTC</pubDate>
@@ -928,94 +987,6 @@
 &lt;li&gt;När man drar i en variabel förändras allt&lt;/li&gt;
 &lt;li&gt;Det universum som gäller för all framtid&lt;/li&gt;
 &lt;li&gt;Alla rör sig på ett rimligt sätt&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 171 - Nedlusad med lambdas och anonyma funktioner/En väldigt meditativ tillvaro</title>
-      <link>http://kodsnack.se/171/</link>
-      <pubDate>Tue, 30 Aug 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/171/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar nyheter i C# 7 och vad vi tycker och tänker om dem. Tupler eller utparametrar, vad tycker du? Är C# 7 klockrent, konstigt eller någonstans mitt i för dig som jobbar hela dagarna med C#.&lt;/p&gt;
-
-&lt;p&gt;15 september är det dags &lt;a href=&#34;http://techworld.event.idg.se/event/codenight6/&#34;&gt;Code night&lt;/a&gt; i Stockholm igen, och vi kommer att vara där. Kom och säg hej, lyssna på intressanta talare och oss!&lt;/p&gt;
-
-&lt;p&gt;Veckans andra huvudämne är science fiction-novellen &lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; av Nnedi Okorafor. Boksnacket börjar vid 41:24. Vi börjar med ett snack om recensioner och betyg över lag, sedan (46:55) kommer vi in på själva boken och diskuterar hela handlingen i boken blandat med våra åsikter och tankar.&lt;/p&gt;
-
-&lt;p&gt;Som avslutning vad vi läser nu.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/isallmaroon&#34;&gt;@isallmaroon&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:346163af5019164eeb7f5afd565b80b6&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/&#34;&gt;Nyheter i C# 7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/&#34;&gt;Binti&lt;/a&gt; - veckans bok&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Anonymous_function&#34;&gt;Lambda/anonym funktion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mutual_exclusion&#34;&gt;Mutex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.devsum.se/speaker/kathleen-dollard/&#34;&gt;Kathleen Dollard&lt;/a&gt; presenterade nyheter i C# 7 på &lt;a href=&#34;http://www.devsum.se/&#34;&gt;Devsum&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tuple&#34;&gt;Tuple&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parameter_%28computer_programming%29#Parameters_and_arguments&#34;&gt;Utvariabler&lt;/a&gt; - eller utparametrar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Immutable_object&#34;&gt;Immutable&lt;/a&gt; - att någonting är oföränderligt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/24328679/does-java-se-8-have-pairs-or-tuples&#34;&gt;Java har inte tupler&lt;/a&gt;, åtminstone inte i Java 8&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pattern_matching&#34;&gt;Pattern matching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nested_function&#34;&gt;Lokala&lt;/a&gt; - eller nästlade - funktioner&lt;/li&gt;
-&lt;li&gt;Funktionen vi har svårt att förstå är rubriken &amp;ldquo;Ref returns and locals&amp;rdquo; i artikeln&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/codenight6/&#34;&gt;Code night om UX&lt;/a&gt; - 15 september&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nnedi_Okorafor&#34;&gt;Nnedi Okorafor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hugo_Award&#34;&gt;Hugo award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nebula_Award&#34;&gt;Nebula award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.strangehorizons.com/reviews/2016/03/binti_by_nnedi_.shtml&#34;&gt;Arikel om Binti&lt;/a&gt; på Strange horizon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scottberkun.com/yearwithoutpants/&#34;&gt;The year without pants&lt;/a&gt; av Scott Berkun&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Seveneves&#34;&gt;Seveneaves&lt;/a&gt; av &lt;a href=&#34;https://en.wikipedia.org/wiki/Neal_Stephenson&#34;&gt;Neil Stephenson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cryptonomicon&#34;&gt;Cryptonomicon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Snow_Crash&#34;&gt;Snow crash&lt;/a&gt; - kanske den bästa Stephenson att börja med&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Reamde&#34;&gt;Reamde&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.goodreads.com/book/show/25695756-stiletto&#34;&gt;Stiletto&lt;/a&gt; av &lt;a href=&#34;http://www.rookfiles.com/&#34;&gt;Daniel O&amp;rsquo;Malley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hellboy&#34;&gt;Hellboy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Traitor_Baru_Cormorant&#34;&gt;The traitor Baru Cormorant&lt;/a&gt; av &lt;a href=&#34;https://en.wikipedia.org/wiki/Seth_Dickinson&#34;&gt;Seth Dickinson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alastair_Reynolds&#34;&gt;Alistair Reynolds&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Peter_F._Hamilton&#34;&gt;Peter F Hamilton&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:346163af5019164eeb7f5afd565b80b6&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lite nyhetsvärdiga&lt;/li&gt;
-&lt;li&gt;Jag kan ha skrivit några rader C#&lt;/li&gt;
-&lt;li&gt;14 år i C#-gruvorna&lt;/li&gt;
-&lt;li&gt;Nedlusad med lambdas och anonyma funktioner&lt;/li&gt;
-&lt;li&gt;Vad tänker du när du ser C#?&lt;/li&gt;
-&lt;li&gt;Vi är upphovsmännen till C# 7&lt;/li&gt;
-&lt;li&gt;Java med mojs&lt;/li&gt;
-&lt;li&gt;Hellre C# än Java&lt;/li&gt;
-&lt;li&gt;Ett hack från C-världen&lt;/li&gt;
-&lt;li&gt;Gruppen som försöker bygga ett bättre C&lt;/li&gt;
-&lt;li&gt;Tupelgänget får hacka lite på utparametergänget&lt;/li&gt;
-&lt;li&gt;Språket spricker i sömmarna&lt;/li&gt;
-&lt;li&gt;Ett tunt lager socker ovanpå klassbullen&lt;/li&gt;
-&lt;li&gt;Fast i C-tänket&lt;/li&gt;
-&lt;li&gt;Alla har vi en lång define&lt;/li&gt;
-&lt;li&gt;Sidospår med Kristoffer Grönlund&lt;/li&gt;
-&lt;li&gt;Jag har varit på internet den senaste tiden&lt;/li&gt;
-&lt;li&gt;Det här är en trea&lt;/li&gt;
-&lt;li&gt;En väldigt meditativ tillvaro&lt;/li&gt;
-&lt;li&gt;Språnget ut i ingenstans&lt;/li&gt;
-&lt;li&gt;En enorm metafor&lt;/li&gt;
-&lt;li&gt;En jättestor rymdräka&lt;/li&gt;
-&lt;li&gt;En mojäng&lt;/li&gt;
-&lt;li&gt;Slutet är otroligt ointressant&lt;/li&gt;
-&lt;li&gt;Vi pratar om det och går vidare&lt;/li&gt;
-&lt;li&gt;Som solförnekad blek inomhussvensk&lt;/li&gt;
-&lt;li&gt;Allt det enorma händer i bakgrunden&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
