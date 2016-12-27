@@ -6,7 +6,76 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 20 Dec 2016 05:26:14 UTC</updated>
+    <updated>Tue, 27 Dec 2016 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 188 - Berättelser om hur det har gått till</title>
+      <link>http://kodsnack.se/188/</link>
+      <pubDate>Tue, 27 Dec 2016 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/188/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar med &lt;a href=&#34;https://twitter.com/eriklarko&#34;&gt;Erik Larkö&lt;/a&gt; om att lära sig nya saker, att lära sig på bredden istället för på djupet. Varför verkar vissa företag mycket mer attraktiva än andra? Är en del av det att de verkar fokusera på dig och att lyfta dig? Vi snackar också om att prata med sina datorer och att gräva sig bakåt i historien för att få nya insikter. Finns det någon riktigt bra sammanställning av datorutvecklingen och programmeringens historia? Det är ibland svårt att hitta pekarna bakåt som visar varifrån ett nytt och spännande projekt fått sina inspirationer, saker man kunde lära sig av om man bara kände till dem. Att tänka i och använda webbteknik för layout och design.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet spelades in i &lt;a href=&#34;https://www.footballaddicts.com/&#34;&gt;Football addicts&lt;/a&gt; tokmysiga bibliotek - stort tack för lånet &lt;a href=&#34;https://twitter.com/b0bben&#34;&gt;Bob&lt;/a&gt; och alla övriga!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:acb57b15c5ff851dd4548f9e1371355a&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.footballaddicts.com/the-worlds-best-office/&#34;&gt;Football addicts kontor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kubernetes&#34;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Clojure&#34;&gt;Clojurescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gigamonkeys.com/book/&#34;&gt;Practical common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Common_Lisp&#34;&gt;Common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_%28programming_language%29#Genealogy_and_variants&#34;&gt;Lisp och dess dialekter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dylan_%28programming_language%29&#34;&gt;Dylan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mitpress.mit.edu/books/little-schemer&#34;&gt;The little schemer&lt;/a&gt; - en väldigt udda och trevlig programmeringsbok&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_P._Friedman&#34;&gt;Daniel Friedman&lt;/a&gt; - mannen bakom bland annat The little schemer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Behavior-driven_development&#34;&gt;BDD&lt;/a&gt; - beteeendedriven utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dannorth.net/about/&#34;&gt;Dan North&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Bring-Your-Own-Project-Gothenburg/&#34;&gt;Bring your own project-gruppen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.timeedit.se&#34;&gt;TimeEdit&lt;/a&gt; - Fredriks jobb, där man har hacktid och jobbar mycket med React&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API&#34;&gt;HTML 5-röst-API:er&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ihnatko.com/&#34;&gt;Andy Ihnatko&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Grace_Hopper&#34;&gt;Grace Hopper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.crockford.com/javascript/little.html&#34;&gt;Douglas Crockfords sida&lt;/a&gt; för att jobba sig igenom Little schemer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hanselman.com/&#34;&gt;Scott Hanselman&lt;/a&gt;, hans podd och polyglot om att välja språk som passar hållet man kommer från&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Language_Integrated_Query&#34;&gt;LINQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://flowtype.org/&#34;&gt;Flow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Haskell_%28programming_language%29&#34;&gt;Haskell&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt; och &lt;a href=&#34;https://en.wikipedia.org/wiki/OCaml&#34;&gt;Ocaml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system&#34;&gt;Hindley-Millner-typsystem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://finance.yahoo.com/news/hilarious-reason-slack-bought-man-150600948.html&#34;&gt;Hamburgare kontra ostburgare-support-ärendet hos Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://electron.atom.io/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnome.org/gnome-3/&#34;&gt;Gnome 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gwtproject.org&#34;&gt;GWT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:acb57b15c5ff851dd4548f9e1371355a&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag tror just nu att jag vill programmera i många år till&lt;/li&gt;
+&lt;li&gt;Jag vill lära mig ett C&lt;/li&gt;
+&lt;li&gt;Jag vill kunna läsa så mycket kod som möjligt&lt;/li&gt;
+&lt;li&gt;Gollum och Smeagol programmerar&lt;/li&gt;
+&lt;li&gt;Att lyfta dig gör att företaget blir bättre&lt;/li&gt;
+&lt;li&gt;Min röst funkar väldigt bra&lt;/li&gt;
+&lt;li&gt;Då sa jag alltid tack&lt;/li&gt;
+&lt;li&gt;Man pratar över tid och rum&lt;/li&gt;
+&lt;li&gt;Berättelser om hur det har gått till&lt;/li&gt;
+&lt;li&gt;Feelgood-låda&lt;/li&gt;
+&lt;li&gt;Ett knöligt verktyg till många saker&lt;/li&gt;
+&lt;li&gt;Svårt att veta varför vissa regler gäller ibland&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 187 - En del av att vara vuxen</title>
@@ -865,118 +934,6 @@
 &lt;li&gt;Det etnografiska perspektivet&lt;/li&gt;
 &lt;li&gt;UX är inte ett strössel&lt;/li&gt;
 &lt;li&gt;Självförtroende som användare&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 173 - En kombination av Javascript och Scala</title>
-      <link>http://kodsnack.se/173/</link>
-      <pubDate>Tue, 13 Sep 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/173/</guid>
-      <description>
-
-&lt;p&gt;Fredrik snackar med &lt;a href=&#34;https://www.linkedin.com/in/tohlson&#34;&gt;Tomas Ohlson&lt;/a&gt;, medgrundare och teknikchef på &lt;a href=&#34;http://www.trueflow.io/&#34;&gt;Trueflow&lt;/a&gt; om Go på servrar, API:er, Swift och en massa annat kul. Som att gå från Angular till React. Tomas har skrivit Swift så länge språket har funnits och använt det i produktion nästan lika länge. Docker, hur Truflow använder det, hur de rullar ut versioner och en massa annat godis. Språk som är bra och vad som är bra och viktigt med ett IDE. Ett IDE ska hjälpa dig att förstå ditt språk och din miljö. Swifts framtid på servrar. Det blir också en del intressant snack om inhomuspositionering med beacons, ett problem Trueflow egentligen inte ville pyssla med men behöver lösa.&lt;/p&gt;
-
-&lt;p&gt;Avsnittet spelades som höres in i äkta cafémiljö, på &lt;a href=&#34;http://www.damatteo.se/victoriapassagen.html&#34;&gt;da Matteo&lt;/a&gt; i Göteborg.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:b75fbe22d50bae17e67b636f65654ec9&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://developers.google.com/protocol-buffers/&#34;&gt;Protofbuf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.grpc.io/&#34;&gt;GRPC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://swift.org/about/&#34;&gt;Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kangax.github.io/compat-table/es6/&#34;&gt;ES6&lt;/a&gt; - den just nu (2016) mest populära versionen av Javascript&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/React_%28JavaScript_library%29&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/React_%28JavaScript_library%29#JSX&#34;&gt;JSX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TypeScript&#34;&gt;Typescript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rollout.io/&#34;&gt;Rollout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kotlin_%28programming_language%29&#34;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cplusplus.com/reference/ctime/mktime/&#34;&gt;mktime&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Docker_%28software%29&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/compose/&#34;&gt;Docker compose&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/swarm/&#34;&gt;Docker swarm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://redis.io/&#34;&gt;Redis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/&#34;&gt;AWS lastbalansering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gbgstartuphack.com/&#34;&gt;Gothenburg startup hack&lt;/a&gt; - årligt hackathon Tomas var med och grundade och Fredrik hjälpt till med&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hashicorp.com/&#34;&gt;Hashicorp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_integration&#34;&gt;CI&lt;/a&gt; - continuous integration&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Wallet_%28application%29&#34;&gt;Passbook&lt;/a&gt; - teknik från Apple för att skapa och hantera biljetter kuponger och liknande i mobilen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://coreos.com/etcd/docs/latest/&#34;&gt;etcd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hub.docker.com/&#34;&gt;Docker hub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://about.gitlab.com/&#34;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.wired.com/2015/09/google-2-billion-lines-codeand-one-place/&#34;&gt;Google kör det mesta&lt;/a&gt; i ett enda källkodsrepo&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jeff_Dean_%28computer_scientist%29&#34;&gt;Jeff Dean&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/ProgrammerHumor/comments/45g4he/googles_most_badass_engineer_jeff_dean_facts/&#34;&gt;Jeff Dean facts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scala_%28programming_language%29&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kalman_filter&#34;&gt;Kalmanfilter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/timeedit-api&#34;&gt;NPM-paket för att skrapa Timeedits webbschema&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tour.golang.org/concurrency/1&#34;&gt;Trådning i Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Core_Data&#34;&gt;Core data&lt;/a&gt; - &lt;a href=&#34;https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatNewCoreData2016/ReleaseNotes.html&#34;&gt;förändringar i IOS 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Enterprise_Objects_Framework&#34;&gt;EOF&lt;/a&gt; - föregångaren till Core data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ycombinator.com/&#34;&gt;Y combinator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/what-is-bigquery&#34;&gt;Bigquery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bigtable&#34;&gt;Bigtable&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/rds/aurora/faqs/&#34;&gt;Amazon Aurora&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_Cordova&#34;&gt;Phonegap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt; - kompilerar nytt Javascript till äldre Javascript så att man kan använda nya funktioner innan de är standard&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.jonathanoliver.com/golang-has-generics/&#34;&gt;Generics i Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift/blob/master/docs/proposals/Concurrency.rst&#34;&gt;Swifts föreslagna concurrency-lösningar&lt;/a&gt;, starkt inspirerade av Go&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IBM-Swift/Kitura&#34;&gt;IBM Kitura&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CoreLocation_Framework/&#34;&gt;Corelocation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html&#34;&gt;Core Bluetooth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_Native_Interface&#34;&gt;JNI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react-native/&#34;&gt;React native&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://redux.js.org/&#34;&gt;Redux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/necolas/react-native-web&#34;&gt;React native för webben&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ionicframework.com/&#34;&gt;Ionic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dart_%28programming_language%29&#34;&gt;Dart&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_Wave&#34;&gt;Wave&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:b75fbe22d50bae17e67b636f65654ec9&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lite olika saker som är katastrof&lt;/li&gt;
-&lt;li&gt;Allt av allt&lt;/li&gt;
-&lt;li&gt;Sättet man ska skriva frontend&lt;/li&gt;
-&lt;li&gt;Man kan få det att funka en gång&lt;/li&gt;
-&lt;li&gt;Alla språk går mot samma syntax&lt;/li&gt;
-&lt;li&gt;Swift är bäst på att stjäla från de flesta&lt;/li&gt;
-&lt;li&gt;Här är en konfig: läs den, det kommer att bli roligt&lt;/li&gt;
-&lt;li&gt;Docker är ju smidigt att starta om&lt;/li&gt;
-&lt;li&gt;Man jobbar lokalt, helt enkelt&lt;/li&gt;
-&lt;li&gt;Bryt upp det och fortsätt som om ingenting hade hänt&lt;/li&gt;
-&lt;li&gt;Massa massa Gauss&lt;/li&gt;
-&lt;li&gt;Splitta upp det och testa det&lt;/li&gt;
-&lt;li&gt;Våra test säger att det är ditt fel&lt;/li&gt;
-&lt;li&gt;Kartdatan är värst av allt&lt;/li&gt;
-&lt;li&gt;Automatiska algoritmer, a.k.a. ett kontor i Indien&lt;/li&gt;
-&lt;li&gt;for-loopa ut trådar&lt;/li&gt;
-&lt;li&gt;Trådar i många nivåer ner&lt;/li&gt;
-&lt;li&gt;Det ser seriellt ut&lt;/li&gt;
-&lt;li&gt;Man hör aldrig någon som gillar Oracle&lt;/li&gt;
-&lt;li&gt;Angular hade sin version av allt&lt;/li&gt;
-&lt;li&gt;Hur många kilo hår har det kostat?&lt;/li&gt;
-&lt;li&gt;Hackfärdigt&lt;/li&gt;
-&lt;li&gt;Det här värdet är större än slutet&lt;/li&gt;
-&lt;li&gt;(Någonting som var) Roligt och härligt och hårdtypat&lt;/li&gt;
-&lt;li&gt;Världen rullar ju på Java&lt;/li&gt;
-&lt;li&gt;En kombination av Javascript och Scala&lt;/li&gt;
-&lt;li&gt;Du kan rädda dig själv efter hand&lt;/li&gt;
-&lt;li&gt;Det grå håret är garbage collection&lt;/li&gt;
-&lt;li&gt;En tröja från ett utdött googleprojekt&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
