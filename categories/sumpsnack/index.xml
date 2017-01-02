@@ -6,7 +6,76 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 06 Dec 2016 05:26:14 UTC</updated>
+    <updated>Tue, 03 Jan 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 189 - Det värmer mitt lilla C&#43;&#43;-hjärta</title>
+      <link>http://kodsnack.se/189/</link>
+      <pubDate>Tue, 03 Jan 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/189/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias avslöjar äntligen vilka som blev först med kompletta lösningar på Advent of code!&lt;/p&gt;
+
+&lt;p&gt;De tre första kompletta bidragen kom från:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/f00ale&#34;&gt;f00ale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/estomagordo&#34;&gt;estomagordo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hbldh&#34;&gt;hbldh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hör av er till info@kodsnack.se!&lt;/p&gt;
+
+&lt;p&gt;Lite samhällsinformation: Kristoffer är inte borta på livstid, han behövde bara en paus. Han har inte gått och blivit nöjd med alltings tillstånd, så det finns ingen anledning till oro.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi om att koda på helgerna, utifrån ett tweet om att de bästa utvecklarna kodar på helgerna. Gör det inte om du inte faktiskt vill det, att programmering måste vara ett allomfattande kall är en stereotyp som varken är bra eller sann. Och kodkvalité är - inte heller - det enda tecknet på en bra programmerare.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:5a8a8b90d1564edd762583a8daa41ef6&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks Advent of code-repo&lt;/a&gt; - inspireras av andras lösningar och bidra med egna!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/f00ale&#34;&gt;f00ale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/estomagordo&#34;&gt;estomagordo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hbldh&#34;&gt;hbldh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lasso_%28programming_language%29&#34;&gt;Lasso&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FileMaker&#34;&gt;Filemaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/One_Laptop_per_Child&#34;&gt;One laptop per child&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AWK&#34;&gt;AWK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;bash&lt;/a&gt; - lösningar från &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/hacker112-bash&#34;&gt;hacker112&lt;/a&gt; och &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/zegl-bash&#34;&gt;zegl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Squeak&#34;&gt;Squeak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Smalltalk&#34;&gt;Smalltalk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scratch_%28programming_language%29&#34;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brainfuck&#34;&gt;Brainfuck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/joemccann/status/812732099027419139?lang=en&#34;&gt;Tweetet&lt;/a&gt; att de bästa kodarna knackar kod på helgerna&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.folklore.org/StoryView.py?story=90_Hours_A_Week_And_Loving_It.txt&#34;&gt;90 hours a week and loving it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vitality_curve&#34;&gt;Stack ranking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/29/&#34;&gt;Bonusprogrammet&lt;/a&gt; - Sumpsnack 29&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:5a8a8b90d1564edd762583a8daa41ef6&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nördiga presenter och liknande saker&lt;/li&gt;
+&lt;li&gt;Det är ingen som hinner stoppa mig&lt;/li&gt;
+&lt;li&gt;Det värmer mitt lilla C++-hjärta&lt;/li&gt;
+&lt;li&gt;Nu fick man göra en egen assembler&lt;/li&gt;
+&lt;li&gt;Advent of code i Advent of code&lt;/li&gt;
+&lt;li&gt;Äta och sova&lt;/li&gt;
+&lt;li&gt;En tvåveckorskurs i C++&lt;/li&gt;
+&lt;li&gt;När vår bransch växer upp&lt;/li&gt;
+&lt;li&gt;Inte bara den bästa koden&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 188 - Berättelser om hur det har gått till</title>
@@ -894,46 +963,6 @@
 &lt;li&gt;Follow the hype train&lt;/li&gt;
 &lt;li&gt;HTML in my Javascript!&lt;/li&gt;
 &lt;li&gt;It&amp;rsquo;s let me leave work earlier&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 174 - UX är inte ett strössel</title>
-      <link>http://kodsnack.se/174/</link>
-      <pubDate>Tue, 20 Sep 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/174/</guid>
-      <description>
-
-&lt;p&gt;På scen under &lt;a href=&#34;http://techworld.event.idg.se/event/codenight6/&#34;&gt;Code night #6&lt;/a&gt;, på ämnet user experience, funderar vi över UX, vad det innebär, hur vi kommit hit och hur det kan tänkas påverka oss. UX-ansvar som en utbildningsroll, till exempel. Och är det ett misstag att göra prototyper?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:f1645d8f9dabfef134a32c88b316888f&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/codenight6/&#34;&gt;Code night #6 - UX är målet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/User_experience&#34;&gt;UX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iteam.se/team/mimmi/&#34;&gt;Mimmi&lt;/a&gt; och &lt;a href=&#34;https://www.iteam.se/team/johan/&#34;&gt;Johan&lt;/a&gt; berättade om UX i moderna projekt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/vladimirkoller&#34;&gt;Vladimir Koller&lt;/a&gt; berättade om UX i samband med Stockholms stads och Trafikverkets system Kopplet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:f1645d8f9dabfef134a32c88b316888f&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vad gör vi här egentligen?&lt;/li&gt;
-&lt;li&gt;Designers med lustiga hattar&lt;/li&gt;
-&lt;li&gt;Användaretnologi&lt;/li&gt;
-&lt;li&gt;Det är inte att ha hybris om man har rätt&lt;/li&gt;
-&lt;li&gt;Någon sorts lärande-insats&lt;/li&gt;
-&lt;li&gt;Det etnografiska perspektivet&lt;/li&gt;
-&lt;li&gt;UX är inte ett strössel&lt;/li&gt;
-&lt;li&gt;Självförtroende som användare&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

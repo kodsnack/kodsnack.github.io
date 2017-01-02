@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>06 Dec 2016 05:26 +0000</pubDate>
-        <lastBuildDate>06 Dec 2016 05:26 +0000</lastBuildDate>
+        <pubDate>03 Jan 2017 05:26 +0000</pubDate>
+        <lastBuildDate>03 Jan 2017 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,49 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 29 - En 100% Apple-produkt </title>
+                <pubDate>03 Jan 2017 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/29/</guid>
+                <link>http://kodsnack.se/sumpsnack/29/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Tobias berättar allt om sina Airpods och tipsar om ett spel.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:ce69564a9af371ad660aa857107bd8d7&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AirPods&#34;&gt;Airpods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mobil.se/tester/produkttester/test-jaybird-x2#.WGUNxbFiTFw&#34;&gt;Jaybird X2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atp.fm/episodes/201&#34;&gt;ATP-avsnittet&lt;/a&gt; där John Siracusa recenserar sina Airpods&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest&#34;&gt;Ori and the blind forest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Metroidvania&#34;&gt;Metroidvania&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:ce69564a9af371ad660aa857107bd8d7&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sedan dess har jag levt like an animal med min trådade lur&lt;/li&gt;
+&lt;li&gt;Tillbaka till stenåldern&lt;/li&gt;
+&lt;li&gt;Mitt i mellandagarna&lt;/li&gt;
+&lt;li&gt;Det visste ni nog innan kvart i fem&lt;/li&gt;
+&lt;li&gt;En 100% Apple-produkt&lt;/li&gt;
+&lt;li&gt;Flera timmar på bara femton minuter&lt;/li&gt;
+&lt;li&gt;Volymen verkar jag inte styra så himla mycket&lt;/li&gt;
+&lt;li&gt;Jag justerar volymen i fickan&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="8287300" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_29.mp3"/>
+                <itunes:duration>16:29</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 28 - Ett juste headset </title>
