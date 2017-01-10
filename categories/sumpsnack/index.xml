@@ -9,6 +9,54 @@
     <updated>Tue, 03 Jan 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 190 - Alltid i någon form av kris</title>
+      <link>http://kodsnack.se/190/</link>
+      <pubDate>Tue, 10 Jan 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/190/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias svarar på lysnarpost genom att diskutera en artikel om svenska digitala byråers vara eller inte vara under 2017. Vi drar medvetet ämnet lite bredare, från digitala byråer till IT-konsultbolag mer allmänt eftersom det känns tillämpligt och mer tydligt relaterat till våra egna erfarenheter. Från undringar kring definitioner via diagram som skapar frågor till funderingar kring analytiker. Tobias berättar lite om att ha jobbat i denna möjligen krisande bransch. Trevligt nog behöver ingen utvecklare vara bekymrad oavsett artikelns träffsäkerhet. Kanske bör IT-konsultbranschen alltid befinna sig i någon form av kris?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:43e479eb86419a48428606aca3da7da1&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blir-2017-%C3%A5ret-d%C3%A5-sveriges-digitala-byr%C3%A5er-imploderar-cederl%C3%B6f&#34;&gt;Blir 2017 året då Sveriges digitala byråer imploderar?&lt;/a&gt; - artikeln vi diskuterar, tack &lt;a href=&#34;https://twitter.com/madr&#34;&gt;@madr&lt;/a&gt; för tipset!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Webbyr%C3%A5&#34;&gt;Webbyrå och digitalbyråer&lt;/a&gt; på svenska Wikipedia, en digitalbyrå är här en webbyrå som tar någon typ av helhetsansvar för kundernas närvaro på nätet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/COBOL&#34;&gt;COBOL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.acolyer.org/&#34;&gt;The morning paper&lt;/a&gt; - tack &lt;a href=&#34;https://twitter.com/tobiasfuruholm&#34;&gt;@tobiasfuruholm&lt;/a&gt; för tipset!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:43e479eb86419a48428606aca3da7da1&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En rubrik som avslutas med ett frågetecken&lt;/li&gt;
+&lt;li&gt;Webbyråns död i dotcomboomen&lt;/li&gt;
+&lt;li&gt;Alltid i någon form av kris&lt;/li&gt;
+&lt;li&gt;Riktigt breda generalister&lt;/li&gt;
+&lt;li&gt;Här är ditt kontor&lt;/li&gt;
+&lt;li&gt;Du programmerar COBOL och ingen vet vad det är&lt;/li&gt;
+&lt;li&gt;Jag kör konsultgrejen ett tag&lt;/li&gt;
+&lt;li&gt;Då säger jag tack och adjö&lt;/li&gt;
+&lt;li&gt;Det kan lätt bli väldigt opersonligt&lt;/li&gt;
+&lt;li&gt;(Fyller) en specifik roll i ett specifikt Excel-ark&lt;/li&gt;
+&lt;li&gt;Så otroligt urvattnat&lt;/li&gt;
+&lt;li&gt;Klickbetesrubriker och kortfattat återtuggat innehåll&lt;/li&gt;
+&lt;li&gt;Nej, det finns inget innehåll här&lt;/li&gt;
+&lt;li&gt;Inte tänkt att du eller jag ska läsa&lt;/li&gt;
+&lt;li&gt;Lika många ord som i artikeln&lt;/li&gt;
+&lt;li&gt;Tack och välkomna till 2017!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 189 - Det värmer mitt lilla C&#43;&#43;-hjärta</title>
       <link>http://kodsnack.se/189/</link>
       <pubDate>Tue, 03 Jan 2017 05:26:14 UTC</pubDate>
@@ -921,48 +969,6 @@
 &lt;li&gt;Git är ju sin commitgraf&lt;/li&gt;
 &lt;li&gt;Är de ens en per server?&lt;/li&gt;
 &lt;li&gt;Det räcker med datum och tid på en planet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 175 - It&#39;s let me leave work earlier</title>
-      <link>http://kodsnack.se/175/</link>
-      <pubDate>Tue, 27 Sep 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/175/</guid>
-      <description>
-
-&lt;p&gt;Fredrik talks to &lt;a href=&#34;https://twitter.com/floydophone&#34;&gt;Pete Hunt&lt;/a&gt; about monoliths, breaking them up and when not to. And of course React, how it came about and how the introduction to the world looked from the inside. How to handle releases of software and working with communication around it. What happens when you go from underdog to being the safe choice?&lt;/p&gt;
-
-&lt;p&gt;This episode was recorded during the developer conference &lt;a href=&#34;https://vimeo.com/144824775&#34;&gt;Øredev 2015&lt;/a&gt;, where Pete gave presentations on &lt;a href=&#34;http://oredev.org/2015/sessions/monolith-first-apps-with-node-js&#34;&gt;monolith-first apps with Node&lt;/a&gt; and &lt;a href=&#34;http://oredev.org/2015/sessions/building-a-react-js-backend&#34;&gt;building React backends&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
-
-&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;links:71f7b541b312853ee8e51d2cd3601a66&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/floydophone&#34;&gt;Pete Hunt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kubernetes.io/&#34;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://leebyron.com/&#34;&gt;Lee Byron&lt;/a&gt; and his talk on &lt;a href=&#34;https://en.wikipedia.org/wiki/GraphQL&#34;&gt;Graphql&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WQLzZf34FJ8&#34;&gt;The Graphql introduction talk&lt;/a&gt; from React Europe 2015&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.smyte.com/&#34;&gt;Smyte&lt;/a&gt; - where Pete currently works&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=x7cQ3mrcKaY&#34;&gt;Pete&amp;rsquo;s talk from JSconf EU&lt;/a&gt; - Rethinking best practises&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs&#34;&gt;The future of Javascript MVC frameworks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/chenglou/react-motion&#34;&gt;React-motion&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titles:71f7b541b312853ee8e51d2cd3601a66&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Everyone has a monolith&lt;/li&gt;
-&lt;li&gt;Follow the hype train&lt;/li&gt;
-&lt;li&gt;HTML in my Javascript!&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s let me leave work earlier&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
