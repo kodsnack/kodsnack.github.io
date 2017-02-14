@@ -9,6 +9,92 @@
     <updated>Tue, 03 Jan 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 195 - Svårt att sätta process på det</title>
+      <link>http://kodsnack.se/195/</link>
+      <pubDate>Tue, 14 Feb 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/195/</guid>
+      <description>
+
+&lt;p&gt;Tobias, Fredrik &lt;em&gt;och&lt;/em&gt; Kristoffer snackar process och arbetsroller, utmaningar som dyker upp när man arbetat ett tag på samma ställe och när företag växer och mer process ändå behövs. Tobias har försökt hitta, definiera och etikettera sin nya roll på jobbet i samråd med sin chef.&lt;/p&gt;
+
+&lt;p&gt;Som avslutning en liten ventilation om ett klassiskt och ständigt aktuellt ämne: byggsystem.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:ba0310957928c27a5b713c96009f076a&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.plex.tv/blog/we-have-news/&#34;&gt;Plex köpte ett nyhetsföretag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/2017_Romanian_protests&#34;&gt;Protesterna i Rumänien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bd79UsXSLWg&#34;&gt;Videon som spekulerar om Trumps läskunnighet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kodi_%28software%29&#34;&gt;Kodi/XBMC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenStack&#34;&gt;Openstack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_review&#34;&gt;Code review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/8/&#34;&gt;Byggsystem pratade vi om redan i avsnitt 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.boost.org/doc/libs/1_31_0/tools/build/jam_src/index.html&#34;&gt;Boost.jam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/2/extending/building.html&#34;&gt;Bygga C-moduler till Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmake.org/&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html&#34;&gt;Autotools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ninja-build.org/&#34;&gt;Ninja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kristoffers presentation om pakethantering - &lt;a href=&#34;https://lwn.net/Articles/712318/&#34;&gt;artikel i textform&lt;/a&gt; och &lt;a href=&#34;https://www.youtube.com/watch?v=4ua5aeKKDzU&#34;&gt;video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://crates.io/&#34;&gt;Cargo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/golang/go/wiki/PackageManagementTools&#34;&gt;Pakethantering för Go&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:ba0310957928c27a5b713c96009f076a&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Är det ett speciellt avsnitt?&lt;/li&gt;
+&lt;li&gt;Utmattade, utbrända och deprimerade&lt;/li&gt;
+&lt;li&gt;Mer processer och rutiner än kod&lt;/li&gt;
+&lt;li&gt;Processidan av mitt jobb tog överhanden totalt&lt;/li&gt;
+&lt;li&gt;Möten där man bara sitter och hostar i mikrofonerna&lt;/li&gt;
+&lt;li&gt;En balansgång&lt;/li&gt;
+&lt;li&gt;Fortfarande kvar i att vi är sju personer&lt;/li&gt;
+&lt;li&gt;Att växa är svårt&lt;/li&gt;
+&lt;li&gt;Allting har hamnat på mig&lt;/li&gt;
+&lt;li&gt;Titlar har en helt annan innebörd&lt;/li&gt;
+&lt;li&gt;Jag vet inte vad det betyder ens en gång&lt;/li&gt;
+&lt;li&gt;Jag har aldrig varit med i organisationsschemat&lt;/li&gt;
+&lt;li&gt;Någon som är lite fristående&lt;/li&gt;
+&lt;li&gt;Jag ramlar fram i koden&lt;/li&gt;
+&lt;li&gt;Vad känns det som att jag behöver göra nu?&lt;/li&gt;
+&lt;li&gt;Det är väldigt svårt att sätta process på det&lt;/li&gt;
+&lt;li&gt;Folk i teamet som älskar process&lt;/li&gt;
+&lt;li&gt;Man måste hitta det inom sig&lt;/li&gt;
+&lt;li&gt;Jag kan se värdet i allt det här&lt;/li&gt;
+&lt;li&gt;Det kanske är det jag vill göra: något annat&lt;/li&gt;
+&lt;li&gt;Jag vill ju jobba på något nytt också&lt;/li&gt;
+&lt;li&gt;All bullshit som har med små företag att göra istället&lt;/li&gt;
+&lt;li&gt;Lösningarna står i proportion till nyttan&lt;/li&gt;
+&lt;li&gt;Om jag själv måste vara involverad&lt;/li&gt;
+&lt;li&gt;Flytta runt issues i en matris&lt;/li&gt;
+&lt;li&gt;Sitta med en fot i ena båten&lt;/li&gt;
+&lt;li&gt;Nej till allting som har med processen att göra&lt;/li&gt;
+&lt;li&gt;Inte det jag vill jobba med&lt;/li&gt;
+&lt;li&gt;Att växa i företag&lt;/li&gt;
+&lt;li&gt;I ett litet företag kan man ha en stor kris&lt;/li&gt;
+&lt;li&gt;Slumpa sig till en lösning&lt;/li&gt;
+&lt;li&gt;Jag förstår behovet&lt;/li&gt;
+&lt;li&gt;Frustrationen att jag kan göra det bättre&lt;/li&gt;
+&lt;li&gt;Förbättringspotential i oss allihop&lt;/li&gt;
+&lt;li&gt;Korskompilering till en plattform du inte hört talas om&lt;/li&gt;
+&lt;li&gt;Jag tog bort hela deras byggsystem&lt;/li&gt;
+&lt;li&gt;Det är ju såhär det händer&lt;/li&gt;
+&lt;li&gt;En grej som inte borde fungera men som gör det&lt;/li&gt;
+&lt;li&gt;Se hur han snubblar genom byggsystemet&lt;/li&gt;
+&lt;li&gt;Saker som bara skriker legacy&lt;/li&gt;
+&lt;li&gt;De som är fast i ett IDE kan vara det&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 194 - Alla har en koppling till Söderhamn</title>
       <link>http://kodsnack.se/194/</link>
       <pubDate>Tue, 07 Feb 2017 05:26:14 UTC</pubDate>
@@ -989,47 +1075,6 @@
 &lt;li&gt;Den bästa linuxlaptop man kan köpa&lt;/li&gt;
 &lt;li&gt;Den är redan i Danmark&lt;/li&gt;
 &lt;li&gt;På cykel från Danmark&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 180 - Apple hade sitt &#39;Hello again&#39;-avsnitt</title>
-      <link>http://kodsnack.se/180/</link>
-      <pubDate>Tue, 01 Nov 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/180/</guid>
-      <description>
-
-&lt;p&gt;Vi snackar om Apples &amp;ldquo;Hello again&amp;rdquo;-presentation där de uppdaterade Macbook pro. Vi snackar datorerna i allmänhet, plus en kort snutt om Apples nya TV-app, men i synnerhet om Touch bar - den beröringskänsliga skärm som ersätter funktionstangenterna och innebär den största hårdvarunyheten i datorerna. Skärmen har redan både ett &lt;a href=&#34;https://developer.apple.com/reference/appkit/nstouchbar&#34;&gt;API&lt;/a&gt; och &lt;a href=&#34;https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html&#34;&gt;designriktlinjer&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi om och kontrasterar med Microsofts Surface-event som hölls dagen innan.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:d1d43554932b43addf5254606ce3ba39&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.apple.com/apple-events/october-2016/&#34;&gt;Apples presentation&lt;/a&gt; och allt som släpptes&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/reference/appkit/nstouchbar&#34;&gt;Touch bar-API:et&lt;/a&gt; och &lt;a href=&#34;https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html&#34;&gt;riktlinjerna för design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/octoberevent&#34;&gt;Microsofts Surface-event&lt;/a&gt; (&lt;a href=&#34;https://www.microsoft.com/en-us/octoberevent/microsoft-live-event&#34;&gt;direktlänk till video&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/surface/devices/surface-studio&#34;&gt;Surface studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hypercritical.co/2013/03/08/the-case-for-a-true-mac-pro-successor&#34;&gt;John Siracusas text&lt;/a&gt; om halo-bilar och andra produkter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/surface/accessories/surface-dial&#34;&gt;Surface dial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Griffins &lt;a href=&#34;https://griffintechnology.com/us/powermate-bluetooth&#34;&gt;Powermate&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:d1d43554932b43addf5254606ce3ba39&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Apple hade sitt &amp;ldquo;Hello again&amp;rdquo;-avsnitt&lt;/li&gt;
-&lt;li&gt;Det som blev kvar av en mycket större vision&lt;/li&gt;
-&lt;li&gt;Känns inte det supernischat?&lt;/li&gt;
-&lt;li&gt;Viktigt att det sker, mer, här&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
