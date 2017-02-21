@@ -6,7 +6,83 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 03 Jan 2017 05:26:14 UTC</updated>
+    <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 196 - Bisarra saker man försöker optimera</title>
+      <link>http://kodsnack.se/196/</link>
+      <pubDate>Tue, 21 Feb 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/196/</guid>
+      <description>
+
+&lt;p&gt;Det svåra hundranittiosjätte avsnittet går i uppföljningens tecken. Vi inleder med lite pulversnack, till lunch istället för frysmatlådor. Efter det något om Tobias vertikala mus och hans arbetande i Linux på heltid.&lt;/p&gt;
+
+&lt;p&gt;Har någon tips på ett bra programmerbart &amp;ldquo;extratangentbord&amp;rdquo; att ha för sina egna genvägar? Tipsa oss gärna!&lt;/p&gt;
+
+&lt;p&gt;Sedan börjar vi prata om processorernas inverkan på kompileringshastighet och hamnar snabbt oväntat långt ner i hårdvarustapeln för att förklara vad som händer och hur.&lt;/p&gt;
+
+&lt;p&gt;Vi avslutar med lite uppföljning kring själva podden: för er som haft problem att hoppa i podden när ni lyssnar är det förhoppningsvis fixat från och med förra avsnittet.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:514afbc1bb122afb2b053ae7469de727&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jimmyjoy.com/&#34;&gt;Joyl… förlåt, Jimmy Joy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://queal.com/&#34;&gt;Queal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bjoreman.com/diary/2017/2017-02-11.html&#34;&gt;Fredrik har åsikter om shakers&lt;/a&gt;, och pulvermat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.queal.com/t/shaker-feedback-thought-balloon/49&#34;&gt;Queals forumtråd med shaker-feedback&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jimmyjoy.com/products/twennybar&#34;&gt;Twennybar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evoluent.com/products/vm4r/&#34;&gt;Vertical mouse 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.boastr.net/&#34;&gt;Bettertouchtool&lt;/a&gt; och &lt;a href=&#34;https://medium.com/productivity-freak/what-if-you-could-really-customize-your-new-touch-bar-ea42ec66f42c#.fhd7o2vgl&#34;&gt;att ställa in touchbar med det&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lldb.llvm.org/&#34;&gt;LLDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.razerzone.com/gaming-keyboards-keypads/razer-orbweaver&#34;&gt;Razer orbweaver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.artlebedev.com/optimus/&#34;&gt;Optimustangentborden&lt;/a&gt; - med en skärm under varje tangent&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/swedencpp/&#34;&gt;Sweden CPP&lt;/a&gt; - C++-meetup i Stockholm&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Stockholm-Google-Developer-Group/&#34;&gt;Stockholm Google developer meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Gavle-Developer-Meetup/&#34;&gt;Gävle developer meetup&lt;/a&gt; - kom om du är i närheten!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/auchenberg/volkswagen&#34;&gt;Volkswagen&lt;/a&gt; - får dina tester att gå igenom i CI-systemet, tack &lt;a href=&#34;https://www.meetup.com/Stockholm-Google-Developer-Group/&#34;&gt;@ollegz&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal&#34;&gt;Volkswagen fuskade i miljötester&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Linker_%28computing%29&#34;&gt;Länkare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cache_memory#Functional_principles_of_the_cache_memory&#34;&gt;Cache line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.llvm.org/2016/06/thinlto-scalable-and-incremental-lto.html&#34;&gt;Thin LTO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tack &lt;a href=&#34;https://twitter.com/vrutberg&#34;&gt;@vrutberg&lt;/a&gt; för frågan om kärnor och kompilering!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hyper-threading&#34;&gt;Hyper-threading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microcode&#34;&gt;Mikroinstruktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Reduced_instruction_set_computing&#34;&gt;RISC&lt;/a&gt; - reduced instruction set computing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Complex_instruction_set_computing&#34;&gt;CISC&lt;/a&gt; - complex instruction set computing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/csholmq&#34;&gt;@csholmq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.shiftyjelly.com/pocketcasts/&#34;&gt;Pocket casts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Variable_bitrate&#34;&gt;Variabel bitrate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overcast.fm/podcasts&#34;&gt;Overcast&lt;/a&gt;, &lt;a href=&#34;https://marco.org/about&#34;&gt;Marco Arment&lt;/a&gt; och &lt;a href=&#34;http://atp.fm/&#34;&gt;ATP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.audacityteam.org/&#34;&gt;Audacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:514afbc1bb122afb2b053ae7469de727&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En stjärna i nörd-checkboken&lt;/li&gt;
+&lt;li&gt;Alla specialtangenter till LLDB i huvudet&lt;/li&gt;
+&lt;li&gt;Inte ett ordentligt jobb om man inte är fiende med QA&lt;/li&gt;
+&lt;li&gt;En kompilator per core, om inte lite till&lt;/li&gt;
+&lt;li&gt;Det finns vissa länkare som är trådade&lt;/li&gt;
+&lt;li&gt;(Ofta) ganska bisarra saker man försöker optimera&lt;/li&gt;
+&lt;li&gt;I 9,9 fall av 10&lt;/li&gt;
+&lt;li&gt;Fånigt att jag inte lärde mig assembler istället&lt;/li&gt;
+&lt;li&gt;Komplicerade saker som händer i en CPU&lt;/li&gt;
+&lt;li&gt;Ett varv på klockan&lt;/li&gt;
+&lt;li&gt;Innan du kan hoppa på nästa instruktion&lt;/li&gt;
+&lt;li&gt;Någonting ingen vet längre&lt;/li&gt;
+&lt;li&gt;En sväng i klockan&lt;/li&gt;
+&lt;li&gt;Påverkar nästan ingen i dagsläget&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 195 - Svårt att sätta process på det</title>
@@ -1022,59 +1098,6 @@
 &lt;li&gt;Vad betyder duktig?&lt;/li&gt;
 &lt;li&gt;En falsk ribba att nå upp till&lt;/li&gt;
 &lt;li&gt;Källkoden, laptopen och skrivbordet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 181 - Ett märkligt val</title>
-      <link>http://kodsnack.se/181/</link>
-      <pubDate>Tue, 08 Nov 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/181/</guid>
-      <description>
-
-&lt;p&gt;Vi berättar historien om Tobias bärbara datorer och avslöjar nästa kapitel i historien. Utifrån det kommer vi in på arbetsdatorer, vad man behöver i en bärbar och tankar kring att jobba med och i Linux.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:2c797bec90520de46fa5e1c945fb7bde&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security by obscurity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security_theater&#34;&gt;Security theater&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2016/10/27/13433320/apple-macbook-pro-hello-again-event-timing&#34;&gt;De nya macarna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hyper-threading&#34;&gt;Hyper-threads&lt;/a&gt;
-*&lt;a href=&#34;https://en.wikipedia.org/wiki/PowerBook_G4#Discontinuation&#34;&gt; Apples sista femtontummare med G4-processor&lt;/a&gt; kom 2005&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.techradar.com/reviews/pc-mac/laptops-portable-pcs/laptops-and-netbooks/hp-zbook-studio-g3-1308737/review&#34;&gt;HP zenbook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theverge.com/2015/2/13/8030821/dell-xps-13-laptop-ultrabook-review&#34;&gt;Dell XPS 13&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kaby_Lake&#34;&gt;Kaby lake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;Pycharm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/clion/?utm_source=kodsnack&amp;amp;utm_medium=sponslink&amp;amp;utm_content=clionge&amp;amp;utm_campaign=clion&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard&#34;&gt;Dvorak&lt;/a&gt; - ett alternativ till den vanliga layouten på tangentbord&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://unity.ubuntu.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gnome.org/&#34;&gt;Gnome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tiling_window_manager&#34;&gt;Tiling window manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://awesome.naquadah.org/&#34;&gt;VM3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:2c797bec90520de46fa5e1c945fb7bde&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Har du också ett vinterland?&lt;/li&gt;
-&lt;li&gt;(För mig själv gjorde jag) ett märkligt val&lt;/li&gt;
-&lt;li&gt;Jag glömde min dator i Denver&lt;/li&gt;
-&lt;li&gt;Min sekundära arbetsmaskin&lt;/li&gt;
-&lt;li&gt;Jag kan strunta i att köra en virtuell maskin&lt;/li&gt;
-&lt;li&gt;En konfiguration jag känner mig bekväm med&lt;/li&gt;
-&lt;li&gt;Många följdverkningar&lt;/li&gt;
-&lt;li&gt;Den bästa linuxlaptop man kan köpa&lt;/li&gt;
-&lt;li&gt;Den är redan i Danmark&lt;/li&gt;
-&lt;li&gt;På cykel från Danmark&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
