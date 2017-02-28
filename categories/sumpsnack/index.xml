@@ -9,6 +9,81 @@
     <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 197 - Där all världens information ligger</title>
+      <link>http://kodsnack.se/197/</link>
+      <pubDate>Tue, 28 Feb 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/197/</guid>
+      <description>
+
+&lt;p&gt;Fredrik, Tobias och Kristoffer - i samma hus men på behörigt avstånd - värmer upp med veckans meetup-tips och snackar sedan om Googles monorepo - det jättestora specialskrivna system som har hand om majoriteten av Googles källkod. Det ligger något lite lustigt i att vi först bygger superdistribuerade system och sedan bygger något supercentraliserat ovanpå. Jobbar du på Google eller känner någon som gör det och har erfarenheter av att jobba med monorepot? Vi skulle jättegärna vilja höra mer om hur det är!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:ebe0a8851e5887f275459525d237a1b5&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Gavle-Developer-Meetup/&#34;&gt;Gävle developer meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cocoaheads.org/&#34;&gt;Cocoaheads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hack.org/mc/mosig.html&#34;&gt;MOSIG&lt;/a&gt; - Malmö open source interest group&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/estomagordo&#34;&gt;Christoffer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Bring-Your-Own-Project-Gothenburg/&#34;&gt;Bring your own project Gothenburg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Goteborg-Lounge-Hackers/&#34;&gt;Göteborg lounge hackers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/IoTStockholm/&#34;&gt;IOT Stockholm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/CodePen-Orebro/&#34;&gt;Codepen Örebro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/swedencpp/&#34;&gt;Sweden CPP&lt;/a&gt; - C++-meetup i Stockholm - Tobias tänker dyka upp framöver&lt;/li&gt;
+&lt;li&gt;Tangentbordstips:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://m.prisjakt.nu/product/3606678/media&#34;&gt;Logitech G810&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techkeys.us/collections/keyboards/products/sixkeyboard&#34;&gt;Sixkeyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techkeys.us/collections/keyboards/products/techkeys-programmable-keyboard-business-card&#34;&gt;Techkeys programmable keyboard card&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lwn.net/Articles/250967/&#34;&gt;What every programmer should know about memory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/rygorous&#34;&gt;Fabian Giesen&lt;/a&gt; - @rygorous, skriver mycket om moderna arkitekturer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vulkan_%28API%29&#34;&gt;Vulkan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m.cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext&#34;&gt;Artikeln om Googles monorepo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Perforce_Helix&#34;&gt;Perforce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bigtable&#34;&gt;Bigtable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Spanner_%28database%29&#34;&gt;Spanner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plus.google.com/+DominicMitchell/posts/DjABWzqp4kj&#34;&gt;Piper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stevenlevy.com/index.php/books/in-the-plex&#34;&gt;In the plex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.well-typed.com/blog/2008/04/the-dreaded-diamond-dependency-problem/&#34;&gt;Diamond dependency-problemet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ipfs.io/&#34;&gt;IPFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Content-addressable_storage&#34;&gt;Content-addressable storage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ebb.org/bkuhn/blog/&#34;&gt;Bradley Kuhn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/&#34;&gt;Facebooks monorepo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/visualstudioalm/2017/02/03/announcing-gvfs-git-virtual-file-system/&#34;&gt;GVFS&lt;/a&gt; - Microsofts monorepoverktyg byggt ovanpå Git&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4ua5aeKKDzU&#34;&gt;Kristoffers presentation från Australien&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:ebe0a8851e5887f275459525d237a1b5&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Instängd i barnrummet&lt;/li&gt;
+&lt;li&gt;På ett företag efter stängningsdags&lt;/li&gt;
+&lt;li&gt;Vem ska man träffa, kassörskan på ICA?&lt;/li&gt;
+&lt;li&gt;Utöka sitt kontaktnät&lt;/li&gt;
+&lt;li&gt;Stockholm - en förort till Gävle&lt;/li&gt;
+&lt;li&gt;Man kan inte träffas om man inte har en anledning&lt;/li&gt;
+&lt;li&gt;Som att sätta sig bredvid någon på bussen&lt;/li&gt;
+&lt;li&gt;Monolitkodbasen&lt;/li&gt;
+&lt;li&gt;Där all världens information ligger&lt;/li&gt;
+&lt;li&gt;Rakt in och rakt upp&lt;/li&gt;
+&lt;li&gt;Ge upp och stoppa in allt i samma träd&lt;/li&gt;
+&lt;li&gt;Vi jobbar alla i samma stora källkodsträd&lt;/li&gt;
+&lt;li&gt;På en skala som är Google&lt;/li&gt;
+&lt;li&gt;Vi har inte disciplinen, vi har inte verktygen&lt;/li&gt;
+&lt;li&gt;Problemet är någonstans i premissen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 196 - Bisarra saker man försöker optimera</title>
       <link>http://kodsnack.se/196/</link>
       <pubDate>Tue, 21 Feb 2017 05:26:14 UTC</pubDate>
@@ -1034,70 +1109,6 @@
 &lt;li&gt;Det här är dina komponenter, och det går att missbruka&lt;/li&gt;
 &lt;li&gt;Han som har koll är och spelar badminton&lt;/li&gt;
 &lt;li&gt;Respekten som jag kanske inte hade då&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 182 - En falsk ribba</title>
-      <link>http://kodsnack.se/182/</link>
-      <pubDate>Tue, 15 Nov 2016 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/182/</guid>
-      <description>
-
-&lt;p&gt;Vi inleder med uppföljning kring det oväntat stora antal frågor och kommentarer vi fått kring Tobias köp av bärbar dator att köra Linux på. Har ni ännu fler frågor: skicka in dem!&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi om och utifrån talet &lt;a href=&#34;https://lwn.net/Articles/641779/&#34;&gt;The programming talent myth&lt;/a&gt; om talang, att programmera och vad det innebär att vara &amp;ldquo;en riktig programmerare&amp;rdquo;. Det är lätt att få bilden att man kan eller gör för lite för att vara en riktig programmerare, och det kan vara ett problem inte bara för självbilden utan också för att få in nya människor i yrket och branschen. Man kan inte kunna allt, och det är inte alls solklart vad som faktiskt är en bra programmerare.&lt;/p&gt;
-
-&lt;p&gt;Sist men inte minst pratar vi om Advent of code - vi har skapat ett repo på Github även för årets upplaga och kommer att dela ut någon form av litet pris till den som är först med att lösa alla årets problem i valfritt språk.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:6ad514199258dd7da92f822051a22729&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/&#34;&gt;Allt om Tobias laptop&lt;/a&gt; - i förra veckans avsnitt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://system76.com/&#34;&gt;System76&lt;/a&gt; - datorer av alla slag med Ubuntu&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kaby_Lake&#34;&gt;Kaby lake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.prisjakt.nu/konsument/lg-ultrafine-5k-och-ultrafine-4k-optimerade-skarmar-nya-macbook-pro/&#34;&gt;De nya LG-skärmarna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tiling_window_manager&#34;&gt;Tiling window manager&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lua_%28programming_language%29&#34;&gt;Lua&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;I3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fontconfig&#34;&gt;Fontconfig&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lwn.net/Articles/641779/&#34;&gt;The programming talent myth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://us.pycon.org/2017/&#34;&gt;Pycon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jacobian.org/&#34;&gt;Jacob Kaplan-Moss&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.djangoproject.com/&#34;&gt;Django&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Bluffsyndromet&#34;&gt;Bluffsyndrom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/NP-completeness&#34;&gt;NP-kompletta problem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt; - en programmeringsuppgift om dagen fram till jul&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;Kodsnacks repo för Advent of code 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/about-pull-requests/&#34;&gt;Pull request&lt;/a&gt; - begäran att få checka in kod i ett repo&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OCaml&#34;&gt;Ocaml&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks repo för Advent of code 2016&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:6ad514199258dd7da92f822051a22729&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ännu ett avsnitt av laptopsnack&lt;/li&gt;
-&lt;li&gt;Var är datorn?&lt;/li&gt;
-&lt;li&gt;Någonting som fastnat i nittiotalet&lt;/li&gt;
-&lt;li&gt;Den framtid vi letar efter&lt;/li&gt;
-&lt;li&gt;En rockstjärna eller en ninja eller vad som helst&lt;/li&gt;
-&lt;li&gt;Ribban i våra huvuden (och inför andra)&lt;/li&gt;
-&lt;li&gt;Alla söker en rockstjärne-ninja-programmerare&lt;/li&gt;
-&lt;li&gt;Det är okej att inte vara bäst på allting&lt;/li&gt;
-&lt;li&gt;Vad betyder duktig?&lt;/li&gt;
-&lt;li&gt;En falsk ribba att nå upp till&lt;/li&gt;
-&lt;li&gt;Källkoden, laptopen och skrivbordet&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
