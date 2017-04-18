@@ -6,7 +6,89 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 11 Apr 2017 05:26:14 UTC</updated>
+    <updated>Tue, 18 Apr 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 204 - En jakrakningsgrej</title>
+      <link>http://kodsnack.se/204/</link>
+      <pubDate>Tue, 18 Apr 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/204/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer värmer upp med lite Svalbard. Fredrik har testat kaklande fönsterhantering på Mac vilket leder till mer diskussion om fönsterhanterare, några tips om upplägg och skrivbordsmiljöer.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi lite följdfrågor och verktyg för att synka data mellan datorer. Därefter kommer ett helt nytt tips om programmeringsövning och lite diskussion om hur olika stora öppna källkodsprojekt är uppbyggda när det gäller att bidra till kodbasen. På slutet pratar vi lite autentisering, att lyckas läcka minne i Chromium och undrar om Electron är det nya Flash.&lt;/p&gt;
+
+&lt;p&gt;Kristoffer rapporterar från den något mer fjällhöga nord än vanligt och låter därför något mer komprimerad än vanligt.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:5f943b884a4d39172c961da78acc33f8&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Svalbard&#34;&gt;Svalbard och dess styre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gizmodo.com/why-one-of-worlds-most-remote-places-has-the-fastest-i-1556126257&#34;&gt;Bredband på Svalbard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.unis.no/&#34;&gt;Univeristetscentret på Svalbard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://koekeishiya.github.io/kwm/&#34;&gt;KWM&lt;/a&gt;  - den kaklande fönsterhanterare för Mac Fredrik provat&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/reference/coregraphics/quartz_event_services&#34;&gt;Quartz-event&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_event&#34;&gt;Apple events&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://manytricks.com/moom/&#34;&gt;Moom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awesomewm.org/&#34;&gt;Awesome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alfredapp.com/&#34;&gt;Alfred&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;I3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wiktionary.org/wiki/yak_shaving&#34;&gt;Jakrakning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/202/&#34;&gt;Tobias lilla &amp;ldquo;utbrott&amp;rdquo;&lt;/a&gt; är andra halvan av avsnitt 202&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/200/&#34;&gt;I avsnitt 200&lt;/a&gt; började vi diskutera Kristoffers tankar och önskemål kring datasynkronisering och backup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bup.github.io/&#34;&gt;bup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Drive&#34;&gt;Amazon drive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Git-annex&#34;&gt;Git-annex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://saltstack.com/&#34;&gt;Salt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lwn.net/Articles/599231/&#34;&gt;Eudyptula challenge&lt;/a&gt; - tack &lt;a href=&#34;https://twitter.com/magthe&#34;&gt;Magnus Therning&lt;/a&gt; för tipset!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projecteuler.net/&#34;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SourceForge&#34;&gt;Sourceforge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fsf.org/&#34;&gt;FSF&lt;/a&gt; - Free software foundation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Distributed_Replicated_Block_Device&#34;&gt;DRBD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wesnoth.org/&#34;&gt;Wesnoth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gizmodo.com/257458/linux-lovin-frenchman-writes-235-webcam-drivers-for-some-reason&#34;&gt;Mannen som skrivit drivrutiner för &lt;em&gt;alla&lt;/em&gt; webbkameror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OAuth&#34;&gt;Oauth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language&#34;&gt;SAML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mozilla_Persona&#34;&gt;Mozilla persona&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://instagram.pixelunion.net/&#34;&gt;Sidan som kan ge en Instagram-tokens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/&#34;&gt;TimeEdit&lt;/a&gt; - Fredriks jobb&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebAssembly&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kripken.github.io/emscripten-site/&#34;&gt;Emscripten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/WebAssembly/binaryen&#34;&gt;Binaryen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Asm.js&#34;&gt;asm.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb&#34;&gt;Zen garden-demot i Webassembly&lt;/a&gt;, funkar för tillfället bara i Firefox 52 eller senare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Electron_%28software_framework%29&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://josephg.com/blog/electron-is-flash-for-the-desktop/&#34;&gt;Elecron är flash för skrivbordet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Discord_%28software%29&#34;&gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:5f943b884a4d39172c961da78acc33f8&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Från den norra poddstudion&lt;/li&gt;
+&lt;li&gt;Jobba i kolgruva på Svalbard&lt;/li&gt;
+&lt;li&gt;Där man kan köra rent kaklande&lt;/li&gt;
+&lt;li&gt;Flytande fönsterhanterare&lt;/li&gt;
+&lt;li&gt;En jakrakningsgrej&lt;/li&gt;
+&lt;li&gt;Lite dropboxigare än det är backupigt&lt;/li&gt;
+&lt;li&gt;Ett permanent arkiv&lt;/li&gt;
+&lt;li&gt;Det gör ingenting om det aldrig försvinner&lt;/li&gt;
+&lt;li&gt;För det som inte har samma betänkligheter som jag&lt;/li&gt;
+&lt;li&gt;Lämna sin server hemma&lt;/li&gt;
+&lt;li&gt;En fransman med en pipa&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 203 - Med sand och lödpenna</title>
@@ -1051,75 +1133,6 @@
 &lt;li&gt;Inte tänkt att du eller jag ska läsa&lt;/li&gt;
 &lt;li&gt;Lika många ord som i artikeln&lt;/li&gt;
 &lt;li&gt;Tack och välkomna till 2017!&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 189 - Det värmer mitt lilla C&#43;&#43;-hjärta</title>
-      <link>http://kodsnack.se/189/</link>
-      <pubDate>Tue, 03 Jan 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/189/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Tobias avslöjar äntligen vilka som blev först med kompletta lösningar på Advent of code!&lt;/p&gt;
-
-&lt;p&gt;De tre första kompletta bidragen kom från:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/f00ale&#34;&gt;f00ale&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/estomagordo&#34;&gt;estomagordo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hbldh&#34;&gt;hbldh&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hör av er till info@kodsnack.se!&lt;/p&gt;
-
-&lt;p&gt;Lite samhällsinformation: Kristoffer är inte borta på livstid, han behövde bara en paus. Han har inte gått och blivit nöjd med alltings tillstånd, så det finns ingen anledning till oro.&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi om att koda på helgerna, utifrån ett tweet om att de bästa utvecklarna kodar på helgerna. Gör det inte om du inte faktiskt vill det, att programmering måste vara ett allomfattande kall är en stereotyp som varken är bra eller sann. Och kodkvalité är - inte heller - det enda tecknet på en bra programmerare.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:5a8a8b90d1564edd762583a8daa41ef6&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks Advent of code-repo&lt;/a&gt; - inspireras av andras lösningar och bidra med egna!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/f00ale&#34;&gt;f00ale&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/estomagordo&#34;&gt;estomagordo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hbldh&#34;&gt;hbldh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lasso_%28programming_language%29&#34;&gt;Lasso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/FileMaker&#34;&gt;Filemaker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/One_Laptop_per_Child&#34;&gt;One laptop per child&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AWK&#34;&gt;AWK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;bash&lt;/a&gt; - lösningar från &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/hacker112-bash&#34;&gt;hacker112&lt;/a&gt; och &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/zegl-bash&#34;&gt;zegl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Squeak&#34;&gt;Squeak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Smalltalk&#34;&gt;Smalltalk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scratch_%28programming_language%29&#34;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brainfuck&#34;&gt;Brainfuck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/joemccann/status/812732099027419139?lang=en&#34;&gt;Tweetet&lt;/a&gt; att de bästa kodarna knackar kod på helgerna&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.folklore.org/StoryView.py?story=90_Hours_A_Week_And_Loving_It.txt&#34;&gt;90 hours a week and loving it&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vitality_curve&#34;&gt;Stack ranking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/29/&#34;&gt;Bonusprogrammet&lt;/a&gt; - Sumpsnack 29&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:5a8a8b90d1564edd762583a8daa41ef6&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nördiga presenter och liknande saker&lt;/li&gt;
-&lt;li&gt;Det är ingen som hinner stoppa mig&lt;/li&gt;
-&lt;li&gt;Det värmer mitt lilla C++-hjärta&lt;/li&gt;
-&lt;li&gt;Nu fick man göra en egen assembler&lt;/li&gt;
-&lt;li&gt;Advent of code i Advent of code&lt;/li&gt;
-&lt;li&gt;Äta och sova&lt;/li&gt;
-&lt;li&gt;En tvåveckorskurs i C++&lt;/li&gt;
-&lt;li&gt;När vår bransch växer upp&lt;/li&gt;
-&lt;li&gt;Inte bara den bästa koden&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
