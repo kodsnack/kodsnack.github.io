@@ -6,7 +6,66 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 18 Apr 2017 05:26:14 UTC</updated>
+    <updated>Tue, 25 Apr 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 205 - Mementometodiken</title>
+      <link>http://kodsnack.se/205/</link>
+      <pubDate>Tue, 25 Apr 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/205/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer börjar snacka om att minimera, från lån och andra ålar till både fysiska och digitala ting. Borde vi kanske slänga bort vår kod lite oftare? Kanske till och med hela versionshistoriken? Behåller vi alldeles för mycket av allting, och betalar vi en hel massa för bagage vi intalar oss själva är gratis?&lt;/p&gt;
+
+&lt;p&gt;Är versionskontroll ett antipattern?&lt;/p&gt;
+
+&lt;p&gt;Vad tycker ni som lyssnar?&lt;/p&gt;
+
+&lt;p&gt;Berätta varför vi har fel!&lt;/p&gt;
+
+&lt;p&gt;Vi kommer också in på rutiner och att ha nytta av dem. Och distraktioner och att försöka undvika dem. Eller kanske försöka hitta bättre distraktioner?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:2bb0c50b2389f6dc8a2ae9c52e0f9fc2&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.merlinmann.com/roderick/ep-134-a-minimum-of-eels.html&#34;&gt;Ålar&lt;/a&gt; - avsnitt 134 av eminenta Roderick on the line&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Anti-pattern&#34;&gt;Anti-pattern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Memento_%28film%29&#34;&gt;Memento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kubernetes&#34;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://donmelton.com/about/&#34;&gt;Don Melton&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:2bb0c50b2389f6dc8a2ae9c52e0f9fc2&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En igel, skulle jag vilja säga&lt;/li&gt;
+&lt;li&gt;En kostnad i att ha saker&lt;/li&gt;
+&lt;li&gt;Saker i förrådet&lt;/li&gt;
+&lt;li&gt;En skatt på att ha saker&lt;/li&gt;
+&lt;li&gt;Skatten finns alltid där&lt;/li&gt;
+&lt;li&gt;Inte den typ av spel man vill spela idag&lt;/li&gt;
+&lt;li&gt;Exakt det jag behöver nu, och inget annat&lt;/li&gt;
+&lt;li&gt;Den gamla gaffeln som är lite krokig&lt;/li&gt;
+&lt;li&gt;Göra sig av med saker man inte behöver, i det abstrakta&lt;/li&gt;
+&lt;li&gt;Man intalar sig att det är kostnadsfritt&lt;/li&gt;
+&lt;li&gt;Vad är extremare än extremt?&lt;/li&gt;
+&lt;li&gt;Mementoprogrammering&lt;/li&gt;
+&lt;li&gt;När vi väl släpper slutsteget&lt;/li&gt;
+&lt;li&gt;Allt vi behöver, men ingenting annat&lt;/li&gt;
+&lt;li&gt;Samma sak med kod som man har slängt&lt;/li&gt;
+&lt;li&gt;Om koden till fel sak försvann vid fel tillfälle&lt;/li&gt;
+&lt;li&gt;Mementometodiken&lt;/li&gt;
+&lt;li&gt;Något man inte valt, men som man inte kan bli av med&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 204 - En jakrakningsgrej</title>
@@ -1085,54 +1144,6 @@
 &lt;li&gt;Den sortens parsers har jag ingenting mot&lt;/li&gt;
 &lt;li&gt;(Er som gjord Advent of code och känner) en tomhet elva månader om året&lt;/li&gt;
 &lt;li&gt;Livet innehåller för få påhittade problem&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 190 - Alltid i någon form av kris</title>
-      <link>http://kodsnack.se/190/</link>
-      <pubDate>Tue, 10 Jan 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/190/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Tobias svarar på lysnarpost genom att diskutera en artikel om svenska digitala byråers vara eller inte vara under 2017. Vi drar medvetet ämnet lite bredare, från digitala byråer till IT-konsultbolag mer allmänt eftersom det känns tillämpligt och mer tydligt relaterat till våra egna erfarenheter. Från undringar kring definitioner via diagram som skapar frågor till funderingar kring analytiker. Tobias berättar lite om att ha jobbat i denna möjligen krisande bransch. Trevligt nog behöver ingen utvecklare vara bekymrad oavsett artikelns träffsäkerhet. Kanske bör IT-konsultbranschen alltid befinna sig i någon form av kris?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:43e479eb86419a48428606aca3da7da1&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/blir-2017-%C3%A5ret-d%C3%A5-sveriges-digitala-byr%C3%A5er-imploderar-cederl%C3%B6f&#34;&gt;Blir 2017 året då Sveriges digitala byråer imploderar?&lt;/a&gt; - artikeln vi diskuterar, tack &lt;a href=&#34;https://twitter.com/madr&#34;&gt;@madr&lt;/a&gt; för tipset!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Webbyr%C3%A5&#34;&gt;Webbyrå och digitalbyråer&lt;/a&gt; på svenska Wikipedia, en digitalbyrå är här en webbyrå som tar någon typ av helhetsansvar för kundernas närvaro på nätet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/COBOL&#34;&gt;COBOL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.acolyer.org/&#34;&gt;The morning paper&lt;/a&gt; - tack &lt;a href=&#34;https://twitter.com/tobiasfuruholm&#34;&gt;@tobiasfuruholm&lt;/a&gt; för tipset!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:43e479eb86419a48428606aca3da7da1&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En rubrik som avslutas med ett frågetecken&lt;/li&gt;
-&lt;li&gt;Webbyråns död i dotcomboomen&lt;/li&gt;
-&lt;li&gt;Alltid i någon form av kris&lt;/li&gt;
-&lt;li&gt;Riktigt breda generalister&lt;/li&gt;
-&lt;li&gt;Här är ditt kontor&lt;/li&gt;
-&lt;li&gt;Du programmerar COBOL och ingen vet vad det är&lt;/li&gt;
-&lt;li&gt;Jag kör konsultgrejen ett tag&lt;/li&gt;
-&lt;li&gt;Då säger jag tack och adjö&lt;/li&gt;
-&lt;li&gt;Det kan lätt bli väldigt opersonligt&lt;/li&gt;
-&lt;li&gt;(Fyller) en specifik roll i ett specifikt Excel-ark&lt;/li&gt;
-&lt;li&gt;Så otroligt urvattnat&lt;/li&gt;
-&lt;li&gt;Klickbetesrubriker och kortfattat återtuggat innehåll&lt;/li&gt;
-&lt;li&gt;Nej, det finns inget innehåll här&lt;/li&gt;
-&lt;li&gt;Inte tänkt att du eller jag ska läsa&lt;/li&gt;
-&lt;li&gt;Lika många ord som i artikeln&lt;/li&gt;
-&lt;li&gt;Tack och välkomna till 2017!&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
