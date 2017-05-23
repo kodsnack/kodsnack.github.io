@@ -6,7 +6,93 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 16 May 2017 05:26:14 UTC</updated>
+    <updated>Tue, 23 May 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 209 - Akademiskt och pragmatiskt</title>
+      <link>http://kodsnack.se/209/</link>
+      <pubDate>Tue, 23 May 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/209/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar om programmeringsspråket Pony - ett nytt aktörsbaserat språk som kompilerar till maskinkod och har en väldigt intressant modell för minneshantering. Försöker man bygga distribuerade system kommer man förr eller senare till relativitetsteorin. Apropå både huvudämnet och Kristoffers förberedelser för att hålla en presentation på tjugo minuter. Saker som implicerar ett tidskoncept är omöjliga att göra, beklagar.&lt;/p&gt;
+
+&lt;p&gt;Apropå Ponys trevliga avsaknad av beroenden kommer vi in på beroenden också. Vet de som kodar Gitlab vad de beror på? Do they know it&amp;rsquo;s Christmas?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:45f84edfda1016e0499de1e02cdaf756&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tim Urban skriver eminenta och väldigt grundliga &lt;a href=&#34;http://waitbutwhy.com/&#34;&gt;Wait but why&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2017/04/neuralink.html&#34;&gt;Neuralink and the brain’s magical future&lt;/a&gt; - Tims artikel om Neuralink - Elon Musks nya företag&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://theoatmeal.com/&#34;&gt;Oatmeal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xkcd.com/&#34;&gt;XKCD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit/&#34;&gt;Kristoffer ska prata på Devops summit 15 juni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Orchid_Thief&#34;&gt;The orchid thief&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adaptation_%28film%29&#34;&gt;Adaptation&lt;/a&gt; - en ganska skum och cirkulär film&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ponylang.org/&#34;&gt;Pony&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=R6T8ytKV6dc&#34;&gt;Videon Kristoffer länkade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ponylang.org/blog/2017/05/an-early-history-of-pony/&#34;&gt;Ponys tidiga historia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.doc.ic.ac.uk/~scd/fast-cheap-AGERE.pdf&#34;&gt;Capabilities theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imperial.ac.uk/people/s.drossopoulou&#34;&gt;Sophia Drossopoulou&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pony.groups.io/g/vug&#34;&gt;Ponys virtuella användargrupp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Actor_model&#34;&gt;Actor-modellen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tour.golang.org/concurrency/2&#34;&gt;Kanaler i Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorial.ponylang.org/types/traits-and-interfaces.html&#34;&gt;Interface och traits i Pony&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorial.ponylang.org/generics/&#34;&gt;Generics i Pony&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doc.rust-lang.org/reference/memory-model.html&#34;&gt;Rusts minnesmodell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorial.ponylang.org/capabilities/reference-capabilities.html&#34;&gt;Reference capabilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorial.ponylang.org/capabilities/consume-and-destructive-read.html&#34;&gt;Consume och dess användning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ponylang.org/discover/#the-pony-philosophy&#34;&gt;Ponys filosofi och principer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/license-checker&#34;&gt;Licenskollaren Fredrik körde på sitt webbprojekt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuejs.org/&#34;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://left-pad.io/&#34;&gt;Left-pad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/screencasts&#34;&gt;Gary Bernhardt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ken_Thompson&#34;&gt;Ken Thompson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brian_Kernighan&#34;&gt;Brian Kernighan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs&#34;&gt;Plan 9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:45f84edfda1016e0499de1e02cdaf756&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Min forskning bara växer&lt;/li&gt;
+&lt;li&gt;Se 82 timmar talks och läsa 70 papers&lt;/li&gt;
+&lt;li&gt;Nu ska jag bara ta mig genom Mordor&lt;/li&gt;
+&lt;li&gt;Så kommer man förr eller senare till relativitetsteorin&lt;/li&gt;
+&lt;li&gt;En soppa av saker som händer&lt;/li&gt;
+&lt;li&gt;En av oss har dött&lt;/li&gt;
+&lt;li&gt;Det är omöjligt för någon att fatta beslut, någonsin&lt;/li&gt;
+&lt;li&gt;Ingenting existerar och det går inte att fatta beslut&lt;/li&gt;
+&lt;li&gt;Gräva sig ner i relativitetsteorin och sedan gräva sig ur den&lt;/li&gt;
+&lt;li&gt;Det kan bli ett metacirkulärt talk&lt;/li&gt;
+&lt;li&gt;Något annat roligt, förutom relativitetsteorin&lt;/li&gt;
+&lt;li&gt;Ponny, säger man väl på svenska&lt;/li&gt;
+&lt;li&gt;Samma problem och frustrationer som kom tillbaka&lt;/li&gt;
+&lt;li&gt;Fantastiskt vackert och naivt&lt;/li&gt;
+&lt;li&gt;Jag önskar att det var den här världen vi levde i&lt;/li&gt;
+&lt;li&gt;Kompilera hela kompilatorn&lt;/li&gt;
+&lt;li&gt;Du lägger bara meddelandet i brevlådan&lt;/li&gt;
+&lt;li&gt;Drag av Python&lt;/li&gt;
+&lt;li&gt;En noggrann kompilator&lt;/li&gt;
+&lt;li&gt;Helt race-fritt&lt;/li&gt;
+&lt;li&gt;Då klagar kompilatorn&lt;/li&gt;
+&lt;li&gt;Rustutvecklarna surfar längst fram på en våg&lt;/li&gt;
+&lt;li&gt;Akademiskt och pragmatiskt&lt;/li&gt;
+&lt;li&gt;Akademisk lösning på ett pragmatiskt problem&lt;/li&gt;
+&lt;li&gt;Ett beteende som kör för alltid&lt;/li&gt;
+&lt;li&gt;Nu står vi i C och väntar på fil-IO&lt;/li&gt;
+&lt;li&gt;Varför detta namn?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 208 - Vi kan inte bara prata om programmering generellt</title>
@@ -1021,76 +1107,6 @@
 &lt;li&gt;Se hur han snubblar genom byggsystemet&lt;/li&gt;
 &lt;li&gt;Saker som bara skriker legacy&lt;/li&gt;
 &lt;li&gt;De som är fast i ett IDE kan vara det&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 194 - Alla har en koppling till Söderhamn</title>
-      <link>http://kodsnack.se/194/</link>
-      <pubDate>Tue, 07 Feb 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/194/</guid>
-      <description>
-
-&lt;p&gt;Tobias och Fredrik snackar med Anton, Andreas och Amanda - upphovspersonerna bakom podden &lt;a href=&#34;http://stillinbeta.se/&#34;&gt;Still in beta&lt;/a&gt; (&lt;a href=&#34;https://twitter.com/stillinbetapodd&#34;&gt;@stillinbetapodd&lt;/a&gt; på Twitter), en skön podd om hur det är att vara ny utvecklare i arbetslivet. Vi snackar både om podden, att vara ny som utvecklare, bra första projekt, intervjuer, hur utbildningen förberett för yrkeslivet med mera och avslutar med några viktiga frågeställningar.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:7503171a93073e1379fbab5398725cbb&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/193/&#34;&gt;Tobias har helt byggt om sin dator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/&#34;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Gavle-Developer-Meetup/&#34;&gt;Gävle developer meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/190/&#34;&gt;Alla konsultbolag är dödsdömda?&lt;/a&gt; Vi köpte inte riktigt resonemanget&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stillinbeta.se/&#34;&gt;Still in beta&lt;/a&gt; - &lt;a href=&#34;https://twitter.com/stillinbetapodd&#34;&gt;@stillinbetapodd&lt;/a&gt; på Twitter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29&#34;&gt;SOLID-principerna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stillinbeta.se/1/&#34;&gt;Avsnitt 1 - intervjuavsnittet&lt;/a&gt; av Still in beta&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Perl&#34;&gt;Perl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_Forms&#34;&gt;Windows forms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Functional_programming&#34;&gt;Funktionella språk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/F_Sharp_%28programming_language%29&#34;&gt;F#&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Haskell_%28programming_language%29&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Standard_ML&#34;&gt;SML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MIPS_instruction_set&#34;&gt;MIPS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Application_programming_interface&#34;&gt;API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Version_control&#34;&gt;VCS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Object-oriented_programming&#34;&gt;OOP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller&#34;&gt;MVC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SOAP&#34;&gt;SOAP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Representational_state_transfer&#34;&gt;REST&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol&#34;&gt;LDAP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Create,_read,_update_and_delete&#34;&gt;CRUD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SQL&#34;&gt;SQL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/XML&#34;&gt;XML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xkcd.com/&#34;&gt;XKCD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xkcd.com/303/&#34;&gt;Compiling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xkcd.com/327/&#34;&gt;Bobby tables&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/stillinbetapodd&#34;&gt;@stillinbetapodd&lt;/a&gt; på Twitter&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:7503171a93073e1379fbab5398725cbb&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Alla har en koppling till Söderhamn&lt;/li&gt;
-&lt;li&gt;Hårda och mjuka ämnen&lt;/li&gt;
-&lt;li&gt;Såhär ser riktig kod ut&lt;/li&gt;
-&lt;li&gt;Jobbigt om ens misstag dödar någon&lt;/li&gt;
-&lt;li&gt;Jag behöver inte förstå allt!&lt;/li&gt;
-&lt;li&gt;Bra kod som inte är speciellt smart&lt;/li&gt;
-&lt;li&gt;Skrev jag Perl någonstans i mitt CV?&lt;/li&gt;
-&lt;li&gt;Svettas ångest&lt;/li&gt;
-&lt;li&gt;Bittra gamla C++-programmerare som inte vill lära sig Javascript&lt;/li&gt;
-&lt;li&gt;Språk som redan då aldrig användes&lt;/li&gt;
-&lt;li&gt;Jag trivs väldigt bra med att programmera hela dagarna&lt;/li&gt;
-&lt;li&gt;En databasapplikation som maler siffror&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
