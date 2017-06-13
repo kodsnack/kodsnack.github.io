@@ -9,6 +9,62 @@
     <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 212 - 34198 rader</title>
+      <link>http://kodsnack.se/212/</link>
+      <pubDate>Tue, 13 Jun 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/212/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Fredrik snackar nyheter från Apples nyss avslutade utvecklarkonferens WWDC. Vi fokuserar på utvecklarintressanta nyheter, men det blir ett kort snack om prylar som inledning. Tobias första inköp efter keynoten har faktiskt redan levererats. Därefter blir det nyheter i Xcode, grafik-API:er och annat i Macos, AR, VR och Mac-hårdvara.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:6063f96799ff03ce05121970383f914a&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2017/101/&#34;&gt;WWDC 2017 - keynoten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apple.com/imac-pro/&#34;&gt;iMac pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apple.com/shop/product/MQ4G2AM/A/42mm-pride-edition-woven-nylon&#34;&gt;Det Tobias beställde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2017/102/&#34;&gt;Platforms state of the union&lt;/a&gt; - &amp;ldquo;den andra keynoten&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_refactoring&#34;&gt;Refactoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clang.llvm.org/doxygen/group__CINDEX.html&#34;&gt;libclang&lt;/a&gt; - Clangs C-API&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JetBrains#ReSharper_Ultimate&#34;&gt;Resharper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JetBrains#CLion&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PyCharm&#34;&gt;Pycharm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/CMake&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://releases.llvm.org/4.0.0/tools/clang/docs/ReleaseNotes.html&#34;&gt;Clang 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_File_System&#34;&gt;Apple file system&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding&#34;&gt;HEVC&lt;/a&gt; - artisten också känd som H265&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kaby_Lake&#34;&gt;Kaby lake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Metal_%28API%29&#34;&gt;Metal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/DirectX#DirectX_12&#34;&gt;Directx 12&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vulkan_%28API%29&#34;&gt;Vulkan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/arkit/&#34;&gt;ARKit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ryzen&#34;&gt;AMD Ryzen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/wwdc2017/&#34;&gt;Alla videos från WWDC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:6063f96799ff03ce05121970383f914a&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag öppnar paket&lt;/li&gt;
+&lt;li&gt;34198 rader&lt;/li&gt;
+&lt;li&gt;Automatiska refaktoreringar över en stor yta&lt;/li&gt;
+&lt;li&gt;Hur mycket har det här sönder Cmake?&lt;/li&gt;
+&lt;li&gt;Vad i hela världen är det med det namnet?&lt;/li&gt;
+&lt;li&gt;Namnet får inte många plus&lt;/li&gt;
+&lt;li&gt;De har fokuserat väldigt mycket på baksidan&lt;/li&gt;
+&lt;li&gt;Lägga fler cores på problemet&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 211 - Bli IT-konsult på tolv veckor</title>
       <link>http://kodsnack.se/211/</link>
       <pubDate>Tue, 06 Jun 2017 05:26:14 UTC</pubDate>
@@ -1005,81 +1061,6 @@
 &lt;li&gt;Freedom to shoot yourself in the foot&lt;/li&gt;
 &lt;li&gt;The biggest gun to shoot yourself&lt;/li&gt;
 &lt;li&gt;The domain was available&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 197 - Där all världens information ligger</title>
-      <link>http://kodsnack.se/197/</link>
-      <pubDate>Tue, 28 Feb 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/197/</guid>
-      <description>
-
-&lt;p&gt;Fredrik, Tobias och Kristoffer - i samma hus men på behörigt avstånd - värmer upp med veckans meetup-tips och snackar sedan om Googles monorepo - det jättestora specialskrivna system som har hand om majoriteten av Googles källkod. Det ligger något lite lustigt i att vi först bygger superdistribuerade system och sedan bygger något supercentraliserat ovanpå. Jobbar du på Google eller känner någon som gör det och har erfarenheter av att jobba med monorepot? Vi skulle jättegärna vilja höra mer om hur det är!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:ebe0a8851e5887f275459525d237a1b5&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Gavle-Developer-Meetup/&#34;&gt;Gävle developer meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cocoaheads.org/&#34;&gt;Cocoaheads&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hack.org/mc/mosig.html&#34;&gt;MOSIG&lt;/a&gt; - Malmö open source interest group&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/estomagordo&#34;&gt;Christoffer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Bring-Your-Own-Project-Gothenburg/&#34;&gt;Bring your own project Gothenburg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Goteborg-Lounge-Hackers/&#34;&gt;Göteborg lounge hackers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/IoTStockholm/&#34;&gt;IOT Stockholm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/CodePen-Orebro/&#34;&gt;Codepen Örebro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/swedencpp/&#34;&gt;Sweden CPP&lt;/a&gt; - C++-meetup i Stockholm - Tobias tänker dyka upp framöver&lt;/li&gt;
-&lt;li&gt;Tangentbordstips:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://m.prisjakt.nu/product/3606678/media&#34;&gt;Logitech G810&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techkeys.us/collections/keyboards/products/sixkeyboard&#34;&gt;Sixkeyboard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techkeys.us/collections/keyboards/products/techkeys-programmable-keyboard-business-card&#34;&gt;Techkeys programmable keyboard card&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lwn.net/Articles/250967/&#34;&gt;What every programmer should know about memory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/rygorous&#34;&gt;Fabian Giesen&lt;/a&gt; - @rygorous, skriver mycket om moderna arkitekturer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vulkan_%28API%29&#34;&gt;Vulkan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://m.cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext&#34;&gt;Artikeln om Googles monorepo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Perforce_Helix&#34;&gt;Perforce&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bigtable&#34;&gt;Bigtable&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Spanner_%28database%29&#34;&gt;Spanner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plus.google.com/+DominicMitchell/posts/DjABWzqp4kj&#34;&gt;Piper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.stevenlevy.com/index.php/books/in-the-plex&#34;&gt;In the plex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.well-typed.com/blog/2008/04/the-dreaded-diamond-dependency-problem/&#34;&gt;Diamond dependency-problemet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ipfs.io/&#34;&gt;IPFS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Content-addressable_storage&#34;&gt;Content-addressable storage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ebb.org/bkuhn/blog/&#34;&gt;Bradley Kuhn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/&#34;&gt;Facebooks monorepo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/visualstudioalm/2017/02/03/announcing-gvfs-git-virtual-file-system/&#34;&gt;GVFS&lt;/a&gt; - Microsofts monorepoverktyg byggt ovanpå Git&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4ua5aeKKDzU&#34;&gt;Kristoffers presentation från Australien&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:ebe0a8851e5887f275459525d237a1b5&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Instängd i barnrummet&lt;/li&gt;
-&lt;li&gt;På ett företag efter stängningsdags&lt;/li&gt;
-&lt;li&gt;Vem ska man träffa, kassörskan på ICA?&lt;/li&gt;
-&lt;li&gt;Utöka sitt kontaktnät&lt;/li&gt;
-&lt;li&gt;Stockholm - en förort till Gävle&lt;/li&gt;
-&lt;li&gt;Man kan inte träffas om man inte har en anledning&lt;/li&gt;
-&lt;li&gt;Som att sätta sig bredvid någon på bussen&lt;/li&gt;
-&lt;li&gt;Monolitkodbasen&lt;/li&gt;
-&lt;li&gt;Där all världens information ligger&lt;/li&gt;
-&lt;li&gt;Rakt in och rakt upp&lt;/li&gt;
-&lt;li&gt;Ge upp och stoppa in allt i samma träd&lt;/li&gt;
-&lt;li&gt;Vi jobbar alla i samma stora källkodsträd&lt;/li&gt;
-&lt;li&gt;På en skala som är Google&lt;/li&gt;
-&lt;li&gt;Vi har inte disciplinen, vi har inte verktygen&lt;/li&gt;
-&lt;li&gt;Problemet är någonstans i premissen&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
