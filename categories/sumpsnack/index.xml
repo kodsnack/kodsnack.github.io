@@ -9,6 +9,76 @@
     <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 213 - Känslan av retroprogrammering</title>
+      <link>http://kodsnack.se/213/</link>
+      <pubDate>Tue, 20 Jun 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/213/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och &lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt; värmer upp med lite Skype och hamburgare för att sedan snacka om nyss avslutade gamejamet No more Sweden, Pico-8, assemblerprogrammering och att utveckla med inspirerande begränsningar.&lt;/p&gt;
+
+&lt;p&gt;Analysparalys, flyt och avvägning mellan begränsningar och kreativitet. En liten utflykt i speldesignvärlden och axlar längs vilka man kan utvärdera spel - eller egentligen det mesta, vilket var själva anledningen till utflykten.&lt;/p&gt;
+
+&lt;p&gt;Martin har för övrigt akut slut på Youtube och önskar sig tips av hög kvalité.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:8ff950eaa4c8f5aca79fffed77cc0748&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://casualstreetfood.se/&#34;&gt;Casual&lt;/a&gt; - bra burgare i Malmö&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.burgerjoint.dk/malmoe&#34;&gt;Tommi&amp;rsquo;s burger joint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nomoresweden.com/&#34;&gt;No more Sweden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itch.io/jam/no-more-sweden-2017&#34;&gt;Alla bidrag till årets No more Sweden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lexaloffle.com/pico-8.php&#34;&gt;Pico-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lua_%28programming_language%29&#34;&gt;Lua&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MOS_Technology_6510&#34;&gt;MOS technology 6510&lt;/a&gt; - processorn i &lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PEEK_and_POKE&#34;&gt;PEEK och POKE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Portable_Network_Graphics&#34;&gt;PNG-formatet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Atom_%28text_editor%29&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sublime_Text&#34;&gt;Sublime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Electron_%28software_framework%29&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vim_%28text_editor%29&#34;&gt;Vim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/&#34;&gt;Många besöker Stack overflow i sina försök att komma ur Vim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brainfuck&#34;&gt;Brainfuck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Voxel&#34;&gt;Voxel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arduboy.com/&#34;&gt;Arduboy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://getchip.com/&#34;&gt;CHIP&lt;/a&gt; och &lt;a href=&#34;https://getchip.com/pages/pocketchip&#34;&gt;Pocketchip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt; (Och ja, du är fortfarande varmt välkommen att &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;skicka in lösningar till vårt repo&lt;/a&gt;!)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://javascript30.com&#34;&gt;Javascript 30&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cse.chalmers.se/~russo/publications_files/pearl-russo.pdf&#34;&gt;Haskellbibliotek som kontrollerar datatillgång och användning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qc56JEd1qxA&#34;&gt;Castlevania symphony of the night speedrun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tasvideos.org/5384S.html&#34;&gt;Köra godtycklig kod i Pokemon yellow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=14wqBA5Q1yc&#34;&gt;Till slutet av Super Mario world på 5:59,6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ixu8tn__91E&#34;&gt;&amp;ldquo;Jailbreaking&amp;rdquo; av Super Mario world&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:8ff950eaa4c8f5aca79fffed77cc0748&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag brukar inte bekymra mig så mycket när saker går rätt&lt;/li&gt;
+&lt;li&gt;På standby till nästa gamejam&lt;/li&gt;
+&lt;li&gt;Känslan av retroprogrammering&lt;/li&gt;
+&lt;li&gt;PEEK och POKE&lt;/li&gt;
+&lt;li&gt;RAM så det sprutar ut ur öronen&lt;/li&gt;
+&lt;li&gt;En trippelrekursiv introvertfunktion&lt;/li&gt;
+&lt;li&gt;Gå över ån efter förgiftat vatten&lt;/li&gt;
+&lt;li&gt;En annan generations retrogrejer&lt;/li&gt;
+&lt;li&gt;En balans mellan begränsningar och möjligheter&lt;/li&gt;
+&lt;li&gt;Det skulle gå att bryta isär det här i småbitar&lt;/li&gt;
+&lt;li&gt;Riktigt retrohemskt&lt;/li&gt;
+&lt;li&gt;Jag har tittat på alla träslöjdsvideos&lt;/li&gt;
+&lt;li&gt;Youtubeakuten&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 212 - 34198 rader</title>
       <link>http://kodsnack.se/212/</link>
       <pubDate>Tue, 13 Jun 2017 05:26:14 UTC</pubDate>
@@ -984,83 +1054,6 @@
 &lt;li&gt;C++-världen är ganska lugn och sansad&lt;/li&gt;
 &lt;li&gt;Lite magi på insidan&lt;/li&gt;
 &lt;li&gt;Varje steg de tar mot öppenhet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 198 - I&#39;m opposed to magic</title>
-      <link>http://kodsnack.se/198/</link>
-      <pubDate>Tue, 07 Mar 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/198/</guid>
-      <description>
-
-&lt;p&gt;This episode is presented in English.&lt;/p&gt;
-
-&lt;p&gt;We chat with &lt;a href=&#34;https://www.twitter.com/diegorlosada&#34;&gt;Diego Rodriguez-Losada&lt;/a&gt; about the C and C++ package manager Conan. Where did it come from, where is it going, the philosophy behind it (very, very pragmatic) and how Tobias has put it to use at Plex. We also move on to package managers and build systems in general. Also: the interesting topic of being magical versus not.&lt;/p&gt;
-
-&lt;p&gt;Thanks to &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; and &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be mailed at &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything sent.&lt;/p&gt;
-
-&lt;p&gt;If you like Kodsnack, we would love &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;a review on iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;links:2ccd65ccc40e383c1687462e6c5d59ed&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.twitter.com/diegorlosada&#34;&gt;Diego&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.conan.io&#34;&gt;Conan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jfrog.com/&#34;&gt;Jfrog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pypi.python.org/pypi&#34;&gt;Pypi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/&#34;&gt;npm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_Maven&#34;&gt;Maven&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/biicode/&#34;&gt;biicode&lt;/a&gt; - a precursor, sort of, to Conan&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/3596147/c-modules-why-were-they-removed-from-c0x-will-they-be-back-later-on&#34;&gt;Modules in C++&lt;/a&gt; - still under active discussion&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://crates.io/&#34;&gt;Cargo&lt;/a&gt; - the Rust package manager&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://conda.io/docs/intro.html&#34;&gt;Conda&lt;/a&gt; - Python package manager&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html&#34;&gt;Automake and autotools&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zlib&#34;&gt;zlib&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Qmake&#34;&gt;qmake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://valloric.github.io/YouCompleteMe/&#34;&gt;Youcompleteme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pkg-config&#34;&gt;pkg-config&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://brew.sh/&#34;&gt;brew&lt;/a&gt; - package manager for macos&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4ua5aeKKDzU&#34;&gt;Kristoffer&amp;rsquo;s talk&lt;/a&gt; on package managers&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/RPM_Package_Manager&#34;&gt;RPM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nix_package_manager&#34;&gt;Nix&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/NixOS&#34;&gt;Nixos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Electric_Fence&#34;&gt;Electric fence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/YAML&#34;&gt;YAML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.conan.io&#34;&gt;Conan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titles:2ccd65ccc40e383c1687462e6c5d59ed&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I was loooking for alternatives&lt;/li&gt;
-&lt;li&gt;We decided to try again&lt;/li&gt;
-&lt;li&gt;The perfect academic solution&lt;/li&gt;
-&lt;li&gt;Usually it&amp;rsquo;s a bash script&lt;/li&gt;
-&lt;li&gt;We know what kind of pain they go through&lt;/li&gt;
-&lt;li&gt;The community won&amp;rsquo;t move&lt;/li&gt;
-&lt;li&gt;We wanted to be hackable&lt;/li&gt;
-&lt;li&gt;When I wrote my own dependency system&lt;/li&gt;
-&lt;li&gt;A beautiful concept you can implement with generators&lt;/li&gt;
-&lt;li&gt;We all hate the syntax of cmake&lt;/li&gt;
-&lt;li&gt;Just an abuse of the system&lt;/li&gt;
-&lt;li&gt;The full devops world has to change&lt;/li&gt;
-&lt;li&gt;We know how to  automate all the parts&lt;/li&gt;
-&lt;li&gt;A mistake by design&lt;/li&gt;
-&lt;li&gt;We are betting on that this is going to help us in the long run&lt;/li&gt;
-&lt;li&gt;We had four build systems&lt;/li&gt;
-&lt;li&gt;One of the reasons we wanted to switch is that it was horrible&lt;/li&gt;
-&lt;li&gt;I remember the gnashing of teeth&lt;/li&gt;
-&lt;li&gt;The pain is bigger than the investment&lt;/li&gt;
-&lt;li&gt;Being very magical&lt;/li&gt;
-&lt;li&gt;The magic eventually becomes a pain point&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;m opposed to magic&lt;/li&gt;
-&lt;li&gt;Freedom to shoot yourself in the foot&lt;/li&gt;
-&lt;li&gt;The biggest gun to shoot yourself&lt;/li&gt;
-&lt;li&gt;The domain was available&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
