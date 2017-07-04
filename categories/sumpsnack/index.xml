@@ -9,6 +9,86 @@
     <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 215 - Tumregler</title>
+      <link>http://kodsnack.se/215/</link>
+      <pubDate>Tue, 04 Jul 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/215/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer börjar med konferensen Ship it och några tankar därifrån, framför allt om mobbprogrammering och att lära sig saker genom begränsningar eller att ta dem för långt. Eller inte göra det. Begränsningar är ju bra för kreativiteten, men att anamma något blint brukar ju inte vara det. Vi pratar om tumregler och patterns och undrar hur mycket av utvecklingsmetodikers framgång som beror på att gruppen har en gemensam erfarenhet av något man var överens om fungerade sämre - att man fått kontrollen och får välja själv istället för att leva med något som införts med för dålig förankring.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:86fc27318a2cefd2ee690a580f8b88c3&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/&#34;&gt;Ship it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/&#34;&gt;Nordic Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yasuragi.se/&#34;&gt;Yasuragi Hasseludden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.varvet.com/&#34;&gt;Varvet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/cjse&#34;&gt;Carl-Johan Kihlbom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/speakers.html#allison&#34;&gt;Allison McMillan pratade om att lära sig på arbetstid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Allisons tal baseras på hennes serie texter &lt;a href=&#34;http://daydreamsinruby.com/hack-your-workday-p1/&#34;&gt;&amp;ldquo;Hack your workday&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codecoupled.org/2017/06/23/mob-it/&#34;&gt;Lennart Fridén pratade om mobbprogrammering&lt;/a&gt; - länken ger hela texten/sagan, med bilder och allt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mob_programming&#34;&gt;Mobbprogrammering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.klarna.com/a-year-of-mob-programming-e8cc7543ac2&#34;&gt;Erfarenheter av ett år av mobbprogrammerande&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lightning_talk&#34;&gt;Lightning talks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/chadfowler&#34;&gt;Chad Fowler&lt;/a&gt; pratade om hur man lyssnar på jazz&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/linuxconfau2017&#34;&gt;Alla tal från Linuxconf Australien 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jonicklas&#34;&gt;Jonas Nicklas&lt;/a&gt; höll ett blixttal om att bränna ut sig på öppen källkod&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/speakers.html#chandra&#34;&gt;Chandra Carney pratade under rubriken &amp;ldquo;Merge conflicts&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bendycode&#34;&gt;Stephen Anderson&lt;/a&gt; och &lt;a href=&#34;https://bendyworks.com/&#34;&gt;Bendyworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unit_testing&#34;&gt;Enhetstestning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Functional_testing&#34;&gt;Functional testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit/&#34;&gt;Kristoffer pratade på Devops summit 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Trello&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/213/&#34;&gt;213&lt;/a&gt; - avsnittet där &lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt; pratade om att programmera i &lt;a href=&#34;https://www.lexaloffle.com/pico-8.php&#34;&gt;Pico-8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Christopher_Alexander&#34;&gt;Cristopher Alexander&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Oregon_Experiment&#34;&gt;The Oregon experiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Miljonprogrammet&#34;&gt;Miljonprogrammet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pattern_%28architecture%29&#34;&gt;Pattern inom arkitektur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Architectural_pattern&#34;&gt;Pattern inom mjukvaruutveckling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mitpress.mit.edu/books/urban-code&#34;&gt;Urban code - 100 lessons for understanding the city&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aphorism&#34;&gt;Aforismer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hawthorne_effect&#34;&gt;Hawthorneexperimenten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SUSE&#34;&gt;Suse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:86fc27318a2cefd2ee690a580f8b88c3&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fundamentalism&lt;/li&gt;
+&lt;li&gt;Orgieprogrammering&lt;/li&gt;
+&lt;li&gt;Jag föredrar orgieprogrammering&lt;/li&gt;
+&lt;li&gt;Uppskalad parprogrammering&lt;/li&gt;
+&lt;li&gt;Varje lightning talk är en bonus&lt;/li&gt;
+&lt;li&gt;Sympatiångest&lt;/li&gt;
+&lt;li&gt;När man kan jobba när som helst så gör man det&lt;/li&gt;
+&lt;li&gt;Stoppa jobbet i ett rum&lt;/li&gt;
+&lt;li&gt;Tvinga mig själv att inte jobba&lt;/li&gt;
+&lt;li&gt;Det handlade inte om det när jag gick dit&lt;/li&gt;
+&lt;li&gt;Man vill ju så gärna kunna generalisera saker&lt;/li&gt;
+&lt;li&gt;(Som) Ett sätt att lära sig förstå (vad det är)&lt;/li&gt;
+&lt;li&gt;Reagera med knäskålarna&lt;/li&gt;
+&lt;li&gt;Helt fel sätt att tänka på&lt;/li&gt;
+&lt;li&gt;Tumregler&lt;/li&gt;
+&lt;li&gt;En vokabulär av tumregler&lt;/li&gt;
+&lt;li&gt;Hur man vill planera sin stad&lt;/li&gt;
+&lt;li&gt;Den enda natur vi har att jobba med är den mänskliga naturen&lt;/li&gt;
+&lt;li&gt;Det finns regler som man inte rår på&lt;/li&gt;
+&lt;li&gt;Små visdomsord&lt;/li&gt;
+&lt;li&gt;Posttraumatisk stress från ett annat system&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 214 - En vecka med Surface book</title>
       <link>http://kodsnack.se/214/</link>
       <pubDate>Tue, 27 Jun 2017 05:26:14 UTC</pubDate>
@@ -963,88 +1043,6 @@
 &lt;li&gt;Våga gå&lt;/li&gt;
 &lt;li&gt;Ett kosmiskt klavertramp&lt;/li&gt;
 &lt;li&gt;Presentationsfönstret är sedan länge förbi&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 200 - Brytpunkten mellan identitet och data</title>
-      <link>http://kodsnack.se/200/</link>
-      <pubDate>Tue, 21 Mar 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/200/</guid>
-      <description>
-
-&lt;p&gt;Vi börjar med att uppmärksamma dels avsnittets jämna siffra, dels Neochromes avslutande av Advent of code 2016 i Ocaml (och svarar äntligen lite på ett av hans mejl). Neochrome: vill du vara med i ett avsnitt och prata Ocaml och relaterade ämnen? Hojta till i så fall!&lt;/p&gt;
-
-&lt;p&gt;Sedan pratar vi lite fönsterhantering - kaklande fönsterhanterare och Kristoffers senasate erfarenheter av dem närmare bestämt. Därifrån kommer vi in på två sätt att prata om enkelhet - enkla primitiver kontra kompletta lösningar som gör exakt en sak. Enkla primitiver kontra app-enkelhet, kanske? Vi drömmer om ett Macos som körde hårt på enkla primitiver-spåret.&lt;/p&gt;
-
-&lt;p&gt;Huvudämnet går också lite i spåret komplexa lösningar på små byggstenar: Kristoffer börjar berätta om sina problem kring datasynkronisering och säkerhetskopiering, de lösningar som finns och som han har provat och de idéer han börjat knacka på för att försöka lösa problemen på ett bra och distribuerat sätt. Ett mer robust och decentraliserat internet och robust decentraliserad synkronisering av all din data, är inte det värdiga projekt så säg?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:0d2171e5890c88363ccbf98894136cdc&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks Advent of code-repo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/neochrome/aoc2016-ocaml/tree/e4e93d635b6fca0be42884283de789f1bb9dec89&#34;&gt;Neochromes Ocaml-lösningar på Advent of code 2016&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OCaml&#34;&gt;Ocaml&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ja, Tobias har en &lt;a href=&#34;https://www.acer.com/ac/en/US/content/series/xr&#34;&gt;jättestor skärm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://manytricks.com/moom/&#34;&gt;Moom&lt;/a&gt; - grundläggande kakling på Macos&lt;/li&gt;
-&lt;li&gt;Kaklande fönsterhanterare för Macos: &lt;a href=&#34;https://github.com/koekeishiya/kwm&#34;&gt;kwm&lt;/a&gt; och &lt;a href=&#34;https://github.com/koekeishiya/chunkwm&#34;&gt;chunkwm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security-Enhanced_Linux&#34;&gt;SE Linux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pluggable_authentication_module&#34;&gt;PAM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://awesomewm.org/&#34;&gt;Awesome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lxde.org/&#34;&gt;LXDE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.xfce.org/&#34;&gt;Xfce&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LiteStep&#34;&gt;Litestep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://saltstack.com/&#34;&gt;Salt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ansible.com/&#34;&gt;Ansible&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://puppet.com/&#34;&gt;Puppet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.chef.io/&#34;&gt;Chef&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-annex.branchable.com/&#34;&gt;Git annex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Symbolic_link&#34;&gt;Symlänkar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ipfs.io/&#34;&gt;IPFS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.resilio.com/individuals/&#34;&gt;Resilio sync&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Filesystem_in_Userspace&#34;&gt;Fuse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://archive.org/&#34;&gt;archive.org&lt;/a&gt; - som vill spegla internet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/&#34;&gt;Gittorrent&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ipfs/faq/issues/16&#34;&gt;IPNS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:0d2171e5890c88363ccbf98894136cdc&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Litegrann som Jesus födelse&lt;/li&gt;
-&lt;li&gt;När började det riktiga Kodsnack egentligen?&lt;/li&gt;
-&lt;li&gt;Väldigt decimalnormativt&lt;/li&gt;
-&lt;li&gt;En bedrift oavsett språk&lt;/li&gt;
-&lt;li&gt;Jag lärde mig ML i skolan&lt;/li&gt;
-&lt;li&gt;Extremistiskt funktionellt&lt;/li&gt;
-&lt;li&gt;Kaklande fönsterhanterare&lt;/li&gt;
-&lt;li&gt;Jag kan kakla litegrann i Gnome&lt;/li&gt;
-&lt;li&gt;Jag kan kakla ett fönster åt vänster&lt;/li&gt;
-&lt;li&gt;Grundläggande kakling på Macos&lt;/li&gt;
-&lt;li&gt;Ortogonala axiom&lt;/li&gt;
-&lt;li&gt;En speciallösning för varje läge&lt;/li&gt;
-&lt;li&gt;När man hittar rätt primitiver&lt;/li&gt;
-&lt;li&gt;Så svårt att hitta rätt typ av enkelhet&lt;/li&gt;
-&lt;li&gt;Precis. Nja. Nej.&lt;/li&gt;
-&lt;li&gt;Hashen av en symmetrisk kryptonyckel&lt;/li&gt;
-&lt;li&gt;Jag kan ju skriva det&lt;/li&gt;
-&lt;li&gt;Jag vill ha det helt decentraliserat&lt;/li&gt;
-&lt;li&gt;Det perfekta filsystemet för backup och synk&lt;/li&gt;
-&lt;li&gt;En vision av internet som är mycket mer robust och mycket mer decentraliserat&lt;/li&gt;
-&lt;li&gt;Brytpunkten mellan identitet och data&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
