@@ -9,6 +9,94 @@
     <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 216 - Ett hologram på min diskbänk</title>
+      <link>http://kodsnack.se/216/</link>
+      <pubDate>Tue, 11 Jul 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/216/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar med &lt;a href=&#34;http://apeoholic.se/&#34;&gt;Jimmy Engström&lt;/a&gt; och &lt;a href=&#34;http://catoholic.se/&#34;&gt;Jessica Engström&lt;/a&gt; om Hololens, VR, AR, MR och … MR också. Begreppen reds ut och vi går igenom allt från fräcka spel till nyttolösningar, hur man ska tänka kring … XR … både upplevelse- och utvecklingsmässigt.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0: Inledning, begrepp och bakgrund.&lt;/li&gt;
+&lt;li&gt;15:10: Fragments och andra fräcka spel.&lt;/li&gt;
+&lt;li&gt;19:27: Affärs- och företagslösningar med XR.&lt;/li&gt;
+&lt;li&gt;27:50: Hur bygger man ut något existerande system åt XR-hållet? Tänk på upplevelsen! Och det begränsade synfältet. Jobba med ljud också, det funkar väldigt bra.&lt;/li&gt;
+&lt;li&gt;45:52: Hur långt kan man komma med sina idéer utan en Hololens och hur får man tag på en?&lt;/li&gt;
+&lt;li&gt;55:29: Headsets från andra tillverkare och hur de fungerar ihop med Hololens&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:d4c0c2b2b06184dd4de5ba65edc1c326&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://apeoholic.se/&#34;&gt;Jimmy Engström&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://catoholic.se/&#34;&gt;Jessica Engström&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_HoloLens&#34;&gt;Hololens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Virtual_reality&#34;&gt;VR - virtual reality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Augmented_reality&#34;&gt;AR - augmented reality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@bkrunner/merged-reality-the-best-of-all-worlds-f6d1480b855d&#34;&gt;MR - merged reality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mixed_reality&#34;&gt;MR - mixed reality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Glass&#34;&gt;Google glass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go&#34;&gt;Pokemon go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/arkit/&#34;&gt;ARKit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tango_%28platform%29&#34;&gt;Google tango&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional&#34;&gt;Microsoft MVP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unity_%28game_engine%29&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_Windows_Platform&#34;&gt;UWP - Universal Windows platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/HoloJS&#34;&gt;Holojs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/HoloToolkit&#34;&gt;Holotoolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Direct3D&#34;&gt;Direct3d&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/hololens/apps/fragments&#34;&gt;Fragments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uQeOYi3Be5Y&#34;&gt;Young Conker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lowe%27s&#34;&gt;Lowe&amp;rsquo;s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/cognitive-services/&#34;&gt;Azure cognitive services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Buzz_Aldrin&#34;&gt;Buzz Aldrin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Head-related_transfer_function&#34;&gt;HRTF - Head-related transfer function&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Hf9qkURqtbM&#34;&gt;Robo raid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Yig4z1lh2JM&#34;&gt;Slow motion-animationer i Mac OS X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.microsoft.com/en-us/windows/mixed-reality/using_the_hololens_emulator&#34;&gt;Hololens-emulatorn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Waveguide_%28optics%29&#34;&gt;Waveguide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.microsoft.com/sv-se/windows/mixed-reality&#34;&gt;developer.microsoft.com/windows/mixedreality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.microsoft.com/en-us/windows/mixed-reality/academy&#34;&gt;Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.windows.com/windowsexperience/2017/03/01/windows-mixed-reality-dev-kits-shipping-month/#WqCKhmRyVLKrL0hQ.97&#34;&gt;VR-headsets från andra tillverkare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://azm.se/&#34;&gt;azm.se&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Mixed-reality-Sweden/&#34;&gt;Mixed reality-användargruppen på Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codingafterwork.se/Podcasts&#34;&gt;Coding after work - podcasten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codingafterwork.se/&#34;&gt;Coding after work - gruppen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:d4c0c2b2b06184dd4de5ba65edc1c326&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prata lite framtidsteknologi&lt;/li&gt;
+&lt;li&gt;Man ser den riktiga världen med sina egna ögon&lt;/li&gt;
+&lt;li&gt;Ställa ett hologram på min diskbänk&lt;/li&gt;
+&lt;li&gt;Studsa en holografisk boll på ett fysiskt bord&lt;/li&gt;
+&lt;li&gt;XR&lt;/li&gt;
+&lt;li&gt;Då pratade vi med våra lampor&lt;/li&gt;
+&lt;li&gt;På den tiden var det inte jättebilligt att tända och släcka sina lampor&lt;/li&gt;
+&lt;li&gt;Du behöver hantera klick-eventet&lt;/li&gt;
+&lt;li&gt;Man sitter på Pintrest och pinnar litegrann&lt;/li&gt;
+&lt;li&gt;Planera i en 3D-värld&lt;/li&gt;
+&lt;li&gt;Gå omkring i det holografiska köket&lt;/li&gt;
+&lt;li&gt;Man gör en upplevelse&lt;/li&gt;
+&lt;li&gt;Buzz Aldrin är där som ett hologram&lt;/li&gt;
+&lt;li&gt;Jag vill ju kunna dra i huset&lt;/li&gt;
+&lt;li&gt;Ett hål i det virtuella rummets tak&lt;/li&gt;
+&lt;li&gt;I det virtuella rummet i headsetet&lt;/li&gt;
+&lt;li&gt;Hololens är jätteroligt att jobba med&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 215 - Tumregler</title>
       <link>http://kodsnack.se/215/</link>
       <pubDate>Tue, 04 Jul 2017 05:26:14 UTC</pubDate>
@@ -971,79 +1059,6 @@
 &lt;li&gt;Bara bete sig som en riktig redig människa&lt;/li&gt;
 &lt;li&gt;Empati och medmänsklighet&lt;/li&gt;
 &lt;li&gt;Det är faktiskt så enkelt&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 201 - Anta att vi är vänner och anta att vi är på samma nivå</title>
-      <link>http://kodsnack.se/201/</link>
-      <pubDate>Tue, 28 Mar 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/201/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt; och Fredrik snackar konferenser, till exempel GDC som Martin ganska nyss deltagit i. Har du tänkt på konferenser som ett tillfälle att vara den bästa versionen av dig själv? Utöver filosofiska funderingar tar vi upp mer jordnära saker som vad man ska se, vad som är värt att göra och när man egentligen ska gå till hotellrummet och sova istället för att stanna uppe långt efter läggdags? Blir det någon skillnad beroende på hur man deltar? Vad gör man om man vill prata med någon man fått syn på? För att inte tala om den konstiga händelsen att någon får syn på en själv? Är större konferenser alltid bättre än små?&lt;/p&gt;
-
-&lt;p&gt;Spoilervarning för slutsekvensen i första Diablo vid 06:30 - 07:00.&lt;/p&gt;
-
-&lt;p&gt;Vi ber om ursäkt för den händelse att kausalitetsordningen i universum råkar vara bruten.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:520adde29445e1596d01d29bbd996444&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Game_Developers_Conference&#34;&gt;GDC&lt;/a&gt; - Game developers conference&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/South_by_Southwest&#34;&gt;South by southwest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gdconf.com/conference/igs.html&#34;&gt;Independent games summit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VscdPA6sUkc&#34;&gt;Postmortem-presentationen om första Diablo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tfAnxaWiSeE&#34;&gt;Pitfall-postmortem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stecurran.com/&#34;&gt;Ste Curran&lt;/a&gt; - &lt;a href=&#34;https://youtu.be/6W1sHzgAnVs&#34;&gt;exempelpresentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tim_Schafer&#34;&gt;Tim Schafer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Joel_Spolsky&#34;&gt;Joel Spolsky&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kingdom_of_Loathing&#34;&gt;Kingdom of loathing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nordic_Game&#34;&gt;Nordic game&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PAX_%28event%29&#34;&gt;PAX - Penny arcade expo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rymdkapsel&#34;&gt;Rymdkapsel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nomoresweden.com/&#34;&gt;No more Sweden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Grapefrukt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:520adde29445e1596d01d29bbd996444&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kausalitetsordningen i universum är bruten&lt;/li&gt;
-&lt;li&gt;En snabb tolvtimmarsflygning iväg&lt;/li&gt;
-&lt;li&gt;Alla kan inte gå på keynoten&lt;/li&gt;
-&lt;li&gt;Händer det något roligt i verkligheten så har det prio&lt;/li&gt;
-&lt;li&gt;Folk är på riktigt helt plötsligt&lt;/li&gt;
-&lt;li&gt;Alla är människor med fel och brister&lt;/li&gt;
-&lt;li&gt;Tusen människor som pratar med en hela tiden&lt;/li&gt;
-&lt;li&gt;Att åka på konferens och vara ny&lt;/li&gt;
-&lt;li&gt;De här personerna kanske blir användbara en vacker dag&lt;/li&gt;
-&lt;li&gt;Man kan vara sitt bästa jag&lt;/li&gt;
-&lt;li&gt;Jag känner igen dig från internet&lt;/li&gt;
-&lt;li&gt;Jag måste vara den bästa versionen av mig själv&lt;/li&gt;
-&lt;li&gt;Anta att vi är vänner och anta att vi är på samma nivå&lt;/li&gt;
-&lt;li&gt;Hierarkin i konversationen&lt;/li&gt;
-&lt;li&gt;Jag har den här badgen att leva upp till&lt;/li&gt;
-&lt;li&gt;Våga ta pauser&lt;/li&gt;
-&lt;li&gt;Obekväm med att träffa främmande människor under ordnade former&lt;/li&gt;
-&lt;li&gt;Berätta mer om din middleware för att rendera träd&lt;/li&gt;
-&lt;li&gt;Jag älskar norra Europa som kvalifikation&lt;/li&gt;
-&lt;li&gt;Världens godaste mat?&lt;/li&gt;
-&lt;li&gt;Hitta andra som inte heller känner någon&lt;/li&gt;
-&lt;li&gt;Du kan inte sitta i knäet på din kollega hela konferensen&lt;/li&gt;
-&lt;li&gt;Det är bara att resa sig och gå&lt;/li&gt;
-&lt;li&gt;Våga gå&lt;/li&gt;
-&lt;li&gt;Ett kosmiskt klavertramp&lt;/li&gt;
-&lt;li&gt;Presentationsfönstret är sedan länge förbi&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
