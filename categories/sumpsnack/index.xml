@@ -9,6 +9,92 @@
     <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 217 - SETI@home-konceptet för testning</title>
+      <link>http://kodsnack.se/217/</link>
+      <pubDate>Tue, 18 Jul 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/217/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar med &lt;a href=&#34;https://www.linkedin.com/in/iggygullstrand&#34;&gt;Iggy Gullstrand&lt;/a&gt; om testning i alla dess former. Iggy jobbar på Testbirds som testar saker automatiserat och från slutanvändarperspektiv, på ett klart bredare sätt än man som utvecklare (som Fredrik åtminstone) brukar tänka på test.&lt;/p&gt;
+
+&lt;p&gt;Vi snackar också om Iggys väg till test och testning som något överlappande och sammansmältande mellan olika grupper inom utveckling.&lt;/p&gt;
+
+&lt;p&gt;Mot slutet pratar vi även lite om vad man som IT-person gör i Almedalen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.jayway.com/&#34;&gt;Jayway&lt;/a&gt; sponsrar till vår stora glädje det här avsnittet av Kodsnack! De söker både nya och erfarna utvecklare från frontend till backend via molnet till Malmö, Halmstad, Stockholm och San Francisco. Tusen tack Jayway!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0 Testning, testning, testning&lt;/li&gt;
+&lt;li&gt;24:30: Sponsor: Jayway&lt;/li&gt;
+&lt;li&gt;26:15: Testning enligt Iggy&lt;/li&gt;
+&lt;li&gt;30:04: Roller och områden som överlappar och smälter samman&lt;/li&gt;
+&lt;li&gt;33:14: Bra testare får lätt centrala roller?&lt;/li&gt;
+&lt;li&gt;37:01: Iggys väg till testning&lt;/li&gt;
+&lt;li&gt;41:32: Almedalen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:66e9a6406f503c6db547244e03fee166&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/iggygullstrand&#34;&gt;Iggy Gullstrand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.testbirds.se/&#34;&gt;Testbirds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.crowdworker.com/what-is-crowdworking-crowdsourcing/&#34;&gt;Crowdworking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Exploratory_testing&#34;&gt;Explorativa test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nest.testbirds.com/#tester&#34;&gt;nest.testbirds.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jira_%28software%29&#34;&gt;Jira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.testbirds.se/device-cloud/device-cloud/devices/&#34;&gt;GRDN - Global real device network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SETI@home&#34;&gt;SETI@home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Selenium_%28software%29&#34;&gt;Selenium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://appium.io/&#34;&gt;Appium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jayway.com/&#34;&gt;Jayway&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iotconf.se/&#34;&gt;IOT conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://2017.coldfront.co/&#34;&gt;Coldfront&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.talentwithoutborders.io/&#34;&gt;Talent without borders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.testbirds.com/services/testbirds-exclusives/bugabilitytm/&#34;&gt;Bugability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/QBasic&#34;&gt;Qbasic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gorillas_%28video_game%29&#34;&gt;Gorillas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nibbles_%28video_game%29&#34;&gt;Nibbles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Almedalsveckan&#34;&gt;Almedalen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.resume.se/nyheter/artiklar/2016/06/21/de-lanserar-ett-tinder-for-almedalen--ska-skapa-fler-moten/&#34;&gt;Mingla&lt;/a&gt; - Tinder för Almedalsveckan&lt;/li&gt;
+&lt;li&gt;Hojta gärna till &lt;a href=&#34;https://www.linkedin.com/in/iggygullstrand&#34;&gt;Iggy Gullstrand&lt;/a&gt; på Linkedin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:66e9a6406f503c6db547244e03fee166&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Småtrött efter rosé och bubbel&lt;/li&gt;
+&lt;li&gt;Allting som är på något sätt uppkopplat&lt;/li&gt;
+&lt;li&gt;SETI@home-konceptet för testning&lt;/li&gt;
+&lt;li&gt;Djupt rotade processer och rutiner&lt;/li&gt;
+&lt;li&gt;En server med ett operativsystem och en webbläsare&lt;/li&gt;
+&lt;li&gt;Riktiga användare som kan språket&lt;/li&gt;
+&lt;li&gt;Mäta kvalitén med tester&lt;/li&gt;
+&lt;li&gt;Inte testa bara på slutet&lt;/li&gt;
+&lt;li&gt;Det är det här du har beställt&lt;/li&gt;
+&lt;li&gt;Alla sitter och är arga i sitt hörn&lt;/li&gt;
+&lt;li&gt;Man blir lite spindeln i nätet&lt;/li&gt;
+&lt;li&gt;Testning är ju en extremt bred roll&lt;/li&gt;
+&lt;li&gt;Efter några sekunders tystnad och ångest&lt;/li&gt;
+&lt;li&gt;Väldigt smickrande och extremt skrämmande&lt;/li&gt;
+&lt;li&gt;I början famlade man i mörkret&lt;/li&gt;
+&lt;li&gt;Kombon av det jag gjort sedan tidigare&lt;/li&gt;
+&lt;li&gt;Förutom champagne och rosé&lt;/li&gt;
+&lt;li&gt;192 olika unioner runtom i världen&lt;/li&gt;
+&lt;li&gt;Tinder fast för Almedalen&lt;/li&gt;
+&lt;li&gt;Folk som tänker på ett helt annat sätt&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 216 - Ett hologram på min diskbänk</title>
       <link>http://kodsnack.se/216/</link>
       <pubDate>Tue, 11 Jul 2017 05:26:14 UTC</pubDate>
@@ -1001,64 +1087,6 @@
 &lt;li&gt;Lätt att glömma hur svårt saker är&lt;/li&gt;
 &lt;li&gt;Gå runt med en tjock-TV på huvudet&lt;/li&gt;
 &lt;li&gt;(Sätta ihop hårdvaran) med sand och lödpenna&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 202 - Lev i din egen lilla bubbla ett tag</title>
-      <link>http://kodsnack.se/202/</link>
-      <pubDate>Tue, 04 Apr 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/202/</guid>
-      <description>
-
-&lt;p&gt;Tobias och Fredrik snackar hårdvara - adaptrar, laddare, grafikkort och bra supportupplevelser för att sedan gå - via nätets reaktioner på Mass effect: Andromeda - in på internets och mänsklighetens sämre sidor. Nog kan vi jobba in lite mer empati i världen på något sätt, och göra den till en mätbart bättre plats för alla i processen?&lt;/p&gt;
-
-&lt;p&gt;Och: du missar inget om du pausar din sociala närvaro då och då!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:1a35ca8779a28850f99e11c61e3cb024&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ninety-ninety_rule&#34;&gt;De sista tio procenten&lt;/a&gt;, som tar de andra nittio procenten av tiden&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Gavle-Developer-Meetup/&#34;&gt;Gävle developer meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/184/&#34;&gt;Tobias Dell XPS&lt;/a&gt; och &lt;a href=&#34;https://www.acer.com/ac/en/US/content/series/xr&#34;&gt;ultrawide-skärm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mofily.com/products/marbledcs1&#34;&gt;Marble&lt;/a&gt; - USB-C dockan/adaptern/laddaren Fredrik köpt för till sin Macbook&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.satechi.net/index.php/metallic-series/satechi-slim-aluminum-type-c-multi-port-adapter-with-type-c-charging-port-4k-hdmi-video-output-and-2-usb-3-0-ports-space-gray&#34;&gt;Satechi-adaptern&lt;/a&gt; Fredrik har till jobbdatorn&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.indiegogo.com/projects/marble-a-portable-2-in-1-usb-c-dock-charger-apple/x/4137235#/comments&#34;&gt;Marble-sidan på Indiegogo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.macstories.net/author/viticci/&#34;&gt;Federico Viticci&lt;/a&gt; lever på, med och från sin Ipad&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bjoreman.com/images/meandromeda.png&#34;&gt;En skärmdump från Tobias skärm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AMD_Radeon_Rx_300_series&#34;&gt;Radeon R9 390&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080/&#34;&gt;GTX1080&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Batman:_Arkham_Knight&#34;&gt;Batman: Arkham knight&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mass_Effect:_Andromeda&#34;&gt;Mass effect: Andromeda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/EVGA_Corporation&#34;&gt;EVGA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/&#34;&gt;GTX 1080 ti&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pascal_%28microarchitecture%29&#34;&gt;Pascal-arkitekturen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:1a35ca8779a28850f99e11c61e3cb024&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Någonting jag inte rekommenderar&lt;/li&gt;
-&lt;li&gt;De sista tio procenten&lt;/li&gt;
-&lt;li&gt;Det kanske är värsta fuskbygget&lt;/li&gt;
-&lt;li&gt;Gamla spel jag hittat i mitt Steam-bibliotek&lt;/li&gt;
-&lt;li&gt;När man väntat fem år&lt;/li&gt;
-&lt;li&gt;Väldigt lite snack och väldigt mycket fixa&lt;/li&gt;
-&lt;li&gt;Nu ska jag bli arg&lt;/li&gt;
-&lt;li&gt;Jäkla internet&lt;/li&gt;
-&lt;li&gt;Det blir som en sport att kritisera&lt;/li&gt;
-&lt;li&gt;Lev i din egen lilla bubbla ett tag&lt;/li&gt;
-&lt;li&gt;Bara bete sig som en riktig redig människa&lt;/li&gt;
-&lt;li&gt;Empati och medmänsklighet&lt;/li&gt;
-&lt;li&gt;Det är faktiskt så enkelt&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
