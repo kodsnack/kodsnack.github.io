@@ -6,7 +6,80 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 18 Jul 2017 05:26:14 UTC</updated>
+    <updated>Tue, 25 Jul 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 218 - Den roligaste tiden någonsin</title>
+      <link>http://kodsnack.se/218/</link>
+      <pubDate>Tue, 25 Jul 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/218/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar med &lt;a href=&#34;https://twitter.com/msundb&#34;&gt;Mikael Sundberg&lt;/a&gt; om mobbprogrammering och att kontinuerligt vidareutveckla sig själv och gruppen man arbetar i. Vi utgår från en &lt;a href=&#34;https://engineering.klarna.com/a-year-of-mob-programming-e8cc7543ac2&#34;&gt;artikel&lt;/a&gt; Mikael skrivit efter att ha mobbprogrammerat i ett års tid. Vi snackar upplägg, tumregler, att testa nya saker och hur till och med öppna kontorslandskap kan bli något bra. Vi kommer också in på aversion mot branches, och att öva på jobbiga saker och förbättra sig, istället för att bara kasta sig över nästa nya okända sak.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.jayway.com/&#34;&gt;Jayway&lt;/a&gt; sponsrar till vår stora glädje det här avsnittet av Kodsnack! De söker både nya och erfarna utvecklare från frontend till backend via molnet till Malmö, Halmstad, Stockholm och San Francisco. Tusen tack Jayway!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:3adcc6f45d510e9649469faa5dad638b&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/msundb&#34;&gt;Mikael Sundberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jayway.com/&#34;&gt;Jayway&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.klarna.com/a-year-of-mob-programming-e8cc7543ac2&#34;&gt;A year of mob programming&lt;/a&gt; - Mikaels artikel som vi diskuterar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/from-12-50-tickets-month-lessons-learnt-fredrik-broman&#34;&gt;From 12 to +50 tickets a month, lessons learnt&lt;/a&gt; - artikel av dåvarande kollega till Mikael om samma period&lt;/li&gt;
+&lt;li&gt;Den tredje artikeln har tyvärr försvunnit från nätet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jfokus.se/jfokus/&#34;&gt;Jfokus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mob_programming&#34;&gt;Mobbprogrammering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mutation_testing&#34;&gt;Mutationstestning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8cy64qkgTyI&#34;&gt;Mob programming, a whole team approach&lt;/a&gt; talet av&lt;a href=&#34;https://twitter.com/WoodyZuill&#34;&gt; Woody Zuill&lt;/a&gt; Mikael såg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jayway.com/&#34;&gt;Jayway&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.iotconf.se/&#34;&gt;IOT conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://2017.coldfront.co/&#34;&gt;Coldfront&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.talentwithoutborders.io/&#34;&gt;Talent without borders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m.cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext&#34;&gt;Googles monorepo&lt;/a&gt; och hur de arbetar med det&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; - test-driven development, testdriven utveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice&#34;&gt;Deliberate practice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kata_%28programming%29&#34;&gt;Kodkator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gradle&#34;&gt;Gradle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Groovy_%28programming_language%29&#34;&gt;Groovy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/msundb&#34;&gt;Mikael på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:3adcc6f45d510e9649469faa5dad638b&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det räcker inte att jag provar&lt;/li&gt;
+&lt;li&gt;Alltid någonting som ska bli bättre&lt;/li&gt;
+&lt;li&gt;En soffa med en TV&lt;/li&gt;
+&lt;li&gt;Man sitter ganska bra i en soffa&lt;/li&gt;
+&lt;li&gt;Helt utmattande, framför allt i början&lt;/li&gt;
+&lt;li&gt;Sjukt jobbigt att vara fokuserad när någon annan har tangentbordet&lt;/li&gt;
+&lt;li&gt;I början så hade vi inga regler alls&lt;/li&gt;
+&lt;li&gt;Den som skriver ska inte vara den som tänker&lt;/li&gt;
+&lt;li&gt;Strikt rotation på tangentbordet&lt;/li&gt;
+&lt;li&gt;Det är väldigt lätt att vara elak&lt;/li&gt;
+&lt;li&gt;Man måste vara trevlig&lt;/li&gt;
+&lt;li&gt;Lättare för vissa än för mig&lt;/li&gt;
+&lt;li&gt;Nästa gång behöver man inte lösa det&lt;/li&gt;
+&lt;li&gt;Det viktigaste arbetet fortsätter&lt;/li&gt;
+&lt;li&gt;Det här är första gången som vi är ett team&lt;/li&gt;
+&lt;li&gt;En gång i timmen pushar vi, och varje push är en deploy&lt;/li&gt;
+&lt;li&gt;Man gör rätt oftare&lt;/li&gt;
+&lt;li&gt;Nu har jag varit duktig i flera timmar&lt;/li&gt;
+&lt;li&gt;Hur var det på den gamla goda tiden för två år sedan?&lt;/li&gt;
+&lt;li&gt;Öva på saker som känns jobbiga&lt;/li&gt;
+&lt;li&gt;Högst en ny sak varje gång&lt;/li&gt;
+&lt;li&gt;Den roligaste tiden någonsin&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 217 - SETI@home-konceptet för testning</title>
@@ -1013,82 +1086,6 @@
 &lt;li&gt;För det som inte har samma betänkligheter som jag&lt;/li&gt;
 &lt;li&gt;Lämna sin server hemma&lt;/li&gt;
 &lt;li&gt;En fransman med en pipa&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 203 - Med sand och lödpenna</title>
-      <link>http://kodsnack.se/203/</link>
-      <pubDate>Tue, 11 Apr 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/203/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer börjar med snackar mental förskjutning efter resande. Efter det blir det &lt;a href=&#34;https://en.wikipedia.org/wiki/Separation_of_concerns&#34;&gt;separation of concerns&lt;/a&gt;! Separation av … bekymmer är populärt och omtalat, men vi tänker nog ganska ofta fel på vad det bör vara och uppnå. Dessutom, faktiskt, en hel del positivt om Javascript. Spännande sidor hos programmeringsspråket Elm. Är en viss nivå av cargo culting oundvikligt?&lt;/p&gt;
-
-&lt;p&gt;Fredrik frågar Kristoffer om tips på presentationsförberedelser. Borde vi ha presentationen på Kodsnacks Youtube-kanal? Och hur knyter första Quake an till att hålla presentationer?&lt;/p&gt;
-
-&lt;p&gt;Sist men inte minst: ett meetuptips och den viktiga frågan om man ska delta i ett game jam i år?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:201f184e96cd79e7131b5e6177bf6a03&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebGL&#34;&gt;Webgl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Separation_of_concerns&#34;&gt;Separation of concerns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs_Lisp&#34;&gt;Emacs Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this&#34;&gt;this i Javascript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.emacswiki.org/emacs/GuileEmacs&#34;&gt;Projektet för att konvertera Emacs till Guile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_Guile#Guile_Scheme&#34;&gt;Guile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elm_%28programming_language%29&#34;&gt;Elm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/&#34;&gt;Joel Spolsky om ungersk notation&lt;/a&gt; och att få felaktig kod att se fel ut&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cargo_cult&#34;&gt;Cargo culting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alan_Kay&#34;&gt;Alan Kay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tour.golang.org/concurrency/1&#34;&gt;Goroutines&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://trigonakis.com/blog/2011/05/26/introduction-to-erlang-message-passing/&#34;&gt;Erlangs meddelandemodell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://randsinrepose.com/&#34;&gt;Rands&lt;/a&gt; - Michael Lopp&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UClPP0280--K96x4JndxzC1Q&#34;&gt;Kodsnacks Youtube-kanal&lt;/a&gt; är … relativt ödslig för tillfället&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://atthefrontend.dk/&#34;&gt;At the frontend&lt;/a&gt; hette konferensen i Köpenhamn&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Meteor_%28web_framework%29&#34;&gt;Meteor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Meetup-gruppen var &lt;a href=&#34;https://www.meetup.com/Software-Craftsmanship-Goteborg/&#34;&gt;Software craftsmanship Göteborg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Category_theory&#34;&gt;Kategoriteori&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Podden Fredrik hittade var &lt;a href=&#34;http://www.magicreadalong.com/&#34;&gt;Magic read along&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Quake_%28video_game%29&#34;&gt;Quake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Go-Uppsala&#34;&gt;Go Uppsala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ludumdare.com/compo/&#34;&gt;Ludum dare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Game_jam&#34;&gt;Game jam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Grapefrukt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nomoresweden.com/&#34;&gt;No more Sweden&lt;/a&gt; - anmälan är öppen!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:201f184e96cd79e7131b5e6177bf6a03&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jag satt och kodade och hackade&lt;/li&gt;
-&lt;li&gt;Två veckor borta från datorn&lt;/li&gt;
-&lt;li&gt;Gamla sunkiga programmeringsspråk som borde veta bättre nuförtiden&lt;/li&gt;
-&lt;li&gt;Den modellen är rätt sätt att beskriva det på&lt;/li&gt;
-&lt;li&gt;Man får in nuvarande situation som parametrar&lt;/li&gt;
-&lt;li&gt;CSS är ju mardrömsversionen av det här&lt;/li&gt;
-&lt;li&gt;(Det var) en jättebra idé i sammanhanget&lt;/li&gt;
-&lt;li&gt;I för int&lt;/li&gt;
-&lt;li&gt;Det är lätt att tappa bort ursprungstanken på vägen&lt;/li&gt;
-&lt;li&gt;Tanken var att man skulle vara löst kopplade till varandra&lt;/li&gt;
-&lt;li&gt;Presentera mera&lt;/li&gt;
-&lt;li&gt;Man kan nog bli lite för bekväm&lt;/li&gt;
-&lt;li&gt;Ta frågor och inte tappa spåret helt&lt;/li&gt;
-&lt;li&gt;De som kommer till konferenser är inte identiska&lt;/li&gt;
-&lt;li&gt;Avancerat matemagi&lt;/li&gt;
-&lt;li&gt;Lätt att glömma hur svårt saker är&lt;/li&gt;
-&lt;li&gt;Gå runt med en tjock-TV på huvudet&lt;/li&gt;
-&lt;li&gt;(Sätta ihop hårdvaran) med sand och lödpenna&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
