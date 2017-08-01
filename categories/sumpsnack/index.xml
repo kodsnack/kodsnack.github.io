@@ -9,6 +9,96 @@
     <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 219 - Spänningen mellan hållbarhet och snabba lösningar</title>
+      <link>http://kodsnack.se/219/</link>
+      <pubDate>Tue, 01 Aug 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/219/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar med Ivan Milles om snabba kontra hållbara lösningar. Huvudfrågan är om vi kan skapa en grammatik för att prata om tusenårslösningar kontra fulkod på ett bättre sätt?&lt;/p&gt;
+
+&lt;p&gt;Ivan funderar kring &amp;ldquo;bra&amp;rdquo; lösningar, att göra saker rätt och hitta en fin arkitektur och ställer det mot att göra något som är snabbt och kanske bygger teknisk skuld men som löser problemet här och nu. Hur bygger vi system i olika sammanhang, och hur kan vi skapa begrepp för att prata om det? Vad behöver vara en tusenårslösning, och vad som behöver vara ett tält som bara ska klara vintern? Även begrepp för att prata om risker - finns det en risk att detta innehåller ett dolt fel som leder till dataförlust kontra en risk att knappen får fel färg eller att något uppenbart går sönder som man märker omedelbart. Att fastna i arkitektur med sitt prototyp-projekt, är det rätt?&lt;/p&gt;
+
+&lt;p&gt;Är poängen med kodkvalité att kunna komma undan med mer fulkod framöver? Lockelsen, nyttan och riskerna med generalisering - det är galet effektivt och lättförstått att bara kopiera en mapp.&lt;/p&gt;
+
+&lt;p&gt;Vad tycker och tänker du som lyssnar? Vi vill höra fler tankar kring allt detta!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:fcc5934d8ffd05c915b5fed4bfcdebf3&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:ivan@wildbrain.se&#34;&gt;Ivan Milles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.netlight.com/about-us/&#34;&gt;Netlight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/211/&#34;&gt;Kodsnack 211 - Bli IT-konsult på tolv veckor&lt;/a&gt; - med Johanna Björklund Tedenborg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.academicwork.se/&#34;&gt;Academic work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unified_Modeling_Language&#34;&gt;UML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_People%27s_Platform&#34;&gt;The people&amp;rsquo;s platform&lt;/a&gt; av &lt;a href=&#34;https://en.wikipedia.org/wiki/Astra_Taylor&#34;&gt;Astra Taylor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pattern_%28architecture%29&#34;&gt;Begreppet pattern inom arkitektur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Design_Patterns&#34;&gt;Gang of four&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/215/&#34;&gt;Tumregler - avsnitt 215&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Boken hette &lt;a href=&#34;https://mitpress.mit.edu/books/urban-code&#34;&gt;Urban code - 100 lessons for understanding the city&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages&#34;&gt;Varningsskyltar för kärnavfallslagring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://longnow.org/&#34;&gt;The long now foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://longnow.org/seminars/podcast/&#34;&gt;Long nows poddar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Technical_debt&#34;&gt;Teknisk skuld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Visitor_pattern&#34;&gt;Visitor-mönstret&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hungarian_notation&#34;&gt;Ungersk notation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Recursion_%28computer_science%29&#34;&gt;Rekursion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Generator_%28computer_programming%29&#34;&gt;Generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Heartbleed&#34;&gt;Heartbleed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cloudbleed&#34;&gt;Cloudbleed&lt;/a&gt; - Cloudflare-läckan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/&#34;&gt;left-pad-historien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/license-checker&#34;&gt;Licenskollare för npm-paket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:ivan@wildbrain.se&#34;&gt;Mejla gärna Ivan!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:fcc5934d8ffd05c915b5fed4bfcdebf3&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag tror att det står &amp;ldquo;spel&amp;rdquo; på mig&lt;/li&gt;
+&lt;li&gt;En tonårsdröm på alla sätt&lt;/li&gt;
+&lt;li&gt;Flax och bra rubriker (i CV:t)&lt;/li&gt;
+&lt;li&gt;Begreppet &amp;ldquo;fulkod&amp;rdquo; till en helt ny nivå&lt;/li&gt;
+&lt;li&gt;Spänningen mellan hållbarhet och snabba lösningar&lt;/li&gt;
+&lt;li&gt;Fulslides, skulle man kunna säga&lt;/li&gt;
+&lt;li&gt;Vad kan vi göra på tusenårsskalan?&lt;/li&gt;
+&lt;li&gt;Superakademisk data-tönt&lt;/li&gt;
+&lt;li&gt;Så bygger vi ett samhälle&lt;/li&gt;
+&lt;li&gt;En vettig fulkodsända&lt;/li&gt;
+&lt;li&gt;Svinfett för en gravkammare&lt;/li&gt;
+&lt;li&gt;Tusenårstänk&lt;/li&gt;
+&lt;li&gt;Hur skriver man en varningsskylt som håller i tiotusen år?&lt;/li&gt;
+&lt;li&gt;Man lånar tid från framtiden&lt;/li&gt;
+&lt;li&gt;Kan vi fulhacka det här?&lt;/li&gt;
+&lt;li&gt;Att inte ha ord för att tänka på det&lt;/li&gt;
+&lt;li&gt;Smäll på akademikerfingrarna&lt;/li&gt;
+&lt;li&gt;Hur många procent behöver jag kommentera kod?&lt;/li&gt;
+&lt;li&gt;Allting ser ut som en visitor&lt;/li&gt;
+&lt;li&gt;Rekursion är rätt svar&lt;/li&gt;
+&lt;li&gt;Det är ju kul att grotta ner sig&lt;/li&gt;
+&lt;li&gt;Varför sitter jag här och skriver tester?&lt;/li&gt;
+&lt;li&gt;Nytta av att vara på fulkods-sidan&lt;/li&gt;
+&lt;li&gt;Här är det okej att det går fort&lt;/li&gt;
+&lt;li&gt;(Den kommer att få) noll klick på tio år&lt;/li&gt;
+&lt;li&gt;Det är väldigt låg kognitiv last på en mapp&lt;/li&gt;
+&lt;li&gt;De demoner just jag brottas med&lt;/li&gt;
+&lt;li&gt;Felet finns i den kod du redan skrivit&lt;/li&gt;
+&lt;li&gt;Kod som inte finns kan inte vara fel&lt;/li&gt;
+&lt;li&gt;(Den enda) kod som är o(n^0)&lt;/li&gt;
+&lt;li&gt;Pyramidernas frontend-stenar blev bord någon hel annanstans&lt;/li&gt;
+&lt;li&gt;Refaktoreringar av hus&lt;/li&gt;
+&lt;li&gt;Dålig på internet&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 218 - Den roligaste tiden någonsin</title>
       <link>http://kodsnack.se/218/</link>
       <pubDate>Tue, 25 Jul 2017 05:26:14 UTC</pubDate>
@@ -1004,88 +1094,6 @@
 &lt;li&gt;Om koden till fel sak försvann vid fel tillfälle&lt;/li&gt;
 &lt;li&gt;Mementometodiken&lt;/li&gt;
 &lt;li&gt;Något man inte valt, men som man inte kan bli av med&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 204 - En jakrakningsgrej</title>
-      <link>http://kodsnack.se/204/</link>
-      <pubDate>Tue, 18 Apr 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/204/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer värmer upp med lite Svalbard. Fredrik har testat kaklande fönsterhantering på Mac vilket leder till mer diskussion om fönsterhanterare, några tips om upplägg och skrivbordsmiljöer.&lt;/p&gt;
-
-&lt;p&gt;Sedan snackar vi lite följdfrågor och verktyg för att synka data mellan datorer. Därefter kommer ett helt nytt tips om programmeringsövning och lite diskussion om hur olika stora öppna källkodsprojekt är uppbyggda när det gäller att bidra till kodbasen. På slutet pratar vi lite autentisering, att lyckas läcka minne i Chromium och undrar om Electron är det nya Flash.&lt;/p&gt;
-
-&lt;p&gt;Kristoffer rapporterar från den något mer fjällhöga nord än vanligt och låter därför något mer komprimerad än vanligt.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:5f943b884a4d39172c961da78acc33f8&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Svalbard&#34;&gt;Svalbard och dess styre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gizmodo.com/why-one-of-worlds-most-remote-places-has-the-fastest-i-1556126257&#34;&gt;Bredband på Svalbard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.unis.no/&#34;&gt;Univeristetscentret på Svalbard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://koekeishiya.github.io/kwm/&#34;&gt;KWM&lt;/a&gt;  - den kaklande fönsterhanterare för Mac Fredrik provat&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/reference/coregraphics/quartz_event_services&#34;&gt;Quartz-event&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_event&#34;&gt;Apple events&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://manytricks.com/moom/&#34;&gt;Moom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://awesomewm.org/&#34;&gt;Awesome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.alfredapp.com/&#34;&gt;Alfred&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;I3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wiktionary.org/wiki/yak_shaving&#34;&gt;Jakrakning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/202/&#34;&gt;Tobias lilla &amp;ldquo;utbrott&amp;rdquo;&lt;/a&gt; är andra halvan av avsnitt 202&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/200/&#34;&gt;I avsnitt 200&lt;/a&gt; började vi diskutera Kristoffers tankar och önskemål kring datasynkronisering och backup&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bup.github.io/&#34;&gt;bup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Drive&#34;&gt;Amazon drive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Git-annex&#34;&gt;Git-annex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://saltstack.com/&#34;&gt;Salt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lwn.net/Articles/599231/&#34;&gt;Eudyptula challenge&lt;/a&gt; - tack &lt;a href=&#34;https://twitter.com/magthe&#34;&gt;Magnus Therning&lt;/a&gt; för tipset!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://projecteuler.net/&#34;&gt;Project Euler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SourceForge&#34;&gt;Sourceforge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fsf.org/&#34;&gt;FSF&lt;/a&gt; - Free software foundation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Distributed_Replicated_Block_Device&#34;&gt;DRBD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.wesnoth.org/&#34;&gt;Wesnoth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gizmodo.com/257458/linux-lovin-frenchman-writes-235-webcam-drivers-for-some-reason&#34;&gt;Mannen som skrivit drivrutiner för &lt;em&gt;alla&lt;/em&gt; webbkameror&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OAuth&#34;&gt;Oauth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language&#34;&gt;SAML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mozilla_Persona&#34;&gt;Mozilla persona&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://instagram.pixelunion.net/&#34;&gt;Sidan som kan ge en Instagram-tokens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/&#34;&gt;TimeEdit&lt;/a&gt; - Fredriks jobb&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/WebAssembly&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kripken.github.io/emscripten-site/&#34;&gt;Emscripten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/WebAssembly/binaryen&#34;&gt;Binaryen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Asm.js&#34;&gt;asm.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb&#34;&gt;Zen garden-demot i Webassembly&lt;/a&gt;, funkar för tillfället bara i Firefox 52 eller senare&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Electron_%28software_framework%29&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://josephg.com/blog/electron-is-flash-for-the-desktop/&#34;&gt;Elecron är flash för skrivbordet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Discord_%28software%29&#34;&gt;Discord&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:5f943b884a4d39172c961da78acc33f8&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Från den norra poddstudion&lt;/li&gt;
-&lt;li&gt;Jobba i kolgruva på Svalbard&lt;/li&gt;
-&lt;li&gt;Där man kan köra rent kaklande&lt;/li&gt;
-&lt;li&gt;Flytande fönsterhanterare&lt;/li&gt;
-&lt;li&gt;En jakrakningsgrej&lt;/li&gt;
-&lt;li&gt;Lite dropboxigare än det är backupigt&lt;/li&gt;
-&lt;li&gt;Ett permanent arkiv&lt;/li&gt;
-&lt;li&gt;Det gör ingenting om det aldrig försvinner&lt;/li&gt;
-&lt;li&gt;För det som inte har samma betänkligheter som jag&lt;/li&gt;
-&lt;li&gt;Lämna sin server hemma&lt;/li&gt;
-&lt;li&gt;En fransman med en pipa&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
