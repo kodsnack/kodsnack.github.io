@@ -6,7 +6,58 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 01 Aug 2017 05:26:14 UTC</updated>
+    <updated>Tue, 08 Aug 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 220 - Open source-utbrändhet</title>
+      <link>http://kodsnack.se/220/</link>
+      <pubDate>Tue, 08 Aug 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/220/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar med &lt;a href=&#34;https://twitter.com/jonicklas&#34;&gt;Jonas Nicklas&lt;/a&gt; om att bränna ut sig på öppen källkod, eller sidoprojekt i allmänhet. Det är lätt att se det som ett slutmål att släppa sin kod fri, ett sätt att bidra till kodgemenskapen och visa vad man gjort. Men vad händer om ens projekt blir populärt? Om man plötsligt har förväntningar - egna eller andras - på sig att underhålla något på sin fritid som man kanske trodde att man var klar med? Vad kan vi göra - både som individer och organisationer - för att få mer långvarig hållbarhet inom öppen källkod?&lt;/p&gt;
+
+&lt;p&gt;Det blir fler intressanta frågor än definitiva svar. Har ni som lyssnar tips och tankar på hur man lär sig hantera att driva och leda öppna källkodsprojekt? Finns det bra saker skrivna som vi missat? Hur &lt;em&gt;borde&lt;/em&gt; vi hantera kod vi släpper och &amp;ldquo;risken&amp;rdquo; att de plötsligt blir populära?&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:8d8103ab93251f6405f92a158363af92&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jonicklas&#34;&gt;Jonas Nicklas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lightning_talk&#34;&gt;Lightning talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/&#34;&gt;Ship it!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://momentjs.com/&#34;&gt;Moment.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@timrwood/moment-endof-term-522d8965689&#34;&gt;Tim Wood - Moment.js skapare brände ut sig och hoppade av projektet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://substack.neocities.org/&#34;&gt;Substack&lt;/a&gt; har &lt;a href=&#34;https://github.com/substack?tab=repositories&#34;&gt;många repon på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Guido_van_Rossum&#34;&gt;Guido van Rossum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://teamcapybara.github.io/capybara/&#34;&gt;Capybara&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jonicklas&#34;&gt;Jonas på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jnicklas&#34;&gt;Jonas på Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bonus: &lt;a href=&#34;https://www.kennethreitz.org/essays/the-reality-of-developer-burnout&#34;&gt;Kenneth Reitz tankar kring att bränna ut sig på kod&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:8d8103ab93251f6405f92a158363af92&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Open source-utbrändhet&lt;/li&gt;
+&lt;li&gt;Imperier på andras gratisarbete&lt;/li&gt;
+&lt;li&gt;Jobba vid sidan av jobbet&lt;/li&gt;
+&lt;li&gt;Från en kul grej man gör på fritiden till ett obetalt jobb&lt;/li&gt;
+&lt;li&gt;En udda dynamik&lt;/li&gt;
+&lt;li&gt;I bästa fall är det ingen som ser koden&lt;/li&gt;
+&lt;li&gt;(Det krävs) Tur och timing&lt;/li&gt;
+&lt;li&gt;Ett socialt problem&lt;/li&gt;
+&lt;li&gt;Ett samhällsproblem&lt;/li&gt;
+&lt;li&gt;En otrolig obalans i kunskap&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 219 - Spänningen mellan hållbarhet och snabba lösningar</title>
@@ -1035,65 +1086,6 @@
 &lt;li&gt;Rocket VCS varje dag&lt;/li&gt;
 &lt;li&gt;Släpp det och gå vidare&lt;/li&gt;
 &lt;li&gt;Jag skickade en glad jonglör&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 205 - Mementometodiken</title>
-      <link>http://kodsnack.se/205/</link>
-      <pubDate>Tue, 25 Apr 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/205/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer börjar snacka om att minimera, från lån och andra ålar till både fysiska och digitala ting. Borde vi kanske slänga bort vår kod lite oftare? Kanske till och med hela versionshistoriken? Behåller vi alldeles för mycket av allting, och betalar vi en hel massa för bagage vi intalar oss själva är gratis?&lt;/p&gt;
-
-&lt;p&gt;Är versionskontroll ett antipattern?&lt;/p&gt;
-
-&lt;p&gt;Vad tycker ni som lyssnar?&lt;/p&gt;
-
-&lt;p&gt;Berätta varför vi har fel!&lt;/p&gt;
-
-&lt;p&gt;Vi kommer också in på rutiner och att ha nytta av dem. Och distraktioner och att försöka undvika dem. Eller kanske försöka hitta bättre distraktioner?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:2bb0c50b2389f6dc8a2ae9c52e0f9fc2&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.merlinmann.com/roderick/ep-134-a-minimum-of-eels.html&#34;&gt;Ålar&lt;/a&gt; - avsnitt 134 av eminenta Roderick on the line&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Anti-pattern&#34;&gt;Anti-pattern&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Memento_%28film%29&#34;&gt;Memento&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kubernetes&#34;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://donmelton.com/about/&#34;&gt;Don Melton&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:2bb0c50b2389f6dc8a2ae9c52e0f9fc2&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En igel, skulle jag vilja säga&lt;/li&gt;
-&lt;li&gt;En kostnad i att ha saker&lt;/li&gt;
-&lt;li&gt;Saker i förrådet&lt;/li&gt;
-&lt;li&gt;En skatt på att ha saker&lt;/li&gt;
-&lt;li&gt;Skatten finns alltid där&lt;/li&gt;
-&lt;li&gt;Inte den typ av spel man vill spela idag&lt;/li&gt;
-&lt;li&gt;Exakt det jag behöver nu, och inget annat&lt;/li&gt;
-&lt;li&gt;Den gamla gaffeln som är lite krokig&lt;/li&gt;
-&lt;li&gt;Göra sig av med saker man inte behöver, i det abstrakta&lt;/li&gt;
-&lt;li&gt;Man intalar sig att det är kostnadsfritt&lt;/li&gt;
-&lt;li&gt;Vad är extremare än extremt?&lt;/li&gt;
-&lt;li&gt;Mementoprogrammering&lt;/li&gt;
-&lt;li&gt;När vi väl släpper slutsteget&lt;/li&gt;
-&lt;li&gt;Allt vi behöver, men ingenting annat&lt;/li&gt;
-&lt;li&gt;Samma sak med kod som man har slängt&lt;/li&gt;
-&lt;li&gt;Om koden till fel sak försvann vid fel tillfälle&lt;/li&gt;
-&lt;li&gt;Mementometodiken&lt;/li&gt;
-&lt;li&gt;Något man inte valt, men som man inte kan bli av med&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
