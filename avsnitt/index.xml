@@ -6,7 +6,88 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 08 Aug 2017 05:26:14 UTC</updated>
+    <updated>Tue, 15 Aug 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 221 - Vi behöver ha lite mer empati</title>
+      <link>http://kodsnack.se/221/</link>
+      <pubDate>Tue, 15 Aug 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/221/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Fredrik snackar lite avslutande om Fredriks test av Surface book; hur långt han kom med sina försök att jobbutveckla och vad han tyckte. Det kom en del insikter om både jobbutvecklingen och Microsofts och Windows situation på köpet. Vi knyter an till Tobias test av Linux förra året, som ledde till att han idag utvecklar i huvudsak på Linux.&lt;/p&gt;
+
+&lt;p&gt;Sedan snackar vi, så kort vi kan, först om Transportstyrelsens IT-skandal med ett försök att fokusera på hur sådana problem uppstår och, kanske, kan undvikas.&lt;/p&gt;
+
+&lt;p&gt;Efter det avslutar vi med att prata, återigen så kort vi kan, om Google-PM:et kring jämstäldhet som bubblat upp.&lt;/p&gt;
+
+&lt;p&gt;IT är svårt.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0: Fredriks tankar kring Surface book&lt;/li&gt;
+&lt;li&gt;16:16: Tobias Linuxutveckling och val av distributioner&lt;/li&gt;
+&lt;li&gt;30:01: (Dubbelkolla) Transportstyrelsens IT-skandal&lt;/li&gt;
+&lt;li&gt;41:04: Google-PM:et&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:cd0a22c5c5e1c3d451f7e0b2649ac7fe&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/214/&#34;&gt;Avsnitt 214 innehåller tidiga intryck av Surface book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Surface_Book&#34;&gt;Surface book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Grand_Central_Dispatch&#34;&gt;Grand central dispatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/&#34;&gt;TimeEdit&lt;/a&gt; - där Fredrik jobbar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/CMake&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmake.org/cmake/help/v3.7/manual/cmake-server.7.html&#34;&gt;Cmake server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/clion/&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ninja_%28build_system%29&#34;&gt;Ninja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bjoreman.com/thoughts/penWriting.html&#34;&gt;Fredrik jämför sin egen handstil med penna på Ipad och Surface book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pixel_%28smartphone%29&#34;&gt;Pixeltelefonerna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Arch_Linux&#34;&gt;Arch Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29&#34;&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenSUSE&#34;&gt;Opensuse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://launchpad.net/ubuntu/+ppas&#34;&gt;PPA&lt;/a&gt; - Personal package archive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aur.archlinux.org/&#34;&gt;AUR&lt;/a&gt; - Arch Linux user repository&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface&#34;&gt;EFI&lt;/a&gt; - Extensible firmware interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sandy_Bridge&#34;&gt;Sandy bridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.ycombinator.com/item?id=14630183&#34;&gt;Sandy bridge-bugg med multitrådning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hyper-threading&#34;&gt;Hypertrådning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microcode&#34;&gt;Microcode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Transportstyrelsens_IT-upphandling&#34;&gt;Transportstyrelsens IT-skandal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320&#34;&gt;PM:et en Google-anställd skrev&lt;/a&gt;, som tar ställning mot diverse jämställdhetsåtgärder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788&#34;&gt;En av många uppföljningar eller reaktioner&lt;/a&gt; (för övrigt skriven innan det kom fram att författaren fått sparken från Google)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://art19.com/shows/the-weeds/episodes/d5b9d925-42eb-4ef2-9b5a-5bf9fda15abe&#34;&gt;The weeds-avsnittet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:cd0a22c5c5e1c3d451f7e0b2649ac7fe&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Semestern är den stressigaste tiden på året&lt;/li&gt;
+&lt;li&gt;Tillbaka i podcaststolen&lt;/li&gt;
+&lt;li&gt;Resten av miljön jag lever i är inte anpassad för det här&lt;/li&gt;
+&lt;li&gt;Definitivt inte en Linuxdistribution för alla&lt;/li&gt;
+&lt;li&gt;Jag vet inte om jag skulle köra det på en produktionsserver&lt;/li&gt;
+&lt;li&gt;Det här är mitt fönster och här är min editor&lt;/li&gt;
+&lt;li&gt;En mycket mer Maclik upplevelse&lt;/li&gt;
+&lt;li&gt;När man är utanför ett pakethanteringssystem&lt;/li&gt;
+&lt;li&gt;Jag kunde direkt uppdatera mikrokoden i CPU:n&lt;/li&gt;
+&lt;li&gt;Han var ju så jobbig&lt;/li&gt;
+&lt;li&gt;Det här är ju ett säkerhetsproblem&lt;/li&gt;
+&lt;li&gt;Svart magi som magikerna borta i andra hörnet har hand om&lt;/li&gt;
+&lt;li&gt;Kommunicera så att man kan utbilda varandra&lt;/li&gt;
+&lt;li&gt;Ska jag rita hela internet åt dig?&lt;/li&gt;
+&lt;li&gt;Vi behöver ha lite mer empati&lt;/li&gt;
+&lt;li&gt;Jag förstår inte alls varför vi har den här diskussionen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 220 - Open source-utbrändhet</title>
@@ -1029,63 +1110,6 @@
 &lt;li&gt;Vi börjar närma oss slutet på vår sprint&lt;/li&gt;
 &lt;li&gt;Filosofin flyttar på sig&lt;/li&gt;
 &lt;li&gt;Lägstanivån är ganska dålig&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 206 - Rocket VCS varje dag</title>
-      <link>http://kodsnack.se/206/</link>
-      <pubDate>Tue, 02 May 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/206/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar lite mer om att göra sig av med prylar och kommer lite osökt in på störande ljud vid arbetsplatser.&lt;/p&gt;
-
-&lt;p&gt;Vi har fått återkoppling kring Mementometodiken som gås igenom i god ordning, och vi önskar oss givetvis ännu fler åsikter om att slänga bort mer av sin källkod och historik. För att inte tala om kod på området! Tack vare Martin Bagge finns numera &lt;a href=&#34;http://martinbagge.tumblr.com/post/160011454453/re-205-mementometodiken&#34;&gt;Rocket VCS&lt;/a&gt; som ett första steg, men världen behöver givetvis mer på samma område!&lt;/p&gt;
-
-&lt;p&gt;Vi snackar också lite om presentationer, att repetera och förändra, gå utanför de planerade ramarna, kritiserar IOS larmfunktion och avslöjar att Fredrik kan komma att dyka upp på scen under &lt;a href=&#34;http://www.gbgstartuphack.com/&#34;&gt;Gothenburg startup hack&lt;/a&gt; den sjätte maj.&lt;/p&gt;
-
-&lt;p&gt;🚀!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:f0321e181f62ec7bf665595384dd3473&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Broadcom&#34;&gt;Broadcom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kismac-ng.org/&#34;&gt;Kismac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kismetwireless.net/&#34;&gt;Kismet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/&#34;&gt;TimeEdit&lt;/a&gt; - vars server även fungerar på Raspberry pi&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/205/&#34;&gt;Mementometodiken&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://martinbagge.tumblr.com/post/160011454453/re-205-mementometodiken&#34;&gt;Martin Bagges har skapat Rocket VCS&lt;/a&gt;!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mercurial&#34;&gt;Mercurial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Kristoffers alias git-redo: &lt;em&gt;git rebase -i HEAD ~[argumentet]&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/kodsnack/posts/1280602478727724?comment_id=1280973408690631&#34;&gt;Jonas Hertzmans kommentar på Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/magthe&#34;&gt;Magnus Therning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ftbb.tv/&#34;&gt;Flipping the bozo bit&lt;/a&gt; - vi tror det är &lt;a href=&#34;http://ftbb.tv/post/clean-room-development/&#34;&gt;avsitt 8&lt;/a&gt; som nämns&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/78/&#34;&gt;Det var Fred George som pratade&lt;/a&gt; om att mikrotjänster ska vara så små att de kan skrivas om från grunden varje gång de behöver ändras&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gbgstartuphack.com/&#34;&gt;Gothenburg startup hack&lt;/a&gt; - Startup arena har inte ett eget event, men börjar på eftermiddagen 6 maj och hackdeltagarna ansluter, presenterar och prisutdelar under kvällen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.susecon.com/&#34;&gt;Susecon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://electron.atom.io/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:f0321e181f62ec7bf665595384dd3473&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Man skulle kunna köra en webbserver på den&lt;/li&gt;
-&lt;li&gt;Borra-i-huset-dagen&lt;/li&gt;
-&lt;li&gt;Jag är sjukt besviken på våra lyssnare&lt;/li&gt;
-&lt;li&gt;Mental snuttefilt&lt;/li&gt;
-&lt;li&gt;Hoarderargumentet&lt;/li&gt;
-&lt;li&gt;Rocket VCS varje dag&lt;/li&gt;
-&lt;li&gt;Släpp det och gå vidare&lt;/li&gt;
-&lt;li&gt;Jag skickade en glad jonglör&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
