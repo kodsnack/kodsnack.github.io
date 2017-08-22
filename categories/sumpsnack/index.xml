@@ -9,6 +9,82 @@
     <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 222 - Du går till alfakatalogen</title>
+      <link>http://kodsnack.se/222/</link>
+      <pubDate>Tue, 22 Aug 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/222/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Fredrik snackar först om byggprocess och artefakthantering och sedan om motivation och arbetssituation.&lt;/p&gt;
+
+&lt;p&gt;Tobias berättar om Plex senaste omgång förändringar och förbättringar av bygg- och framförallt släpprocesser, och inom det allra mest specifikt hantering av artefakter.&lt;/p&gt;
+
+&lt;p&gt;Fredrik tar upp några tankar från den första dotcombubblan kring att vara fokuserad och motiverad på jobbet, och hur mycket eller lite stämningen och riktningen på allt runtomkring gör för att man ska känna driv att göra ett bra jobb. Vad är viktigast för dig om man drar saker till sin spets: dina arbetsuppgifter eller situationen runtomkring?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0: Intro och presentationstips för folk som har Kristofferabstinens&lt;/li&gt;
+&lt;li&gt;1:55: Byggsystem och artefakthantering&lt;/li&gt;
+&lt;li&gt;32:46: Att fokusera och motiveras&lt;/li&gt;
+&lt;li&gt;52:50: Poddtips från Tobias&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:ca7324bf918fa50cf383db7b7c12c60a&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=csyL9EC0S0c&#34;&gt;Programming is terrible&lt;/a&gt; - presentation av &lt;a href=&#34;https://twitter.com/tef_ebooks/&#34;&gt;Thomas Figg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.conan.io/&#34;&gt;Conan&lt;/a&gt; - numera Jfrog bintray - pakethanterare för C och C++&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jenkins.io/&#34;&gt;Jenkins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Groovy_%28programming_language%29&#34;&gt;Groovy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jfrog.com/artifactory/&#34;&gt;Artifactory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-lfs.github.com/&#34;&gt;Git LFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jfrog.com/article/dependency-tracking/&#34;&gt;Xray&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archiva.apache.org/index.cgi&#34;&gt;Apache archiva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sonatype.com/products-overview&#34;&gt;Sonatype nexus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rsync&#34;&gt;Rsync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.internethistorypodcast.com/&#34;&gt;Internet history podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Netscape&#34;&gt;Netscape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Napster&#34;&gt;Napster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;a href=&#34;http://www.internethistorypodcast.com/2017/04/the-napster-story-with-jordan-ritter/&#34;&gt;The Napster story with Jordan Ritter&lt;/a&gt;&amp;rdquo; - avsnittet som väckte Fredriks tankar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Downloaded_%28film%29&#34;&gt;Downloaded&lt;/a&gt; - dokumentären om Napster&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.svtplay.se/cowboykaken&#34;&gt;Cowboykåken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jamie_Zawinski&#34;&gt;Jamie Zawinski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Long distance, &lt;a href=&#34;https://gimletmedia.com/episode/long-distance/&#34;&gt;del 1&lt;/a&gt; och &lt;a href=&#34;https://gimletmedia.com/episode/103-long-distance-part-ii/&#34;&gt;del 2&lt;/a&gt; - Reply all-avsnitten om bluffcallcenters. Fredrik har också lyssnat och instämmer i rekommendationen!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dancarlin.com/hardcore-history-59-the-destroyer-of-worlds/&#34;&gt;The destroyer of worlds&lt;/a&gt; - Hardcore history om atombomben - också stark rekommendation från både Tobias och Fredrik&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:ca7324bf918fa50cf383db7b7c12c60a&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sin dos av &amp;ldquo;allt är skit&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;En sånhär sak med att växa upp&lt;/li&gt;
+&lt;li&gt;Här är våran perfekta procedur&lt;/li&gt;
+&lt;li&gt;Saker som måste få växa fram&lt;/li&gt;
+&lt;li&gt;Efter mycket själasökande&lt;/li&gt;
+&lt;li&gt;Utvecklare sitter och utvecklar&lt;/li&gt;
+&lt;li&gt;Väldigt sällan samma binär som QA testar&lt;/li&gt;
+&lt;li&gt;Ett riktigt artefakthanteringssystem&lt;/li&gt;
+&lt;li&gt;Du går till alfakatalogen&lt;/li&gt;
+&lt;li&gt;Våran Artifactory är din mirror&lt;/li&gt;
+&lt;li&gt;Replikerad över Atlanten&lt;/li&gt;
+&lt;li&gt;Det börjar med en rsync-kommandorad&lt;/li&gt;
+&lt;li&gt;Sånt är bara godis för mig&lt;/li&gt;
+&lt;li&gt;Utbytbara kuggar i maskineriet&lt;/li&gt;
+&lt;li&gt;Det har alltid funnits en balans&lt;/li&gt;
+&lt;li&gt;Nu gör vi det här, du har inget val&lt;/li&gt;
+&lt;li&gt;Jag väljer en trevlig arbetsmiljö framför en intressant arbetsuppgift&lt;/li&gt;
+&lt;li&gt;Vad är viktigast för mig?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 221 - Vi behöver ha lite mer empati</title>
       <link>http://kodsnack.se/221/</link>
       <pubDate>Tue, 15 Aug 2017 05:26:14 UTC</pubDate>
@@ -1032,84 +1108,6 @@
 &lt;li&gt;Pixelpizzorna&lt;/li&gt;
 &lt;li&gt;Ett stort steg tillsammans&lt;/li&gt;
 &lt;li&gt;Vad är programmering, och hur är det relevant för mig?&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 207 - Min fatalt skeva och felaktiga världsbild</title>
-      <link>http://kodsnack.se/207/</link>
-      <pubDate>Tue, 09 May 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/207/</guid>
-      <description>
-
-&lt;p&gt;Tobias, Kristoffer och Fredrik snackar om alla projekts inneboende trasighet, Dijkstras obekväma sanningar, chansen att vi lever i ett simulerat universum …&lt;/p&gt;
-
-&lt;p&gt;… och kärnvapen. I korthet.&lt;/p&gt;
-
-&lt;p&gt;Allt är korthus byggda i panik, som man gradvis upptäcker och kanske försöker fixa. Så gräver man sig ner i högen och har plockat ner allt i atomer. Det blir inte bättre av att allt görs och tolkas av människor, och att bilden av vad man egentligen ska göra ständigt förändras. Vi tror inte heller att det är bättre någon annanstans, men mjukvara kanske gör det lite lättare att plocka isär precis allt. Det enda lyckade projekt som finns är kanske det förra, eller förrförra, större man gjorde. Det brukar folk vara rörande överens om var mer lyckat och färdigt än det man har just nu. Vad tycker ni som lyssnar? Känner ni att alla projekt flippar ur på olika sätt, eller håller ni inte alls med? Har det aldrig varit värre än nu? Eller är det ungefär som det alltid har varit, och är det kanske till och med ett gott tecken?&lt;/p&gt;
-
-&lt;p&gt;Simulationsteorin inkluderar en del boktips från Tobias, tankarna kommer ur bra science fiction.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:37da6ca4a29a66141b0c26e78a98ba24&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Edsger_W._Dijkstra&#34;&gt;Dijkstra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html&#34;&gt;Dijkstra lsita på allt som är fel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Fortran&#34;&gt;Fortran&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PL/I&#34;&gt;PL/I&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BASIC&#34;&gt;BASIC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/COBOL&#34;&gt;Cobol&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/APL_%28programming_language%29&#34;&gt;APL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dennisetaylor.org/legion/&#34;&gt;We are legion (we are Bob)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dennisetaylor.org/sample-chapter/&#34;&gt;For we are many&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dennisetaylor.org/about/&#34;&gt;Dennis Taylor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Simulation_hypothesis&#34;&gt;Simulationsteorin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nick_Bostrom&#34;&gt;Niklas Boström&lt;/a&gt; - även känd som Nick Bostrom&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Elon_Musk&#34;&gt;Elon Musk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Recursion_%28computer_science%29&#34;&gt;Rekursion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.extremetech.com/extreme/188727-pixels-of-the-universe-experiment-begins-to-see-if-the-universe-is-a-2d-hologram&#34;&gt;Har universum en upplösning?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html&#34;&gt;Wait but why har skrivit&lt;/a&gt; en hel del om AI och dess möjliga faror&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/136/&#34;&gt;Tidigare Kodsnack&lt;/a&gt; som diskuterar risken eller ej och utmaningen med att försöka skapa AI, med Tim Urban och &lt;a href=&#34;https://twitter.com/vet_Torill&#34;&gt;Torill Kornfeldt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dancarlin.com/hardcore-history-59-the-destroyer-of-worlds/&#34;&gt;Hardcore history om kärnvapen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Thermonuclear_weapon&#34;&gt;Vätebomber&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Manhattan_Project&#34;&gt;Manhattanprojektet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.svtplay.se/video/13356848/vetenskapens-varld/vetenskapens-varld-sasong-26-avsnitt-14-1?start=auto&amp;amp;tab=senaste&#34;&gt;Vetenskapens värld om Tjernobylsarkofagen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:37da6ca4a29a66141b0c26e78a98ba24&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En blandad pott&lt;/li&gt;
-&lt;li&gt;Varför går alla mjukvaruprojekt åt helvete&lt;/li&gt;
-&lt;li&gt;Korthus byggda i panik&lt;/li&gt;
-&lt;li&gt;I panik bygga upp ett nytt korthus&lt;/li&gt;
-&lt;li&gt;Allting är föränderligt&lt;/li&gt;
-&lt;li&gt;Många saker som flyttar på sig&lt;/li&gt;
-&lt;li&gt;Någon som känner att de inte inte vet vad de håller på med&lt;/li&gt;
-&lt;li&gt;Välkomna till Kodsnack, allt är kört&lt;/li&gt;
-&lt;li&gt;Arketypen för programmerare med åsikter&lt;/li&gt;
-&lt;li&gt;Dijkstra höll i alla fall med 1975&lt;/li&gt;
-&lt;li&gt;En attityd som har funnits hela tiden&lt;/li&gt;
-&lt;li&gt;Min fatalt skeva och felaktiga världsbild&lt;/li&gt;
-&lt;li&gt;Jag har åsikter&lt;/li&gt;
-&lt;li&gt;En grundpremiss som inte är säkerställd&lt;/li&gt;
-&lt;li&gt;En tillräckligt kraftig simulator&lt;/li&gt;
-&lt;li&gt;Universum är en process&lt;/li&gt;
-&lt;li&gt;Vi har ju bara ett universum att jämföra med&lt;/li&gt;
-&lt;li&gt;En kul tankevurpa&lt;/li&gt;
-&lt;li&gt;Det går inte att återspegla i en så rudimentär simulation&lt;/li&gt;
-&lt;li&gt;Vi börjar närma oss slutet på vår sprint&lt;/li&gt;
-&lt;li&gt;Filosofin flyttar på sig&lt;/li&gt;
-&lt;li&gt;Lägstanivån är ganska dålig&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
