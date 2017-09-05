@@ -6,7 +6,112 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 29 Aug 2017 05:26:14 UTC</updated>
+    <updated>Tue, 05 Sep 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 224 - Om du lär dig någonting, lär de andra</title>
+      <link>http://kodsnack.se/224/</link>
+      <pubDate>Tue, 05 Sep 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/224/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar Java, till och med Enterprisejava, och att presentera på konferenser med &lt;a href=&#34;https://twitter.com/gotoOla&#34;&gt;Ola Petersson&lt;/a&gt; som ägnar sig åt båda delar. Sin presentation &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=vYHGoaIcQoA&#34;&gt;Reactive Java EE&lt;/a&gt;&amp;rdquo; tog han hela vägen till San Francisco och &lt;a href=&#34;https://www.oracle.com/javaone/index.html&#34;&gt;Javaone&lt;/a&gt; och kom hem med rockstjärnestatus som tack för besväret.&lt;/p&gt;
+
+&lt;p&gt;På Javasidan diskuterar vi bland annat hur både Java som språk och Java EE utvecklas, hur processen fungerar och vilka som hjälper till att driva den framåt.&lt;/p&gt;
+
+&lt;p&gt;Först och inte minst en liten pepp inför hösten: den fjärde oktober blir det after work och livepodd sponsrad av &lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; i Stockholm!&lt;/p&gt;
+
+&lt;p&gt;Vi håller till på Hobo på Brunkebergstorg 4. Dörrarna öppnas vid 17, någonstans vid 18 poddar vi och sedan hänger vi alla kvar och tar valfritt antal valfria drycker och snackar så länge vi orkar.&lt;/p&gt;
+
+&lt;p&gt;Vi hoppas att &lt;em&gt;du&lt;/em&gt; vill komma, och att du tar med dig en bekant eller två! Antalet platser är begränsat, så skicka iväg ett mejl så snart det bara går till &lt;a href=&#34;mailto:lovepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; med namn, företag och om du tar med dig någon.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0: Kom på livepodd och AW 4 oktober!&lt;/li&gt;
+&lt;li&gt;1:00: Intro&lt;/li&gt;
+&lt;li&gt;1:13: Java&lt;/li&gt;
+&lt;li&gt;13:11: Vad är Java EE?&lt;/li&gt;
+&lt;li&gt;24:12: Att hålla presentationer&lt;/li&gt;
+&lt;li&gt;57:18: Avslutning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;länkar:9407ff0c16edf0c152f8377b1f037218&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:lovepodd@gmail.com&#34;&gt;Anmäl dig&lt;/a&gt; till after work och livepodd den fjärde oktober!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; - sponsrar kvällen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hobo.se/sv/&#34;&gt;Hobo&lt;/a&gt; - lokalen för kvällen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:lovepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; - anmäl dig med namn, företag och om du tar med dig någon mer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/gotoOla&#34;&gt;Ola Petersson på Twitter&lt;/a&gt; och &lt;a href=&#34;http://olapetersson.se/&#34;&gt;webben&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.squeed.com/&#34;&gt;Squeed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jcp.org/en/home/index&#34;&gt;Java community process&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://openjdk.java.net/&#34;&gt;Openjdk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/ivar_grimstad&#34;&gt;Ivar Grimstad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition&#34;&gt;Java EE&lt;/a&gt; - enterprise edition&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecma-international.org/memento/TC39.htm&#34;&gt;TC39&lt;/a&gt; - Javascripts utvecklingsgrupp och process&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.typescriptlang.org/&#34;&gt;Typescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_virtual_machine&#34;&gt;JVM&lt;/a&gt; - Javas virtuella maskin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scala_%28programming_language%29&#34;&gt;Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kotlin_%28programming_language%29&#34;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_version_history#Java_8&#34;&gt;Java 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html&#34;&gt;Lambdas i Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_version_history#Java_SE_9&#34;&gt;Java 9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://labs.consol.de/development/2017/02/13/getting-started-with-java9-modules.html&#34;&gt;Modulsystemet i Java 9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OSGi&#34;&gt;OSGI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_Maven&#34;&gt;Maven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_Platform,_Standard_Edition&#34;&gt;Java SE - standard edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Spring_Framework&#34;&gt;Spring-ramverket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microservices&#34;&gt;Mikrotjänster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projects.spring.io/spring-boot/&#34;&gt;Spring boot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lightbend.com/&#34;&gt;Lightbend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jboner&#34;&gt;Jonas Bonér&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_Champions&#34;&gt;Java champion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://playframework.com/&#34;&gt;Play framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lagomframework.com/&#34;&gt;Lagom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.reactivemanifesto.org/&#34;&gt;Bonérs och andras reaktiva manifest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vYHGoaIcQoA&#34;&gt;Reactive Java EE&lt;/a&gt; - Olas presentation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Javaforum-Goteborg/&#34;&gt;Javaforum Göteborg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.squeed.com/squeeders/rikard-thulin/&#34;&gt;Rikard Thulin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jfokus.se/jfokus/&#34;&gt;Jfokus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jbcnconf.com/2017/&#34;&gt;JBCNConf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oracle.com/javaone/index.html&#34;&gt;Javaone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Meteor_%28web_framework%29&#34;&gt;Meteor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.squeed.com/squeeders/ola-petersson/&#34;&gt;Ola på Squeed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/gotoOla&#34;&gt;Ola på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:9407ff0c16edf0c152f8377b1f037218&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jag har lite koll på Java&lt;/li&gt;
+&lt;li&gt;Java är fött på open source&lt;/li&gt;
+&lt;li&gt;En väldigt öppen process&lt;/li&gt;
+&lt;li&gt;Enterprise-besten&lt;/li&gt;
+&lt;li&gt;Ni måste täcka de här frågetecknen också&lt;/li&gt;
+&lt;li&gt;När är det jag ska tänka Java EE?&lt;/li&gt;
+&lt;li&gt;De gör sin reaktiva grej&lt;/li&gt;
+&lt;li&gt;Om du lär dig någonting, lär de andra&lt;/li&gt;
+&lt;li&gt;Glömde jag något fick det vara så&lt;/li&gt;
+&lt;li&gt;Det är andra i rummet&lt;/li&gt;
+&lt;li&gt;Det är inte bara jag som är intresserad av detta&lt;/li&gt;
+&lt;li&gt;Åk och prata på Javaone!&lt;/li&gt;
+&lt;li&gt;De är folk de också&lt;/li&gt;
+&lt;li&gt;De är också nördar som älskar kod&lt;/li&gt;
+&lt;li&gt;Något man bara ska göra om man hatar sig själv&lt;/li&gt;
+&lt;li&gt;Stinget av ångest&lt;/li&gt;
+&lt;li&gt;I Sverige får du nästan ställa frågorna till dig själv efteråt&lt;/li&gt;
+&lt;li&gt;Fulhacka dig till Ola på Twitter&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 223 - Jag har precis blivit frilansare</title>
@@ -1028,92 +1133,6 @@
 &lt;li&gt;Expose yourself to ideas&lt;/li&gt;
 &lt;li&gt;The world doesn&amp;rsquo;t need another Pong game, but you need to write a Pong game&lt;/li&gt;
 &lt;li&gt;Developing as a developer&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 209 - Akademiskt och pragmatiskt</title>
-      <link>http://kodsnack.se/209/</link>
-      <pubDate>Tue, 23 May 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/209/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer snackar om programmeringsspråket Pony - ett nytt aktörsbaserat språk som kompilerar till maskinkod och har en väldigt intressant modell för minneshantering. Försöker man bygga distribuerade system kommer man förr eller senare till relativitetsteorin. Apropå både huvudämnet och Kristoffers förberedelser för att hålla en presentation på tjugo minuter. Saker som implicerar ett tidskoncept är omöjliga att göra, beklagar.&lt;/p&gt;
-
-&lt;p&gt;Apropå Ponys trevliga avsaknad av beroenden kommer vi in på beroenden också. Vet de som kodar Gitlab vad de beror på? Do they know it&amp;rsquo;s Christmas?&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:45f84edfda1016e0499de1e02cdaf756&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tim Urban skriver eminenta och väldigt grundliga &lt;a href=&#34;http://waitbutwhy.com/&#34;&gt;Wait but why&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://waitbutwhy.com/2017/04/neuralink.html&#34;&gt;Neuralink and the brain’s magical future&lt;/a&gt; - Tims artikel om Neuralink - Elon Musks nya företag&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://theoatmeal.com/&#34;&gt;Oatmeal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xkcd.com/&#34;&gt;XKCD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit/&#34;&gt;Kristoffer ska prata på Devops summit 15 juni&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Orchid_Thief&#34;&gt;The orchid thief&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adaptation_%28film%29&#34;&gt;Adaptation&lt;/a&gt; - en ganska skum och cirkulär film&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ponylang.org/&#34;&gt;Pony&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=R6T8ytKV6dc&#34;&gt;Videon Kristoffer länkade&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ponylang.org/blog/2017/05/an-early-history-of-pony/&#34;&gt;Ponys tidiga historia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.doc.ic.ac.uk/~scd/fast-cheap-AGERE.pdf&#34;&gt;Capabilities theory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.imperial.ac.uk/people/s.drossopoulou&#34;&gt;Sophia Drossopoulou&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pony.groups.io/g/vug&#34;&gt;Ponys virtuella användargrupp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Actor_model&#34;&gt;Actor-modellen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tour.golang.org/concurrency/2&#34;&gt;Kanaler i Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tutorial.ponylang.org/types/traits-and-interfaces.html&#34;&gt;Interface och traits i Pony&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tutorial.ponylang.org/generics/&#34;&gt;Generics i Pony&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doc.rust-lang.org/reference/memory-model.html&#34;&gt;Rusts minnesmodell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tutorial.ponylang.org/capabilities/reference-capabilities.html&#34;&gt;Reference capabilities&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tutorial.ponylang.org/capabilities/consume-and-destructive-read.html&#34;&gt;Consume och dess användning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ponylang.org/discover/#the-pony-philosophy&#34;&gt;Ponys filosofi och principer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/license-checker&#34;&gt;Licenskollaren Fredrik körde på sitt webbprojekt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vuejs.org/&#34;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://left-pad.io/&#34;&gt;Left-pad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/screencasts&#34;&gt;Gary Bernhardt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ken_Thompson&#34;&gt;Ken Thompson&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brian_Kernighan&#34;&gt;Brian Kernighan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs&#34;&gt;Plan 9&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:45f84edfda1016e0499de1e02cdaf756&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Min forskning bara växer&lt;/li&gt;
-&lt;li&gt;Se 82 timmar talks och läsa 70 papers&lt;/li&gt;
-&lt;li&gt;Nu ska jag bara ta mig genom Mordor&lt;/li&gt;
-&lt;li&gt;Så kommer man förr eller senare till relativitetsteorin&lt;/li&gt;
-&lt;li&gt;En soppa av saker som händer&lt;/li&gt;
-&lt;li&gt;En av oss har dött&lt;/li&gt;
-&lt;li&gt;Det är omöjligt för någon att fatta beslut, någonsin&lt;/li&gt;
-&lt;li&gt;Ingenting existerar och det går inte att fatta beslut&lt;/li&gt;
-&lt;li&gt;Gräva sig ner i relativitetsteorin och sedan gräva sig ur den&lt;/li&gt;
-&lt;li&gt;Det kan bli ett metacirkulärt talk&lt;/li&gt;
-&lt;li&gt;Något annat roligt, förutom relativitetsteorin&lt;/li&gt;
-&lt;li&gt;Ponny, säger man väl på svenska&lt;/li&gt;
-&lt;li&gt;Samma problem och frustrationer som kom tillbaka&lt;/li&gt;
-&lt;li&gt;Fantastiskt vackert och naivt&lt;/li&gt;
-&lt;li&gt;Jag önskar att det var den här världen vi levde i&lt;/li&gt;
-&lt;li&gt;Kompilera hela kompilatorn&lt;/li&gt;
-&lt;li&gt;Du lägger bara meddelandet i brevlådan&lt;/li&gt;
-&lt;li&gt;Drag av Python&lt;/li&gt;
-&lt;li&gt;En noggrann kompilator&lt;/li&gt;
-&lt;li&gt;Helt race-fritt&lt;/li&gt;
-&lt;li&gt;Då klagar kompilatorn&lt;/li&gt;
-&lt;li&gt;Rustutvecklarna surfar längst fram på en våg&lt;/li&gt;
-&lt;li&gt;Akademiskt och pragmatiskt&lt;/li&gt;
-&lt;li&gt;Akademisk lösning på ett pragmatiskt problem&lt;/li&gt;
-&lt;li&gt;Ett beteende som kör för alltid&lt;/li&gt;
-&lt;li&gt;Nu står vi i C och väntar på fil-IO&lt;/li&gt;
-&lt;li&gt;Varför detta namn?&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
