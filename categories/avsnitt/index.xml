@@ -6,7 +6,94 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 05 Sep 2017 05:26:14 UTC</updated>
+    <updated>Tue, 12 Sep 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 225 - Nördsidospårsglädje</title>
+      <link>http://kodsnack.se/225/</link>
+      <pubDate>Tue, 12 Sep 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/225/</guid>
+      <description>
+
+&lt;p&gt;Fredrik följer upp tidigare trådar, och öppnar starkt genom att falla ner i ett kaninhål av esoteriska programmeringsspråk tack vare ett nytt och oväntat bidrag till Advent of code-repot.&lt;/p&gt;
+
+&lt;p&gt;Sedan funderas det kring hacktid och dess utmaningar, lightning talks, Electron och nya nyttor med att hålla presentationer.&lt;/p&gt;
+
+&lt;p&gt;Nästa tråd är tanken på någon sorts forum för Kodnsack - vad tycker ni som lyssnar? Fredrik försöker reda ut sina egna tankar kring det och kommer in på att ha fler forum och kanaler att kolla upp. Hur hanterar ni att lägga till fler informationskanaler?&lt;/p&gt;
+
+&lt;p&gt;Sedan kommer ett matigt lästips för den som vill ha mer kring problemen med att underhålla öppna källkodsprojekt som blivit populära, och sist men inte minst ett betytligt med snabbavhandlat poddtips.&lt;/p&gt;
+
+&lt;p&gt;En pepp inför hösten: den 3 oktober blir det after work och livepodd sponsrad av &lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; i Stockholm!&lt;/p&gt;
+
+&lt;p&gt;Vi håller till på Hobo på Brunkebergstorg 4. Dörrarna öppnas vid 17, någonstans vid 18 poddar vi och sedan hänger vi alla kvar och tar valfritt antal valfria drycker och snackar så länge vi orkar.&lt;/p&gt;
+
+&lt;p&gt;Vi hoppas att &lt;em&gt;du&lt;/em&gt; vill komma, och att du tar med dig en bekant eller två! Antalet platser är begränsat, så skicka iväg ett mejl så snart det bara går till &lt;a href=&#34;mailto:lovepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; med namn, företag och om du tar med dig någon.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;00: Intro&lt;/li&gt;
+&lt;li&gt;00:19: Kom på livepodd och after work 3 oktober&lt;/li&gt;
+&lt;li&gt;01:31: Advent of code i … Brainfuck?!&lt;/li&gt;
+&lt;li&gt;06:03: Fredriks första lightning talk, kul med Electron&lt;/li&gt;
+&lt;li&gt;19:12: Borde Kodsnack ha ett forum?&lt;/li&gt;
+&lt;li&gt;26:44: Lästips kring problemen att underhålla populära öppna källkodsprojekt&lt;/li&gt;
+&lt;li&gt;33:20: Poddtips&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;länkar:0c27f721193cc4932df86950ca9f8779&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:lovepodd@gmail.com&#34;&gt;Anmäl dig&lt;/a&gt; till after work och livepodd den 3 oktober!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; - sponsrar kvällen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hobo.se/sv/&#34;&gt;Hobo&lt;/a&gt; - lokalen för kvällen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:lovepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; - anmäl dig med namn, företag och om du tar med dig någon mer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt; - bidra gärna till &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks repo med lösningar&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Esoteric_programming_language#FALSE&#34;&gt;Esoteriska programmeringsspråk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dlofstrom&#34;&gt;dlofstrom&lt;/a&gt; på Github&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/dlofstrom-brainfuck&#34;&gt;dlofstroms Brainfuck-lösning av första Advent of code-problemet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brainfuck&#34;&gt;Brainfuck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aminet&#34;&gt;Aminet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Esoteric_programming_language#FALSE&#34;&gt;FALSE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_completeness&#34;&gt;Turingkompletthet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lightning_talk&#34;&gt;Lightning talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bjoreman.com/archive-Playstation-VR.html&#34;&gt;Fredrik spelar Playstation VR-spel på fritiden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTC_Vive&#34;&gt;HTC vive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/arkit/&#34;&gt;Arkit&lt;/a&gt; - IOS ramverk för augmenterad verklighet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://electron.atom.io/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/macos/touch-bar/&#34;&gt;Touch bar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/&#34;&gt;Avsnitt 224&lt;/a&gt; diskuterade presentationer ganska mycket&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;Kodsnacks IRC-kanal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitter.im/&#34;&gt;Gitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/&#34;&gt;Kodapor på Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/220/&#34;&gt;Avsnitt 220: diskussionen om öppen källkods-utbrändhet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure&#34;&gt;Roads and bridges: the unseen labor behind our digital infrastructure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://99percentinvisible.org/episode/the-age-of-the-algorithm/&#34;&gt;The age of the algorithm&lt;/a&gt; - avsnitt 274 av 99% invisible&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt; - hör av er om ni ska dit!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:0c27f721193cc4932df86950ca9f8779&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det mest esoteriska av esoteriska programmeringsspråk&lt;/li&gt;
+&lt;li&gt;En enradslösning på ett problem&lt;/li&gt;
+&lt;li&gt;Nördsidospårsglädje&lt;/li&gt;
+&lt;li&gt;Koncentrationsförmåga som en guldfisk eller någon typ av golden retriever&lt;/li&gt;
+&lt;li&gt;En tom keynotepresentation&lt;/li&gt;
+&lt;li&gt;Hitta en historia kring det jag själv gjort&lt;/li&gt;
+&lt;li&gt;Presentations-zen&lt;/li&gt;
+&lt;li&gt;Lägga till ett forum till i sin tillvaro&lt;/li&gt;
+&lt;li&gt;Mina distraktionsålar&lt;/li&gt;
+&lt;li&gt;Snabbare och bättre dialoger&lt;/li&gt;
+&lt;li&gt;Något som bara finns och fungerar&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 224 - Om du lär dig någonting, lär de andra</title>
@@ -1054,85 +1141,6 @@
 &lt;li&gt;När man till slut sätter den sista måsvingen&lt;/li&gt;
 &lt;li&gt;En nördig kille med glasögon och t-shirt&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Du ser inte ut som en typisk programmerare&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 210 - Expose yourself to ideas</title>
-      <link>http://kodsnack.se/210/</link>
-      <pubDate>Tue, 30 May 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/210/</guid>
-      <description>
-
-&lt;p&gt;Recorded at Gothenburg startup hack 2017, a little celebration of being social around coding. Fredrik chats to first Erik Thorelli of the Gothenburg Sketch &amp;amp; design meetup, then Erik Larkö of the Bring your own project Gothenburg group. Topics stretch from what Sketch is and what it can do for you, over group recommendations, to side projects, where to find ideas and how to get over whichever obstacles we put up in our minds to playing with new things.&lt;/p&gt;
-
-&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed on &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write something longer. We read everything you send.&lt;/p&gt;
-
-&lt;p&gt;If you like Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;02:19: Sketch &amp;amp; design with Erik Thorelli
-22:01: Bring your own project with Erik Larkö&lt;/p&gt;
-
-&lt;h2 id=&#34;links:ea1eab708e6e58b02b86a293d24689e4&#34;&gt;Links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gbgstartuphack.com/&#34;&gt;Gothenburg startup hack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/157/&#34;&gt;The startup panel discussion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/erikthorelli/&#34;&gt;Erik Thorelli&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/eriklarko&#34;&gt;Erik Larkö&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Sketch-App-Meetup-Goteborg/&#34;&gt;The Sketch &amp;amp; design meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sketchapp.com/&#34;&gt;Sketch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bionote.xyz/&#34;&gt;Bionote&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://manytricks.com/moom/&#34;&gt;Moom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.invisionapp.com/&#34;&gt;Invision&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/airbnb/react-sketchapp&#34;&gt;Airbnb&amp;rsquo;s tool to render React components to Sketch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/got-ux/&#34;&gt;Got UX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/ReactJS-Goteborg/&#34;&gt;The React meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/dan_abramov&#34;&gt;Dan Abramov&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Bring-Your-Own-Project-Gothenburg/&#34;&gt;Bring your own project Gothenburg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/John_Carmack&#34;&gt;John Carmack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Goteborg-Lounge-Hackers/&#34;&gt;Gothenburg lounge hackers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@helenvholmes/critique-is-terrifying-e2168d017df8&#34;&gt;Helen V. Holmes - critique is terrifying&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/eriklarko/purple-shopper&#34;&gt;Purple shopper&lt;/a&gt; - the purple things buyer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/eriklarko/robopong&#34;&gt;Robopong&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.purplescout.se/&#34;&gt;Purple scout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dark_web&#34;&gt;Dark web&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Docker-Goteborg/&#34;&gt;The Docker meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/got-lambda/&#34;&gt;Got.λ&lt;/a&gt; - the functional programming group&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Papers-We-Love-Gothenburg/&#34;&gt;Papers we love&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titles:ea1eab708e6e58b02b86a293d24689e4&#34;&gt;Titles&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Two Eriks&lt;/li&gt;
-&lt;li&gt;Not so cluttered as an Adobe app&lt;/li&gt;
-&lt;li&gt;Visualizing what the heck you&amp;rsquo;re trying to build&lt;/li&gt;
-&lt;li&gt;I spend ten minutes adjusting the battery level&lt;/li&gt;
-&lt;li&gt;DevUX&lt;/li&gt;
-&lt;li&gt;Can I use it for something?&lt;/li&gt;
-&lt;li&gt;Maybe you&amp;rsquo;ve never designed anything before&lt;/li&gt;
-&lt;li&gt;Appealing, even for me&lt;/li&gt;
-&lt;li&gt;Faster than fiddling around with CSS&lt;/li&gt;
-&lt;li&gt;It helps reduce waste&lt;/li&gt;
-&lt;li&gt;A caricature of a designer and a developer&lt;/li&gt;
-&lt;li&gt;Asymmetrical pair programming and designing&lt;/li&gt;
-&lt;li&gt;A compiler for design&lt;/li&gt;
-&lt;li&gt;Feels weird, but in a good way&lt;/li&gt;
-&lt;li&gt;Semi-empty Github projects&lt;/li&gt;
-&lt;li&gt;I want my Github page to be cool&lt;/li&gt;
-&lt;li&gt;Why do you want to be John Cleese?&lt;/li&gt;
-&lt;li&gt;Dare to fail&lt;/li&gt;
-&lt;li&gt;Be a good person&lt;/li&gt;
-&lt;li&gt;I don&amp;rsquo;t think I&amp;rsquo;ve ever finished a project&lt;/li&gt;
-&lt;li&gt;Where do you get your ideas from? I steal them&lt;/li&gt;
-&lt;li&gt;Expose yourself to ideas&lt;/li&gt;
-&lt;li&gt;The world doesn&amp;rsquo;t need another Pong game, but you need to write a Pong game&lt;/li&gt;
-&lt;li&gt;Developing as a developer&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
