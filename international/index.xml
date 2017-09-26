@@ -34,6 +34,114 @@
         <itunes:subtitle>A podcast by developers, about anything interesting to developers</itunes:subtitle>
         
             <item>
+                <title>Kodsnack 227 - Xiki: an idea whose time has come </title>
+                <pubDate>26 Sep 2017 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/227/</guid>
+                <link>http://kodsnack.se/227/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Fredrik chats with &lt;a href=&#34;https://github.com/trogdoro&#34;&gt;Craig Muth&lt;/a&gt;, creator of the more than slightly mind-bending &lt;a href=&#34;http://xiki.org/&#34;&gt;Xiki&lt;/a&gt; about the past, present and future of this weird and wonderful evolution of the command line. Seeing Xiki in action is probably the best way to begin to grasp it, and Craig has created several great videos and screencasts.&lt;/p&gt;
+
+&lt;p&gt;We go all the way from Xiki&amp;rsquo;s beginnings as a framework inside of Emacs to its current state as a standalone companion to your normal command line, and its just launched Kickstarter to take the next step and become social by making it super simple to share and find commands. We also look further into the future, entering completely free-form speculation about where things could go both for command lines and user-extendable interfaces. (Yes, Hyper card and Opendoc both come up.)&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t assume things you want will happen - back things you want to succeed!&lt;/p&gt;
+
+&lt;p&gt;Cheer up the autumn: on October 3rd &lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; is sponsoring a live pod and after work in Stockholm!&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll occupy &lt;a href=&#34;https://hobo.se/sv/&#34;&gt;Hobo&lt;/a&gt; at Brunkebergstorg 4. Doors open at 17, the pod commences somewhere around 18, and then we talk code, life, the universe, and everything and have some nice drinks for as long as we like.&lt;/p&gt;
+
+&lt;p&gt;We hope to see &lt;em&gt;you&lt;/em&gt; there, and that you bring along a friend or two! The number of seats are limited, so send an email as soon as possible to &lt;a href=&#34;mailto:livepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; with your name, company and if you&amp;rsquo;re bringing anyone along.&lt;/p&gt;
+
+&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; and &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed at &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write longer. We read everything we receive.&lt;/p&gt;
+
+&lt;p&gt;If you enjoy Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;links:290d7426d0021443c02ca5744ee4af59&#34;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/trogdoro&#34;&gt;Craig on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xiki.org/&#34;&gt;Xiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/xiki/xiki-the-command-revolution&#34;&gt;The 2014 Xiki Kickstarter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/xiki/xikihub-the-social-command-line&#34;&gt;The current (2017) Kickstarter&lt;/a&gt; - includes the videos we talk about&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xiki.org/screencasts/&#34;&gt;The older screencasts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qsapp.com/&#34;&gt;Quicksilver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xiki.com/&#34;&gt;Xikihub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Riverdance&#34;&gt;Riverdance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The talks are also on the &lt;a href=&#34;http://xiki.org/screencasts/&#34;&gt;screencasts page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs_Lisp&#34;&gt;Elisp&lt;/a&gt; - Emacs Lisp&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29&#34;&gt;Bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Z_shell&#34;&gt;Z shell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/xiki-one-developers-quest-to-turbocharge-the-command-line-interface-b68e5345788d&#34;&gt;The Medium post - Xiki: one developer’s quest to turbocharge the command line interface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287&#34;&gt;Made to stick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react-native/&#34;&gt;React native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Enterprise_JavaBeans&#34;&gt;EJB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture&#34;&gt;CORBA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34;&gt;JSON&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bevry/cson&#34;&gt;CSON&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/YAML&#34;&gt;YAML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Web_Services&#34;&gt;AWS&lt;/a&gt; - Amazon web services&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/XPath&#34;&gt;Xpath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fishshell.com/&#34;&gt;Fish shell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ohmyz.sh/&#34;&gt;Oh my zsh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hyper.is/&#34;&gt;Hyper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/WardCunningham&#34;&gt;Ward Cunningham&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wardcunningham.github.io/&#34;&gt;Smallest federated wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xiki.com/@xiki/tutorial&#34;&gt;The Xiki tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure&#34;&gt;Roads and bridges: the unseen labor behind our digital infrastructure&lt;/a&gt; - the paper Fredrik read&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HyperCard&#34;&gt;Hypercard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Macintosh_LC&#34;&gt;Mac LC&lt;/a&gt; computers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/OpenDoc&#34;&gt;Opendoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mikecanex.wordpress.com/2011/06/08/wwdc-1997-video-steve-jobs-handles-a-public-insult/&#34;&gt;Steve Jobs explaining why he&amp;rsquo;s shutting down Opendoc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titles:290d7426d0021443c02ca5744ee4af59&#34;&gt;Titles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The command line is awesome when you know exactly what to type&lt;/li&gt;
+&lt;li&gt;All right, now I get it&lt;/li&gt;
+&lt;li&gt;Lost, but in a really exciting way&lt;/li&gt;
+&lt;li&gt;Make the command line work like a search engine&lt;/li&gt;
+&lt;li&gt;A missing piece in the command line&lt;/li&gt;
+&lt;li&gt;Making all the search results myself&lt;/li&gt;
+&lt;li&gt;It doesn&amp;rsquo;t take that many people&lt;/li&gt;
+&lt;li&gt;Riverdance with the horse and the banana&lt;/li&gt;
+&lt;li&gt;Now I get the one thing, but I don&amp;rsquo;t care&lt;/li&gt;
+&lt;li&gt;An idea whose time has come&lt;/li&gt;
+&lt;li&gt;Hey, that&amp;rsquo;s like a command line&lt;/li&gt;
+&lt;li&gt;Way back in Ohio&lt;/li&gt;
+&lt;li&gt;The power you get when you do remember the commands&lt;/li&gt;
+&lt;li&gt;The germ of Xiki&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve never been able to stop working on it&lt;/li&gt;
+&lt;li&gt;Users are so key&lt;/li&gt;
+&lt;li&gt;I could add something here!&lt;/li&gt;
+&lt;li&gt;Hey, this doesn&amp;rsquo;t exist yet!&lt;/li&gt;
+&lt;li&gt;In Ohio working at boring banks&lt;/li&gt;
+&lt;li&gt;This better work!&lt;/li&gt;
+&lt;li&gt;My friend Keith thinks I should move to San Francisco&lt;/li&gt;
+&lt;li&gt;Feeling comfortable in my skin for the first time&lt;/li&gt;
+&lt;li&gt;Escape gets you into more trouble!&lt;/li&gt;
+&lt;li&gt;People will fill in the gaps&lt;/li&gt;
+&lt;li&gt;Do for commands what Github did for code&lt;/li&gt;
+&lt;li&gt;Utterly freeform&lt;/li&gt;
+&lt;li&gt;This neat open thing&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="38031887" type="audio/mpeg" url="http://traffic.libsyn.com/kodsnack/227.mp3"/>
+                <itunes:duration>01:14:56</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
+        
+            <item>
                 <title>Kodsnack 210 - Expose yourself to ideas </title>
                 <pubDate>30 May 2017 05:26 +0000</pubDate>
                 <guid>http://kodsnack.se/210/</guid>
