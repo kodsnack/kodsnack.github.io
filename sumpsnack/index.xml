@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>21 Feb 2017 05:26 +0000</pubDate>
-        <lastBuildDate>21 Feb 2017 05:26 +0000</lastBuildDate>
+        <pubDate>03 Oct 2017 05:26 +0000</pubDate>
+        <lastBuildDate>03 Oct 2017 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,47 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 31 - Gurkmeja säger du </title>
+                <pubDate>03 Oct 2017 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/31/</guid>
+                <link>http://kodsnack.se/sumpsnack/31/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Fredrik har gått och köpt Apple watch och Tobias har uppgraderat. Bakgrundshistoria och tidiga intryck följer.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:ea8492b34791ddaedc8373ecd6020d2d&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cloetta.se/varumarken-och-produkter/plopp/plopp-salty-caramel-stycksak/&#34;&gt;Plopp salty caramel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apple.com/se/shop/product/MQVE2ZM/A/38-mm-v%C3%A4vt-nylonarmband-gurkmeja-rutig&#34;&gt;Gurkmeja-armbandet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_Watch_Series_3&#34;&gt;Apple watch series 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.macforum.se/&#34;&gt;Macforum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Survivor_%28U.S._TV_series%29&#34;&gt;Survivor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:ea8492b34791ddaedc8373ecd6020d2d&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Min kopp kaffe och min Plopp salty caramel&lt;/li&gt;
+&lt;li&gt;Vuxenplopp&lt;/li&gt;
+&lt;li&gt;Gurkmeja säger du&lt;/li&gt;
+&lt;li&gt;Series 0, som den blivit retconnad till att heta&lt;/li&gt;
+&lt;li&gt;Jag fick min klocka skickad från Hawaii&lt;/li&gt;
+&lt;li&gt;En helt annan respons&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_31.mp3"/>
+                <itunes:duration></itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 30 - Något mycket större än bara Doom </title>

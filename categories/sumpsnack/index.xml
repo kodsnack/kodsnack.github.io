@@ -6,7 +6,72 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 21 Feb 2017 05:26:14 UTC</updated>
+    <updated>Tue, 03 Oct 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 228 - Ett sextiotal olika dependencies och femton produktionsplattformar</title>
+      <link>http://kodsnack.se/228/</link>
+      <pubDate>Tue, 03 Oct 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/228/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias inleder med snack om hur de sista tio procenten kan pågå hur länge som helst och hur tidsuppskattningar och deadlines alltid blir fel samtidigt som man kan behöva hållpunkter.&lt;/p&gt;
+
+&lt;p&gt;Efter det tar vi upp Under utveckling - Fredriks jobbs podd - vad den är och varför den startats. I senaste avsnittet diskuteras att uppgradera en C++-kodbas till nyare C++-standard, och vi diskuterar vidare därifrån om att uppgradera C++ och sy ihop verktygskedjor kring det. På Windows, till exempel. Och än en gång visar det sig att Microsoft ändrat sig på bra sätt de senaste åren.&lt;/p&gt;
+
+&lt;p&gt;Sist men inte minst: lyssnar du på podden och ser detta 3 oktober och befinner er i Stockholm ikväll så är det &lt;em&gt;inte&lt;/em&gt; för sent att anmäla dig till vår &lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt;-sponsrade after work och livepodd på Hobo ikväll!&lt;/p&gt;
+
+&lt;p&gt;Vi håller till på Hobo på Brunkebergstorg 4. Dörrarna öppnas vid 17, någonstans vid 18 poddar vi och sedan hänger vi alla kvar och tar valfritt antal valfria drycker och snackar så länge vi orkar.&lt;/p&gt;
+
+&lt;p&gt;Vi hoppas att &lt;em&gt;du&lt;/em&gt; vill komma, och att du tar med dig en bekant eller två! Antalet platser är begränsat, så skicka iväg ett mejl så snart det bara går till &lt;a href=&#34;mailto:livepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; med namn, företag och om du tar med dig någon.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:2ace151fdaf34e56280bd88011f8ef4e&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/underutveckling/&#34;&gt;Under utveckling&lt;/a&gt; - görs av Fredrik och de andra på TimeEdit&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/&#34;&gt;TimeEdit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/poddavsnitt-12-att-modernisera-c-kod/&#34;&gt;Senaste avsnittet av Under utveckling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++98&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B14&#34;&gt;C++14&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/214/&#34;&gt;När Fredrik testade Windows&lt;/a&gt; i början på sommaren&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/198/&#34;&gt;Avsnittet om Conan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI-kompatibilitet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/3899573/what-is-a-pdb-file&#34;&gt;PDB-filer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:livepodd@gmail.com&#34;&gt;Anmäl dig&lt;/a&gt; till after work och livepodd den 3 oktober!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; - sponsrar kvällen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hobo.se/sv/&#34;&gt;Hobo&lt;/a&gt; - lokalen för kvällen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:livepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; - anmäl dig med namn, företag och om du tar med dig någon mer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://slides.com/tobiashieta/intro-to-modern-c#/&#34;&gt;Tobias presentation om modern C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.boost.org/&#34;&gt;Boost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sonarr.tv/&#34;&gt;Sonarr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:2ace151fdaf34e56280bd88011f8ef4e&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;De sista tio procenten i två månader&lt;/li&gt;
+&lt;li&gt;Vi är redan sena&lt;/li&gt;
+&lt;li&gt;Rent plöja-genom-lera-jobb&lt;/li&gt;
+&lt;li&gt;Ett sextiotal olika dependencies och femton produktionsplattformar&lt;/li&gt;
+&lt;li&gt;Gå med Clang hela vägen&lt;/li&gt;
+&lt;li&gt;Clang överallt&lt;/li&gt;
+&lt;li&gt;Så enkelt att ingen tänker på det&lt;/li&gt;
+&lt;li&gt;De fick källkod&lt;/li&gt;
+&lt;li&gt;Otroligt mycket win på ett ställe&lt;/li&gt;
+&lt;li&gt;Clang är alltid byggt för alla arkitekturer&lt;/li&gt;
+&lt;li&gt;Ett enormt steg framåt, på alla sätt och vis&lt;/li&gt;
+&lt;li&gt;Hej, det här är ju jättekorkat&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 227 - Xiki: an idea whose time has come</title>
@@ -1136,76 +1201,6 @@
 &lt;li&gt;Wardröna&lt;/li&gt;
 &lt;li&gt;Infektera alla lampor i hela staden&lt;/li&gt;
 &lt;li&gt;Vad borde jag testa på Windows?&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 213 - Känslan av retroprogrammering</title>
-      <link>http://kodsnack.se/213/</link>
-      <pubDate>Tue, 20 Jun 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/213/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och &lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt; värmer upp med lite Skype och hamburgare för att sedan snacka om nyss avslutade gamejamet No more Sweden, Pico-8, assemblerprogrammering och att utveckla med inspirerande begränsningar.&lt;/p&gt;
-
-&lt;p&gt;Analysparalys, flyt och avvägning mellan begränsningar och kreativitet. En liten utflykt i speldesignvärlden och axlar längs vilka man kan utvärdera spel - eller egentligen det mesta, vilket var själva anledningen till utflykten.&lt;/p&gt;
-
-&lt;p&gt;Martin har för övrigt akut slut på Youtube och önskar sig tips av hög kvalité.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:8ff950eaa4c8f5aca79fffed77cc0748&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://casualstreetfood.se/&#34;&gt;Casual&lt;/a&gt; - bra burgare i Malmö&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.burgerjoint.dk/malmoe&#34;&gt;Tommi&amp;rsquo;s burger joint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nomoresweden.com/&#34;&gt;No more Sweden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://itch.io/jam/no-more-sweden-2017&#34;&gt;Alla bidrag till årets No more Sweden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.lexaloffle.com/pico-8.php&#34;&gt;Pico-8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lua_%28programming_language%29&#34;&gt;Lua&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MOS_Technology_6510&#34;&gt;MOS technology 6510&lt;/a&gt; - processorn i &lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PEEK_and_POKE&#34;&gt;PEEK och POKE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Portable_Network_Graphics&#34;&gt;PNG-formatet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Atom_%28text_editor%29&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sublime_Text&#34;&gt;Sublime&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Electron_%28software_framework%29&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vim_%28text_editor%29&#34;&gt;Vim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/&#34;&gt;Många besöker Stack overflow i sina försök att komma ur Vim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brainfuck&#34;&gt;Brainfuck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Voxel&#34;&gt;Voxel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arduboy.com/&#34;&gt;Arduboy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://getchip.com/&#34;&gt;CHIP&lt;/a&gt; och &lt;a href=&#34;https://getchip.com/pages/pocketchip&#34;&gt;Pocketchip&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt; (Och ja, du är fortfarande varmt välkommen att &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;skicka in lösningar till vårt repo&lt;/a&gt;!)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://javascript30.com&#34;&gt;Javascript 30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cse.chalmers.se/~russo/publications_files/pearl-russo.pdf&#34;&gt;Haskellbibliotek som kontrollerar datatillgång och användning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qc56JEd1qxA&#34;&gt;Castlevania symphony of the night speedrun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tasvideos.org/5384S.html&#34;&gt;Köra godtycklig kod i Pokemon yellow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=14wqBA5Q1yc&#34;&gt;Till slutet av Super Mario world på 5:59,6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ixu8tn__91E&#34;&gt;&amp;ldquo;Jailbreaking&amp;rdquo; av Super Mario world&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:8ff950eaa4c8f5aca79fffed77cc0748&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jag brukar inte bekymra mig så mycket när saker går rätt&lt;/li&gt;
-&lt;li&gt;På standby till nästa gamejam&lt;/li&gt;
-&lt;li&gt;Känslan av retroprogrammering&lt;/li&gt;
-&lt;li&gt;PEEK och POKE&lt;/li&gt;
-&lt;li&gt;RAM så det sprutar ut ur öronen&lt;/li&gt;
-&lt;li&gt;En trippelrekursiv introvertfunktion&lt;/li&gt;
-&lt;li&gt;Gå över ån efter förgiftat vatten&lt;/li&gt;
-&lt;li&gt;En annan generations retrogrejer&lt;/li&gt;
-&lt;li&gt;En balans mellan begränsningar och möjligheter&lt;/li&gt;
-&lt;li&gt;Det skulle gå att bryta isär det här i småbitar&lt;/li&gt;
-&lt;li&gt;Riktigt retrohemskt&lt;/li&gt;
-&lt;li&gt;Jag har tittat på alla träslöjdsvideos&lt;/li&gt;
-&lt;li&gt;Youtubeakuten&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
