@@ -9,6 +9,124 @@
     <updated>Tue, 03 Oct 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 229 - Titta inte ens under huven</title>
+      <link>http://kodsnack.se/229/</link>
+      <pubDate>Tue, 10 Oct 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/229/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Kristoffer snackar live inför publik på &lt;a href=&#34;https://hobo.se/sv/&#34;&gt;Hobo&lt;/a&gt; i Stockholm om Git, CSS, Kodsnacks historia och vad vi eventuellt lärt oss under avsnittens gång.&lt;/p&gt;
+
+&lt;p&gt;Git har vunnit, men borde det? Är det inte dags för något nytt? Finns det andra verktyg vi har lika dålig koll på?&lt;/p&gt;
+
+&lt;p&gt;Borde inte saker som innefattar &amp;ldquo;mikrotjänster&amp;rdquo; kunna vara enklare? Samma sak med att köra saker i containrar, behöver det vara så invecklat som det är nu? Vi utvecklare gillar ju att bygga saker från grunden och lösa problem även om det blir invecklat.&lt;/p&gt;
+
+&lt;p&gt;Den klassiska frågan vad man ska välja när man vill börja, eller när man vill få något gjort.&lt;/p&gt;
+
+&lt;p&gt;Hur Kodsnack hamnade på Hugo och Github pages. Och hur man kan gå bakom kulisserna ibland.&lt;/p&gt;
+
+&lt;p&gt;Vad vi lärt oss av podden.&lt;/p&gt;
+
+&lt;p&gt;Vad vi tycker om CSS - som en sorts livefråga från lyssnare.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:8f122c5b1ce7b66eefa38a512dfface7&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/228/&#34;&gt;Avsnitt 228&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Geeko - figuren Fredrik omedelbart blev fäst vid&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; - sponsrade livepodden, och betalar Kristoffers lön&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/156/&#34;&gt;Erlang har inte kommit från intet&lt;/a&gt; - avsnittet med &lt;a href=&#34;https://joearms.github.io/index.html&#34;&gt;Joe Armstrong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Erlang_%28programming_language%29&#34;&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Esrange&#34;&gt;Esrange&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.turingarchive.org/&#34;&gt;Alan Turings bibliotek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/8/&#34;&gt;Byggare Bob&lt;/a&gt; - avsnitt 8&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/206/&#34;&gt;Avsnitt 206 - Rocket VCS varje dag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.llvm.org/&#34;&gt;LLVM&lt;/a&gt; och &lt;a href=&#34;http://clang.llvm.org/get_started.html&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/2/&#34;&gt;Schizofrent på ett väldigt tudelat sätt&lt;/a&gt; - avsnitt 2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/80/&#34;&gt;Avsnitt 80&lt;/a&gt; - vårt snack om &lt;a href=&#34;http://julialang.org/&#34;&gt;Julia&lt;/a&gt; med &lt;a href=&#34;http://karpinski.org/&#34;&gt;Stefan Karpinski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/13/&#34;&gt;Ett verktyg designat för att skjuta sig själv i foten med&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ppig.org/sites/default/files/2014-PPIG-25th-Church.pdf&#34;&gt;Artikeln om att många använder Git blint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vim_%28text_editor%29&#34;&gt;Vim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://martinbagge.tumblr.com/post/160011454453/re-205-mementometodiken&#34;&gt;Martin Bagge och Rocket VCS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Concurrent_Versions_System&#34;&gt;CVS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe&#34;&gt;Sourcesafe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bokus.com/bok/9789137123950/pannkakor-cirka-12-stycken/&#34;&gt;Pannkakor cirka 12 stycken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.susecon.com/&#34;&gt;Susecon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudfoundry.org/&#34;&gt;Cloud foundry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Platform_as_a_service&#34;&gt;Platform as a service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Container_Linux_by_CoreOS#ETCD&#34;&gt;Etcd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.cloudfoundry.org/concepts/diego/diego-architecture.html&#34;&gt;Diego&lt;/a&gt; - Cloud foundrys containerhanterare&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microservices&#34;&gt;Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Function_as_a_service&#34;&gt;Function as a service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/lambda&#34;&gt;AWS lambda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tmoliff.blogspot.se/2011/08/exeter-n.html&#34;&gt;Exeter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs&#34;&gt;Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/React_%28JavaScript_library%29&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/React_%28JavaScript_library%29#React_Native&#34;&gt;React native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xcode&#34;&gt;Xcode&lt;/a&gt; - Apples IDE&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/213/&#34;&gt;Martin&lt;/a&gt; pratade &lt;a href=&#34;https://www.lexaloffle.com/pico-8.php&#34;&gt;Pico-8&lt;/a&gt; i &lt;a href=&#34;http://kodsnack.se/213/&#34;&gt;avsnitt 213&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Squarespace&#34;&gt;Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;Github pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.libsyn.com/&#34;&gt;Libsyn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Våra repon för kodsnack.se - &lt;a href=&#34;https://github.com/kodsnack/site&#34;&gt;råmaterial&lt;/a&gt; och &lt;a href=&#34;https://github.com/kodsnack/kodsnack.github.io&#34;&gt;byggresultat&lt;/a&gt;. Vill du bidra, gör pull requests mot råmaterialet&lt;/li&gt;
+&lt;li&gt;Vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt; sponsras av &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kodsnacks Advent of code-repon - &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2015&#34;&gt;2015&lt;/a&gt; och &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/191/&#34;&gt;05:50 juldagsmorgonen&lt;/a&gt; - avsnittet där vi snackade med 2016 års snabbaste lösare av Advent of code&lt;/li&gt;
+&lt;li&gt;Intervjuer från Internetdagarna 2014 - &lt;a href=&#34;http://kodsnack.se/34/&#34;&gt;Jono Bacon&lt;/a&gt; och &lt;a href=&#34;http://kodsnack.se/35/&#34;&gt;Marcin de Kaminski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_P._Friedman&#34;&gt;Dan Friedman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mitpress.mit.edu/books/little-schemer&#34;&gt;The little schemer&lt;/a&gt; - en lika ovanlig som bra programmeringsbok&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cascading_Style_Sheets&#34;&gt;CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lab.hakim.se/reveal-js/#/&#34;&gt;Reveal.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sass-lang.com/&#34;&gt;Sass&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:8f122c5b1ce7b66eefa38a512dfface7&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Det har inte varit helt linjärt&lt;/li&gt;
+&lt;li&gt;Det är lite jäv&lt;/li&gt;
+&lt;li&gt;Allt annat jag säger är lag&lt;/li&gt;
+&lt;li&gt;Retrospekt&lt;/li&gt;
+&lt;li&gt;Jag har inget minne över huvud taget&lt;/li&gt;
+&lt;li&gt;Mitt favoritavsnitt av de jag kan komma ihåg&lt;/li&gt;
+&lt;li&gt;Hjälp, jag hamnade i Vim!&lt;/li&gt;
+&lt;li&gt;Git designat av Jony Ive&lt;/li&gt;
+&lt;li&gt;Git är som Minecraft&lt;/li&gt;
+&lt;li&gt;Jag har ett enkelt problem: hur kan jag göra det svårt?&lt;/li&gt;
+&lt;li&gt;Det nya heta i enterprisevärlden&lt;/li&gt;
+&lt;li&gt;Det borde inte vara såhär invecklat&lt;/li&gt;
+&lt;li&gt;Jag skulle vilja bygga mitt eget grafikkort först&lt;/li&gt;
+&lt;li&gt;Om du vill ha det precis rätt&lt;/li&gt;
+&lt;li&gt;Olika resultat precis varje gång&lt;/li&gt;
+&lt;li&gt;Jag har aldrig lyckats brygga ett grafikkort&lt;/li&gt;
+&lt;li&gt;Någonting hemskt som egentligen inte fungerar&lt;/li&gt;
+&lt;li&gt;Man kanske inte ska behöva förstå&lt;/li&gt;
+&lt;li&gt;Titta inte ens under huven&lt;/li&gt;
+&lt;li&gt;Jonathan Ive-abstraktionen av data&lt;/li&gt;
+&lt;li&gt;Tre hjul och en exeter&lt;/li&gt;
+&lt;li&gt;Jag vill inte ha en telefon jag kan programmera för&lt;/li&gt;
+&lt;li&gt;Jag har svårt att inte titta under huven&lt;/li&gt;
+&lt;li&gt;Skymtade Cthulhu bakom adressfältet&lt;/li&gt;
+&lt;li&gt;Om du kan så låt bli&lt;/li&gt;
+&lt;li&gt;Det enda sättet att få något gjort&lt;/li&gt;
+&lt;li&gt;Här skulle jag kunna lära mig någonting&lt;/li&gt;
+&lt;li&gt;Representanter för programmering&lt;/li&gt;
+&lt;li&gt;Kaskaden kommer sällan ensam&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 228 - Ett sextiotal olika dependencies och femton produktionsplattformar</title>
       <link>http://kodsnack.se/228/</link>
       <pubDate>Tue, 03 Oct 2017 05:26:14 UTC</pubDate>
@@ -1132,75 +1250,6 @@
 &lt;li&gt;Det finns regler som man inte rår på&lt;/li&gt;
 &lt;li&gt;Små visdomsord&lt;/li&gt;
 &lt;li&gt;Posttraumatisk stress från ett annat system&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 214 - En vecka med Surface book</title>
-      <link>http://kodsnack.se/214/</link>
-      <pubDate>Tue, 27 Jun 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/214/</guid>
-      <description>
-
-&lt;p&gt;Fredrik provar på Windows-livet medelst Surface book utlånad av Microsoft och delar med sig av tidiga intryck efter en vecka. Tips, frågor och hjälp på vägen välkomnas varmt, allt från SSH-nycklars mysterier till favoritpaket för Atom och intrikata detaljer kring Visual studio och C++!&lt;/p&gt;
-
-&lt;p&gt;Vi vill höra av er lyssnare mer om allt annat också! Vill ni att vi pratar om något speciellt? Vet ni någon vi borde ha med som gäst? Tipsa och kommentera på alla vanliga kanaler!&lt;/p&gt;
-
-&lt;p&gt;Sist men inte minst ett förnyat tips om The morning paper och ett riktigt intressant paper som ger Kristoffer alla rätt i att vara skeptisk kring alla dumma prylar i prylarnas internet.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:095b447f4c3787f6d388d3ce9abc3e81&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/2015&#34;&gt;Advent of code 2015&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tusen tack &lt;a href=&#34;https://github.com/bromaniac&#34;&gt;bromaniac&lt;/a&gt; för pull requesten på Advent of code 2015&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://javascript30.com/&#34;&gt;Javascript 30&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.everymac.com/systems/apple/powerbook_g4/specs/powerbook_g4_867_12.html&#34;&gt;Fredriks första Mac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2B-ekl_cEWk&#34;&gt;I&amp;rsquo;m Gus Sorola, and I&amp;rsquo;m a gamer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Surface_Book&#34;&gt;Surface book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;Sublime text&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bjoreman/bakery&#34;&gt;Bakery&lt;/a&gt; - Fredriks statiska sidgenerator&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.putty.org/&#34;&gt;Putty&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cygwin.com/&#34;&gt;Cygwin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;Fira code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Typographic_ligature&#34;&gt;Ligaturer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arstechnica.com/gadgets/2016/11/surface-book-with-performance-base-a-lot-more-graphics-in-a-little-more-weight/&#34;&gt;Performance base&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://electron.atom.io/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/store/d/microsoft-surface-dock/8qrh2npz0s0p/hpr1&#34;&gt;Dockningsstationen för Surface hette helt enkelt Surface dock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Papers-We-Love-Gothenburg/&#34;&gt;Papers we love&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.acolyer.org/&#34;&gt;The morning paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bjoreman.com/archive-Philips-Hue.html&#34;&gt;Philips hue&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Echo&#34;&gt;Amazon echo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Home&#34;&gt;Google home&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HomePod&#34;&gt;Homepod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.acolyer.org/2017/06/22/iot-goes-nuclear-creating-a-zigbee-chain-reaction/&#34;&gt;Iot goes nuclear: creating a Zigbee chain reaction&lt;/a&gt; - det paper Fredrik pratar om&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zigbee&#34;&gt;Zigbee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Wardriving&#34;&gt;Wardriving&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:095b447f4c3787f6d388d3ce9abc3e81&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Midsommarlugnt&lt;/li&gt;
-&lt;li&gt;Macanvändare sedan urminnes tider&lt;/li&gt;
-&lt;li&gt;Ni som utvecklande lyssnare&lt;/li&gt;
-&lt;li&gt;En vecka med Surface book&lt;/li&gt;
-&lt;li&gt;Vi är väldigt dåliga tankeläsare&lt;/li&gt;
-&lt;li&gt;En liten låda från Google som alltid lyssnar&lt;/li&gt;
-&lt;li&gt;Det vore ju framtiden att prata ut i luften&lt;/li&gt;
-&lt;li&gt;Blinka S.O.S. i Morse&lt;/li&gt;
-&lt;li&gt;Wardröna&lt;/li&gt;
-&lt;li&gt;Infektera alla lampor i hela staden&lt;/li&gt;
-&lt;li&gt;Vad borde jag testa på Windows?&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
