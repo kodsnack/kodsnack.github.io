@@ -9,6 +9,96 @@
     <updated>Tue, 03 Oct 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 230 - 32000% last</title>
+      <link>http://kodsnack.se/230/</link>
+      <pubDate>Tue, 17 Oct 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/230/</guid>
+      <description>
+
+&lt;p&gt;Tobias, Kristoffer och Fredrik följer upp förra veckans livepodd med mer Git och annat för att sedan snacka hårdvara. Tobias nya trådrivande byggmaskin, närmare bestämt. Hemjobbare ser hemleverans på ett annat sätt än andra.&lt;/p&gt;
+
+&lt;h2 id=&#34;tobias-threadripper:28566049090b66e6e64f988f06213e1c&#34;&gt;Tobias Threadripper&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AMD Ryzen Threadripper 1950X - 16C/32T, 3,4GHz&lt;/li&gt;
+&lt;li&gt;MSI X399 GAMING PRO CARBON AC - ATX / X399&lt;/li&gt;
+&lt;li&gt;2 x Corsair Vengeance LPX Black 16GB (2x8GB) / 3000Mhz&lt;/li&gt;
+&lt;li&gt;EVGA PowerSupply (PSU) SuperNOVA 750 G2 750W&lt;/li&gt;
+&lt;li&gt;Fractal Design Define C&lt;/li&gt;
+&lt;li&gt;NZXT Kraken X62 All-in-One 2x140 mm Liquid Cooler&lt;/li&gt;
+&lt;li&gt;Samsung SSD 960 EVO 500GB (MZ-V6E500BW)&lt;/li&gt;
+&lt;li&gt;MSI GeForce® GT 1030 2GH LP OC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:28566049090b66e6e64f988f06213e1c&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/229/&#34;&gt;Liveavsnittet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/156/&#34;&gt;Avsnittet med Joe Armstrong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/120/&#34;&gt;Avsnittet med Daniel Stenberg&lt;/a&gt; - skapare av Curl&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/35/&#34;&gt;Intervjun med Marcin de Kaminski&lt;/a&gt; från Internetdagarna&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/45/&#34;&gt;Din noja för Mark Zuckerberg&lt;/a&gt; - vårt avsnitt om Facebooks köp av Oculus&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Concurrent_Versions_System&#34;&gt;CVS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_Subversion&#34;&gt;Subversion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs/gitweb&#34;&gt;Gitweb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/uz/v2/Git-Commands-Plumbing-Commands&#34;&gt;Plumbing&lt;/a&gt; - Gits lågnivåkommandon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tomayko.com/blog/2008/the-thing-about-git&#34;&gt;Gits index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gitready.com/beginner/2009/02/17/how-git-stores-your-data.html&#34;&gt;Bloblagret&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mercurial&#34;&gt;Mercurial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_Bazaar&#34;&gt;Bazaar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Videotape_format_war&#34;&gt;Betamax-VHS-kriget&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/High-definition_optical_disc_format_war&#34;&gt;Bluray mot HD-DVD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xkcd.com/927/&#34;&gt;XKCD om standarder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmake.org/&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/poddavsnitt-13-git-och-dess-mysterier/&#34;&gt;TimeEdit&lt;/a&gt; - som Fredrik bygger på arbetstid&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/preview/Gavle-Developer-Meetup&#34;&gt;Gävle developer meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Web_Services&#34;&gt;AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.anandtech.com/show/11636/amd-ryzen-threadripper-1920x-1950x-16-cores-4g-turbo-799-999-usd&#34;&gt;Threadripper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webhallen.com/&#34;&gt;Webhallen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.archlinux.org/&#34;&gt;Arch linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ethereum&#34;&gt;Ethereum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Folding@home&#34;&gt;Folding@home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Coffee_Lake&#34;&gt;Coffee lake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/tobiashieta/status/917423732880302090&#34;&gt;Tobias twitterbild på threadrippern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Emil Lundbergs länkar, tack!
+
+&lt;ul&gt;
+&lt;li&gt;Git from the bottom up: &lt;a href=&#34;https://jwiegley.github.io/git-from-the-bottom-up/&#34;&gt;text&lt;/a&gt; och &lt;a href=&#34;https://youtu.be/mdvlu_R8EWE&#34;&gt;föreläsning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tomayko.com/blog/2008/the-thing-about-git&#34;&gt;The thing about Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/preview/swedencpp&#34;&gt;Sweden C++&lt;/a&gt; - Stockholms meetupgrupp för C++&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC_LAXFBuK7J2J6NLiYzdPEA&#34;&gt;Sweden C++ på Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:28566049090b66e6e64f988f06213e1c&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vi är alla här idag&lt;/li&gt;
+&lt;li&gt;Vem är jag egentligen?&lt;/li&gt;
+&lt;li&gt;Det borde vara lättare att träffas virtuellt än i Uppsala&lt;/li&gt;
+&lt;li&gt;Helt naturligt för mig vid det här laget&lt;/li&gt;
+&lt;li&gt;Gå en intensivkurs och bara sluta gnälla&lt;/li&gt;
+&lt;li&gt;I långa loppet så vinner Git&lt;/li&gt;
+&lt;li&gt;Slippa duplicera arbete om och om igen&lt;/li&gt;
+&lt;li&gt;Begreppsavgrunden&lt;/li&gt;
+&lt;li&gt;Hårdvaruporr - safe for work&lt;/li&gt;
+&lt;li&gt;Jag hamnar på Youtube&lt;/li&gt;
+&lt;li&gt;Ett projekt som passar på och i 15 minuter&lt;/li&gt;
+&lt;li&gt;32000% last&lt;/li&gt;
+&lt;li&gt;Linus as a service&lt;/li&gt;
+&lt;li&gt;Här finns det bara ett ego och det är Linus&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 229 - Titta inte ens under huven</title>
       <link>http://kodsnack.se/229/</link>
       <pubDate>Tue, 10 Oct 2017 05:26:14 UTC</pubDate>
@@ -1169,87 +1259,6 @@
 &lt;li&gt;Ett hål i det virtuella rummets tak&lt;/li&gt;
 &lt;li&gt;I det virtuella rummet i headsetet&lt;/li&gt;
 &lt;li&gt;Hololens är jätteroligt att jobba med&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 215 - Tumregler</title>
-      <link>http://kodsnack.se/215/</link>
-      <pubDate>Tue, 04 Jul 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/215/</guid>
-      <description>
-
-&lt;p&gt;Fredrik och Kristoffer börjar med konferensen Ship it och några tankar därifrån, framför allt om mobbprogrammering och att lära sig saker genom begränsningar eller att ta dem för långt. Eller inte göra det. Begränsningar är ju bra för kreativiteten, men att anamma något blint brukar ju inte vara det. Vi pratar om tumregler och patterns och undrar hur mycket av utvecklingsmetodikers framgång som beror på att gruppen har en gemensam erfarenhet av något man var överens om fungerade sämre - att man fått kontrollen och får välja själv istället för att leva med något som införts med för dålig förankring.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:86fc27318a2cefd2ee690a580f8b88c3&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/&#34;&gt;Ship it&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/&#34;&gt;Nordic Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://yasuragi.se/&#34;&gt;Yasuragi Hasseludden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.varvet.com/&#34;&gt;Varvet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/cjse&#34;&gt;Carl-Johan Kihlbom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/speakers.html#allison&#34;&gt;Allison McMillan pratade om att lära sig på arbetstid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Allisons tal baseras på hennes serie texter &lt;a href=&#34;http://daydreamsinruby.com/hack-your-workday-p1/&#34;&gt;&amp;ldquo;Hack your workday&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://codecoupled.org/2017/06/23/mob-it/&#34;&gt;Lennart Fridén pratade om mobbprogrammering&lt;/a&gt; - länken ger hela texten/sagan, med bilder och allt&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mob_programming&#34;&gt;Mobbprogrammering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://engineering.klarna.com/a-year-of-mob-programming-e8cc7543ac2&#34;&gt;Erfarenheter av ett år av mobbprogrammerande&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lightning_talk&#34;&gt;Lightning talks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/chadfowler&#34;&gt;Chad Fowler&lt;/a&gt; pratade om hur man lyssnar på jazz&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/linuxconfau2017&#34;&gt;Alla tal från Linuxconf Australien 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=brNmfD1Lb7M&amp;amp;feature=youtu.be&amp;amp;t=1471&#34;&gt;Lightning talks från Linuxconf Australien 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/jonicklas&#34;&gt;Jonas Nicklas&lt;/a&gt; höll ett blixttal om att bränna ut sig på öppen källkod&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shipitconf.org/speakers.html#chandra&#34;&gt;Chandra Carney pratade under rubriken &amp;ldquo;Merge conflicts&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bendycode&#34;&gt;Stephen Anderson&lt;/a&gt; och &lt;a href=&#34;https://bendyworks.com/&#34;&gt;Bendyworks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unit_testing&#34;&gt;Enhetstestning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Functional_testing&#34;&gt;Functional testing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://techworld.event.idg.se/event/devops-summit/&#34;&gt;Kristoffer pratade på Devops summit 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Trello&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/213/&#34;&gt;213&lt;/a&gt; - avsnittet där &lt;a href=&#34;https://twitter.com/grapefrukt/&#34;&gt;Martin&lt;/a&gt; pratade om att programmera i &lt;a href=&#34;https://www.lexaloffle.com/pico-8.php&#34;&gt;Pico-8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Christopher_Alexander&#34;&gt;Cristopher Alexander&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Oregon_Experiment&#34;&gt;The Oregon experiment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Miljonprogrammet&#34;&gt;Miljonprogrammet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pattern_%28architecture%29&#34;&gt;Pattern inom arkitektur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Architectural_pattern&#34;&gt;Pattern inom mjukvaruutveckling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mitpress.mit.edu/books/urban-code&#34;&gt;Urban code - 100 lessons for understanding the city&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aphorism&#34;&gt;Aforismer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hawthorne_effect&#34;&gt;Hawthorneexperimenten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SUSE&#34;&gt;Suse&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:86fc27318a2cefd2ee690a580f8b88c3&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fundamentalism&lt;/li&gt;
-&lt;li&gt;Orgieprogrammering&lt;/li&gt;
-&lt;li&gt;Jag föredrar orgieprogrammering&lt;/li&gt;
-&lt;li&gt;Uppskalad parprogrammering&lt;/li&gt;
-&lt;li&gt;Varje lightning talk är en bonus&lt;/li&gt;
-&lt;li&gt;Sympatiångest&lt;/li&gt;
-&lt;li&gt;När man kan jobba när som helst så gör man det&lt;/li&gt;
-&lt;li&gt;Stoppa jobbet i ett rum&lt;/li&gt;
-&lt;li&gt;Tvinga mig själv att inte jobba&lt;/li&gt;
-&lt;li&gt;Det handlade inte om det när jag gick dit&lt;/li&gt;
-&lt;li&gt;Man vill ju så gärna kunna generalisera saker&lt;/li&gt;
-&lt;li&gt;(Som) Ett sätt att lära sig förstå (vad det är)&lt;/li&gt;
-&lt;li&gt;Reagera med knäskålarna&lt;/li&gt;
-&lt;li&gt;Helt fel sätt att tänka på&lt;/li&gt;
-&lt;li&gt;Tumregler&lt;/li&gt;
-&lt;li&gt;En vokabulär av tumregler&lt;/li&gt;
-&lt;li&gt;Hur man vill planera sin stad&lt;/li&gt;
-&lt;li&gt;Den enda natur vi har att jobba med är den mänskliga naturen&lt;/li&gt;
-&lt;li&gt;Det finns regler som man inte rår på&lt;/li&gt;
-&lt;li&gt;Små visdomsord&lt;/li&gt;
-&lt;li&gt;Posttraumatisk stress från ett annat system&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
