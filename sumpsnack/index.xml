@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>03 Oct 2017 05:26 +0000</pubDate>
-        <lastBuildDate>03 Oct 2017 05:26 +0000</lastBuildDate>
+        <pubDate>24 Oct 2017 05:26 +0000</pubDate>
+        <lastBuildDate>24 Oct 2017 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,43 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 32 - Bara att ta på sig skorna </title>
+                <pubDate>24 Oct 2017 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/31/</guid>
+                <link>http://kodsnack.se/sumpsnack/31/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Träning, löpning, rutiner, att komma iväg och motionera och vad man vill lyssna på under tiden.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:9418d8ec2abf5d0b31dd218eff9f11ad&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bjoreman.com/images/kso-evo@2x.jpg&#34;&gt;Vibram fivefingers&lt;/a&gt; - på bilden modellen KSO evo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:9418d8ec2abf5d0b31dd218eff9f11ad&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fredrik springer ju som en tok&lt;/li&gt;
+&lt;li&gt;Bara att ta på sig skorna&lt;/li&gt;
+&lt;li&gt;En spellista som funkar&lt;/li&gt;
+&lt;li&gt;Håll igång 30 minuter&lt;/li&gt;
+&lt;li&gt;Det svåra för mig är att komma ut&lt;/li&gt;
+&lt;li&gt;Totalt lifehack&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="6632847" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_32.mp3"/>
+                <itunes:duration>13:41</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 31 - Gurkmeja säger du </title>

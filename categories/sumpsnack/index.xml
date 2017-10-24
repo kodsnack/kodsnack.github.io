@@ -6,7 +6,76 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 03 Oct 2017 05:26:14 UTC</updated>
+    <updated>Tue, 24 Oct 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 231 - Allt om min klustertruck</title>
+      <link>http://kodsnack.se/231/</link>
+      <pubDate>Tue, 24 Oct 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/231/</guid>
+      <description>
+
+&lt;p&gt;Tobias, Kristoffer och Fredrik snackar om Tobias kanske stressigaste veckor någonsin, allt tack vare (?) Androids NDK och Googles väldigt … grundliga hantering av appar med säkerhetshål.&lt;/p&gt;
+
+&lt;p&gt;Det är svårt att utveckla saker för flera plattformar och man får helt andra problem när man inte kan välja att helt förlita sig på en enda plattform. Men, inte ens Google och Apple själva kan begränsa sig till att bara släppa appar på sina egna plattformar, så borde inte till och med de tjäna på lösa problemen ännu bättre?&lt;/p&gt;
+
+&lt;p&gt;Sist lite tips om vilka av LLVMs sanerare man bör använda och när.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:b03e4d903762e46c3a083d9029e54a7c&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sockerbiten.org/nygarda-lagrad-julmust-ekfat/&#34;&gt;Lagrad julmust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.conan.io/&#34;&gt;Conan&lt;/a&gt; - pakethanterare för C++. &lt;a href=&#34;http://kodsnack.se/198/&#34;&gt;Vi snackade med en av utvecklarna i avsnitt 198&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmake.org/&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.android.com/ndk/index.html&#34;&gt;Android NDK&lt;/a&gt; - låter dig skriva delar av din Android-app i språk kompilerade för plattformen, som C++&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.libpng.org/pub/png/libpng.html&#34;&gt;libpng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI&lt;/a&gt; - application binary interface&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.boost.org/&#34;&gt;Boost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nongnu.org/libunwind/&#34;&gt;libunwind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/KINIAgRpkDA&#34;&gt;Rob Pike om kodgenereringen i Go-kompilatorn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://llvm.org/docs/tutorial/LangImpl03.html&#34;&gt;LLVM-IR&lt;/a&gt; - IR är intermediärreprersentation, ett steg mellan språket man skrivit och binärkod för en specifik plattform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ARC_%28processor%29&#34;&gt;ARC-processorn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Super_FX&#34;&gt;Super FX-chippet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://llvm.org/devmtg/2017-10/&#34;&gt;LLVM developer meeting 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reviews.llvm.org/D32198&#34;&gt;LLVM har typesanerare på gång&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clang.llvm.org/docs/AddressSanitizer.html&#34;&gt;Addressaneraren&lt;/a&gt; i LLVM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://clang.llvm.org/docs/ThreadSanitizer.html&#34;&gt;Trådsaneraren&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.whitesourcesoftware.com/&#34;&gt;Whitesource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jfrog.com/xray/&#34;&gt;Xray&lt;/a&gt;, inbyggt i &lt;a href=&#34;https://www.jfrog.com/artifactory/&#34;&gt;Artifactory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:b03e4d903762e46c3a083d9029e54a7c&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vi hade någonting planerat&lt;/li&gt;
+&lt;li&gt;Precis lika organiserat som vanligt&lt;/li&gt;
+&lt;li&gt;Båda Tobias är här&lt;/li&gt;
+&lt;li&gt;Välvilligt inställd till julmust&lt;/li&gt;
+&lt;li&gt;En skön dold dependency&lt;/li&gt;
+&lt;li&gt;Bad malloc&lt;/li&gt;
+&lt;li&gt;Nu måste vi skeppa appen om tre dagar&lt;/li&gt;
+&lt;li&gt;Backtracen är helt bisarr&lt;/li&gt;
+&lt;li&gt;NDK:t är så fucked up&lt;/li&gt;
+&lt;li&gt;Otroligt stressiga två veckor&lt;/li&gt;
+&lt;li&gt;Ett sådant lapptäcke&lt;/li&gt;
+&lt;li&gt;Vi kan sluta använda Googles ***** NDK&lt;/li&gt;
+&lt;li&gt;Annars blir man knäpp på ett annat sätt&lt;/li&gt;
+&lt;li&gt;En tvåplattformsvärld&lt;/li&gt;
+&lt;li&gt;En varningsklocka när de forkar GCC&lt;/li&gt;
+&lt;li&gt;Allt om min klustertruck&lt;/li&gt;
+&lt;li&gt;Jag har tappat kontakten med statisk analys&lt;/li&gt;
+&lt;li&gt;Många lager av ögon&lt;/li&gt;
+&lt;li&gt;Då kan ju hela korthuset falla&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 230 - 32000% last</title>
@@ -1171,94 +1240,6 @@
 &lt;li&gt;192 olika unioner runtom i världen&lt;/li&gt;
 &lt;li&gt;Tinder fast för Almedalen&lt;/li&gt;
 &lt;li&gt;Folk som tänker på ett helt annat sätt&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 216 - Ett hologram på min diskbänk</title>
-      <link>http://kodsnack.se/216/</link>
-      <pubDate>Tue, 11 Jul 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/216/</guid>
-      <description>
-
-&lt;p&gt;Fredrik snackar med &lt;a href=&#34;http://apeoholic.se/&#34;&gt;Jimmy Engström&lt;/a&gt; och &lt;a href=&#34;http://catoholic.se/&#34;&gt;Jessica Engström&lt;/a&gt; om Hololens, VR, AR, MR och … MR också. Begreppen reds ut och vi går igenom allt från fräcka spel till nyttolösningar, hur man ska tänka kring … XR … både upplevelse- och utvecklingsmässigt.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;0: Inledning, begrepp och bakgrund.&lt;/li&gt;
-&lt;li&gt;15:10: Fragments och andra fräcka spel.&lt;/li&gt;
-&lt;li&gt;19:27: Affärs- och företagslösningar med XR.&lt;/li&gt;
-&lt;li&gt;27:50: Hur bygger man ut något existerande system åt XR-hållet? Tänk på upplevelsen! Och det begränsade synfältet. Jobba med ljud också, det funkar väldigt bra.&lt;/li&gt;
-&lt;li&gt;45:52: Hur långt kan man komma med sina idéer utan en Hololens och hur får man tag på en?&lt;/li&gt;
-&lt;li&gt;55:29: Headsets från andra tillverkare och hur de fungerar ihop med Hololens&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:d4c0c2b2b06184dd4de5ba65edc1c326&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://apeoholic.se/&#34;&gt;Jimmy Engström&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://catoholic.se/&#34;&gt;Jessica Engström&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_HoloLens&#34;&gt;Hololens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Virtual_reality&#34;&gt;VR - virtual reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Augmented_reality&#34;&gt;AR - augmented reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@bkrunner/merged-reality-the-best-of-all-worlds-f6d1480b855d&#34;&gt;MR - merged reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mixed_reality&#34;&gt;MR - mixed reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Glass&#34;&gt;Google glass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go&#34;&gt;Pokemon go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/arkit/&#34;&gt;ARKit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Tango_%28platform%29&#34;&gt;Google tango&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional&#34;&gt;Microsoft MVP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unity_%28game_engine%29&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_Windows_Platform&#34;&gt;UWP - Universal Windows platform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/HoloJS&#34;&gt;Holojs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Microsoft/HoloToolkit&#34;&gt;Holotoolkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Direct3D&#34;&gt;Direct3d&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/hololens/apps/fragments&#34;&gt;Fragments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uQeOYi3Be5Y&#34;&gt;Young Conker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lowe%27s&#34;&gt;Lowe&amp;rsquo;s&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/cognitive-services/&#34;&gt;Azure cognitive services&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Buzz_Aldrin&#34;&gt;Buzz Aldrin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Head-related_transfer_function&#34;&gt;HRTF - Head-related transfer function&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Hf9qkURqtbM&#34;&gt;Robo raid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Yig4z1lh2JM&#34;&gt;Slow motion-animationer i Mac OS X&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.microsoft.com/en-us/windows/mixed-reality/using_the_hololens_emulator&#34;&gt;Hololens-emulatorn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Waveguide_%28optics%29&#34;&gt;Waveguide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.microsoft.com/sv-se/windows/mixed-reality&#34;&gt;developer.microsoft.com/windows/mixedreality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.microsoft.com/en-us/windows/mixed-reality/academy&#34;&gt;Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.windows.com/windowsexperience/2017/03/01/windows-mixed-reality-dev-kits-shipping-month/#WqCKhmRyVLKrL0hQ.97&#34;&gt;VR-headsets från andra tillverkare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://azm.se/&#34;&gt;azm.se&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Mixed-reality-Sweden/&#34;&gt;Mixed reality-användargruppen på Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.codingafterwork.se/Podcasts&#34;&gt;Coding after work - podcasten&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.codingafterwork.se/&#34;&gt;Coding after work - gruppen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:d4c0c2b2b06184dd4de5ba65edc1c326&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prata lite framtidsteknologi&lt;/li&gt;
-&lt;li&gt;Man ser den riktiga världen med sina egna ögon&lt;/li&gt;
-&lt;li&gt;Ställa ett hologram på min diskbänk&lt;/li&gt;
-&lt;li&gt;Studsa en holografisk boll på ett fysiskt bord&lt;/li&gt;
-&lt;li&gt;XR&lt;/li&gt;
-&lt;li&gt;Då pratade vi med våra lampor&lt;/li&gt;
-&lt;li&gt;På den tiden var det inte jättebilligt att tända och släcka sina lampor&lt;/li&gt;
-&lt;li&gt;Du behöver hantera klick-eventet&lt;/li&gt;
-&lt;li&gt;Man sitter på Pintrest och pinnar litegrann&lt;/li&gt;
-&lt;li&gt;Planera i en 3D-värld&lt;/li&gt;
-&lt;li&gt;Gå omkring i det holografiska köket&lt;/li&gt;
-&lt;li&gt;Man gör en upplevelse&lt;/li&gt;
-&lt;li&gt;Buzz Aldrin är där som ett hologram&lt;/li&gt;
-&lt;li&gt;Jag vill ju kunna dra i huset&lt;/li&gt;
-&lt;li&gt;Ett hål i det virtuella rummets tak&lt;/li&gt;
-&lt;li&gt;I det virtuella rummet i headsetet&lt;/li&gt;
-&lt;li&gt;Hololens är jätteroligt att jobba med&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
