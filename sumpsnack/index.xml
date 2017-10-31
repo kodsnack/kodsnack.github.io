@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>24 Oct 2017 05:26 +0000</pubDate>
-        <lastBuildDate>24 Oct 2017 05:26 +0000</lastBuildDate>
+        <pubDate>31 Oct 2017 05:26 +0000</pubDate>
+        <lastBuildDate>31 Oct 2017 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,43 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 33 - Bara att ta på sig skorna </title>
+                <pubDate>31 Oct 2017 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/33/</guid>
+                <link>http://kodsnack.se/sumpsnack/33/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Lite mer uppföljning om löpning, problem att komma ut genom dörren och de många sätt som finns att ta slut på.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:00deeae7fd3ddd4442ef68db593a6bc7&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/sumpsnack/32/&#34;&gt;Förra Sumpsnack&lt;/a&gt; - början på dagens diskussion&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.astmaochallergilinjen.se/astma/det-hander-i-kroppen-vid-astma/anstrangningsastma/&#34;&gt;Ansträngningsastma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:00deeae7fd3ddd4442ef68db593a6bc7&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Folk säger att det inte är så det funkar&lt;/li&gt;
+&lt;li&gt;Vilken typ av slut eller stopp?&lt;/li&gt;
+&lt;li&gt;Definitivt ett energiproblem&lt;/li&gt;
+&lt;li&gt;Spontant soffpotatis&lt;/li&gt;
+&lt;li&gt;Hänga upp det på en rutin som redan sitter&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="4354134" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_33.mp3"/>
+                <itunes:duration>08:56</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 32 - Bara att ta på sig skorna </title>
