@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>31 Oct 2017 05:26 +0000</pubDate>
-        <lastBuildDate>31 Oct 2017 05:26 +0000</lastBuildDate>
+        <pubDate>07 Nov 2017 05:26 +0000</pubDate>
+        <lastBuildDate>07 Nov 2017 05:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,42 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 34 - Jag har aldrig haft ett eget kontor </title>
+                <pubDate>07 Nov 2017 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/34/</guid>
+                <link>http://kodsnack.se/sumpsnack/34/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;De klassiska funderingarna om egna kontor kontra öppna landskap. Och mikrofontest.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:e10e37422505fae4585bdbbcb30f5718&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://officesnapshots.com/2012/07/16/pixar-headquarters-and-the-legacy-of-steve-jobs/&#34;&gt;Pixars huvudkontor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.fogcreek.com/the-price-of-dev-happiness-part-two/&#34;&gt;Fog creek körde egna kontor för alla utvecklare&lt;/a&gt; (finns nyare uppgifter om de fortfarande gör så?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:e10e37422505fae4585bdbbcb30f5718&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2x2 är inte stort&lt;/li&gt;
+&lt;li&gt;Kontor där man störs som standard&lt;/li&gt;
+&lt;li&gt;Förvara lite grejer och stänga in dig själv&lt;/li&gt;
+&lt;li&gt;Jag har aldrig haft ett eget kontor&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="5030810" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_34.mp3"/>
+                <itunes:duration>10:21</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 33 - Spontant soffpotatis </title>
