@@ -6,7 +6,92 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 12 Dec 2017 05:26:14 UTC</updated>
+    <updated>Tue, 19 Dec 2017 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 239 - Void void</title>
+      <link>http://kodsnack.se/239/</link>
+      <pubDate>Tue, 19 Dec 2017 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/239/</guid>
+      <description>
+
+&lt;p&gt;Fredrik snackar nyheter i Swift 4 med &lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;Cenny Davidsson&lt;/a&gt;, kanske den mest Swift-entusiastiske konsult man kan hitta. Vi diskuterar nyheter i språket, hur det utvecklats över tiden, problemen med olika pakethanterare och vikten av att följa med i ett språks utveckling. Fredrik associerar fritt till sin egen lilla Swift-erfarenhet från att uppgradera  &lt;a href=&#34;http://chaptersapp.com/&#34;&gt;Podcast chapters&lt;/a&gt; till Swift 4.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;TKTK Bokmärke där vi kommer in på Xcode TKTK&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:df92aca3386255fb5339efb45446c2ee&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/Cennydavidsson&#34;&gt;Cenny Davidsson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/91/&#34;&gt;Vårt snack om Swift 1.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2017/402/&#34;&gt;Nyheter i Swift 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.varvet.com/&#34;&gt;Varvet&lt;/a&gt; - trevligt konsultbolag där Cenny jobbar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/cocoaheads-goteborg/&#34;&gt;Cocoaheads Göteborg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swift.org/blog/swift-3-0-released/&#34;&gt;Swift 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Application_binary_interface&#34;&gt;ABI-kompatibilitet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eriksvedang.com/&#34;&gt;Erik &amp;ldquo;TV-spels-Erik&amp;rdquo; Svedäng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/carp-lang/Carp&#34;&gt;Carp&lt;/a&gt; - språket Erik bygger&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://elseheartbreak.com/&#34;&gt;else Heart.Break()&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eriksvedang/Sprak&#34;&gt;Sprak&lt;/a&gt; - språket man använder i else Heart.Break()&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chaptersapp.com/&#34;&gt;Podcast chapters&lt;/a&gt; - programmet Fredrik uppgraderat från Swift 2 till 4&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/content/documentation/General/Conceptual/Devpedia-CocoaApp/Storyboard.html&#34;&gt;Storyboards&lt;/a&gt; - Apples uppmuntrade sätt att bygga gränssnitt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swift.org/blog/swift-local-refactoring/&#34;&gt;Swiftbloggens inlägg om refactoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/objc/&#34;&gt;Appcode&lt;/a&gt; - Jetbrains IDE för Appleutveckling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://benscheirman.com/2017/06/swift-json/&#34;&gt;Att parsa JSON i Swift 4&lt;/a&gt; - Fredrik har gjort det och det var riktigt enkelt och fint&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/documentation/swift/codable&#34;&gt;Codable-protokollet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raywenderlich.com/116714/swift-tutorial-introducing-structures&#34;&gt;Struct i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.natashatherobot.com/swift-2-flatmap/&#34;&gt;Flatmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oleb.net/blog/2017/05/whats-new-in-swift-4-playground/&#34;&gt;Ole Begemanns playground med nyheter i Swift 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apple.com/swift/playgrounds/&#34;&gt;Apples app Playgrounds&lt;/a&gt; för IOS - lär dig programmera&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/arkit/&#34;&gt;ARKit&lt;/a&gt; - AR-utveckling för IOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@johnsundell/exploring-the-new-string-api-in-swift-4-ce7d2c1cae00&#34;&gt;Strängar i Swift 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/documentation/swift/range&#34;&gt;Ranges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html&#34;&gt;Fileprivate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dependency_injection&#34;&gt;Dependency injection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html#//apple_ref/doc/uid/TP40014097-CH10-ID166&#34;&gt;&amp;hellip;&lt;/a&gt; - variadisk parameter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swift.org/package-manager/&#34;&gt;Swift package manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cocoapods.org/&#34;&gt;Cocoapods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Carthage/Carthage/&#34;&gt;Carthage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apple.github.io/swift-evolution/&#34;&gt;Swift evolution review&lt;/a&gt;-sidan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nshipster.com/method-swizzling/&#34;&gt;Method swizzling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt; - kompilatornörden själv&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@abhimuralidharan/all-about-protocols-in-swift-11a72d6ea354&#34;&gt;Protokoll i Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fuckingblocksyntax.com/&#34;&gt;fuckingblocksyntax.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/apple/swift-evolution/tree/master/proposals&#34;&gt;Proposal-listan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Higher-order_function&#34;&gt;Högre ordningens funktioner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cocoaheads-gbg.slack.com/&#34;&gt;Cocoaheads Göteborgs Slack&lt;/a&gt; - kvittra Cenny för insläpp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:df92aca3386255fb5339efb45446c2ee&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En Cenny&lt;/li&gt;
+&lt;li&gt;Det händer väldigt mycket men ändå väldigt lite&lt;/li&gt;
+&lt;li&gt;Det var en mening som inte säger någonting om någonting&lt;/li&gt;
+&lt;li&gt;Någon form av standard för Swift&lt;/li&gt;
+&lt;li&gt;Det var vatten över huvudet&lt;/li&gt;
+&lt;li&gt;Nu kan man Stack overflow-programmera på riktigt&lt;/li&gt;
+&lt;li&gt;Det har hänt mycket men ändå inte&lt;/li&gt;
+&lt;li&gt;Automagi på ett bra sätt&lt;/li&gt;
+&lt;li&gt;Så länge JSON-nycklarna stämmer överens&lt;/li&gt;
+&lt;li&gt;Mycket väsen i kodbasen&lt;/li&gt;
+&lt;li&gt;Imorgon kan vi göra det&lt;/li&gt;
+&lt;li&gt;Använda typsystemet till min fördel&lt;/li&gt;
+&lt;li&gt;Void void&lt;/li&gt;
+&lt;li&gt;Ett alias för två tomma parenteser&lt;/li&gt;
+&lt;li&gt;Slippa få panikhuvudvärk&lt;/li&gt;
+&lt;li&gt;Från urgammal Swift till lite för gammal Swift&lt;/li&gt;
+&lt;li&gt;Swift 4 med gammal syntax&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 238 - När fulkoden vann</title>
@@ -1027,93 +1112,6 @@
 &lt;li&gt;September är nästan klart&lt;/li&gt;
 &lt;li&gt;Jag skulle betala för att inte ha Faceid&lt;/li&gt;
 &lt;li&gt;Är det mitt ansikte som är fel?&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 225 - Nördsidospårsglädje</title>
-      <link>http://kodsnack.se/225/</link>
-      <pubDate>Tue, 12 Sep 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/225/</guid>
-      <description>
-
-&lt;p&gt;Fredrik följer upp tidigare trådar, och öppnar starkt genom att falla ner i ett kaninhål av esoteriska programmeringsspråk tack vare ett nytt och oväntat bidrag till Advent of code-repot.&lt;/p&gt;
-
-&lt;p&gt;Sedan funderas det kring hacktid och dess utmaningar, lightning talks, Electron och nya nyttor med att hålla presentationer.&lt;/p&gt;
-
-&lt;p&gt;Nästa tråd är tanken på någon sorts forum för Kodnsack - vad tycker ni som lyssnar? Fredrik försöker reda ut sina egna tankar kring det och kommer in på att ha fler forum och kanaler att kolla upp. Hur hanterar ni att lägga till fler informationskanaler?&lt;/p&gt;
-
-&lt;p&gt;Sedan kommer ett matigt lästips för den som vill ha mer kring problemen med att underhålla öppna källkodsprojekt som blivit populära, och sist men inte minst ett betytligt med snabbavhandlat poddtips.&lt;/p&gt;
-
-&lt;p&gt;En pepp inför hösten: den 3 oktober blir det after work och livepodd sponsrad av &lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; i Stockholm!&lt;/p&gt;
-
-&lt;p&gt;Vi håller till på Hobo på Brunkebergstorg 4. Dörrarna öppnas vid 17, någonstans vid 18 poddar vi och sedan hänger vi alla kvar och tar valfritt antal valfria drycker och snackar så länge vi orkar.&lt;/p&gt;
-
-&lt;p&gt;Vi hoppas att &lt;em&gt;du&lt;/em&gt; vill komma, och att du tar med dig en bekant eller två! Antalet platser är begränsat, så skicka iväg ett mejl så snart det bara går till &lt;a href=&#34;mailto:livepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; med namn, företag och om du tar med dig någon.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;00: Intro&lt;/li&gt;
-&lt;li&gt;00:19: Kom på livepodd och after work 3 oktober&lt;/li&gt;
-&lt;li&gt;01:31: Advent of code i … Brainfuck?!&lt;/li&gt;
-&lt;li&gt;06:03: Fredriks första lightning talk, kul med Electron&lt;/li&gt;
-&lt;li&gt;19:12: Borde Kodsnack ha ett forum?&lt;/li&gt;
-&lt;li&gt;26:44: Lästips kring problemen att underhålla populära öppna källkodsprojekt&lt;/li&gt;
-&lt;li&gt;33:20: Poddtips&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;länkar:0c27f721193cc4932df86950ca9f8779&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:livepodd@gmail.com&#34;&gt;Anmäl dig&lt;/a&gt; till after work och livepodd den 3 oktober!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.suse.com/&#34;&gt;Suse&lt;/a&gt; - sponsrar kvällen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hobo.se/sv/&#34;&gt;Hobo&lt;/a&gt; - lokalen för kvällen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:livepodd@gmail.com&#34;&gt;livepodd@gmail.com&lt;/a&gt; - anmäl dig med namn, företag och om du tar med dig någon mer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt; - bidra gärna till &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016&#34;&gt;Kodsnacks repo med lösningar&lt;/a&gt;!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Esoteric_programming_language#FALSE&#34;&gt;Esoteriska programmeringsspråk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/dlofstrom&#34;&gt;dlofstrom&lt;/a&gt; på Github&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2016/tree/master/dlofstrom-brainfuck&#34;&gt;dlofstroms Brainfuck-lösning av första Advent of code-problemet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brainfuck&#34;&gt;Brainfuck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Aminet&#34;&gt;Aminet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Esoteric_programming_language#FALSE&#34;&gt;FALSE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_completeness&#34;&gt;Turingkompletthet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lightning_talk&#34;&gt;Lightning talk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bjoreman.com/archive-Playstation-VR.html&#34;&gt;Fredrik spelar Playstation VR-spel på fritiden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTC_Vive&#34;&gt;HTC vive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/arkit/&#34;&gt;Arkit&lt;/a&gt; - IOS ramverk för augmenterad verklighet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://electron.atom.io/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/macos/touch-bar/&#34;&gt;Touch bar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/&#34;&gt;Avsnitt 224&lt;/a&gt; diskuterade presentationer ganska mycket&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;irc://irc.freenode.net:+7000/kodsnack&#34;&gt;Kodsnacks IRC-kanal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gitter.im/&#34;&gt;Gitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/utvecklare.stockholm/&#34;&gt;Kodapor på Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/220/&#34;&gt;Avsnitt 220: diskussionen om öppen källkods-utbrändhet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure&#34;&gt;Roads and bridges: the unseen labor behind our digital infrastructure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://99percentinvisible.org/episode/the-age-of-the-algorithm/&#34;&gt;The age of the algorithm&lt;/a&gt; - avsnitt 274 av 99% invisible&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt; - hör av er om ni ska dit!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:0c27f721193cc4932df86950ca9f8779&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Det mest esoteriska av esoteriska programmeringsspråk&lt;/li&gt;
-&lt;li&gt;En enradslösning på ett problem&lt;/li&gt;
-&lt;li&gt;Nördsidospårsglädje&lt;/li&gt;
-&lt;li&gt;Koncentrationsförmåga som en guldfisk eller någon typ av golden retriever&lt;/li&gt;
-&lt;li&gt;En tom keynotepresentation&lt;/li&gt;
-&lt;li&gt;Hitta en historia kring det jag själv gjort&lt;/li&gt;
-&lt;li&gt;Presentations-zen&lt;/li&gt;
-&lt;li&gt;Lägga till ett forum till i sin tillvaro&lt;/li&gt;
-&lt;li&gt;Mina distraktionsålar&lt;/li&gt;
-&lt;li&gt;Snabbare och bättre dialoger&lt;/li&gt;
-&lt;li&gt;Något som bara finns och fungerar&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
