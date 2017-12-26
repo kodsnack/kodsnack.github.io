@@ -34,6 +34,84 @@
         <itunes:subtitle>A podcast by developers, about anything interesting to developers</itunes:subtitle>
         
             <item>
+                <title>Kodsnack 240 - The persistent fear of being exposed as a fraud </title>
+                <pubDate>26 Dec 2017 05:26 +0000</pubDate>
+                <guid>http://kodsnack.se/240/</guid>
+                <link>http://kodsnack.se/240/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Tobias, Amanda and Fredrik discuss &lt;a href=&#34;https://en.wikipedia.org/wiki/Impostor_syndrome&#34;&gt;impostor syndrome&lt;/a&gt; with Wendi Dunford, &lt;a href=&#34;https://www.humanservicesedu.org/lcswvspsychologist.html#context/api/listings/prefilter&#34;&gt;LCSW&lt;/a&gt;. Impostor syndrome affects all three of us and so many others, so we thought it was time to talk to someone who really knows the subject. Our discussion covers defining impostor syndrome, how we all experience it, various types of impostor syndrome and things both we and others can do to combat it.&lt;/p&gt;
+
+&lt;p&gt;Spoiler: the secret to impostor syndrome is your ego!&lt;/p&gt;
+
+&lt;p&gt;Five types or aspects of impostor syndrome:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The perfectionist - I&amp;rsquo;m never good enough&lt;/li&gt;
+&lt;li&gt;The superwoman or superman - workaholics to compensate&lt;/li&gt;
+&lt;li&gt;The natural genius - I freak out if I can&amp;rsquo;t get it right the first time&lt;/li&gt;
+&lt;li&gt;The individualist - I go at it alone, and I don&amp;rsquo;t ask for help&lt;/li&gt;
+&lt;li&gt;The expert - I somehow tricked everybody, it was a glitch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have tips on how you&amp;rsquo;ve dealt with impostor syndrome, or have found a great resource on the subject, please let us know!&lt;/p&gt;
+
+&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; and &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed at &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write longer. We read everything we receive.&lt;/p&gt;
+
+&lt;p&gt;If you enjoy Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;links:5c7d34ac218a435a119595c4a025caad&#34;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Impostor_syndrome&#34;&gt;Impostor syndrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/therapythursdys&#34;&gt;Wendi Dunford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_review&#34;&gt;Code review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/360-degree_feedback&#34;&gt;360-degree feedback&lt;/a&gt; - the review system in use by Plex (discussed in &lt;a href=&#34;http://kodsnack.se/233/&#34;&gt;episode 233&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Helicopter_parent&#34;&gt;Curling parenting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Law_of_Jante&#34;&gt;Jantelagen&lt;/a&gt; - &amp;ldquo;The law of Jante&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://frogpants.com/tms&#34;&gt;The morning stream&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://therapythursdays.com/&#34;&gt;Therapy Thursdays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Share your solutions in &lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2017/&#34;&gt;Kodsnack&amp;rsquo;s Github repo&lt;/a&gt;!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titles:5c7d34ac218a435a119595c4a025caad&#34;&gt;Titles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You&amp;rsquo;re never enough&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re a real psychologist, right?&lt;/li&gt;
+&lt;li&gt;The feeling that you don&amp;rsquo;t belong&lt;/li&gt;
+&lt;li&gt;An inability to internalize your accomplishments&lt;/li&gt;
+&lt;li&gt;The persistent fear of being exposed as a fraud&lt;/li&gt;
+&lt;li&gt;It was just luck&lt;/li&gt;
+&lt;li&gt;Oops, I just won!&lt;/li&gt;
+&lt;li&gt;More eyes makes it more stressful&lt;/li&gt;
+&lt;li&gt;Throw someone off, confidence-wise&lt;/li&gt;
+&lt;li&gt;I don&amp;rsquo;t deserve this anyway&lt;/li&gt;
+&lt;li&gt;That&amp;rsquo;s not a reason to not take a job&lt;/li&gt;
+&lt;li&gt;The story you tell yourself&lt;/li&gt;
+&lt;li&gt;I don&amp;rsquo;t have to perform for friends&lt;/li&gt;
+&lt;li&gt;The work of children is to play&lt;/li&gt;
+&lt;li&gt;I don&amp;rsquo;t have to buy into it&lt;/li&gt;
+&lt;li&gt;Try the compliment trick&lt;/li&gt;
+&lt;li&gt;Being wrong doesn&amp;rsquo;t make you fake&lt;/li&gt;
+&lt;li&gt;Reveal yourself as the fraud you are&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="40166208" type="audio/mpeg" url="http://traffic.libsyn.com/kodsnack/240.mp3"/>
+                <itunes:duration>01:23:35</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
+        
+            <item>
                 <title>Kodsnack 227 - Xiki: an idea whose time has come </title>
                 <pubDate>26 Sep 2017 05:26 +0000</pubDate>
                 <guid>http://kodsnack.se/227/</guid>
