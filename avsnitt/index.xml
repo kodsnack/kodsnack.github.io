@@ -6,7 +6,68 @@
     <language>en-US</language>
     <author>Kodsnack</author>
     <rights>Copyright (c) 2014, Kodsnack; all rights reserved.</rights>
-    <updated>Tue, 09 Jan 2018 05:26:14 UTC</updated>
+    <updated>Tue, 16 Jan 2018 05:26:14 UTC</updated>
+    
+    <item>
+      <title>Kodsnack 243 - Där Meltdown går sönder</title>
+      <link>http://kodsnack.se/243/</link>
+      <pubDate>Tue, 16 Jan 2018 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/243/</guid>
+      <description>
+
+&lt;p&gt;Tobias och Kristoffer snackar Spectre och Meltdown - säkerhetsattacker som utnyttjar brister i nästan alla moderna processorer - med Olle Segerdal från Säkerhetssnack och Peter Magnusson från Säkerhetspodcasten. Vad bygger attackerna på, hur hittades de, varför hittades de just nu, vad ska man vara mest rädd för eller göra själv, och mycket mer.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:534636d4157f7774d7bcab327ffd52be&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spectreattack.com/&#34;&gt;Meltdown och Spectre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/nxsolle&#34;&gt;Olle Segerdal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.f-secure.com/sv_SE/f-secure&#34;&gt;F-secure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.f-secure.com/sv_SE/web/business_se/our-approach/sakerhetssnack&#34;&gt;Säkerhetssnack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/blaufish_&#34;&gt;Peter Magnusson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sakerhetspodcasten.se/&#34;&gt;Säkerhetspodcasten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.assured.se/&#34;&gt;Assured&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theregister.co.uk/2018/01/02/intel_cpu_design_flaw/&#34;&gt;Artikeln i the Register&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://googleprojectzero.blogspot.se/&#34;&gt;Googles säkerhetsforskningsgrupp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iaik.tugraz.at/&#34;&gt;Forskningsgruppen i Graz&lt;/a&gt; som också hittade problemen&lt;/li&gt;
+&lt;li&gt;Anders Fogh - &lt;a href=&#34;https://twitter.com/anders_fogh&#34;&gt;Twitter&lt;/a&gt; och &lt;a href=&#34;https://cyber.wtf/2018/01/05/behind-the-scene-of-a-bug-collision/&#34;&gt;bloggpost om Spectre och Meltdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Speculative_execution&#34;&gt;Spekulativ exekvering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MIPS_architecture&#34;&gt;MIPS-arkitektur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cyber.wtf/2017/07/28/negative-result-reading-kernel-memory-from-user-mode/&#34;&gt;Anders Foghs bloggpost från slutet av juli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_95&#34;&gt;Windows 95&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Windows_NT_4.0&#34;&gt;Windows NT 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Page_table&#34;&gt;Page-tabellen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Translation_lookaside_buffer#PCID&#34;&gt;PCID&lt;/a&gt; - process-context identifier&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Side-channel_attack&#34;&gt;Sidokanaler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Out-of-order_execution&#34;&gt;Out-of-order-exekvering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chrome_V8&#34;&gt;V8&lt;/a&gt; - Googles Javascriptmotor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:534636d4157f7774d7bcab327ffd52be&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Blandad säkerhetsrådgivning&lt;/li&gt;
+&lt;li&gt;Det kom som en läcka&lt;/li&gt;
+&lt;li&gt;Skicka in våra processorer och få nya&lt;/li&gt;
+&lt;li&gt;Gamla göttiga grejer&lt;/li&gt;
+&lt;li&gt;Kod som egentligen är omöjlig att exekvera&lt;/li&gt;
+&lt;li&gt;Skillnaden mellan Windows 95 och Windows NT 4&lt;/li&gt;
+&lt;li&gt;Där Meltdown går sönder&lt;/li&gt;
+&lt;li&gt;Ta en branch helt åt helvete&lt;/li&gt;
+&lt;li&gt;Utnyttja processorn när den är i ett sårbart tillstånd&lt;/li&gt;
+&lt;li&gt;Tiden har hunnit ikapp tekniken&lt;/li&gt;
+&lt;li&gt;Slav i din zombiearmé&lt;/li&gt;
+&lt;li&gt;Någonting som hade med James Bond att göra&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Kodsnack 242 - Kliva upp 06:00 25 dagar i sträck</title>
@@ -918,96 +979,6 @@
 &lt;li&gt;Jag har tappat kontakten med statisk analys&lt;/li&gt;
 &lt;li&gt;Många lager av ögon&lt;/li&gt;
 &lt;li&gt;Då kan ju hela korthuset falla&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 230 - 32000% last</title>
-      <link>http://kodsnack.se/230/</link>
-      <pubDate>Tue, 17 Oct 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/230/</guid>
-      <description>
-
-&lt;p&gt;Tobias, Kristoffer och Fredrik följer upp förra veckans livepodd med mer Git och annat för att sedan snacka hårdvara. Tobias nya trådrivande byggmaskin, närmare bestämt. Hemjobbare ser hemleverans på ett annat sätt än andra.&lt;/p&gt;
-
-&lt;h2 id=&#34;tobias-threadripper:28566049090b66e6e64f988f06213e1c&#34;&gt;Tobias Threadripper&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AMD Ryzen Threadripper 1950X - 16C/32T, 3,4GHz&lt;/li&gt;
-&lt;li&gt;MSI X399 GAMING PRO CARBON AC - ATX / X399&lt;/li&gt;
-&lt;li&gt;2 x Corsair Vengeance LPX Black 16GB (2x8GB) / 3000Mhz&lt;/li&gt;
-&lt;li&gt;EVGA PowerSupply (PSU) SuperNOVA 750 G2 750W&lt;/li&gt;
-&lt;li&gt;Fractal Design Define C&lt;/li&gt;
-&lt;li&gt;NZXT Kraken X62 All-in-One 2x140 mm Liquid Cooler&lt;/li&gt;
-&lt;li&gt;Samsung SSD 960 EVO 500GB (MZ-V6E500BW)&lt;/li&gt;
-&lt;li&gt;MSI GeForce® GT 1030 2GH LP OC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:28566049090b66e6e64f988f06213e1c&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/229/&#34;&gt;Liveavsnittet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/156/&#34;&gt;Avsnittet med Joe Armstrong&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/120/&#34;&gt;Avsnittet med Daniel Stenberg&lt;/a&gt; - skapare av Curl&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/35/&#34;&gt;Intervjun med Marcin de Kaminski&lt;/a&gt; från Internetdagarna&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/45/&#34;&gt;Din noja för Mark Zuckerberg&lt;/a&gt; - vårt avsnitt om Facebooks köp av Oculus&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Concurrent_Versions_System&#34;&gt;CVS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apache_Subversion&#34;&gt;Subversion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs/gitweb&#34;&gt;Gitweb&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/uz/v2/Git-Commands-Plumbing-Commands&#34;&gt;Plumbing&lt;/a&gt; - Gits lågnivåkommandon&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tomayko.com/blog/2008/the-thing-about-git&#34;&gt;Gits index&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gitready.com/beginner/2009/02/17/how-git-stores-your-data.html&#34;&gt;Bloblagret&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mercurial&#34;&gt;Mercurial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_Bazaar&#34;&gt;Bazaar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Videotape_format_war&#34;&gt;Betamax-VHS-kriget&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/High-definition_optical_disc_format_war&#34;&gt;Bluray mot HD-DVD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xkcd.com/927/&#34;&gt;XKCD om standarder&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cmake.org/&#34;&gt;Cmake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/poddavsnitt-13-git-och-dess-mysterier/&#34;&gt;TimeEdit&lt;/a&gt; - som Fredrik bygger på arbetstid&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/preview/Gavle-Developer-Meetup&#34;&gt;Gävle developer meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Web_Services&#34;&gt;AWS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.anandtech.com/show/11636/amd-ryzen-threadripper-1920x-1950x-16-cores-4g-turbo-799-999-usd&#34;&gt;Threadripper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.webhallen.com/&#34;&gt;Webhallen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.archlinux.org/&#34;&gt;Arch linux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ethereum&#34;&gt;Ethereum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Folding@home&#34;&gt;Folding@home&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Coffee_Lake&#34;&gt;Coffee lake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/tobiashieta/status/917423732880302090&#34;&gt;Tobias twitterbild på threadrippern&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Emil Lundbergs länkar, tack!
-
-&lt;ul&gt;
-&lt;li&gt;Git from the bottom up: &lt;a href=&#34;https://jwiegley.github.io/git-from-the-bottom-up/&#34;&gt;text&lt;/a&gt; och &lt;a href=&#34;https://youtu.be/mdvlu_R8EWE&#34;&gt;föreläsning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tomayko.com/blog/2008/the-thing-about-git&#34;&gt;The thing about Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/swedencpp&#34;&gt;SwedenCpp&lt;/a&gt; - Stockholms meetupgrupp för C++&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC_LAXFBuK7J2J6NLiYzdPEA&#34;&gt;SwedenCpp på Youtube&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:28566049090b66e6e64f988f06213e1c&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vi är alla här idag&lt;/li&gt;
-&lt;li&gt;Vem är jag egentligen?&lt;/li&gt;
-&lt;li&gt;Det borde vara lättare att träffas virtuellt än i Uppsala&lt;/li&gt;
-&lt;li&gt;Helt naturligt för mig vid det här laget&lt;/li&gt;
-&lt;li&gt;Gå en intensivkurs och bara sluta gnälla&lt;/li&gt;
-&lt;li&gt;I långa loppet så vinner Git&lt;/li&gt;
-&lt;li&gt;Slippa duplicera arbete om och om igen&lt;/li&gt;
-&lt;li&gt;Begreppsavgrunden&lt;/li&gt;
-&lt;li&gt;Hårdvaruporr - safe for work&lt;/li&gt;
-&lt;li&gt;Jag hamnar på Youtube&lt;/li&gt;
-&lt;li&gt;Ett projekt som passar på och i 15 minuter&lt;/li&gt;
-&lt;li&gt;32000% last&lt;/li&gt;
-&lt;li&gt;Linus as a service&lt;/li&gt;
-&lt;li&gt;Här finns det bara ett ego och det är Linus&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
