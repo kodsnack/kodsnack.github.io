@@ -9,6 +9,97 @@
     <updated>Tue, 07 Nov 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 245 - An empathetic thing, with Steve Klabnik</title>
+      <link>http://kodsnack.se/245/</link>
+      <pubDate>Tue, 30 Jan 2018 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/245/</guid>
+      <description>
+
+&lt;p&gt;Fredrik chats with &lt;a href=&#34;https://www.steveklabnik.com/&#34;&gt;Steve Klabnik&lt;/a&gt; about &lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;, why the lucky stiff, &lt;a href=&#34;http://words.steveklabnik.com/the-closure-companion&#34;&gt;Closure&lt;/a&gt; and Webassembly.&lt;/p&gt;
+
+&lt;p&gt;What does Steve do, how is Rust coming along and how does the process work?&lt;/p&gt;
+
+&lt;p&gt;Who was why the lucky stiff and why does his publication later named Closure matter to people?&lt;/p&gt;
+
+&lt;p&gt;Finally: Webassembly, making the web good for applications in general and why Steve thinks it will be the biggest thing since Javascript was added to browsers.&lt;/p&gt;
+
+&lt;p&gt;Recorded on stage at &lt;a href=&#34;http://oredev.org/2017&#34;&gt;Øredev 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; for sponsoring our &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Comments, questions or tips? We are &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt; and &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; on Twitter, have a &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;page on Facebook&lt;/a&gt; and can be emailed at &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; if you want to write longer. We read everything we receive.&lt;/p&gt;
+
+&lt;p&gt;If you enjoy Kodsnack we would love a &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;review in iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;links:c7c50bd9787a3c0753cd3a1f06014030&#34;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.libsyn.com/&#34;&gt;Libsyn&lt;/a&gt; - one of the &amp;ldquo;classic&amp;rdquo; podcast hosting services&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.steveklabnik.com/&#34;&gt;Steve Klabnik&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/steveklabnik&#34;&gt;on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/&#34;&gt;Mozilla&lt;/a&gt; - where Steve works&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ruby_on_Rails&#34;&gt;Ruby on rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mac_OS_9&#34;&gt;Mac OS 9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jon_moore&#34;&gt;Jon Moore&lt;/a&gt; gave a &lt;a href=&#34;http://oredev.org/oredev2010/2010/sessions/hypermedia-apis.html&#34;&gt;talk on hypermedia in 2010&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/steveklabnik/status/927526410180268032&#34;&gt;The &amp;ldquo;No balloons&amp;rdquo; sign&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rust-lang/rfcs/blob/master/text/2052-epochs.md&#34;&gt;Epics or epochs in Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doc.rust-lang.org/book/&#34;&gt;The Rust programming language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nostarch.com/&#34;&gt;No starch press&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://m4rw3r.github.io/rust-questionmark-operator&#34;&gt;? in Rust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://crates.io/&#34;&gt;crates.io&lt;/a&gt; - the Rust package registry&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doc.rust-lang.org/cargo/&#34;&gt;Cargo&lt;/a&gt; - the Rust package manager&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ashleygwilliams&#34;&gt;Ashley Williams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/intermezzOS&#34;&gt;intermezzOS&lt;/a&gt; - the operating system Steve and Ashley are writing in Rust&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://redox-os.org/&#34;&gt;Redox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Servo_%28layout_engine%29&#34;&gt;Servo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://words.steveklabnik.com/the-closure-companion&#34;&gt;Closure&lt;/a&gt; - the book&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Why_the_lucky_stiff&#34;&gt;why the lucky stiff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://poignant.guide/&#34;&gt;why&amp;rsquo;s (poignant) guie to Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hacketyhack&#34;&gt;Hackety hack&lt;/a&gt; - and &lt;a href=&#34;https://en.wikipedia.org/wiki/Hackety_Hack&#34;&gt;on Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Shoes_%28GUI_toolkit%29&#34;&gt;Shoes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MaWHVceDbFo&#34;&gt;Steve&amp;rsquo;s Madison Ruby talk about Closure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://words.steveklabnik.com/the-closure-companion&#34;&gt;The blog post, as linked above&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.brockoleur.com/&#34;&gt;Keving Brock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7oeEQhOmGpg&#34;&gt;Imogen Heap and her gloves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://webassembly.org/&#34;&gt;Webassembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.chrome.com/native-client&#34;&gt;Nacl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dartlang.org/&#34;&gt;Dart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://asmjs.org/&#34;&gt;asm.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.chrome.com/native-client/nacl-and-pnacl&#34;&gt;Pnacl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM#Intermediate_representation&#34;&gt;LLVM-IR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ethereum&#34;&gt;Ethereum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Roku&#34;&gt;Roku&lt;/a&gt;&amp;lsquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wicg.github.io/webusb/&#34;&gt;The WebUSB specification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript&#34;&gt;The birth and death of Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bac0dGQbUto&#34;&gt;Dan Callahan compiling Dosbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dosbox.com/&#34;&gt;Dosbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ojmng198Ni0&#34;&gt;Netscape 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titles:c7c50bd9787a3c0753cd3a1f06014030&#34;&gt;Titles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hi, I&amp;rsquo;m Steve&lt;/li&gt;
+&lt;li&gt;Straight to Linux&lt;/li&gt;
+&lt;li&gt;Building a commons&lt;/li&gt;
+&lt;li&gt;People over companies&lt;/li&gt;
+&lt;li&gt;Could be rich by being miserable&lt;/li&gt;
+&lt;li&gt;An empathetic thing&lt;/li&gt;
+&lt;li&gt;Words that weren&amp;rsquo;t going out of date&lt;/li&gt;
+&lt;li&gt;Safety, performance and ergonomics&lt;/li&gt;
+&lt;li&gt;People don&amp;rsquo;t build bridges on sand&lt;/li&gt;
+&lt;li&gt;My job is all English, not code&lt;/li&gt;
+&lt;li&gt;Picking up someone else&amp;rsquo;s life work&lt;/li&gt;
+&lt;li&gt;None of this makes any sense, Steve&lt;/li&gt;
+&lt;li&gt;Compile Rust in Rust in the browser&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 244 - Knuthsnack</title>
       <link>http://kodsnack.se/244/</link>
       <pubDate>Tue, 23 Jan 2018 05:26:14 UTC</pubDate>
@@ -925,78 +1016,6 @@
 &lt;li&gt;Är jag bäst för att jag skrev snyggast unit test?&lt;/li&gt;
 &lt;li&gt;Tät återkommande feedback&lt;/li&gt;
 &lt;li&gt;Jag var bara sjukt negativ&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 232 - Två fredagsöl varje vecka</title>
-      <link>http://kodsnack.se/232/</link>
-      <pubDate>Tue, 31 Oct 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/232/</guid>
-      <description>
-
-&lt;p&gt;Origin stories! (Ursprungshistorier?) Tobias, Fredrik och &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;Amanda&lt;/a&gt; snackar om hur vi kom in på det här konstiga spåret med programmering. På vägen hinner vi också med en del om livet som konsult, både bra, dåliga och i vissa fall rent märkliga saker.&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:b5808c65db6162b602713d2d52be1260&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Performance_appraisal&#34;&gt;Prestandarecensioner&lt;/a&gt; - performance reviews&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oredev.org/&#34;&gt;Øredev&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://internetdagarna.se/&#34;&gt;Internetdagarna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;Amanda Sjöström&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/194/&#34;&gt;Avsnitt 194&lt;/a&gt; - förra gången Amanda var med i Kodsnack&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stillinbeta.se/&#34;&gt;Still in beta&lt;/a&gt; - Amandas första podd&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Innan&amp;rdquo; utgör &lt;a href=&#34;http://kodsnack.se/sumpsnack/33/&#34;&gt;veckans Sumpsnack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cygni.se/om-oss/&#34;&gt;Cygni&lt;/a&gt; - konsultbolaget Amanda jobbar på&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Financial_technology&#34;&gt;Fintech&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scila.se/&#34;&gt;Scila&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Educational_technology&#34;&gt;Edtech&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/&#34;&gt;TimeEdit&lt;/a&gt; - företaget och produkten Fredrik jobbar med&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition&#34;&gt;Enterprisejava&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Access&#34;&gt;Microsoft access&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Systemvetenskap&#34;&gt;Systemvetenskap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Skellefte%C3%A5&#34;&gt;Skellefteå&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Sollefte%C3%A5&#34;&gt;Sollefteå&lt;/a&gt; - &lt;em&gt;inte&lt;/em&gt; samma ort&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Datavetenskap&#34;&gt;Datavetare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ML_%28programming_language%29&#34;&gt;ML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Haskell_%28programming_language%29&#34;&gt;Haskell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://datatjej.se/&#34;&gt;Datatjej&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intel_80486&#34;&gt;486&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intel_80286&#34;&gt;286&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Perl&#34;&gt;Perl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/XMMS&#34;&gt;XMMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Plex_%28software%29&#34;&gt;Plex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Turbo_Pascal&#34;&gt;Turbopascal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Extended_Video_Graphics_Array&#34;&gt;EVGA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Color_Graphics_Adapter&#34;&gt;CGA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Request_for_proposal&#34;&gt;RFP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/231/&#34;&gt;Klustertrucken förra veckan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:b5808c65db6162b602713d2d52be1260&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Har du också novemberfeelings?&lt;/li&gt;
-&lt;li&gt;Varför just en gång i veckan?&lt;/li&gt;
-&lt;li&gt;Jag är produktbolagsmänniska&lt;/li&gt;
-&lt;li&gt;En helt bisarr process&lt;/li&gt;
-&lt;li&gt;Då tog vi för lite betalt&lt;/li&gt;
-&lt;li&gt;Noll respekt för process&lt;/li&gt;
-&lt;li&gt;En väldigt frustrerande tid i mitt liv&lt;/li&gt;
-&lt;li&gt;Sista gången jag jobbade som konsult&lt;/li&gt;
-&lt;li&gt;Noll klumpiga processer&lt;/li&gt;
-&lt;li&gt;Två fredagsöl varje vecka&lt;/li&gt;
-&lt;li&gt;IT, vem håller på med det?&lt;/li&gt;
-&lt;li&gt;Nördarna i källaren&lt;/li&gt;
-&lt;li&gt;Man googlar två gånger så sitter det sedan&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
