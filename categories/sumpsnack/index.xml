@@ -9,6 +9,85 @@
     <updated>Tue, 07 Nov 2017 05:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 246 - Komplex kod som ser ut som skräp och fungerar</title>
+      <link>http://kodsnack.se/246/</link>
+      <pubDate>Tue, 06 Feb 2018 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/246/</guid>
+      <description>
+
+&lt;p&gt;Tobias, Amanda, Martin och Fredrik diskuterar komplexitet, både i egen kod och i den stapel av kod på vilken vi bygger vår egen kod. Vi utgår från artikeln &lt;a href=&#34;https://www.simplethread.com/software-complexity-killing-us/&#34;&gt;Software complexity is killing us&lt;/a&gt; och drar iväg på våra egna tankespår och kodbaser därifrån. Vi kommer också in på skillnaden i att skriva och utveckla mest för sig själv i enmansprojekt kontra i större projekt. Vi tar upp glädjen i att skriva om (eller ännu hellre slänga bort) kod, och klassiska svåra och snåriga ställen i koden där folk i bästa fall vågar lägga till saker men definitivt inte omarbeta.&lt;/p&gt;
+
+&lt;p&gt;Det hjälper förstås inte att de områden vi arbetar med är både så breda och djupa att ingen längre kan ha bra koll på mer än sin ganska noga valda del.&lt;/p&gt;
+
+&lt;p&gt;Har någon som lyssnar tankar om komplexitet? Bra verktyg för att visualisera olika aspekter eller möjliga problemområden? Hör av er!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:2abbcbcc54b93301a6e542124fd279ba&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/242/&#34;&gt;Advent of code-avsnittet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/blog&#34;&gt;git reset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs/git-rebase&#34;&gt;git rebase abort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scila.se/&#34;&gt;Scila&lt;/a&gt; - där Amanda konsultar, ett företag som verkligen inte använder enterprise-Java&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/244/&#34;&gt;Knuth-avsnittet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TeX&#34;&gt;TeX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LaTeX&#34;&gt;LaTex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_golf&#34;&gt;Kodgolfning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dwitter.net/&#34;&gt;Dwitter&lt;/a&gt; - och &lt;a href=&#34;https://www.dwitter.net/u/DonKarlssonSan&#34;&gt;Johan Karlssons bidrag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spectreattack.com/&#34;&gt;Spectre, Meltdown&lt;/a&gt; och &lt;a href=&#34;http://kodsnack.se/243/&#34;&gt;vårt avsnitt&lt;/a&gt; på ämnet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nondot.org/sabre/&#34;&gt;Chris Lattner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LLVM&#34;&gt;LLVM&lt;/a&gt; och &lt;a href=&#34;https://en.wikipedia.org/wiki/Clang&#34;&gt;Clang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.simplethread.com/software-complexity-killing-us/&#34;&gt;Software complexity is killing us&lt;/a&gt; - artikeln vi diskuterar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/14/&#34;&gt;Ramvärk&lt;/a&gt; - avsnitt 14!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freetype.org/&#34;&gt;Freetype&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.github.io/react-native/&#34;&gt;React native&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rymdkapsel.com/&#34;&gt;Rymdkapsel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PlayStation_Vita&#34;&gt;Playstation vita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Stack-based_memory_allocation&#34;&gt;Stackminne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy&#34;&gt;Sunk cost fallacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wooji-juice.com/products/ferrite/support.html&#34;&gt;Ferrite&lt;/a&gt; och &lt;a href=&#34;https://www.wooji-juice.com/blog/ferrite-app-architecture.html&#34;&gt;dess arkitektur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sergueif/git-heat&#34;&gt;Git-heat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swetugg.se/swetugg-2018&#34;&gt;Swetugg&lt;/a&gt; - säg hej till Amanda om du ser henne där!&lt;/li&gt;
+&lt;li&gt;Anton&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stillinbeta.se/&#34;&gt;Still in beta&lt;/a&gt; - Amandas första podd&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jfokus.se/jfokus/&#34;&gt;Jfokus&lt;/a&gt; - säg hej till Amanda om du ser henne där också!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Javaforum-Goteborg/&#34;&gt;Javaforum i Göteborg&lt;/a&gt; - dit kommer Kodsnack i april!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:2abbcbcc54b93301a6e542124fd279ba&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En förvånansvärt stor panel&lt;/li&gt;
+&lt;li&gt;Skäms för att du inte förstår&lt;/li&gt;
+&lt;li&gt;Extra oläsbart&lt;/li&gt;
+&lt;li&gt;Så många slott byggda ovanpå varandra&lt;/li&gt;
+&lt;li&gt;Den unika snöflingan som måste ha allting handskrivet&lt;/li&gt;
+&lt;li&gt;(Hur gör jag det på) det mest generella sättet?&lt;/li&gt;
+&lt;li&gt;Jag vill ta bort ett ramverk&lt;/li&gt;
+&lt;li&gt;Det vore bra om det var bättre&lt;/li&gt;
+&lt;li&gt;Vilka kakor jag lägger ovanpå kakan&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Oj, vad synd!&amp;rdquo; Och så får man göra något annat&lt;/li&gt;
+&lt;li&gt;Jag bygger huset medan jag bor i det&lt;/li&gt;
+&lt;li&gt;Vilket jäkla råttbo det här är&lt;/li&gt;
+&lt;li&gt;Den källkoden pratar vi inte om&lt;/li&gt;
+&lt;li&gt;En stor härva if-satser&lt;/li&gt;
+&lt;li&gt;När skulle det här ha gjorts?&lt;/li&gt;
+&lt;li&gt;Någonstans mellan 50 rader och 6000&lt;/li&gt;
+&lt;li&gt;Komplex kod som ser ut som skräp och fungerar&lt;/li&gt;
+&lt;li&gt;Det är gamla Bettan liksom&lt;/li&gt;
+&lt;li&gt;I bästa fall funkar det lika bra som det gjorde innan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 245 - An empathetic thing, with Steve Klabnik</title>
       <link>http://kodsnack.se/245/</link>
       <pubDate>Tue, 30 Jan 2018 05:26:14 UTC</pubDate>
@@ -960,62 +1039,6 @@
 &lt;li&gt;Samma ångest varje år&lt;/li&gt;
 &lt;li&gt;Den översta pixeln på hornen&lt;/li&gt;
 &lt;li&gt;Ner från det högra hornet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 233 - En recension av alla mina kollegor</title>
-      <link>http://kodsnack.se/233/</link>
-      <pubDate>Tue, 07 Nov 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/233/</guid>
-      <description>
-
-&lt;p&gt;Tobias, Amanda och Fredrik snackar utvecklingssamtal, återkoppling och amerikanska kontra svenska sätt att hantera det hela. Tobias berättar om hur Plex använder sig av 360-återkoppling, en metod där man lämnar skriftlig återkoppling på alla man arbetar med, som sedan sammanställs och delges varje medarbetare. Vi går igenom både fördelar och nackdelar, och kommer också in på hur jobbåterkoppling kan vara användbar i privatlivet och hur känsligt och svårt det är att få sparken. Har ni som lyssnare åsikter om utvecklingssamtal och andra metoder för återkoppling på jobbet vill vi givetvis mer än gärna höra av er!&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av Sveriges andra IT-tätaste stad, nämligen Växjö! Läs allt om Växjö och alla IT-jobb i staden på &lt;a href=&#34;http://www.itjobbivaxjo.se/&#34;&gt;itjobbivaxjo.se&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:dfe710958484a3d98f07fd844470e9da&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Plex_%28software%29&#34;&gt;Plex&lt;/a&gt; - där Tobias jobbar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/360-degree_feedback&#34;&gt;360-återkopplingsmodellen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.itjobbivaxjo.se/&#34;&gt;Växjö&lt;/a&gt; - Sveriges andra IT-tätaste stad och veckans sponsor av Kodsnack&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Tingstadstunneln&#34;&gt;Tingstadstunneln&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pmrestauranger.se/sv/restaurant/utmarkelser/&#34;&gt;Michelinstjärna&lt;/a&gt; och &lt;a href=&#34;https://vaxjoco.se/blog/aktuellt/white-guide-2017/&#34;&gt;White guide-restauranger&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.itjobbivaxjo.se/jobb/&#34;&gt;Alla jobb som söks för stunden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.itjobbivaxjo.se/styr-var-robot/&#34;&gt;Jobbesök via kontorsrobot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.itjobbivaxjo.se/&#34;&gt;itjobbivaxjo.se&lt;/a&gt; - all information om både jobb och stad&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vitality_curve&#34;&gt;Stack ranking&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:dfe710958484a3d98f07fd844470e9da&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En ganska klassisk svensk grej&lt;/li&gt;
-&lt;li&gt;Presterar du?&lt;/li&gt;
-&lt;li&gt;Ett prestationsmål&lt;/li&gt;
-&lt;li&gt;Inte bara jag och min chef&lt;/li&gt;
-&lt;li&gt;Ganska osvenskt&lt;/li&gt;
-&lt;li&gt;En recension av alla mina kollegor&lt;/li&gt;
-&lt;li&gt;Förutom att det är väldigt obekvämt&lt;/li&gt;
-&lt;li&gt;Med hjälp av personalavdelningen&lt;/li&gt;
-&lt;li&gt;En renskriven sammanfattning&lt;/li&gt;
-&lt;li&gt;Ni har ju sett min ångest&lt;/li&gt;
-&lt;li&gt;Två veckor för tre månader sedan&lt;/li&gt;
-&lt;li&gt;Jag vet att jag gör så&lt;/li&gt;
-&lt;li&gt;Du gör tillräckligt&lt;/li&gt;
-&lt;li&gt;Ett problem med livet&lt;/li&gt;
-&lt;li&gt;Är jag bäst för att jag skrev snyggast unit test?&lt;/li&gt;
-&lt;li&gt;Tät återkommande feedback&lt;/li&gt;
-&lt;li&gt;Jag var bara sjukt negativ&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
