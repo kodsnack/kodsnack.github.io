@@ -9,8 +9,8 @@
     <channel>
         <atom:link href="http://kodsnack.se/sumpsnack/index.xml" rel="self" type="application/rss+xml"/>
         <title>Sumpsnack</title>
-        <pubDate>07 Nov 2017 05:26 +0000</pubDate>
-        <lastBuildDate>07 Nov 2017 05:26 +0000</lastBuildDate>
+        <pubDate>12 Feb 2018 19:26 +0000</pubDate>
+        <lastBuildDate>12 Feb 2018 19:26 +0000</lastBuildDate>
         <generator>hugo</generator>
         <link>http://kodsnack.se/sumpsnack</link>
         <language>sv</language>
@@ -34,6 +34,47 @@
         </itunes:owner>
         <itunes:summary>Sumpsnack är vad Fredrik, Kristoffer och Tobias gör innan eller efter vi spelar in Kodsnack.</itunes:summary>
         <itunes:subtitle>Ett poddradioprogram på svenska av utvecklare, för ingen, om allting.</itunes:subtitle>
+        
+            <item>
+                <title>Sumpsnack 35 - Då är väl sex ganska centralt </title>
+                <pubDate>12 Feb 2018 19:26 +0000</pubDate>
+                <guid>http://kodsnack.se/sumpsnack/35/</guid>
+                <link>http://kodsnack.se/sumpsnack/35/</link>
+                <itunes:image href="http://kodsnack.se/img/sumpsnack.png"/>
+                <description>
+                    
+
+&lt;p&gt;Filmsnack! Altered carbon - intryck och funderingar efter att Tobias sett fyra avsnitt. Inga konkreta spoilers, men en undran om varför det är så mycket sex i cyberpunk. Därefter intryck av Blade runner 2049 och förväntningar på Black panther. Plus boktips.&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:6371353a5ff48e714176994a59bfdf29&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Altered_Carbon_%28TV_series%29&#34;&gt;Altered carbon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Joel_Kinnaman&#34;&gt;Joel Kinnaman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Blade_Runner&#34;&gt;Blade runner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Blade_Runner_2049&#34;&gt;Blade runner 2049&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Thor:_Ragnarok&#34;&gt;Thor: ragnarok&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Black_Panther_%28film%29&#34;&gt;Black panther&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Nnedi_Okorafor&#34;&gt;Nnedi Okorafor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Binti_%28novel%29#Sequels&#34;&gt;Binit-trilogin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Star_Trek:_Discovery&#34;&gt;Star trek: discovery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:6371353a5ff48e714176994a59bfdf29&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Neon och regn och strippklubb&lt;/li&gt;
+&lt;li&gt;Då är väl sex ganska centralt&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                <enclosure length="5486556" type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.bjoreman.com/files/sumpsnack/Sumpsnack_35.mp3"/>
+                <itunes:duration>10:24</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords/>
+                <itunes:subtitle>
+                </itunes:subtitle>
+            </item>
         
             <item>
                 <title>Sumpsnack 34 - Jag har aldrig haft ett eget kontor </title>
