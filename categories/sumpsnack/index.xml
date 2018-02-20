@@ -9,6 +9,89 @@
     <updated>Mon, 12 Feb 2018 19:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 248 - 6,8 gigabyte texteditor</title>
+      <link>http://kodsnack.se/248/</link>
+      <pubDate>Tue, 20 Feb 2018 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/248/</guid>
+      <description>
+
+&lt;p&gt;Martin, Amanda och Fredrik snackar IDE:er, texteditorer och andra hjälpsamma kodverktyg. Vi diskuterar att betala för verktyg, överväldigande miljöer och att komma in i och anpassa sina verktyg. Vill vi ställa in mycket eller lite, och vad tycker vi om Slacks putslustiga startmeddelanden? Atoms för- och nackdelar samt Vims diskreta och svårtillgängliga charm avhandlas också.&lt;/p&gt;
+
+&lt;p&gt;Och lite tangentbord. Som att lära sig att skriva med blanka tangenter.&lt;/p&gt;
+
+&lt;p&gt;Avsnittet sponsras till vår stora glädje av &lt;a href=&#34;http://developersbay.se/&#34;&gt;Developers bay&lt;/a&gt; - Sveriges främsta agentur och nätverk för IT-specialister! Developers bay hjälper dig som frilansar att hitta intressanta uppdrag, och ger dig ett nätverk av kollegor och trevliga aktiviteter. Surfa in på &lt;a href=&#34;http://developersbay.se/&#34;&gt;developersbay.se&lt;/a&gt; eller skicka ett mejl till &lt;a href=&#34;mailto:hello@developersbay.se&#34;&gt;hello@developersbay.se&lt;/a&gt; om du vill veta mer!&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:14ebec8a954927a2c7fede4bcb92d512&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hallandsposten.se/nyheter/livet-efter-freden-i-roskilde-1.1976562&#34;&gt;Det var inte Bornholm utan några mindre öar&lt;/a&gt; som hamnade under ett ölglas under fredsförhandlingarna i Roskilde&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Svenska_kolonier&#34;&gt;Sveriges fem kolonier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unity_%28game_engine%29&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MonoDevelop&#34;&gt;Monodevelop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/resharper/&#34;&gt;Resharper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/idea/?fromMenu&#34;&gt;Intellij&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/webstorm/?fromMenu&#34;&gt;Webstorm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/rider/?fromMenu&#34;&gt;Rider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Intelligent_code_completion#IntelliSense&#34;&gt;Intellisense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lint_%28software%29&#34;&gt;Linter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Haxe&#34;&gt;Haxe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.flashdevelop.org/&#34;&gt;Flashdevelop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Eclipse_%28software%29&#34;&gt;Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://babeljs.io/&#34;&gt;Babel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;Sublime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prettier.io/&#34;&gt;Prettier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Android_Studio&#34;&gt;Android studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Atom_%28text_editor%29&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Visual_Studio_Code&#34;&gt;Visual studio code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://insights.stackoverflow.com/survey/&#34;&gt;Stack overflows utvecklarenkät&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Notepad%2B%2B&#34;&gt;Notepad++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://developersbay.se/&#34;&gt;Developers bay&lt;/a&gt; - veckans sponsor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:hello@developersbay.se&#34;&gt;hello@developersbay.se&lt;/a&gt; - bara att mejla om du vill veta mer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pico_%28text_editor%29&#34;&gt;Pico&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://netbeans.org/&#34;&gt;Netbeans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/phpstorm/?fromMenu&#34;&gt;Phpstorm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/84/&#34;&gt;En arg britt som slår en på fingrarna&lt;/a&gt; (det var inte en nazist, vilket nog var skönt)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://foto-sara.blogspot.se/2009/05/kvitto-budskap.html&#34;&gt;Fjällad ciklid liknar nyklippt druid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wasdkeyboards.com/index.php/products/code-keyboard.html&#34;&gt;WASD code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.daskeyboard.com/&#34;&gt;Das keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/&#34;&gt;Cherry MX blue-switchar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard&#34;&gt;Dvorak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Authenticator&#34;&gt;Google authenticator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.keyboardco.com/blog/index.php/2017/08/full-size-tkl-60-and-more-a-guide-to-mechanical-keyboard-sizes/&#34;&gt;60%-tangentbord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.timeedit.com/poddavsnitt-21-allt-om-klickande-tangentbord/&#34;&gt;Poddavsnittet om tangentbord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:14ebec8a954927a2c7fede4bcb92d512&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vi har nått de tre kusterna&lt;/li&gt;
+&lt;li&gt;Vi har ingen nordlig kust&lt;/li&gt;
+&lt;li&gt;Norr om Nordkap&lt;/li&gt;
+&lt;li&gt;Det bortglömda landskapet&lt;/li&gt;
+&lt;li&gt;Det kan vara skönt att veta att Sverige som land har varit sämre än man själv som person&lt;/li&gt;
+&lt;li&gt;Att leva utan Resharper känns ju horribelt&lt;/li&gt;
+&lt;li&gt;Alla de gamla kolosserna&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Du vill ju det här&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Alt-enter-enter&lt;/li&gt;
+&lt;li&gt;Början på en fin vänskap&lt;/li&gt;
+&lt;li&gt;Vad gör du, ska jag fixa det till dig?&lt;/li&gt;
+&lt;li&gt;De gröna små pluttarna&lt;/li&gt;
+&lt;li&gt;6,8 gigabyte texteditor&lt;/li&gt;
+&lt;li&gt;Jag gick in i Pico&lt;/li&gt;
+&lt;li&gt;Fjällad ciklid liknar nyklippt druid&lt;/li&gt;
+&lt;li&gt;Jag kan inte skriva mina lösenord längre&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 247 - Slutet på eskaleringskön</title>
       <link>http://kodsnack.se/247/</link>
       <pubDate>Tue, 13 Feb 2018 05:26:14 UTC</pubDate>
@@ -1019,66 +1102,6 @@
 &lt;li&gt;Mycket väsen för en datastruktur&lt;/li&gt;
 &lt;li&gt;Vad tror man egentligen när någon säger blockkedja?&lt;/li&gt;
 &lt;li&gt;Skriva dagbok ut i rymden&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 234 - Inbäddad HR</title>
-      <link>http://kodsnack.se/234/</link>
-      <pubDate>Tue, 14 Nov 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/234/</guid>
-      <description>
-
-&lt;p&gt;Tobias, Amanda och Kristoffer snackar först mer om utvecklingssamtal och återkoppling. Kristoffer berättar hur det fungerar på Suse, Tobias berättar om uppföljning han fått på de senaste utvärderingarna och Amanda tar upp olika sätt HR fungerar på.&lt;/p&gt;
-
-&lt;p&gt;Det andra huvudämnet är vad som händer när molnberoende prylar får sitt moln avstängt. Logitech kommer att stänga av servrarna för sin fjärrkontroll Harmony link vilket gör hela produkten oanvändbar. Hur lägger man ner gamla tjänster på ett bra sätt, hur informerar man användarna om det? Borde man informera tydligt om vilka beroenden ens produkt har? Borde vi ha klisterlappar om molnberoende på alla prylar som säljs? Borde EU lägga sig i och lagstifta om någon typ av öppenhet? Tankar och tyckande välkomnas som vanligt!&lt;/p&gt;
-
-&lt;p&gt;Avsnittet sponsras till vår stora glädje av Sveriges andra IT-tätaste stad, nämligen Växjö! Läs allt om Växjö och alla IT-jobb i staden på &lt;a href=&#34;http://www.itjobbivaxjo.se/&#34;&gt;itjobbivaxjo.se&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:19b9b1fa653b8d7835e1399f927a4e14&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/233/&#34;&gt;Förra veckans avsnitt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/360-degree_feedback&#34;&gt;360-återkopplingsmodellen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/christolsson&#34;&gt;Christofer Ohlsson&lt;/a&gt; - tack för återkopplingen!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/SUSE&#34;&gt;Suse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.itjobbivaxjo.se/&#34;&gt;Växjö&lt;/a&gt; - Sveriges andra IT-tätaste stad och veckans sponsor av Kodsnack&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sv.wikipedia.org/wiki/Tingstadstunneln&#34;&gt;Tingstadstunneln&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.pmrestauranger.se/sv/restaurant/utmarkelser/&#34;&gt;Michelinstjärna&lt;/a&gt; och &lt;a href=&#34;https://vaxjoco.se/blog/aktuellt/white-guide-2017/&#34;&gt;White guide-restauranger&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.itjobbivaxjo.se/jobb/&#34;&gt;Alla jobb som söks för stunden&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.itjobbivaxjo.se/styr-var-robot/&#34;&gt;Jobbesök via kontorsrobot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.itjobbivaxjo.se/&#34;&gt;itjobbivaxjo.se&lt;/a&gt; - all information om både jobb och stad&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.theverge.com/circuitbreaker/2017/11/9/16629906/logitech-free-harmony-hub-upgrade-link-owners&#34;&gt;Logitech harmony link-historien&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/GNU_General_Public_License&#34;&gt;GPL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TiVo&#34;&gt;Tivo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Reader&#34;&gt;Google reader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Echo&#34;&gt;Amazon echo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chromecast&#34;&gt;Chromecast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:19b9b1fa653b8d7835e1399f927a4e14&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Min utvärdering av mig själv&lt;/li&gt;
-&lt;li&gt;Vi diskuterar året som har gått&lt;/li&gt;
-&lt;li&gt;Jag har lite svårt för HR&lt;/li&gt;
-&lt;li&gt;Jag är lite av en kaosapa&lt;/li&gt;
-&lt;li&gt;Är det inte så det funkar med estimat?&lt;/li&gt;
-&lt;li&gt;Du är kass, här är din löneförhöjning&lt;/li&gt;
-&lt;li&gt;Inbäddad HR&lt;/li&gt;
-&lt;li&gt;Kontorspappa&lt;/li&gt;
-&lt;li&gt;Bara för att användarna fortfarande använder&lt;/li&gt;
-&lt;li&gt;Du är inte lovad någonting&lt;/li&gt;
-&lt;li&gt;Beroenden på nätet&lt;/li&gt;
-&lt;li&gt;Uppköpta av Nordkorea&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
