@@ -9,6 +9,107 @@
     <updated>Mon, 12 Feb 2018 19:26:14 UTC</updated>
     
     <item>
+      <title>Kodsnack 250 - Followup till mig själv</title>
+      <link>http://kodsnack.se/250/</link>
+      <pubDate>Tue, 06 Mar 2018 05:26:14 UTC</pubDate>
+      <author>Kodsnack</author>
+      <guid>http://kodsnack.se/250/</guid>
+      <description>
+
+&lt;p&gt;Fredrik och Tobias … följer upp avsnitt 248, mest. Inledningsvis projekt, avslut och metodik. Tänk om man hade ett jobb som berodde på att tillämpa metodik, istället för vad man faktiskt fick gjort. Och tänk om man inte fastnade i sina egna tankar och intryck för mycket.&lt;/p&gt;
+
+&lt;p&gt;Tobias jagar nytt tangentbord och önskar tips och Fredrik har använt Das keyboard en dryg vecka. Sedan följer vi upp diskussionen om textredigerare. Tobias berättar varför han gillar Atom framför många andra editorer och IDE:er. Dessutom förklarar Tobias charmen med Vim så att det till och med går upp ett ljus för Fredrik.&lt;/p&gt;
+
+&lt;p&gt;Sist men inte minst en liten dos huvudämne(?): Tobias har haft nytta och glädje av Docker.&lt;/p&gt;
+
+&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
+
+&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;länkar:63cb3c1624d546ccc76b52052b914c8f&#34;&gt;Länkar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Scrum_%28software_development%29&#34;&gt;Scrum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hoover_Dam&#34;&gt;Hooverdammen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/248/&#34;&gt;248&lt;/a&gt; - Snacket om bland annat tangentbord och texteditorer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.daskeyboard.com/&#34;&gt;Das keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bjoreman/status/965942158015586305&#34;&gt;Bilden på Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/&#34;&gt;Cherry MX blue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Model_M_keyboard&#34;&gt;IBM modell M&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matias.ca/ergopro/pc/&#34;&gt;Matias ergo pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.keyboardco.com/&#34;&gt;The keyboard company&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.trulyergonomic.com/store/index.php&#34;&gt;Truly ergonomic keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/230/&#34;&gt;Tobias Threadripper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/KVM_switch&#34;&gt;KVM-switch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://teleport.en.softonic.com/mac&#34;&gt;Teleport&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://symless.com/synergy&#34;&gt;Synergy&lt;/a&gt; - inte Synapse&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/accessories/sv-se/products/keyboards/sculpt-ergonomic-desktop/l5v-00009&#34;&gt;Microsoft sculpt ergonomic keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ultimatehackingkeyboard.com/&#34;&gt;Ultimate hacking keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shop.keyboard.io/&#34;&gt;Keyboardio&lt;/a&gt; - i trä&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ergodox-ez.com/&#34;&gt;Ergodox EZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://electronjs.org/&#34;&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;Pycharm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pylint.org/&#34;&gt;Pylint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lint_%28software%29&#34;&gt;Linter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Groovy_%28programming_language%29&#34;&gt;Groovy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vim_%28text_editor%29&#34;&gt;Vim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/philc/vimium&#34;&gt;Vimium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IBM_Personal_System/2&#34;&gt;IBM PS/2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://doc.qt.io/qtcreator/&#34;&gt;QT creator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/clion/&#34;&gt;Clion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Docker_%28software%29&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LXC&#34;&gt;LXC&lt;/a&gt; - Linux container-API&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/User_space&#34;&gt;User space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29&#34;&gt;LAMP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hub.docker.com/&#34;&gt;Docker hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chef_%28software%29&#34;&gt;Chef&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Chroot&#34;&gt;chroot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jenkins_%28software%29&#34;&gt;Jenkins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jfrog.com/artifactory/&#34;&gt;Artifactory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/249/&#34;&gt;Avsnitt 249&lt;/a&gt; - med Olle Landin&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.acer.com/ac/en/US/content/series/xr&#34;&gt;Tobias ultrabreda skärm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Javaforum-Goteborg/events/246859957/&#34;&gt;Kodsnack kommer till Javaforum i Göteborg i april!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;titlar:63cb3c1624d546ccc76b52052b914c8f&#34;&gt;Titlar&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nu har jag suttit i kaninhål så länge&lt;/li&gt;
+&lt;li&gt;Ett helt träd av lappar&lt;/li&gt;
+&lt;li&gt;Chockad av någon som pratar agila grejer&lt;/li&gt;
+&lt;li&gt;Enhörningsprojektet&lt;/li&gt;
+&lt;li&gt;Tangentbordet inom räckhåll om det skulle vara något&lt;/li&gt;
+&lt;li&gt;Followup till mig själv&lt;/li&gt;
+&lt;li&gt;Det är uppenbart att jag har stora problem&lt;/li&gt;
+&lt;li&gt;Jag hatar att boota om mina datorer&lt;/li&gt;
+&lt;li&gt;Jag hatar att dualboota&lt;/li&gt;
+&lt;li&gt;Supertrendigt med kickstartade tangentbord&lt;/li&gt;
+&lt;li&gt;Har man hittat sitt träslag till tangentbordet så vill man aldrig gå tillbaka&lt;/li&gt;
+&lt;li&gt;Köp ett bra tangentbord, snälla&lt;/li&gt;
+&lt;li&gt;Ni har ju jättefel&lt;/li&gt;
+&lt;li&gt;Mitt grottmänniskomedvetande&lt;/li&gt;
+&lt;li&gt;Det sista ni hade fel på&lt;/li&gt;
+&lt;li&gt;Som gjort för en programmerare&lt;/li&gt;
+&lt;li&gt;Precis som du kan i ett vanligt programmeringsspråk&lt;/li&gt;
+&lt;li&gt;Min professor i C++&lt;/li&gt;
+&lt;li&gt;Vad är det som händer på skärmen?&lt;/li&gt;
+&lt;li&gt;f10w&lt;/li&gt;
+&lt;li&gt;Det är svårt att säga Vimkommandon högt&lt;/li&gt;
+&lt;li&gt;Nu vill jag konvertera hela världen&lt;/li&gt;
+&lt;li&gt;Den låtsas ju vara en dator&lt;/li&gt;
+&lt;li&gt;Operativsystemet tror att det kör på en dator&lt;/li&gt;
+&lt;li&gt;Tekniskt sett är det en Linuxkernel som körs i en Linuxkernel&lt;/li&gt;
+&lt;li&gt;I en Dockervärld&lt;/li&gt;
+&lt;li&gt;Nästa gång du bootar om är det borta&lt;/li&gt;
+&lt;li&gt;Fem stjärnor och något trevligt&lt;/li&gt;
+&lt;li&gt;Slå på det ryska bottnätet&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kodsnack 249 - Nu kör vi fyra år till</title>
       <link>http://kodsnack.se/249/</link>
       <pubDate>Tue, 27 Feb 2018 05:26:14 UTC</pubDate>
@@ -1035,64 +1136,6 @@
 &lt;li&gt;När man hade fysiska bytes&lt;/li&gt;
 &lt;li&gt;Vad är trådar egentligen?&lt;/li&gt;
 &lt;li&gt;Tänk om vi kan göra flera saker samtidigt&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kodsnack 236 - Gett upp och gett bort Darth Vader</title>
-      <link>http://kodsnack.se/236/</link>
-      <pubDate>Tue, 28 Nov 2017 05:26:14 UTC</pubDate>
-      <author>Kodsnack</author>
-      <guid>http://kodsnack.se/236/</guid>
-      <description>
-
-&lt;p&gt;Tobias, Amanda och Kristoffer följer upp om Logitechs harmony-fjärrkontroll och tidsuppskattning. Sedan diskuteras Battlefront 2-stormen och betalningar och liknande i spel. När slutar man tycka att ett spel är kul, vaknar med ett ryck och känner att det blivit ett jobb? Borde vi agera mer som franska bönder?&lt;/p&gt;
-
-&lt;p&gt;Sist men inte minst: allt om våra planer för Advent of code 2017! Vi kommer att skapa en leaderboard man får gå med i, men skicka in pull requests till Github-repot så att alla kan bidra, läsa och diskutera. Den som har högst poäng och som har skickat in samtliga lösningar till Github-repot vinner. Vi kommer också att parprogrammera någon lösning till Advent of code, mer information om det kommer på Twitter när det händer!&lt;/p&gt;
-
-&lt;p&gt;Ett stort tack till &lt;a href=&#34;http://www.cloudnet.se&#34;&gt;Cloudnet&lt;/a&gt; som sponsrar vår &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_server&#34;&gt;VPS&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Har du kommentarer, frågor eller tips? Vi är &lt;a href=&#34;https://www.twitter.com/kodsnack&#34;&gt;@kodsnack&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/tobiashieta&#34;&gt;@tobiashieta&lt;/a&gt;, &lt;a href=&#34;https://www.twitter.com/iskrig&#34;&gt;@iskrig&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/itssotoday&#34;&gt;@itssotoday&lt;/a&gt; och &lt;a href=&#34;https://www.twitter.com/bjoreman&#34;&gt;@bjoreman&lt;/a&gt; på Twitter, har en &lt;a href=&#34;https://www.facebook.com/kodsnack&#34;&gt;sida på Facebook&lt;/a&gt; och epostas på &lt;a href=&#34;mailto:info@kodsnack.se&#34;&gt;info@kodsnack.se&lt;/a&gt; om du vill skriva längre. Vi läser allt som skickas.&lt;/p&gt;
-
-&lt;p&gt;Gillar du Kodsnack får du hemskt gärna &lt;a href=&#34;http://itunes.apple.com/se/podcast/kodsnack/id561631498?l=en&#34;&gt;recensera oss i iTunes&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;länkar:dd159d863bc2577967ffe7d029840e53&#34;&gt;Länkar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/234/&#34;&gt;Logitech harmony-diskussionen i avsnitt 234&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Peter Westerström - tack för uppföljningen!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.theverge.com/circuitbreaker/2017/11/9/16629906/logitech-free-harmony-hub-upgrade-link-owners&#34;&gt;Logitech skickar ut en ny Harmony gratis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/228/&#34;&gt;228 - Avsnittet där vi nämnde tidsuppskattning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Emil Lundberg - tack för uppföljningen!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.codinghorror.com/how-good-an-estimator-are-you/&#34;&gt;Artikeln om tidsuppskattning på Coding horror&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.polygon.com/2017/11/17/16670758/star-wars-battlefront-2-issues-disney-ea&#34;&gt;Battlefront 2-röran med lootlådor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Black_Mirror&#34;&gt;Black mirror&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adventofcode.com/&#34;&gt;Advent of code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kodsnack/advent_of_code_2017&#34;&gt;Kodsnacks Advent of code-repo för 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/preview/Gavle-Developer-Meetup&#34;&gt;Gävle developer meetup&lt;/a&gt; kommer nog att ha Advent of code-afton 12 december&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ponylang.org/&#34;&gt;Pony&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kodsnack.se/209/&#34;&gt;209 - Avsnittet där Kristoffer och Fredrik snackade Pony&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://whatif.xkcd.com/book/&#34;&gt;Randall Munroes bok What if?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tdbi.se/&#34;&gt;Tech day by init&lt;/a&gt; - Kristoffer kommer att prata 30 november&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;titlar:dd159d863bc2577967ffe7d029840e53&#34;&gt;Titlar&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Om du tagit av plasten på pappret&lt;/li&gt;
-&lt;li&gt;Veta vad det är som kommer att gå åt skogen&lt;/li&gt;
-&lt;li&gt;Värsta-falls-estimat&lt;/li&gt;
-&lt;li&gt;Jag blev blind och tappade alla fingrar&lt;/li&gt;
-&lt;li&gt;Ganska rimligt att bli lite upprörd&lt;/li&gt;
-&lt;li&gt;Gett upp och gett bort Darth Vader&lt;/li&gt;
-&lt;li&gt;Nu måste man grinda&lt;/li&gt;
-&lt;li&gt;Grinda fram Darth Vader&lt;/li&gt;
-&lt;li&gt;Lootbox-systemet&lt;/li&gt;
-&lt;li&gt;En ny nivå av drygt&lt;/li&gt;
-&lt;li&gt;Det blir ju inget bra piano&lt;/li&gt;
-&lt;li&gt;Om tröskeln till bojkott var lägre&lt;/li&gt;
-&lt;li&gt;Gör era texteditorer redo&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
